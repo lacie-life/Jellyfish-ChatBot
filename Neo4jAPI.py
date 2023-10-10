@@ -1,49 +1,63 @@
 def add_node(label, value, driver):
     if label == "Organization":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Organization {value: $value})",
-            value=value,
-            database_="neo4j",
-        )
+        records, summary, keys = driver.execute_query("""
+                MATCH (init:Organization {value: $init})
+                MERGE (p:Organization {value: $value})
+                MERGE (init)-[:INIT]->(p)
+                """, init='Init',value=value,
+                database_="neo4j",
+                )
     elif label == "Time":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Time {value: $value})",
-            value=value,
-            database_="neo4j",
-        )
+        records, summary, keys = driver.execute_query("""
+                MATCH (init:Time {value: $init})
+                MERGE (p:Time {value: $value})
+                MERGE (init)-[:INIT]->(p)
+                """, init='Init', value=value,
+                database_="neo4j",
+                )
 
     elif label == "Product":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Product {value: $value})",
-            value=value,
-            database_="neo4j",
-        )
+        records, summary, keys = driver.execute_query("""
+                MATCH (init:Product {value: $init})
+                MERGE (p:Product {value: $value})
+                MERGE (init)-[:INIT]->(p)
+                """, init='Init', value=value,
+                database_="neo4j",
+                )
 
     elif label == "Promotion":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Promotion {value: $value})",
-            value=value,
-            database_="neo4j",
-        )
+        records, summary, keys = driver.execute_query("""
+               MATCH (init:Promotion {value: $init})
+               MERGE (p:Promotion {value: $value})
+               MERGE (init)-[:INIT]->(p)
+               """, init='Init', value=value,
+               database_="neo4j",
+               )
 
     elif label == "Regulation":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Regulation {value: $value})",
-            value=value,
+        records, summary, keys = driver.execute_query("""
+            MATCH (init:Regulation {value: $init})
+            MERGE (p:Regulation {value: $value})
+            MERGE (init)-[:INIT]->(p)
+            """, init='Init', value=value,
             database_="neo4j",
-        )
+            )
 
     elif label == "Location":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Location {value: $value})",
-            value=value,
-            database_="neo4j",
-        )
+        records, summary, keys = driver.execute_query("""
+                    MATCH (init:Location {value: $init})
+                    MERGE (p:Location {value: $value})
+                    MERGE (init)-[:INIT]->(p)
+                    """, init='Init', value=value,
+                    database_="neo4j",
+                    )
 
     elif label == "Price":
-        records, summary, keys = driver.execute_query(
-            "MERGE (p:Price {value: $value})",
-            value=value,
+        records, summary, keys = driver.execute_query("""
+            MATCH (init:Price {value: $init})
+            MERGE (p:Price {value: $value})
+            MERGE (init)-[:INIT]->(p)
+            """, init='Init', value=value,
             database_="neo4j",
         )
 
@@ -57,7 +71,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Time {value: $value_1})
                                 MATCH (end:Regulation {value: $value_2})
-                                MERGE (start)-[:Affiliation]->(end)
+                                MERGE (start)-[:AFFILIATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -68,7 +82,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
-                                MERGE (start)-[:Affiliation]->(end)
+                                MERGE (start)-[:AFFILIATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -79,7 +93,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
-                                MERGE (start)-[:Affiliation]->(end)
+                                MERGE (start)-[:AFFILIATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -90,7 +104,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Time {value: $value_2})
-                                MERGE (start)-[:Affiliation]->(end)
+                                MERGE (start)-[:AFFILIATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -101,7 +115,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Time {value: $value_2})
-                                MERGE (start)-[:Affiliation]->(end)
+                                MERGE (start)-[:AFFILIATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -114,7 +128,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Regulation {value: $value_2})
-                                MERGE (start)-[:Regulation]->(end)
+                                MERGE (start)-[:REGULATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -125,7 +139,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Regulation {value: $value_2})
-                                MERGE (start)-[:Regulation]->(end)
+                                MERGE (start)-[:REGULATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -136,7 +150,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Time {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
-                                MERGE (start)-[:Regulation]->(end)
+                                MERGE (start)-[:REGULATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -147,7 +161,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Time {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
-                                MERGE (start)-[:Regulation]->(end)
+                                MERGE (start)-[:REGULATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -158,7 +172,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Regulation {value: $value_1})
                                 MATCH (end:Price {value: $value_2})
-                                MERGE (start)-[:Regulation]->(end)
+                                MERGE (start)-[:REGULATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -171,7 +185,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Organization {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
-                                MERGE (start)-[:Location]->(end)
+                                MERGE (start)-[:LOCATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -182,7 +196,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
-                                MERGE (start)-[:Location]->(end)
+                                MERGE (start)-[:LOCATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -193,7 +207,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
-                                MERGE (start)-[:Location]->(end)
+                                MERGE (start)-[:LOCATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -204,7 +218,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Organization {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
-                                MERGE (start)-[:Location]->(end)
+                                MERGE (start)-[:LOCATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -215,7 +229,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Organization {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
-                                MERGE (start)-[:Location]->(end)
+                                MERGE (start)-[:LOCATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -226,7 +240,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Location {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
-                                MERGE (start)-[:Location]->(end)
+                                MERGE (start)-[:LOCATION]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -238,7 +252,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Price {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
-                                MERGE (start)-[:Price]->(end)
+                                MERGE (start)-[:PRICE]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -249,7 +263,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Price {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
-                                MERGE (start)-[:Price]->(end)
+                                MERGE (start)-[:PRICE]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -260,7 +274,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
-                                MERGE (start)-[:Price]->(end)
+                                MERGE (start)-[:PRICE]->(end)
                                 """,
                                                       value_1=value_1,
                                                       value_2=value_2,
@@ -268,3 +282,41 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       )
     else:
         print("Relation: " + label_1 + " - " + "UNKNOWN" + " - " + label_2)
+
+
+def make_sense(driver):
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Organization {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Time {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Product {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Promotion {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Regulation {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Price {value: $init})",
+        init='Init',
+        database_="neo4j",
+    )

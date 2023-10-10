@@ -1,6 +1,6 @@
 import re
 from neo4j import GraphDatabase
-from Neo4jAPI import add_relation, add_node
+from Neo4jAPI import add_relation, add_node, make_sense
 
 ### Entity type:
 # • Organization:
@@ -77,12 +77,15 @@ if __name__ == '__main__':
 
     try:
         neo4j_driver = GraphDatabase.driver(URI)
+        make_sense(neo4j_driver)
         for x in f:
             if len(x) > 0:
                 edgeExtraction(x, neo4j_driver)
             i = i + 1
 
         f.close()
+
+        neo4j_driver.close()
     except Exception as e:
         print(e)
 
