@@ -1,192 +1,270 @@
-from neo4j import GraphDatabase
-
-### Entity type:
-# • Organization:
-# • Time
-# • Product
-# • Promotion
-# • Regulation
-# • Location
-# • Price
-###
-
-### Relation type
-# Affiliation
-# Regulation
-# Location
-# Price
-###
-
-class Neo:
-    def __init__(self, username, pwd):
-        self.driver = GraphDatabase.driver(uri="neo4j://localhost:7687", auth=(username, pwd))
-
-    def close(self):
-        # Don't forget to close the driver connection when you are finished with it
-        self.driver.close()
-
-    def create_single_node(self, node_name, label):
-        with self.driver.session() as session:
-            # Write transactions allow the driver to handle retries and transient errors
-            result = session.write_transaction(
-                self._CREATE, node_name, label)
-
-    @staticmethod
-    def _CREATE(tx, node_name, label):
-        neo = Neo("neo4j", "1")
-        # print(node_name + " " + label)
-        if label == "medical_specality":
-            if not neo.MATCH(list(node_name)):
-                print("Node exist")
-                return
-            else:
-                # print("Creating")
-                cmd = (
-                    "CREATE (w:Medical_specality {name: $node_name}) "
-                )
-                temp = tx.run(cmd, label=label, node_name=node_name)
-        elif label == "symptom":
-            if not neo.MATCH(list(node_name)):
-                print("Node exist")
-                return
-            else:
-                # print("Creating")
-                cmd = (
-                    "CREATE (n:Symptom {name: $node_name}) "
-                )
-            temp = tx.run(cmd, label=label, node_name=node_name)
-
-    def create_relation(self, node_1, node_2, relation):
-        with self.driver.session() as session:
-            # Write transactions allow the driver to handle retries and transient errors
-            result = session.write_transaction(
-                self._create_relation, node_1, node_2, relation)
-
-    @staticmethod
-    def _create_relation(tx, node_1, node_2, relation):
-
-        # Check relation type
-
-        cmd = (
-            "MATCH "
-            "(n:Medical_specality), "
-            "(w:Symptom) "
-            "where n.name = $node_1 AND w.name = $node_2 "
-            "create p = (w)-[r:SYMPTOM]->(n) "
-            "return p")
-        temp = tx.run(cmd, node_1=node_1, node_2=node_2)
-
-    def CREATE(self, sentence):
-        with self.driver.session() as session:
-            # Write transactions allow the driver to handle retries and transient errors
-            result = session.write_transaction(
-                self.m_create, sentence)
-
-    @staticmethod
-    def m_create(tx, sentence):
-        temp = sentence.lower()
-        texts = temp.split()
-        for i in range(0, len(texts) - 1):
-            cmd = (
-                "merge (w1:Word{name:$tx}) "
-                "on create set w1.count = 1 on match set w1.count = w1.count +1 "
-                "merge (w2:Word{name:$tx2}) "
-                "on create set w2.count = 1 on match set w2.count = w2.count +1 "
-                "merge (w1)-[r:NEXT]->(w2) "
-                "on create set r.count =1 "
-                "on match set r.count = r.count +1;"
-            )
-            # print(cmd)
-            tx.run(cmd, sz=len(texts) - 2, tx=texts[i], tx2=texts[i + 1])
-
-    def MATCH(self, key):
-        with self.driver.session() as session:
-            result = session.write_transaction(
-                self.m_match, key
-            )
-            return result
-
-    @staticmethod
-    def m_match(tx, key):
-        cmd = (
-            "MATCH (w:Word) "
-            "where w.name = $key "
-            "return *;"
+def add_node(label, value, driver):
+    if label == "Organization":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Organization {value: $value})",
+            value=value,
+            database_="neo4j",
         )
-        temp = tx.run(cmd, key=key)
-        return temp
-
-    def UPDATE(self, new_properties):
-        with self.driver.session() as session:
-            result = session.write_transaction(
-                self.m_update, new_properties
-            )
-
-    @staticmethod
-    def m_update(tx, new_properties):
-        cmd = (
-            "match (w:Word {name: $name}) "
-            "set w = $new_prop")
-        temp = tx.run(cmd, new_prop=new_properties, name=new_properties['name'])
-
-    def DELETE(self, delete):
-        with self.driver.session() as session:
-            result = session.write_transaction(
-                self.m_delete, delete)
-
-    @staticmethod
-    def m_delete(tx, delete):
-        if delete['cmd'] == 'delete_nodes':
-            for node in delete['node']:
-                cmd = (
-                    "match (w:Word {name: $name})"
-                    "detach delete w"
-                )
-                tx.run(cmd, name=node)
-        elif delete['cmd'] == 'delete_all':
-            cmd = (
-                "match (n)"
-                "detach delete n"
-            )
-            tx.run(cmd)
-        elif delete['cmd'] == 'greater':
-            cmd = (
-                "match (w:Word) "
-                "where w.count > $count "
-                "detach delete w"
-            )
-            tx.run(cmd, count=delete['count'])
-        elif delete['cmd'] == "equal":
-            cmd = (
-                "match (w:Word) "
-                "where w.count = $count "
-                "detach delete w"
-            )
-            tx.run(cmd, count=delete['count'])
-        elif delete['cmd'] == "lesser":
-            cmd = (
-                "match (w:Word) "
-                "where w.count < $count "
-                "detach delete w"
-            )
-            tx.run(cmd, count=delete['count'])
-
-    def match_check(self, key):
-        with self.driver.session() as session:
-            result = session.read_transaction(
-                self.result, key)
-        return result
-
-    @staticmethod
-    def result(tx, key):
-        cmd = (
-            "match (w:Symptom {name: $key})-[:SYMPTOM]->(n) return n.name "
+    elif label == "Time":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Time {value: $value})",
+            value=value,
+            database_="neo4j",
         )
-        temp = tx.run(cmd, key=key)
-        entire_result = []  # Will contain all the items
-        for record in temp:
-            entire_result.append(record.value())
-        if len(entire_result) == 0:
-            return False
-        else:
-            return entire_result
+
+    elif label == "Product":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Product {value: $value})",
+            value=value,
+            database_="neo4j",
+        )
+
+    elif label == "Promotion":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Promotion {value: $value})",
+            value=value,
+            database_="neo4j",
+        )
+
+    elif label == "Regulation":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Regulation {value: $value})",
+            value=value,
+            database_="neo4j",
+        )
+
+    elif label == "Location":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Location {value: $value})",
+            value=value,
+            database_="neo4j",
+        )
+
+    elif label == "Price":
+        records, summary, keys = driver.execute_query(
+            "MERGE (p:Price {value: $value})",
+            value=value,
+            database_="neo4j",
+        )
+
+
+def add_relation(label_1, value_1, relation, label_2, value_2, driver):
+    print("Relation: " + label_1 + " - " + relation + " - " + label_2)
+    ############### Affiliation ###########################################
+
+    if label_1 == "Time" and label_2 == "Regulation":
+        print("Relation: Time - Regulation - Affiliation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Time {value: $value_1})
+                                MATCH (end:Regulation {value: $value_2})
+                                MERGE (start)-[:Affiliation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Promotion" and label_2 == "Promotion":
+        print("Relation: Promotion - Promotion - Affiliation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Promotion {value: $value_1})
+                                MATCH (end:Promotion {value: $value_2})
+                                MERGE (start)-[:Affiliation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Product" and label_2 == "Promotion":
+        print("Relation: Product - Promotion - Affiliation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Product {value: $value_1})
+                                MATCH (end:Promotion {value: $value_2})
+                                MERGE (start)-[:Affiliation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Promotion" and label_2 == "Time":
+        print("Relation: Promotion - Time - Affiliation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Promotion {value: $value_1})
+                                MATCH (end:Time {value: $value_2})
+                                MERGE (start)-[:Affiliation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Product" and label_2 == "Time":
+        print("Relation: Product - Time - Affiliation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Product {value: $value_1})
+                                MATCH (end:Time {value: $value_2})
+                                MERGE (start)-[:Affiliation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+
+    #################### Regulation ##############################################
+    elif label_1 == "Product" and label_2 == "Regulation":
+        print("Relation: Product - Regulation - Regulation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Product {value: $value_1})
+                                MATCH (end:Regulation {value: $value_2})
+                                MERGE (start)-[:Regulation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Promotion" and label_2 == "Regulation":
+        print("Relation: Promotion - Regulation - Regulation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Promotion {value: $value_1})
+                                MATCH (end:Regulation {value: $value_2})
+                                MERGE (start)-[:Regulation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Time" and label_2 == "Product":
+        print("Relation: Time - Product - Regulation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Time {value: $value_1})
+                                MATCH (end:Product {value: $value_2})
+                                MERGE (start)-[:Regulation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Time" and label_2 == "Promotion":
+        print("Relation: Time - Promotion - Regulation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Time {value: $value_1})
+                                MATCH (end:Promotion {value: $value_2})
+                                MERGE (start)-[:Regulation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Regulation" and label_2 == "Price":
+        print("Relation: Regulation - Price - Regulation")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Regulation {value: $value_1})
+                                MATCH (end:Price {value: $value_2})
+                                MERGE (start)-[:Regulation]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+
+    ######################## Location ##############################################
+    elif label_1 == "Organization" and label_2 == "Location":
+        print("Relation: Organization - Location - Location")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Organization {value: $value_1})
+                                MATCH (end:Location {value: $value_2})
+                                MERGE (start)-[:Location]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Promotion" and label_2 == "Location":
+        print("Relation: Promotion - Location - Location")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Promotion {value: $value_1})
+                                MATCH (end:Location {value: $value_2})
+                                MERGE (start)-[:Location]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Product" and label_2 == "Location":
+        print("Relation: Product - Location - Location")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Product {value: $value_1})
+                                MATCH (end:Location {value: $value_2})
+                                MERGE (start)-[:Location]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Organization" and label_2 == "Promotion":
+        print("Relation: Organization - Promotion - Location")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Organization {value: $value_1})
+                                MATCH (end:Promotion {value: $value_2})
+                                MERGE (start)-[:Location]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Organization" and label_2 == "Product":
+        print("Relation: Organization - Product - Location")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Organization {value: $value_1})
+                                MATCH (end:Product {value: $value_2})
+                                MERGE (start)-[:Location]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Location" and label_2 == "Location":
+        print("Relation: Location - Location - Location")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Location {value: $value_1})
+                                MATCH (end:Location {value: $value_2})
+                                MERGE (start)-[:Location]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    ###################### Price #################################################
+    elif label_1 == "Price" and label_2 == "Product":
+        print("Relation: Price - Product - Price")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Price {value: $value_1})
+                                MATCH (end:Product {value: $value_2})
+                                MERGE (start)-[:Price]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Price" and label_2 == "Promotion":
+        print("Relation: Price - Promotion - Price")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Price {value: $value_1})
+                                MATCH (end:Promotion {value: $value_2})
+                                MERGE (start)-[:Price]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    elif label_1 == "Promotion" and label_2 == "Product":
+        print("Relation: Promotion - Product - Price")
+        records, summary, keys = driver.execute_query("""
+                                MATCH (start:Promotion {value: $value_1})
+                                MATCH (end:Product {value: $value_2})
+                                MERGE (start)-[:Price]->(end)
+                                """,
+                                                      value_1=value_1,
+                                                      value_2=value_2,
+                                                      database_="neo4j",
+                                                      )
+    else:
+        print("Relation: " + label_1 + " - " + "UNKNOWN" + " - " + label_2)

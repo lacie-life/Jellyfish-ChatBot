@@ -1,4 +1,26 @@
 import re
+from neo4j import GraphDatabase
+from Neo4jAPI import add_relation, add_node
+
+### Entity type:
+# • Organization:
+# • Time
+# • Product
+# • Promotion
+# • Regulation
+# • Location
+# • Price
+###
+
+### Relation type
+# Affiliation
+# Regulation
+# Location
+# Price
+###
+
+URI = "neo4j://localhost:7687"
+AUTH = ("neo4j", "1234678@!")
 
 node_1_start = "[E1]"
 node_1_end = "[/E1]"
@@ -7,9 +29,10 @@ node_2_start = "[E2]"
 node_2_end = "[/E2]"
 
 i = 0
+test_max = 100
 
 
-def edgeExtraction(sample):
+def edgeExtraction(sample, driver):
     # print(sample)
     x = sample.replace('\t', ' ').replace('\n', '')
     tmp = x.split(" ")
@@ -41,6 +64,10 @@ def edgeExtraction(sample):
     print("node_1: " + node_1 + "| label: " + node_1_label)
     print("node_2: " + node_2 + "| label: " + node_2_label)
 
+    # Add to neo4j
+    add_node(node_1_label, node_1, driver)
+    add_node(node_2_label, node_2, driver)
+    add_relation(node_1_label, node_1, edge, node_2_label, node_2, driver)
 
 
 # Press the green button in the gutter to run the script.
@@ -48,11 +75,15 @@ if __name__ == '__main__':
 
     f = open("train-readble.txt", "r")
 
-    for x in f:
-        if len(x) > 0:
-            edgeExtraction(x)
-        i = i + 1
+    try:
+        neo4j_driver = GraphDatabase.driver(URI)
+        for x in f:
+            if len(x) > 0:
+                edgeExtraction(x, neo4j_driver)
+            i = i + 1
 
-    f.close()
+        f.close()
+    except Exception as e:
+        print(e)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
