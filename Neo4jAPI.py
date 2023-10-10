@@ -4,7 +4,7 @@ def add_node(label, value, driver):
                 MATCH (init:Organization {value: $init})
                 MERGE (p:Organization {value: $value})
                 MERGE (init)-[:INIT]->(p)
-                """, init='Init',value=value,
+                """, init='Organization',value=value,
                 database_="neo4j",
                 )
     elif label == "Time":
@@ -12,7 +12,7 @@ def add_node(label, value, driver):
                 MATCH (init:Time {value: $init})
                 MERGE (p:Time {value: $value})
                 MERGE (init)-[:INIT]->(p)
-                """, init='Init', value=value,
+                """, init='Time', value=value,
                 database_="neo4j",
                 )
 
@@ -21,7 +21,7 @@ def add_node(label, value, driver):
                 MATCH (init:Product {value: $init})
                 MERGE (p:Product {value: $value})
                 MERGE (init)-[:INIT]->(p)
-                """, init='Init', value=value,
+                """, init='Product', value=value,
                 database_="neo4j",
                 )
 
@@ -30,7 +30,7 @@ def add_node(label, value, driver):
                MATCH (init:Promotion {value: $init})
                MERGE (p:Promotion {value: $value})
                MERGE (init)-[:INIT]->(p)
-               """, init='Init', value=value,
+               """, init='Promotion', value=value,
                database_="neo4j",
                )
 
@@ -39,7 +39,7 @@ def add_node(label, value, driver):
             MATCH (init:Regulation {value: $init})
             MERGE (p:Regulation {value: $value})
             MERGE (init)-[:INIT]->(p)
-            """, init='Init', value=value,
+            """, init='Regulation', value=value,
             database_="neo4j",
             )
 
@@ -48,7 +48,7 @@ def add_node(label, value, driver):
                     MATCH (init:Location {value: $init})
                     MERGE (p:Location {value: $value})
                     MERGE (init)-[:INIT]->(p)
-                    """, init='Init', value=value,
+                    """, init='Location', value=value,
                     database_="neo4j",
                     )
 
@@ -57,7 +57,7 @@ def add_node(label, value, driver):
             MATCH (init:Price {value: $init})
             MERGE (p:Price {value: $value})
             MERGE (init)-[:INIT]->(p)
-            """, init='Init', value=value,
+            """, init='Price', value=value,
             database_="neo4j",
         )
 
@@ -287,36 +287,36 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
 def make_sense(driver):
     records, summary, keys = driver.execute_query(
         "MERGE (p:Organization {value: $init})",
-        init='Init',
+        init='Organization',
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query(
         "MERGE (p:Time {value: $init})",
-        init='Init',
+        init='Time',
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query(
         "MERGE (p:Product {value: $init})",
-        init='Init',
+        init='Product',
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query(
         "MERGE (p:Promotion {value: $init})",
-        init='Init',
+        init='Promotion',
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query(
         "MERGE (p:Regulation {value: $init})",
-        init='Init',
+        init='Regulation',
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query(
         "MERGE (p:Location {value: $init})",
-        init='Init',
+        init='Location',
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query(
         "MERGE (p:Price {value: $init})",
-        init='Init',
+        init='Price',
         database_="neo4j",
     )
