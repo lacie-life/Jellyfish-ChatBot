@@ -1,0 +1,895 @@
+4	0	1	14	15	Promotion	Regulation	Giảm 5% ( tối_đa 50 K ) khi thanh_toán bằng Grab MOCA và nhập mã MEMBERMOCA
+1	10	11	0	1	Organization	Promotion	Giảm 5% ( tối_đa 50 K ) khi thanh_toán bằng Grab MOCA và nhập mã MEMBERMOCA
+1	0	3	8	11	Promotion	Location	Ưu_đãi 30K đi Grabcar thả ga ( áp_dụng AEON miền Nam ) .
+2	0	2	3	7	Product	Promotion	Thịt cá hải_sản giảm sâu rực_rỡ đến 35%
+3	3	7	0	2	Promotion	Product	Thịt cá hải_sản giảm sâu rực_rỡ đến 35%
+4	0	1	7	10	Promotion	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	0	1	13	16	Promotion	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+0	0	1	19	19	Promotion	Time	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	4	4	0	1	Organization	Promotion	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	19	19	0	1	Time	Promotion	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	19	19	7	10	Time	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	19	19	13	16	Time	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+1	0	3	5	6	Promotion	Location	Giảm 𝟑𝟎𝐊 cho 𝐆𝐑𝐀𝐁𝐂𝐀𝐑 đến AEON Tân_Phú , AEON Bình_Tân , AEON Bình_Dương khi nhập mã “ 𝐀𝐄𝐎𝐍𝐓𝐀𝐍𝐏𝐇𝐔 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐓𝐀𝐍 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐃𝐔𝐎𝐍𝐆 ”
+4	0	3	15	18	Promotion	Regulation	Giảm 𝟑𝟎𝐊 cho 𝐆𝐑𝐀𝐁𝐂𝐀𝐑 đến AEON Tân_Phú , AEON Bình_Tân , AEON Bình_Dương khi nhập mã “ 𝐀𝐄𝐎𝐍𝐓𝐀𝐍𝐏𝐇𝐔 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐓𝐀𝐍 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐃𝐔𝐎𝐍𝐆 ”
+1	5	5	7	7	Organization	Location	Tết này mau mau cùng JCB và AEON nhanh tay " Chớp Deal_Nhật - Vui_Tết Lớn " với chương_trình tặng ngay VOUCHER 100.000 VNĐ cho hoá_đơn từ 1.200.000 VNĐ
+1	5	5	18	23	Organization	Promotion	Tết này mau mau cùng JCB và AEON nhanh tay " Chớp Deal_Nhật - Vui_Tết Lớn " với chương_trình tặng ngay VOUCHER 100.000 VNĐ cho hoá_đơn từ 1.200.000 VNĐ
+2	18	23	7	7	Promotion	Location	Tết này mau mau cùng JCB và AEON nhanh tay " Chớp Deal_Nhật - Vui_Tết Lớn " với chương_trình tặng ngay VOUCHER 100.000 VNĐ cho hoá_đơn từ 1.200.000 VNĐ
+4	18	23	25	28	Promotion	Regulation	Tết này mau mau cùng JCB và AEON nhanh tay " Chớp Deal_Nhật - Vui_Tết Lớn " với chương_trình tặng ngay VOUCHER 100.000 VNĐ cho hoá_đơn từ 1.200.000 VNĐ
+0	0	2	4	4	Promotion	Time	Khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+2	0	2	6	6	Promotion	Time	Khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+4	4	4	0	2	Time	Promotion	Khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+2	6	6	0	2	Time	Promotion	Khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+0	0	2	4	4	Promotion	Time	Khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+2	0	2	6	6	Promotion	Time	Khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+4	4	4	0	2	Time	Promotion	Khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+2	6	6	0	2	Time	Promotion	Khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+0	5	7	0	3	Time	Regulation	Hạn cuối nhận thưởng : 22h ngày 31/01/2023
+4	30	33	2	20	Product	Regulation	Giải_thưởng : 50 khách_hàng với comment có đáp_án đúng và có số may_mắn trùng khớp với kết_quả quay ngẫu_nhiên của AEON , sẽ được nhận lộc may_mắn đầu năm là VOUCHER MUA_SẮM 50.000 Đ ( áp_dụng tại Trung_tâm Bách_hoá Tổng_hợp & Siêu_thị AEON ) .
+1	30	33	37	39	Product	Location	Giải_thưởng : 50 khách_hàng với comment có đáp_án đúng và có số may_mắn trùng khớp với kết_quả quay ngẫu_nhiên của AEON , sẽ được nhận lộc may_mắn đầu năm là VOUCHER MUA_SẮM 50.000 Đ ( áp_dụng tại Trung_tâm Bách_hoá Tổng_hợp & Siêu_thị AEON ) .
+1	11	11	0	8	Organization	Promotion	Giảm ngay 30K cho mỗi cuốc xe đến AEON khi đặt Grabcar trên ứng_dụng Grab
+4	3	5	7	12	Promotion	Regulation	Chi_tiết ưu_đãi : Giảm 30.000 VNĐ cho mỗi cuốc xe đến AEON Tân_Phú , AEON Bình_Tân , AEON Bình_Dương
+0	0	0	2	4	Promotion	Time	Ưu_đãi kéo_dài đến hết 25/01/2023 ( Mùng 4 TẾT )
+4	2	4	0	0	Time	Promotion	Ưu_đãi kéo_dài đến hết 25/01/2023 ( Mùng 4 TẾT )
+4	0	1	7	10	Promotion	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	0	1	13	16	Promotion	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+0	0	1	19	19	Promotion	Time	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	4	4	0	1	Organization	Promotion	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	19	19	0	1	Time	Promotion	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	19	19	7	10	Time	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	19	19	13	16	Time	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	6	8	0	3	Product	Regulation	Mua từ 30 triệu nhận ngay Voucher 1,5 triệu
+4	6	8	0	3	Product	Regulation	Mua từ 50 triệu nhận ngay Voucher 2,5 triệu
+4	6	8	0	3	Product	Regulation	Mua trên 100 triệu nhận ngay Voucher 3,5 triệu
+0	4	4	0	2	Time	Regulation	Thời_gian diễn ra : 20/12/2022 - 12/01/2023
+2	2	4	7	18	Time	Regulation	Từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 399.000 đ và nhập mã AEON45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+4	2	4	23	28	Time	Promotion	Từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 399.000 đ và nhập mã AEON45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+0	23	28	2	4	Promotion	Time	Từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 399.000 đ và nhập mã AEON45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+4	23	28	7	18	Promotion	Regulation	Từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 399.000 đ và nhập mã AEON45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+4	18	23	2	13	Promotion	Regulation	Với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 499.000 đ và nhập mã AEON55 , quý_khách sẽ được giảm 55.000 đ trên đơn hàng .
+4	0	2	5	11	Promotion	Regulation	Chiết_khấu 5 ️% áp_dụng cho hoá_đơn mua giỏ quà từ 1 triệu - 10 triệu
+4	0	1	4	10	Promotion	Regulation	Chiết_khấu 6% áp_dụng cho hoá_đơn mua giỏ quà trên 10 triệu - 20 triệu
+4	0	2	5	11	Promotion	Regulation	Chiết_khấu 7 ️% áp_dụng cho hoá_đơn mua giỏ quà trên 20 triệu
+1	11	12	13	16	Organization	Promotion	Dọn_dẹp nhà đón Tết càng thêm khoẻ vì hoá mỹ_phẩm từ thương_hiệu TOPVALU giảm sâu đến 25% .
+2	3	6	9	10	Product	Promotion	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+0	3	6	13	15	Product	Time	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+1	3	6	17	21	Product	Location	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+2	9	10	3	6	Promotion	Product	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+2	9	10	13	15	Promotion	Time	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+2	9	10	17	21	Promotion	Location	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+4	13	15	3	6	Time	Product	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+4	13	15	9	10	Time	Promotion	Mỗi siêu_thị có 01 giải trúng Vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại Quầy dịch_vụ khách_hàng 06 TTBH & Siêu_Thị AEON .
+0	4	6	0	1	Time	Regulation	Thời_gian_tham_gia chương_trình từ ngày 26/12/2022 đến 08/01/2023 .
+4	3	7	9	12	Promotion	Regulation	Khách_hàng sẽ được tặng ngay voucher trị_giá 500,000 khi mua 1 sản_phẩm Laptop khuyến_mãi hoặc nguyên giá bất_kỳ tại khu_vực điện_máy AEON toàn_quốc .
+1	3	7	13	17	Promotion	Location	Khách_hàng sẽ được tặng ngay voucher trị_giá 500,000 khi mua 1 sản_phẩm Laptop khuyến_mãi hoặc nguyên giá bất_kỳ tại khu_vực điện_máy AEON toàn_quốc .
+0	3	7	0	1	Time	Regulation	Thời_gian khuyến_mãi : ngày 20/12/2022 đến ngày 11/1/2023
+4	11	13	0	6	Promotion	Regulation	Hoá_đơn mua giỏ quà từ 1 triệu - 10 triệu : Giảm ngay 5%
+4	11	13	0	6	Promotion	Regulation	Hoá_đơn mua giỏ quà từ 10 triệu - 20 triệu : Giảm ngay 6%
+4	8	10	0	6	Promotion	Regulation	Hoá_đơn mua giỏ quà trên 20 triệu : Giảm ngay 7%
+4	4	9	11	12	Time	Promotion	Ngày Hội Thành_Viên : ngày 05 và 20 mỗi tháng , giảm 5% cho Thành_Viên AEON
+2	4	9	14	15	Time	Regulation	Ngày Hội Thành_Viên : ngày 05 và 20 mỗi tháng , giảm 5% cho Thành_Viên AEON
+0	11	12	4	9	Promotion	Time	Ngày Hội Thành_Viên : ngày 05 và 20 mỗi tháng , giảm 5% cho Thành_Viên AEON
+4	11	12	14	15	Promotion	Regulation	Ngày Hội Thành_Viên : ngày 05 và 20 mỗi tháng , giảm 5% cho Thành_Viên AEON
+4	0	1	13	14	Promotion	Regulation	Giảm 2% ( tối_đa 500 K ) khi thanh_toán bằng VNPAY và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎 .
+1	10	10	0	1	Organization	Promotion	Giảm 2% ( tối_đa 500 K ) khi thanh_toán bằng VNPAY và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎 .
+2	5	12	16	16	Promotion	Location	Mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận Tân_Phú diễn ra tại AEON , vì BST Giáng_sinh 2022 sẽ được ra_mắt .
+2	5	12	19	24	Promotion	Promotion	Mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận Tân_Phú diễn ra tại AEON , vì BST Giáng_sinh 2022 sẽ được ra_mắt .
+0	19	24	5	12	Promotion	Promotion	Mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận Tân_Phú diễn ra tại AEON , vì BST Giáng_sinh 2022 sẽ được ra_mắt .
+1	19	24	16	16	Promotion	Location	Mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận Tân_Phú diễn ra tại AEON , vì BST Giáng_sinh 2022 sẽ được ra_mắt .
+4	16	18	2	3	Product	Regulation	Chỉ với hoá_đơn từ # 499 K bạn sẽ nhận ngay quà tặng # Pinky " 𝗣𝗟𝗔𝗡𝗡𝗘𝗥 𝗕𝗢𝗢𝗞 𝟮𝟬𝟮𝟯 " từ Glam_Beautique .
+1	21	21	16	18	Organization	Product	Chỉ với hoá_đơn từ # 499 K bạn sẽ nhận ngay quà tặng # Pinky " 𝗣𝗟𝗔𝗡𝗡𝗘𝗥 𝗕𝗢𝗢𝗞 𝟮𝟬𝟮𝟯 " từ Glam_Beautique .
+2	2	4	7	18	Time	Regulation	Từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 499.000 đ và nhập mã AEON50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+4	2	4	23	28	Time	Promotion	Từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 499.000 đ và nhập mã AEON50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+0	23	28	2	4	Promotion	Time	Từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 499.000 đ và nhập mã AEON50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+4	23	28	7	18	Promotion	Regulation	Từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng Shopee_Food từ 499.000 đ và nhập mã AEON50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+0	0	9	20	21	Promotion	Promotion	Cuộc thi Let ’ s Dance_Contest – Vui_Cùng Bước Nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật AEON Hải_Phòng và AEON Hà_Đông rồi_đây cả nhà ơiii
+2	0	9	22	26	Promotion	Location	Cuộc thi Let ’ s Dance_Contest – Vui_Cùng Bước Nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật AEON Hải_Phòng và AEON Hà_Đông rồi_đây cả nhà ơiii
+2	20	21	0	9	Promotion	Promotion	Cuộc thi Let ’ s Dance_Contest – Vui_Cùng Bước Nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật AEON Hải_Phòng và AEON Hà_Đông rồi_đây cả nhà ơiii
+1	20	21	22	26	Promotion	Location	Cuộc thi Let ’ s Dance_Contest – Vui_Cùng Bước Nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật AEON Hải_Phòng và AEON Hà_Đông rồi_đây cả nhà ơiii
+4	25	40	2	5	Product	Regulation	Chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : TTBHTH & Siêu_Thị AEON và Trung_Tâm Thương_Mại AEON MALL , có ngay cơ_hội quay thưởng trúng VOUCHER 5.000.000 Đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+1	25	40	13	13	Product	Location	Chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : TTBHTH & Siêu_Thị AEON và Trung_Tâm Thương_Mại AEON MALL , có ngay cơ_hội quay thưởng trúng VOUCHER 5.000.000 Đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+1	0	0	5	7	Organization	Promotion	VNPAY : Mã NGAYHONG12 , giảm 112.000 đ cho hoá_đơn từ 2.000.000 đ ( 1 lần / 1 chương_trình )
+4	5	7	2	3	Promotion	Regulation	VNPAY : Mã NGAYHONG12 , giảm 112.000 đ cho hoá_đơn từ 2.000.000 đ ( 1 lần / 1 chương_trình )
+4	5	7	9	12	Promotion	Regulation	VNPAY : Mã NGAYHONG12 , giảm 112.000 đ cho hoá_đơn từ 2.000.000 đ ( 1 lần / 1 chương_trình )
+1	0	0	5	7	Organization	Promotion	GRABMOCA : mã DOUBLEMOCA12 , giảm 112.000 đ cho hoá_đơn từ 1.112.000 đ ( 1 lần / 1 chương_trình )
+4	5	7	2	3	Promotion	Regulation	GRABMOCA : mã DOUBLEMOCA12 , giảm 112.000 đ cho hoá_đơn từ 1.112.000 đ ( 1 lần / 1 chương_trình )
+4	5	7	9	12	Promotion	Regulation	GRABMOCA : mã DOUBLEMOCA12 , giảm 112.000 đ cho hoá_đơn từ 1.112.000 đ ( 1 lần / 1 chương_trình )
+0	9	18	20	24	Product	Promotion	Kết năm hoàn_hảo với giải_thưởng cao nhất mỗi ngày VOUCHER 5.000.000 Đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác từ_chương_trình rút thăm trúng thưởng :
+2	20	24	9	18	Promotion	Product	Kết năm hoàn_hảo với giải_thưởng cao nhất mỗi ngày VOUCHER 5.000.000 Đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác từ_chương_trình rút thăm trúng thưởng :
+1	10	11	15	21	Promotion	Location	Sức nóng của những trận bóng tại World_Cup sao bằng ĐẠI_TIỆC SINH_NHẬT cực hoành_tráng tại 𝐀𝐄𝐎𝐍 𝐇à_Đô𝐧𝐠 và 𝐀𝐄𝐎𝐍 𝐇ả𝐢 𝐏𝐡ò𝐧𝐠 𝐋ê_𝐂𝐡â𝐧 từ ngày 08-14/12 , cả nhà đã sẵn_sàng chiến thật sung chưa nè ?
+0	10	11	24	24	Promotion	Time	Sức nóng của những trận bóng tại World_Cup sao bằng ĐẠI_TIỆC SINH_NHẬT cực hoành_tráng tại 𝐀𝐄𝐎𝐍 𝐇à_Đô𝐧𝐠 và 𝐀𝐄𝐎𝐍 𝐇ả𝐢 𝐏𝐡ò𝐧𝐠 𝐋ê_𝐂𝐡â𝐧 từ ngày 08-14/12 , cả nhà đã sẵn_sàng chiến thật sung chưa nè ?
+4	24	24	10	11	Time	Promotion	Sức nóng của những trận bóng tại World_Cup sao bằng ĐẠI_TIỆC SINH_NHẬT cực hoành_tráng tại 𝐀𝐄𝐎𝐍 𝐇à_Đô𝐧𝐠 và 𝐀𝐄𝐎𝐍 𝐇ả𝐢 𝐏𝐡ò𝐧𝐠 𝐋ê_𝐂𝐡â𝐧 từ ngày 08-14/12 , cả nhà đã sẵn_sàng chiến thật sung chưa nè ?
+2	7	9	13	21	Promotion	Product	Chưa hết , chấn_động liền với chương_trình QUAY SỐ MAY_MẮN với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎Đ tại AEON Hải_Phòng .
+2	7	9	23	24	Promotion	Location	Chưa hết , chấn_động liền với chương_trình QUAY SỐ MAY_MẮN với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎Đ tại AEON Hải_Phòng .
+0	13	21	7	9	Product	Promotion	Chưa hết , chấn_động liền với chương_trình QUAY SỐ MAY_MẮN với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎Đ tại AEON Hải_Phòng .
+1	13	21	23	24	Product	Location	Chưa hết , chấn_động liền với chương_trình QUAY SỐ MAY_MẮN với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎Đ tại AEON Hải_Phòng .
+0	0	3	5	5	Promotion	Time	Chương_trình THỬ_THÁCH BƯỚC NHẢY ngày 10-11/12 tại AEON Hải_Phòng & Hà_Đông được rất nhiều bạn trẻ mong_chờ .
+1	0	3	7	8	Promotion	Location	Chương_trình THỬ_THÁCH BƯỚC NHẢY ngày 10-11/12 tại AEON Hải_Phòng & Hà_Đông được rất nhiều bạn trẻ mong_chờ .
+4	5	5	0	3	Time	Promotion	Chương_trình THỬ_THÁCH BƯỚC NHẢY ngày 10-11/12 tại AEON Hải_Phòng & Hà_Đông được rất nhiều bạn trẻ mong_chờ .
+4	14	16	7	8	Promotion	Regulation	Mỗi cây , mỗi hoa ... mỗi member The_Nine sẽ được hưởng ngay ĐẶC_QUYỀN giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+0	14	16	21	21	Promotion	Time	Mỗi cây , mỗi hoa ... mỗi member The_Nine sẽ được hưởng ngay ĐẶC_QUYỀN giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+2	21	21	7	8	Time	Regulation	Mỗi cây , mỗi hoa ... mỗi member The_Nine sẽ được hưởng ngay ĐẶC_QUYỀN giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+4	21	21	14	16	Time	Promotion	Mỗi cây , mỗi hoa ... mỗi member The_Nine sẽ được hưởng ngay ĐẶC_QUYỀN giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+4	0	2	7	11	Time	Promotion	Ngày Hồng 12/12 sale đậm với các sản_phẩm đồng giá từ 12k , 120 k , …
+0	7	11	0	2	Promotion	Time	Ngày Hồng 12/12 sale đậm với các sản_phẩm đồng giá từ 12k , 120 k , …
+4	0	1	7	8	Promotion	Regulation	Giảm 50K thanh_toán qua VNPAY khi nhập mã AEON50 ( cho hoá_đơn từ 1.000.000 đ )
+1	4	4	0	1	Organization	Promotion	Giảm 50K thanh_toán qua VNPAY khi nhập mã AEON50 ( cho hoá_đơn từ 1.000.000 đ )
+4	0	1	9	12	Promotion	Regulation	Giảm 50K khi quét VNPAY-QR trên App_Techcombank và nhập mã “ TCBAEON ” ( cho hoá_đơn từ 300.000 đ )
+1	4	6	0	1	Organization	Promotion	Giảm 50K khi quét VNPAY-QR trên App_Techcombank và nhập mã “ TCBAEON ” ( cho hoá_đơn từ 300.000 đ )
+4	19	30	2	6	Promotion	Regulation	Khách_hàng có hoá_đơn mua hàng điện gia_dụng , điện_lạnh , điện_tử , điện_tử viễn_thông từ 2,500,000 đ , được 𝒎𝒖𝒂 𝒔𝒂̉𝒏 𝒑𝒉𝒂̂̉𝒎 𝒌𝒉𝒂́𝒄 với 𝒈𝒊𝒂́ 𝒈𝒊𝒂̉𝒎 cực shock lên đến 50% .
+3	6	10	0	2	Price	Product	Quần_áo bé trai , bé gái ĐỒNG GIÁ từ 100.000 đ .
+4	28	35	4	8	Promotion	Regulation	ĐẶC BIỆT , với hóa đơn từ 3.000.000 đ ( cộng gộp từ hóa đơn của Siêu thị AEON và TTTM AEON MALL ) , bạn còn có cơ hội tham_gia rút thăm 100% trúng thưởng với các phần quà vô cùng giá trị .
+1	28	35	16	23	Promotion	Location	ĐẶC BIỆT , với hóa đơn từ 3.000.000 đ ( cộng gộp từ hóa đơn của Siêu thị AEON và TTTM AEON MALL ) , bạn còn có cơ hội tham_gia rút thăm 100% trúng thưởng với các phần quà vô cùng giá trị .
+4	5	7	1	4	Promotion	Regulation	Nhập mã “ BFMOCA ” giảm ngay 100K khi thánh toán ví Moca ( Hoá_đơn trên 1,500,000 ) .
+4	5	7	14	17	Promotion	Regulation	Nhập mã “ BFMOCA ” giảm ngay 100K khi thánh toán ví Moca ( Hoá_đơn trên 1,500,000 ) .
+1	12	12	5	7	Organization	Promotion	Nhập mã “ BFMOCA ” giảm ngay 100K khi thánh toán ví Moca ( Hoá_đơn trên 1,500,000 ) .
+2	3	11	32	33	Promotion	Location	Bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu Moschino , Versace , Salavatore … tại hệ_thống Aeon_Mall .
+1	24	25	3	11	Organization	Promotion	Bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu Moschino , Versace , Salavatore … tại hệ_thống Aeon_Mall .
+1	24	25	32	33	Organization	Location	Bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu Moschino , Versace , Salavatore … tại hệ_thống Aeon_Mall .
+1	0	0	11	14	Organization	Promotion	Vascara - “ bạn thân ” của hội chị_em đam_mê thời_trang giảm sốc đến 50%
+1	4	7	9	10	Organization	Promotion	Dẫn_đầu có thương_hiệu giày Việt BITI ’ S trẻ_em giảm_giá 10% , đồng giá 100K .
+1	4	10	1	3	Promotion	Location	Tưng_bừng quầy quần_áo trẻ_em đồng giá 100 K / 3 món .
+1	8	11	0	1	Promotion	Location	Nhà_sách AEON cũng hưởng_ứng sức nóng với chương_trình đồng giá từ 50K - 70K - 80K - 100K .
+0	7	7	9	9	Promotion	Time	Sale gì tưng_bừng và giảm sâu hơn Black_Friday từ 23-27/11 tại AEON The_Nine chứ ?
+1	7	7	11	12	Promotion	Location	Sale gì tưng_bừng và giảm sâu hơn Black_Friday từ 23-27/11 tại AEON The_Nine chứ ?
+4	9	9	7	7	Time	Promotion	Sale gì tưng_bừng và giảm sâu hơn Black_Friday từ 23-27/11 tại AEON The_Nine chứ ?
+4	2	2	15	18	Time	Promotion	Từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua SĂN 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+2	4	4	15	18	Time	Promotion	Từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua SĂN 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+0	15	18	2	2	Promotion	Time	Từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua SĂN 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+2	15	18	4	4	Promotion	Time	Từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua SĂN 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+1	0	6	13	13	Organization	Location	Cừa hàng đồng giá 40k Daiso Nhật_Bản được ví_như siêu_thị thu nhỏ của Aeon .
+4	12	22	3	4	Promotion	Regulation	CHỈ CẦN CÓ HOÁ_ĐƠN SIÊU_THỊ , LÊN DAISO MUA 2 SẢN_PHẨM , TẶNG NGAY 1 LON SODA BỔ_SUNG VITAMIN NHẬP_KHẨU TỪ NHẬT BẢN .
+4	22	31	3	16	Product	Regulation	Chỉ cần có hoá_đơn cộng gộp hai khu_vực siêu_thị AEON và TTTM AEON MALL từ 3,000,000 Đ là nhà mình đã có 1 có phiếu Rút Thăm trúng thưởng với 100% cơ_hội trúng luôn nha !
+4	2	5	9	25	Time	Promotion	Đặc_biệt , trong tháng 11 này AEON sẽ cho ra_mắt 1 loại “ sốt ” cực “ dính ” đi kèm món nào cũng siêu đỉnh mà cả nhà không_thể bỏ lỡ !
+0	9	25	2	5	Promotion	Time	Đặc_biệt , trong tháng 11 này AEON sẽ cho ra_mắt 1 loại “ sốt ” cực “ dính ” đi kèm món nào cũng siêu đỉnh mà cả nhà không_thể bỏ lỡ !
+1	9	25	6	6	Promotion	Location	Đặc_biệt , trong tháng 11 này AEON sẽ cho ra_mắt 1 loại “ sốt ” cực “ dính ” đi kèm món nào cũng siêu đỉnh mà cả nhà không_thể bỏ lỡ !
+4	0	5	7	16	Promotion	Regulation	Tặng 1 thẻ cào trúng thưởng khi mua 1 đơn hàng có sản_phẩm Biti ' s Hunter tại quầy Sport của Aeon Tân_Phú ( Thẻ cào TRÚNG thưởng 100% )
+1	0	5	18	22	Promotion	Location	Tặng 1 thẻ cào trúng thưởng khi mua 1 đơn hàng có sản_phẩm Biti ' s Hunter tại quầy Sport của Aeon Tân_Phú ( Thẻ cào TRÚNG thưởng 100% )
+1	0	7	11	12	Product	Location	03 voucher 1,100,000 đ mua Biti ' s ( Áp_dụng tại Aeon Tân_Phú cho lần sau )
+2	0	2	10	14	Promotion	Product	Quay thưởng may_mắn , chơi nhỏ thắng lớn với tổng_trị_giá quà tặng đến 78 triệu :
+0	10	14	0	2	Product	Promotion	Quay thưởng may_mắn , chơi nhỏ thắng lớn với tổng_trị_giá quà tặng đến 78 triệu :
+4	29	36	4	12	Product	Regulation	Thể_lệ : Khách_hàng có hoá_đơn mua_sắm cộng gộp từ 3 triệu trở lên tại cả 2 khu_vực Trung_tâm thương_mại và Trung_tâm Bách_hoá tổng_hợp AEON Việt_Nam , sẽ nhận ngay 1 lượt quay thưởng trên app AEON Mall trúng 01 trong các giải sau :
+1	29	36	17	24	Product	Location	Thể_lệ : Khách_hàng có hoá_đơn mua_sắm cộng gộp từ 3 triệu trở lên tại cả 2 khu_vực Trung_tâm thương_mại và Trung_tâm Bách_hoá tổng_hợp AEON Việt_Nam , sẽ nhận ngay 1 lượt quay thưởng trên app AEON Mall trúng 01 trong các giải sau :
+0	5	10	0	1	Time	Regulation	Thời_gian phục_vụ : Diễn ra Từ 10h đến 21h Ngày 03/11 - 09/11/2022
+4	2	4	0	0	Regulation	Price	Miễn_phí cho trẻ dưới 99cm ( Tối_đa 01 khách 01 bé )
+1	8	8	18	21	Organization	Promotion	Đừng quên thanh_toán “ không tiền_mặt " qua VNPAY và nhập mã “ AEON 50 ” để được giảm thêm 50.000 đ nữa nhé !
+4	18	21	11	15	Promotion	Regulation	Đừng quên thanh_toán “ không tiền_mặt " qua VNPAY và nhập mã “ AEON 50 ” để được giảm thêm 50.000 đ nữa nhé !
+2	0	2	4	11	Promotion	Promotion	Giảm thêm 5% cùng chương_trình khuyến_mãi đồng giá 30 k-50 k-100 k và giảm đến 50% cho một_số sản_phẩm mẹ & bé , hoá_trang Halloween
+2	0	2	13	19	Promotion	Promotion	Giảm thêm 5% cùng chương_trình khuyến_mãi đồng giá 30 k-50 k-100 k và giảm đến 50% cho một_số sản_phẩm mẹ & bé , hoá_trang Halloween
+2	4	11	0	2	Promotion	Promotion	Giảm thêm 5% cùng chương_trình khuyến_mãi đồng giá 30 k-50 k-100 k và giảm đến 50% cho một_số sản_phẩm mẹ & bé , hoá_trang Halloween
+2	4	11	13	19	Promotion	Promotion	Giảm thêm 5% cùng chương_trình khuyến_mãi đồng giá 30 k-50 k-100 k và giảm đến 50% cho một_số sản_phẩm mẹ & bé , hoá_trang Halloween
+2	13	19	0	2	Promotion	Promotion	Giảm thêm 5% cùng chương_trình khuyến_mãi đồng giá 30 k-50 k-100 k và giảm đến 50% cho một_số sản_phẩm mẹ & bé , hoá_trang Halloween
+0	13	19	4	11	Promotion	Promotion	Giảm thêm 5% cùng chương_trình khuyến_mãi đồng giá 30 k-50 k-100 k và giảm đến 50% cho một_số sản_phẩm mẹ & bé , hoá_trang Halloween
+4	0	14	17	20	Promotion	Regulation	Tặng 01 cuốn coupon với các voucher giảm_giá đến từ các thương_hiệu mẹ và bé khi mẹ đăng_ký mới thẻ Kids_Club .
+2	3	8	12	17	Promotion	Product	Thử sức với Minigame “ ĐÁNH_THỨC VÙNG_ĐẤT BÍ_ẨN ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 VNĐ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+2	3	8	19	23	Promotion	Regulation	Thử sức với Minigame “ ĐÁNH_THỨC VÙNG_ĐẤT BÍ_ẨN ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 VNĐ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+0	12	17	3	8	Product	Promotion	Thử sức với Minigame “ ĐÁNH_THỨC VÙNG_ĐẤT BÍ_ẨN ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 VNĐ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+4	12	17	19	23	Product	Regulation	Thử sức với Minigame “ ĐÁNH_THỨC VÙNG_ĐẤT BÍ_ẨN ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 VNĐ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+4	4	6	0	1	Time	Regulation	ÁP_DỤNG DUY_NHẤT : ngày 29/10/2022 và 30/10/2022
+2	0	1	3	10	Promotion	Product	Giải đặc_biệt : Máy nâng cơ và cải_tiến sắc_tố da Lifestrons
+0	3	10	0	1	Product	Promotion	Giải đặc_biệt : Máy nâng cơ và cải_tiến sắc_tố da Lifestrons
+2	0	1	3	7	Promotion	Product	Giải khuyến_khích : Máy_Massage tinh_chất nóng lạnh Touchbeauty
+0	3	7	0	1	Product	Promotion	Giải khuyến_khích : Máy_Massage tinh_chất nóng lạnh Touchbeauty
+1	9	9	1	4	Organization	Product	Nhận VOUCHER AEON 500.000 đ ( Chỉ áp_dụng cho HomeCoordy )
+0	5	9	11	11	Product	Promotion	Cơ_hội_sở_hữu quà giá_trị đến từ KIMIWA COLLAGEN PREMIUM 10,000 mg bằng Mini_Game " NHANH MẮT ĐOÁN CHỮ "
+2	11	11	5	9	Promotion	Product	Cơ_hội_sở_hữu quà giá_trị đến từ KIMIWA COLLAGEN PREMIUM 10,000 mg bằng Mini_Game " NHANH MẮT ĐOÁN CHỮ "
+1	20	26	0	1	Product	Location	AEON VIETNAM ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 Miniset KIMIWA COLLAGEN PREMIUM 10,000 mg trị_giá đến 400 k / set
+3	29	29	20	26	Price	Product	AEON VIETNAM ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 Miniset KIMIWA COLLAGEN PREMIUM 10,000 mg trị_giá đến 400 k / set
+2	30	30	20	26	Price	Product	AEON VIETNAM ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 Miniset KIMIWA COLLAGEN PREMIUM 10,000 mg trị_giá đến 400 k / set
+2	32	32	20	26	Price	Product	AEON VIETNAM ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 Miniset KIMIWA COLLAGEN PREMIUM 10,000 mg trị_giá đến 400 k / set
+4	6	8	0	3	Time	Regulation	Thời_gian minigame diễn ra : từ 22 – 27.10.2022
+4	7	11	13	17	Product	Regulation	Cơ_hội 1 : Nhận ngay cơ_hội trúng bộ quà tặng chăm_sóc sắc_đẹp với hoá_đơn mua_sắm từ 800.000 VNĐ ;
+4	4	6	23	26	Product	Regulation	Cơ_hội 2 : Tham_gia Quay số may_mắn " Chọn cánh bướm - Rinh quà xinh " nhận ngay các quà tặng hấp_dẫn cho hoá_đơn từ 1.000.000 VNĐ ;
+4	9	14	1	2	Product	Regulation	Với hoá_đơn từ # 500 K sẽ nhận ngay 3 Mask Ariul Trà_Xanh hoặc Tràm_Trà .
+4	9	14	1	2	Product	Regulation	Với hoá_đơn từ # 800 K sẽ nhận ngay 5 Mask Ariul Trà_Xanh hoặc Tràm_Trà .
+4	14	16	18	21	Promotion	Regulation	Ngoài_ra , khi mua_sắm vào thời_gian này , nhà mình còn có cơ_hội tham_gia QUAY SỐ MAY_MẮN cho hoá_đơn từ 𝟴𝟬𝟬 .
+3	2	5	0	1	Price	Product	Ruột gối chỉ từ 68.000 đ
+3	2	5	0	1	Price	Product	Mền tuyết chỉ từ 229.000 đ
+3	2	4	0	1	Price	Product	Gối cao_su chỉ 468.000 đ
+3	7	10	0	3	Price	Product	Bộ drap áo gối , mền chần chỉ từ 1.199.000 đ
+0	11	16	21	21	Promotion	Time	Sinh_nhật không phải ra dẻ mà ăn lớn làm thật với chương_trình Quay Thưởng quà siêu khủng diễn ra từ ngày 11 - 30/10 .
+4	21	21	11	16	Time	Promotion	Sinh_nhật không phải ra dẻ mà ăn lớn làm thật với chương_trình Quay Thưởng quà siêu khủng diễn ra từ ngày 11 - 30/10 .
+0	3	10	0	1	Time	Regulation	Thời_hạn đăng_ký : bắt_đầu_từ 11/10/2022 và đến hết 23h59 ngày 27/10/2022
+0	4	4	0	0	Time	Regulation	Thời_gian : Từ ngày 07/10/2022 - 10/10/2022
+4	0	1	3	7	Time	Promotion	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+2	0	1	15	18	Time	Product	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+0	3	7	0	1	Promotion	Time	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+2	3	7	12	14	Promotion	Location	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+2	3	7	15	18	Promotion	Product	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+2	15	18	0	1	Product	Time	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+2	15	18	3	7	Product	Promotion	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+1	15	18	12	14	Product	Location	Từ 07-10.10 , chương_trình Rút Thăm Trúng Thưởng đang diễn ra tại AEON Long_Biên và AEON Hà_Đông với giải đặc_biệt mỗi ngày là AEON VOUCHER 5 triệu đồng !
+4	0	1	3	6	Promotion	Regulation	Giảm 100K cho hoá_đơn từ 2 triệu khi thanh_toán bằng VNPAY và nhập mã 𝐍𝐆𝐀𝐘𝐇𝐎𝐍𝐆𝟏𝟎 ( 1 KH / lần / ngày ) .
+4	0	1	13	14	Promotion	Regulation	Giảm 100K cho hoá_đơn từ 2 triệu khi thanh_toán bằng VNPAY và nhập mã 𝐍𝐆𝐀𝐘𝐇𝐎𝐍𝐆𝟏𝟎 ( 1 KH / lần / ngày ) .
+1	10	10	0	1	Organization	Promotion	Giảm 100K cho hoá_đơn từ 2 triệu khi thanh_toán bằng VNPAY và nhập mã 𝐍𝐆𝐀𝐘𝐇𝐎𝐍𝐆𝟏𝟎 ( 1 KH / lần / ngày ) .
+4	0	1	3	6	Promotion	Regulation	Giảm 100K cho hoá_đơn từ 1 triệu khi thanh_toán bằng GRABMOCA và nhập mã 𝐃𝐎𝐔𝐁𝐋𝐄𝐌𝐎𝐂𝐀𝟏𝟎 ( 1 KH / lần / ngày ) .
+4	0	1	13	14	Promotion	Regulation	Giảm 100K cho hoá_đơn từ 1 triệu khi thanh_toán bằng GRABMOCA và nhập mã 𝐃𝐎𝐔𝐁𝐋𝐄𝐌𝐎𝐂𝐀𝟏𝟎 ( 1 KH / lần / ngày ) .
+1	10	10	0	1	Organization	Promotion	Giảm 100K cho hoá_đơn từ 1 triệu khi thanh_toán bằng GRABMOCA và nhập mã 𝐃𝐎𝐔𝐁𝐋𝐄𝐌𝐎𝐂𝐀𝟏𝟎 ( 1 KH / lần / ngày ) .
+4	0	1	14	15	Promotion	Regulation	Giảm 2% ( tối_đa 500 K ) khi khi thanh_toán bằng VNPAY và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎
+1	11	11	0	1	Organization	Promotion	Giảm 2% ( tối_đa 500 K ) khi khi thanh_toán bằng VNPAY và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎
+4	0	1	14	15	Promotion	Regulation	Giảm 5% ( tối_đa 100 K ) khi thanh_toán bằng GRAB MOCA và nhập mã 𝐌𝐄𝐌𝐁𝐄𝐑𝐌𝐎𝐂𝐀 .
+1	10	11	0	1	Organization	Promotion	Giảm 5% ( tối_đa 100 K ) khi thanh_toán bằng GRAB MOCA và nhập mã 𝐌𝐄𝐌𝐁𝐄𝐑𝐌𝐎𝐂𝐀 .
+4	2	9	15	20	Time	Promotion	vào sự_kiện ngày hội thành_viên 5 và 20 hàng tháng , bạn thân sẽ được giảm thêm 5% trên giá khuyến_mãi ( áp_dụng đa_số các sản_phẩm )
+0	15	20	2	9	Promotion	Time	vào sự_kiện ngày hội thành_viên 5 và 20 hàng tháng , bạn thân sẽ được giảm thêm 5% trên giá khuyến_mãi ( áp_dụng đa_số các sản_phẩm )
+1	0	1	5	7	Promotion	Location	Lễ_hội sữa_tươi đã cập bến AEON Việt_Nam toàn_quốc , bao_gồm cả AEON The_Nine !
+1	0	1	11	12	Promotion	Location	Lễ_hội sữa_tươi đã cập bến AEON Việt_Nam toàn_quốc , bao_gồm cả AEON The_Nine !
+2	5	7	11	12	Location	Location	Lễ_hội sữa_tươi đã cập bến AEON Việt_Nam toàn_quốc , bao_gồm cả AEON The_Nine !
+2	11	12	5	7	Location	Location	Lễ_hội sữa_tươi đã cập bến AEON Việt_Nam toàn_quốc , bao_gồm cả AEON The_Nine !
+4	5	8	0	3	Time	Regulation	Thời_gian diễn ra sự_kiện : 22/09 đến hết 05/10
+4	2	11	0	0	Time	Regulation	Thời_gian : từ 9:00 giờ sáng đến 4:00 giờ chiều Ngày 01/10/2022
+4	1	1	7	9	Time	Promotion	Ngày 02/10/2022 là ngày chính_thức diễn ra chương_trình AEON Ekiden với nhiều hoạt_động hấp_dẫn như sau
+0	7	9	1	1	Promotion	Time	Ngày 02/10/2022 là ngày chính_thức diễn ra chương_trình AEON Ekiden với nhiều hoạt_động hấp_dẫn như sau
+0	4	4	0	2	Time	Regulation	Thời_gian áp_dụng Khuyến_mãi : 16/9 - 21/9
+4	4	7	14	19	Promotion	Regulation	Chăm_sóc da mặt : MUA 2 GIẢM 25% - MUA 03 GIẢM 35% ( áp_dụng cho sản_phẩm dòng dưỡng da )
+1	7	8	10	12	Organization	Location	Áp_dụng từ 01 – 30/09/2022 độc_quyền tại cửa_hàng Yves_Rocher – Glam Beautique Bình_Tân
+1	2	2	3	4	Organization	Promotion	Nhãn hàng Pigeon giảm 20K cho hoá_đơn trên 199K .
+4	3	4	6	8	Promotion	Regulation	Nhãn hàng Pigeon giảm 20K cho hoá_đơn trên 199K .
+1	2	2	3	4	Organization	Promotion	Nhãn hàng Rabity giảm 10% cho hàng nguyên giá từ 99K .
+4	3	4	6	10	Promotion	Regulation	Nhãn hàng Rabity giảm 10% cho hàng nguyên giá từ 99K .
+4	1	7	9	12	Promotion	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	1	7	16	19	Promotion	Product	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	1	7	21	24	Promotion	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	1	7	28	30	Promotion	Promotion	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	1	7	32	34	Promotion	Time	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	1	7	37	38	Promotion	Location	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	16	19	1	7	Product	Promotion	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	16	19	9	12	Product	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+4	16	19	21	24	Product	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	16	19	28	30	Product	Promotion	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	16	19	32	34	Product	Time	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	16	19	37	38	Product	Location	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	28	30	1	7	Promotion	Promotion	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	28	30	9	12	Promotion	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	28	30	16	19	Promotion	Product	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	28	30	21	24	Promotion	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+0	28	30	32	34	Promotion	Time	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+1	28	30	37	38	Promotion	Location	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	32	34	1	7	Time	Promotion	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	32	34	9	12	Time	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	32	34	16	19	Time	Product	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+2	32	34	21	24	Time	Regulation	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+4	32	34	28	30	Time	Promotion	Tham_gia Vòng Quay May_Mắn với 100% TRÚNG THƯỞNG với hoá_đơn từ 500.000 đ và cơ_hội rinh GIẢI_THƯỞNG 5 TRIỆU ĐỒNG với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị AEON .
+0	0	5	6	6	Promotion	Time	Ưu_đãi sốc trong khung giờ vàng 19h00 - 20h00 các ngày cuối tuần ( 09 , 10 , 11/09 và 16 , 17 , 18/09 )
+4	6	6	0	5	Time	Promotion	Ưu_đãi sốc trong khung giờ vàng 19h00 - 20h00 các ngày cuối tuần ( 09 , 10 , 11/09 và 16 , 17 , 18/09 )
+2	9	11	17	19	Promotion	Promotion	Tạm gác bộn_bề lo_toan , cùng bé đến tham_gia Lễ_Hội_Mẹ và Bé để rinh quà ngập_tràn trên Vòng Quay May_Mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+2	9	11	22	22	Promotion	Time	Tạm gác bộn_bề lo_toan , cùng bé đến tham_gia Lễ_Hội_Mẹ và Bé để rinh quà ngập_tràn trên Vòng Quay May_Mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+0	17	19	9	11	Promotion	Promotion	Tạm gác bộn_bề lo_toan , cùng bé đến tham_gia Lễ_Hội_Mẹ và Bé để rinh quà ngập_tràn trên Vòng Quay May_Mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+0	17	19	22	22	Promotion	Time	Tạm gác bộn_bề lo_toan , cùng bé đến tham_gia Lễ_Hội_Mẹ và Bé để rinh quà ngập_tràn trên Vòng Quay May_Mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+2	22	22	9	11	Time	Promotion	Tạm gác bộn_bề lo_toan , cùng bé đến tham_gia Lễ_Hội_Mẹ và Bé để rinh quà ngập_tràn trên Vòng Quay May_Mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+4	22	22	17	19	Time	Promotion	Tạm gác bộn_bề lo_toan , cùng bé đến tham_gia Lễ_Hội_Mẹ và Bé để rinh quà ngập_tràn trên Vòng Quay May_Mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+4	17	21	4	7	Product	Regulation	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	17	21	23	26	Product	Promotion	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	17	21	32	34	Product	Time	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+1	17	21	38	38	Product	Location	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	23	26	4	7	Promotion	Regulation	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	23	26	17	21	Promotion	Product	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+0	23	26	32	34	Promotion	Time	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	23	26	38	38	Promotion	Location	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	32	34	4	7	Time	Regulation	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+2	32	34	17	21	Time	Product	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+4	32	34	23	26	Time	Promotion	Cơ_hội 1 : Với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng GIẢI_THƯỞNG LÊN ĐẾN 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi TTBHTH & ST AEON .
+4	30	37	5	8	Promotion	Regulation	Cơ_hội 2 : Với mỗi hoá_đơn từ 500.000 đ ( 1 lượt quay ) và 1.000.000 đ ( 2 lượt quay ) , ba mẹ sẽ được tự tay quay Vòng Quay May_Mắn với cơ_hội TRÚNG THƯỞNG 100% quà tặng từ các thương_hiệu hàng_đầu về mẹ và bé .
+4	20	24	0	7	Product	Regulation	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ Thứ 4 vui_vẻ và được AEON gửi về tận nhà !
+0	20	24	26	28	Product	Promotion	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ Thứ 4 vui_vẻ và được AEON gửi về tận nhà !
+2	20	24	31	31	Product	Location	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ Thứ 4 vui_vẻ và được AEON gửi về tận nhà !
+2	26	28	0	7	Promotion	Regulation	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ Thứ 4 vui_vẻ và được AEON gửi về tận nhà !
+2	26	28	20	24	Promotion	Product	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ Thứ 4 vui_vẻ và được AEON gửi về tận nhà !
+1	26	28	31	31	Promotion	Location	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ Thứ 4 vui_vẻ và được AEON gửi về tận nhà !
+0	3	3	0	0	Time	Regulation	Thời_gian_tham_gia : Từ 11/09-05/10
+0	3	5	0	2	Time	Regulation	Thời_gian công_bố giải_thưởng 20h ngày 06/10
+4	5	10	12	17	Promotion	Regulation	Đừng quên ưu_đãi : Chỉ 3K 1 gói bánh xốp Nabati khi mua cùng 1 ly PhaPhin Cafe ( size bất_kỳ )
+0	1	1	8	8	Location	Location	Team Cần_Thơ vừa nô_nức đón xuân vừa đón_chào Circle_K mới nhee
+2	8	8	1	1	Location	Location	Team Cần_Thơ vừa nô_nức đón xuân vừa đón_chào Circle_K mới nhee
+4	2	5	8	12	Product	Regulation	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 17/01/2023 .
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 17/01/2023 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 17/01/2023 .
+2	18	18	8	12	Time	Regulation	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 17/01/2023 .
+1	0	1	6	8	Product	Location	Oreo BlackPink có_mặt tại tất_cả cửa_hàng Circle_K trên toàn_quốc từ ngày 08/01/2023 .
+0	0	1	9	11	Product	Time	Oreo BlackPink có_mặt tại tất_cả cửa_hàng Circle_K trên toàn_quốc từ ngày 08/01/2023 .
+4	9	11	0	1	Time	Product	Oreo BlackPink có_mặt tại tất_cả cửa_hàng Circle_K trên toàn_quốc từ ngày 08/01/2023 .
+1	5	5	2	2	Promotion	Location	Đừng quên Circle_K vẫn mở pre-order đến hết ngày 06/01 nha cả nhà .
+0	5	5	7	9	Promotion	Time	Đừng quên Circle_K vẫn mở pre-order đến hết ngày 06/01 nha cả nhà .
+4	7	9	5	5	Time	Promotion	Đừng quên Circle_K vẫn mở pre-order đến hết ngày 06/01 nha cả nhà .
+1	2	3	10	10	Product	Location	Những chiếc Cookies Tết tràn_ngập sắc_màu hấp_dẫn đã có_mặt tại Circle_K rồi_đây .
+4	0	3	8	11	Time	Promotion	Từ hôm_nay đến 06/01/2023 , Circle_K mở đợt Pre-order bo góc Blackpink , bạn chỉ cần vào app CK Club , đăng_ký mua sản_phẩm Oreo có bo góc .
+0	8	11	0	3	Promotion	Time	Từ hôm_nay đến 06/01/2023 , Circle_K mở đợt Pre-order bo góc Blackpink , bạn chỉ cần vào app CK Club , đăng_ký mua sản_phẩm Oreo có bo góc .
+1	8	11	5	5	Promotion	Location	Từ hôm_nay đến 06/01/2023 , Circle_K mở đợt Pre-order bo góc Blackpink , bạn chỉ cần vào app CK Club , đăng_ký mua sản_phẩm Oreo có bo góc .
+4	6	6	2	5	Product	Regulation	Riêng với hộp Oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+2	7	12	2	5	Product	Regulation	Riêng với hộp Oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+1	13	13	11	11	Organization	Location	Năm mới đón nhiều niềm vui với ưu_đãi siêu hấp_dẫn tại Circle_K cùng McVitie ’ s .
+2	15	15	11	11	Organization	Location	Năm mới đón nhiều niềm vui với ưu_đãi siêu hấp_dẫn tại Circle_K cùng McVitie ’ s .
+4	9	16	1	3	Product	Regulation	Với hoá_đơn_trị_giá 50.000 vnđ bạn đã được nhận ngay 01 bánh_quy McVitie ’ s Dark Cookie 120g vô_cùng thơm ngon , thương_hiệu bánh_quy đến từ Anh Quốc .
+2	5	6	13	15	Location	Location	Ờ mây zing gút chóp Circle K đồng_loạt khai_trương 3 cửa_hàng mới_toanh tại Cần_Thơ và Hà_Nội .
+0	13	15	5	6	Location	Location	Ờ mây zing gút chóp Circle K đồng_loạt khai_trương 3 cửa_hàng mới_toanh tại Cần_Thơ và Hà_Nội .
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 30/12/2022 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 30/12/2022 .
+2	0	2	4	9	Promotion	Product	Giải_thưởng chất lừ : 10 sổ voucher combo ăn sáng + PhaPhin Cafe đỉnh_cao .
+0	4	9	0	2	Product	Promotion	Giải_thưởng chất lừ : 10 sổ voucher combo ăn sáng + PhaPhin Cafe đỉnh_cao .
+4	7	9	0	0	Time	Regulation	Thời_gian_tham_gia : kết_quả sẽ được tính đến hết ngày 03/01/2023 .
+0	0	3	6	6	Promotion	Time	Kết_quả sẽ được công_bố vào ngày 04/01/2023 tại Fanpage Circle K Vietnam .
+1	0	3	8	11	Promotion	Location	Kết_quả sẽ được công_bố vào ngày 04/01/2023 tại Fanpage Circle K Vietnam .
+4	6	6	0	3	Time	Promotion	Kết_quả sẽ được công_bố vào ngày 04/01/2023 tại Fanpage Circle K Vietnam .
+0	1	4	7	9	Promotion	Time	Thời_gian chương_trình Top Brands 2022 : từ 01/12/2022 – 28/12/2022 .
+4	7	9	1	4	Time	Promotion	Thời_gian chương_trình Top Brands 2022 : từ 01/12/2022 – 28/12/2022 .
+1	0	1	13	13	Product	Location	Wada bento được nấu tươi mới mỗi ngày , đặc_biệt chỉ có tại Circle_K thơm ngon mời bạn ăn nha !
+2	0	3	8	8	Organization	Location	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+1	0	3	12	14	Organization	Product	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+1	0	3	17	20	Organization	Promotion	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+1	12	14	8	8	Product	Location	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	12	14	17	20	Product	Promotion	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	12	14	24	26	Product	Time	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	17	20	8	8	Promotion	Location	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	17	20	12	14	Promotion	Product	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+0	17	20	24	26	Promotion	Time	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	24	26	12	14	Time	Product	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	24	26	17	20	Time	Promotion	Công_ty công_nghệ bảo_hiểm Igloo vừa bắt_tay hợp_tác cùng Circle_K mang đến sản_phẩm Bảo_hiểm xe_máy toàn_diện với ưu_đãi MUA 1 TẶNG 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+2	0	3	12	15	Promotion	Product	Chỉ từ 1.000 đ / ngày , giờ_đây bạn đã có_thể sở_hữu gói bảo_hiểm xe_máy toàn_diện “ nhanh như chớp ” khi mua bảo_hiểm tại hệ_thống cửa_hàng Circle K toàn_quốc .
+1	0	3	25	29	Promotion	Location	Chỉ từ 1.000 đ / ngày , giờ_đây bạn đã có_thể sở_hữu gói bảo_hiểm xe_máy toàn_diện “ nhanh như chớp ” khi mua bảo_hiểm tại hệ_thống cửa_hàng Circle K toàn_quốc .
+0	12	15	0	3	Product	Promotion	Chỉ từ 1.000 đ / ngày , giờ_đây bạn đã có_thể sở_hữu gói bảo_hiểm xe_máy toàn_diện “ nhanh như chớp ” khi mua bảo_hiểm tại hệ_thống cửa_hàng Circle K toàn_quốc .
+2	12	15	25	29	Product	Location	Chỉ từ 1.000 đ / ngày , giờ_đây bạn đã có_thể sở_hữu gói bảo_hiểm xe_máy toàn_diện “ nhanh như chớp ” khi mua bảo_hiểm tại hệ_thống cửa_hàng Circle K toàn_quốc .
+4	5	10	12	17	Promotion	Regulation	Ưu_đãi cực chill : Chỉ 3K 1 gói bánh xốp Nabati khi mua cùng 1 ly PhaPhin Cafe ( size bất_kỳ )
+4	3	6	8	18	Promotion	Regulation	Ưu_đãi đặc_biệt : Tặng 1 ly sứ khi mua 2 lon nước / 1 chai nước từ thương_hiệu Coca_Cola , Fanta , Sprite , Teppy và Fuze_Tea .
+1	13	14	6	9	Organization	Promotion	Ưu_đãi siêu " iu " : Mua 1 tặng 1 các sản_phẩm từ thương_hiệu Pepsi , Mirinda , Highlands .
+0	5	7	0	1	Time	Regulation	Thời_gian áp_dụng : từ ngày 22/12/2022 – 28/12/2022 .
+0	0	8	10	12	Promotion	Time	Cơ_hội trúng MỖI NGÀY_một chiếc Iphone 14 Pro 128GB từ 22/12 – 28/12/2022
+4	10	12	0	8	Time	Promotion	Cơ_hội trúng MỖI NGÀY_một chiếc Iphone 14 Pro 128GB từ 22/12 – 28/12/2022
+1	5	10	2	2	Product	Location	Giải_thưởng : Circle_K tặng ngay 05 voucher Circle K trị_giá 100K cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+4	5	10	12	15	Product	Regulation	Giải_thưởng : Circle_K tặng ngay 05 voucher Circle K trị_giá 100K cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+0	5	10	23	28	Product	Time	Giải_thưởng : Circle_K tặng ngay 05 voucher Circle K trị_giá 100K cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+4	23	28	5	10	Time	Product	Giải_thưởng : Circle_K tặng ngay 05 voucher Circle K trị_giá 100K cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+2	23	28	12	15	Time	Regulation	Giải_thưởng : Circle_K tặng ngay 05 voucher Circle K trị_giá 100K cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+4	2	5	8	14	Product	Regulation	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 14/12/2022 .
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 14/12/2022 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 14/12/2022 .
+2	18	18	8	14	Time	Regulation	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 14/12/2022 .
+4	2	7	11	19	Product	Regulation	Giải_thưởng : 15 e-voucher Circle K trị_giá 100K dành ngay cho 15 bạn may_mắn nhất và thực_hiện đúng thể_lệ chương_trình .
+0	3	5	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 18.12.2022 .
+4	10	11	2	6	Promotion	Regulation	Nhập ngay mã “ CIRCLEK 30 ” để nhận ưu_đãi giảm 30K cho hoá_đơn 150K
+4	10	11	13	14	Promotion	Regulation	Nhập ngay mã “ CIRCLEK 30 ” để nhận ưu_đãi giảm 30K cho hoá_đơn 150K
+0	4	4	0	1	Time	Regulation	Thời_gian áp_dụng : từ 01/12/2022 - 15/12/2022
+4	0	2	4	6	Product	Regulation	Voucher giảm 30k cho hoá_đơn từ 50k
+4	0	2	4	6	Product	Regulation	Voucher giảm 10k cho hoá_đơn từ 60k
+4	0	2	4	6	Product	Regulation	Voucher giảm 15k cho hoá_đơn từ 90k
+4	13	16	0	6	Product	Regulation	Mua 3 sản_phẩm bất_kỳ của Công_ty Coca-Cola ( ngoại_trừ Dasani ) nhận ngay 1 lượt quay may_mắn trên app thành_viên CK Club .
+1	13	16	18	21	Product	Location	Mua 3 sản_phẩm bất_kỳ của Công_ty Coca-Cola ( ngoại_trừ Dasani ) nhận ngay 1 lượt quay may_mắn trên app thành_viên CK Club .
+4	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 14/11/2022 – 30/11/2022
+2	0	2	4	11	Promotion	Product	03 Giải đặc_biệt : Phiếu mua hàng điện_máy xanh 10 triệu đồng
+0	4	11	0	2	Product	Promotion	03 Giải đặc_biệt : Phiếu mua hàng điện_máy xanh 10 triệu đồng
+2	0	2	4	8	Promotion	Product	100 Giải nhất : Phiếu mua hàng Decathlon 500K
+0	4	8	0	2	Product	Promotion	100 Giải nhất : Phiếu mua hàng Decathlon 500K
+2	0	3	5	9	Promotion	Product	Hàng ngàn giải khuyến_khích : Sữa Nutriboost cam / dâu ( 297 ml )
+0	5	9	0	3	Product	Promotion	Hàng ngàn giải khuyến_khích : Sữa Nutriboost cam / dâu ( 297 ml )
+0	3	5	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 20.11.2022 .
+4	2	6	8	11	Product	Regulation	NHẬN NGAY 1 VÉ THE MASKED SINGER KHI MUA 2 THÙNG PEPSI TẠI CIRCLE K !
+1	2	6	13	14	Product	Location	NHẬN NGAY 1 VÉ THE MASKED SINGER KHI MUA 2 THÙNG PEPSI TẠI CIRCLE K !
+2	7	10	0	3	Product	Regulation	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+2	7	10	13	13	Product	Promotion	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+4	13	13	0	3	Promotion	Regulation	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+2	13	13	7	10	Promotion	Product	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+4	12	20	1	5	Promotion	Regulation	MUA HÓA ĐƠN ĐẦU_TIÊN TỪ 15K TRÊN APP THÀNH_VIÊN CK CLUB , NHẬN NGAY 1 TRONG 8 MÓN QUÀ CỰC CHẤT .
+1	12	20	7	10	Promotion	Location	MUA HÓA ĐƠN ĐẦU_TIÊN TỪ 15K TRÊN APP THÀNH_VIÊN CK CLUB , NHẬN NGAY 1 TRONG 8 MÓN QUÀ CỰC CHẤT .
+0	5	5	0	1	Time	Regulation	Thời_gian áp_dụng : chỉ từ 03/11 - 30/11/2022
+2	0	1	3	5	Promotion	Product	Giải nhất : Ipad Mini 6
+0	3	5	0	1	Product	Promotion	Giải nhất : Ipad Mini 6
+2	0	1	3	4	Promotion	Product	Giải nhì : E-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ Urbox .
+0	3	4	0	1	Product	Promotion	Giải nhì : E-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ Urbox .
+2	8	9	0	1	Price	Promotion	Giải nhì : E-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ Urbox .
+2	8	9	3	4	Price	Product	Giải nhì : E-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ Urbox .
+2	11	11	0	1	Organization	Promotion	Giải nhì : E-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ Urbox .
+1	11	11	3	4	Organization	Product	Giải nhì : E-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ Urbox .
+1	14	15	11	12	Organization	Location	[ MINIGAME ] HALLOWEEN NÀY , NHẬN QUÀ CỰC NGẦU TỪ CIRCLE K VÀ CHUPA CHUPS
+2	0	2	4	6	Promotion	Product	4 Giải nhất : 1 túi Canvas_Alpenliebe , 1 Micro Karaoke không dây , 1 hộp kẹo Halloween Pumpkin_Mix , 1 gói kẹo Halloween Party Mix & 1 móc khoá gấu Chupa_Chups .
+0	4	6	0	2	Product	Promotion	4 Giải nhất : 1 túi Canvas_Alpenliebe , 1 Micro Karaoke không dây , 1 hộp kẹo Halloween Pumpkin_Mix , 1 gói kẹo Halloween Party Mix & 1 móc khoá gấu Chupa_Chups .
+2	0	2	4	6	Promotion	Product	6 Giải nhì : 1 túi Canvas_Alpenliebe , 1 gói kẹo Halloween Party Mix & 1 móc khoá gấu Chupa_Chups .
+0	4	6	0	2	Product	Promotion	6 Giải nhì : 1 túi Canvas_Alpenliebe , 1 gói kẹo Halloween Party Mix & 1 móc khoá gấu Chupa_Chups .
+0	3	5	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 31.10.2022 .
+0	5	6	0	2	Time	Regulation	Thời_gian đại_hội_diễn ra : đến hết 02/11/2022 .
+2	6	6	9	9	Location	Location	Đầu tuần phấn_khởi , hân_hoan đón Circle_K mới tại Hà_Nội
+0	9	9	6	6	Location	Location	Đầu tuần phấn_khởi , hân_hoan đón Circle_K mới tại Hà_Nội
+4	20	22	0	6	Product	Regulation	Mua 4 lon / chai bia bất_kỳ ( Heineken / Tiger / Strongbow / Edelweiss / Larue ) nhận ngay 1 lượt game trên app thành_viên CK Club .
+1	20	22	24	27	Product	Location	Mua 4 lon / chai bia bất_kỳ ( Heineken / Tiger / Strongbow / Edelweiss / Larue ) nhận ngay 1 lượt game trên app thành_viên CK Club .
+0	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 06/10/2022 – 02/11/2022
+1	2	2	8	8	Location	Location	Các fan Hải_Phòng nhận tín_hiệu vũ_trụ đón ngay Circle_K mới_tinh nè
+2	8	8	2	2	Location	Location	Các fan Hải_Phòng nhận tín_hiệu vũ_trụ đón ngay Circle_K mới_tinh nè
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 20/10/2022 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 20/10/2022 .
+4	0	2	4	6	Promotion	Regulation	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+2	0	2	13	15	Promotion	Location	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+0	0	2	16	20	Promotion	Time	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+2	11	11	0	2	Organization	Promotion	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+1	11	11	13	15	Organization	Location	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+4	16	20	0	2	Time	Promotion	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+2	16	20	4	6	Time	Regulation	Hoàn tiền 10K cho hoá_đơn từ 50K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+2	2	2	5	6	Location	Location	mình là Circle_K mới_đây team quận 8 ơi !
+1	5	6	2	2	Location	Location	mình là Circle_K mới_đây team quận 8 ơi !
+4	2	3	5	6	Product	Regulation	Nhận ngay voucher 10K cho hoá_đơn 40K khi thanh_toán bằng Zalopay tại Circle_K.
+2	2	3	12	12	Product	Location	Nhận ngay voucher 10K cho hoá_đơn 40K khi thanh_toán bằng Zalopay tại Circle_K.
+1	10	10	2	3	Organization	Product	Nhận ngay voucher 10K cho hoá_đơn 40K khi thanh_toán bằng Zalopay tại Circle_K.
+1	10	10	12	12	Organization	Location	Nhận ngay voucher 10K cho hoá_đơn 40K khi thanh_toán bằng Zalopay tại Circle_K.
+1	2	2	8	9	Location	Location	Hiii , Hải_Phòng ơi bao_nhiêu lâu chưa gặp Circle_K ?
+2	8	9	2	2	Location	Location	Hiii , Hải_Phòng ơi bao_nhiêu lâu chưa gặp Circle_K ?
+2	0	0	2	10	Promotion	Product	Giải_thưởng : 03 tai_nghe chụp tai không dây Sony WH-CH 510 siêu xịn sò .
+0	2	10	0	0	Product	Promotion	Giải_thưởng : 03 tai_nghe chụp tai không dây Sony WH-CH 510 siêu xịn sò .
+1	1	1	5	6	Location	Location	Hello Hà_Nội , lại là Circle K_nè
+2	5	6	1	1	Location	Location	Hello Hà_Nội , lại là Circle K_nè
+4	10	12	0	3	Product	Regulation	Mua 2 lon Fanta_Nho ( 320 ml ) nhận ngay 1 lượt game trên app thành_viên CK Club .
+1	14	17	10	12	Organization	Product	Mua 2 lon Fanta_Nho ( 320 ml ) nhận ngay 1 lượt game trên app thành_viên CK Club .
+0	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 19/9/2022 – 10/10/2022
+2	0	2	4	7	Promotion	Product	2 giải nhất : Tai_nghe Bluetooth Samsung Galaxy_Buds_Pro
+0	4	7	0	2	Product	Promotion	2 giải nhất : Tai_nghe Bluetooth Samsung Galaxy_Buds_Pro
+2	0	2	4	6	Promotion	Product	150 giải nhì : Balo Fanta Nho siêu “ kute ”
+0	4	6	0	2	Product	Promotion	150 giải nhì : Balo Fanta Nho siêu “ kute ”
+4	0	4	6	12	Promotion	Regulation	Tặng 1 kem Top_Ten bất_kỳ khi mua 2 gói BVS Kotex Gardenia Deo + anh_đào 23cm ( 8 pcs ) , quá đã luônnn !
+2	0	1	5	8	Location	Location	Circle K xin chào team Vinhome Ocean Park Hà_Nội nhá
+1	5	8	0	1	Location	Location	Circle K xin chào team Vinhome Ocean Park Hà_Nội nhá
+2	1	2	3	6	Location	Location	Ghé Circle K Vinhome Ocean Park Hà_Nội ngay nà !
+1	3	6	1	2	Location	Location	Ghé Circle K Vinhome Ocean Park Hà_Nội ngay nà !
+1	3	7	11	11	Promotion	Location	Phát_hiện mới : Wada Bento đồng giá 25K siêu hot tại Circle_K
+0	0	6	11	13	Promotion	Time	Wada Bento meal box ĐỒNG GIÁ 25K trong KHUNG GIỜ VÀNG 14H – 16H
+4	11	13	0	6	Time	Promotion	Wada Bento meal box ĐỒNG GIÁ 25K trong KHUNG GIỜ VÀNG 14H – 16H
+1	1	2	8	10	Product	Location	Sản_phẩm Wada Bento bán độc_quyền tại một_số cửa_hàng Circle_K TP. HCM .
+4	2	3	5	6	Product	Regulation	Nhận ngay voucher 10K cho hoá_đơn 40K khi thanh_toán tại Circle_K.
+1	2	3	10	10	Product	Location	Nhận ngay voucher 10K cho hoá_đơn 40K khi thanh_toán tại Circle_K.
+1	2	5	7	10	Product	Location	Nhận ngay 1 lượt chơi game trên app thành_viên CK Club khi mua hoá_đơn 50K cho các sản_phẩm TRÀ ĐÓNG_CHAI .
+4	2	5	13	19	Product	Regulation	Nhận ngay 1 lượt chơi game trên app thành_viên CK Club khi mua hoá_đơn 50K cho các sản_phẩm TRÀ ĐÓNG_CHAI .
+1	11	13	17	17	Location	Location	Cuối tháng 8 vui vui_vẻ vẻ chào_đón 2 cửa_hàng mới_tinh tại Bình_Dương và Hà_Nội đi nà các Circle_K fan ơi .
+2	17	17	11	13	Location	Location	Cuối tháng 8 vui vui_vẻ vẻ chào_đón 2 cửa_hàng mới_tinh tại Bình_Dương và Hà_Nội đi nà các Circle_K fan ơi .
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 30/8/2022 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 30/8/2022 .
+0	0	4	10	12	Promotion	Time	Ưu_đãi MUA 2 TẶNG 1 đang diễn ra và chỉ còn đến 31.8.2022
+4	10	12	0	4	Time	Promotion	Ưu_đãi MUA 2 TẶNG 1 đang diễn ra và chỉ còn đến 31.8.2022
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 27/8/2022 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 27/8/2022 .
+4	2	5	10	17	Product	Regulation	Giải_thưởng : 05 voucher Circle K trị_giá 300K dành cho 05 người có câu_chuyện được Circle_K yêu_mến nhất .
+3	7	7	2	5	Price	Product	Giải_thưởng : 05 voucher Circle K trị_giá 300K dành cho 05 người có câu_chuyện được Circle_K yêu_mến nhất .
+2	10	17	7	7	Regulation	Price	Giải_thưởng : 05 voucher Circle K trị_giá 300K dành cho 05 người có câu_chuyện được Circle_K yêu_mến nhất .
+4	0	2	4	6	Promotion	Regulation	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+1	0	2	13	15	Promotion	Location	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+0	0	2	17	20	Promotion	Time	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+2	11	11	0	2	Organization	Promotion	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+2	11	11	13	15	Organization	Location	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+4	17	20	0	2	Time	Promotion	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+2	17	20	4	6	Time	Regulation	Hoàn tiền 15K cho hoá_đơn từ 70K áp_dụng khi thanh_toán bằng Grabmoca tại Circle K toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+4	0	8	15	20	Promotion	Regulation	Tặng 1 chai trà chanh với sả Fuze Tea + ( 1 L ) khi mua 1 hộp bánh Trung_Thu bất_kỳ .
+4	0	6	15	20	Promotion	Regulation	Tặng 1 chai trà Ô long Tea + không đường ( 455 ml ) khi mua 1 cái bánh Trung_Thu bất_kỳ .
+4	2	5	7	13	Product	Regulation	Nhận ngay 1 lượt chơi game với hoá_đơn từ 50K cho các sản_phẩm kem cực ngon tại Circle_K.
+1	2	5	17	17	Product	Location	Nhận ngay 1 lượt chơi game với hoá_đơn từ 50K cho các sản_phẩm kem cực ngon tại Circle_K.
+1	0	1	4	5	Location	Location	BIÊN HÒA ƠI , CIRCLE K ĐẾN RỒI_ĐÂY
+2	4	5	0	1	Location	Location	BIÊN HÒA ƠI , CIRCLE K ĐẾN RỒI_ĐÂY
+1	1	2	9	10	Location	Location	Team Biên Hoà đâu rồi nà , hãy cho Circle K thấy cánh_tay của các bạnnn .
+2	9	10	1	2	Location	Location	Team Biên Hoà đâu rồi nà , hãy cho Circle K thấy cánh_tay của các bạnnn .
+0	2	5	18	18	Product	Time	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 04/8/2022 .
+4	18	18	2	5	Time	Product	Nhận ngay túi quà TRỊ_GIÁ 100K với mỗi hoá_đơn mua hàng từ 100K trở lên DUY_NHẤT vào ngày 04/8/2022 .
+4	0	9	11	21	Promotion	Regulation	Tặng ngay 1 áo thun street dance và tiết_kiệm 12K khi mua 12 lon / chai soda kem vị việt quất Mirinda ( 320 ml / 330 ml / 390 ml )
+1	10	10	12	12	Organization	Location	Mùa hè uống healthy ăn yummy , là vì có La_Vie và Circle_K
+0	5	5	0	1	Time	Regulation	Thời_gian áp_dụng : chỉ từ 07/7 - 03/8/2022
+4	2	5	10	16	Product	Regulation	Giải_thưởng : 10 voucher Circle K trị_giá 200K dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+3	7	7	2	5	Price	Product	Giải_thưởng : 10 voucher Circle K trị_giá 200K dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+2	10	16	7	7	Regulation	Price	Giải_thưởng : 10 voucher Circle K trị_giá 200K dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+0	3	5	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 17.7.2022 .
+4	2	5	10	16	Product	Regulation	Giải_thưởng : 05 voucher Circle K trị_giá 200K dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+3	7	7	2	5	Price	Product	Giải_thưởng : 05 voucher Circle K trị_giá 200K dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+2	10	16	7	7	Regulation	Price	Giải_thưởng : 05 voucher Circle K trị_giá 200K dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+4	31	34	2	24	Product	Regulation	Thể_lệ : Mua 2 lon Pepsi / Pepsi không calo / Pepsi không calo vị chanh / 7 UP / 7 UP chất xơ bất_kỳ ( 320 ml ) - Nhận 1 lượt quay may_mắn trúng quà chất lừ trên app thành_viên CK Club .
+1	31	34	40	43	Product	Location	Thể_lệ : Mua 2 lon Pepsi / Pepsi không calo / Pepsi không calo vị chanh / 7 UP / 7 UP chất xơ bất_kỳ ( 320 ml ) - Nhận 1 lượt quay may_mắn trúng quà chất lừ trên app thành_viên CK Club .
+2	0	3	6	7	Promotion	Product	Thử_thách đoán đội chiến_thắng , nhận E-voucher 100K
+0	6	7	0	3	Product	Promotion	Thử_thách đoán đội chiến_thắng , nhận E-voucher 100K
+1	3	4	2	2	Promotion	Location	Giải_thưởng : Circle_K tặng ngay 10 E-voucher 100K cho 10 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 19.5.2022 )
+4	3	4	5	12	Promotion	Regulation	Giải_thưởng : Circle_K tặng ngay 10 E-voucher 100K cho 10 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 19.5.2022 )
+1	3	4	2	2	Promotion	Location	Giải_thưởng : Circle_K tặng ngay 20 E-voucher 50K cho 20 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 15.5.2022 )
+4	3	4	5	12	Promotion	Regulation	Giải_thưởng : Circle_K tặng ngay 20 E-voucher 50K cho 20 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 15.5.2022 )
+4	0	3	7	14	Promotion	Regulation	NHẬN 1 GÓI SNACK CỰC NGON KHI TẢI VÀ ĐĂNG_KÝ THÀNH_CÔNG APP THÀNH_VIÊN CK CLUB
+1	2	3	5	5	Product	Location	Những chiếc voucher 100K của Circle_K sẽ gọi tên ai đây , thử tài may_mắn với 3 bước đơn_giản sau :
+1	3	4	1	1	Organization	Location	Đến Circle_K mở Ví MoMo , nhận ngay 1 lon Carlsberg miễn_phí .
+1	3	4	6	11	Organization	Promotion	Đến Circle_K mở Ví MoMo , nhận ngay 1 lon Carlsberg miễn_phí .
+2	6	11	1	1	Promotion	Location	Đến Circle_K mở Ví MoMo , nhận ngay 1 lon Carlsberg miễn_phí .
+1	9	11	4	5	Product	Location	Bước 2 : đến cửa_hàng Circle_K , chọn mua bia Carlsberg 330ml và mang đến quầy thanh_toán
+1	9	11	4	5	Product	Location	Bước 1 : Ghé cửa_hàng Circle_K và chọn bất_kỳ 2 sản_phẩm Nutriboost , Fuzetea , Teppy , Aquarius và mang đến quầy thanh_toán .
+2	0	1	3	7	Promotion	Product	Giải Nhất : suất học_bổng toàn_phần tại 8A .
+0	3	7	0	1	Product	Promotion	Giải Nhất : suất học_bổng toàn_phần tại 8A .
+2	0	0	2	5	Promotion	Product	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+0	2	5	0	0	Product	Promotion	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+2	6	9	0	0	Price	Promotion	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+3	6	9	2	5	Price	Product	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+2	0	1	3	17	Promotion	Product	Giải 3 : 5 túi tote độc_quyền và voucher học 3 buổi học trải nghiệm miễn_phí tại 8A .
+0	3	17	0	1	Product	Promotion	Giải 3 : 5 túi tote độc_quyền và voucher học 3 buổi học trải nghiệm miễn_phí tại 8A .
+3	5	5	0	3	Price	Product	15 voucher Circle K trị_giá 300K dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn giựt về đó , tham_gia ngay thôi !
+0	0	5	11	11	Promotion	Time	Ưu_đãi nhận 1 ly trà tắc ( M ) áp_dụng từ 23/3 - 19/4/2022 .
+4	11	11	0	5	Time	Promotion	Ưu_đãi nhận 1 ly trà tắc ( M ) áp_dụng từ 23/3 - 19/4/2022 .
+3	6	9	0	4	Price	Product	04 Balo Divoom Pixoo Backpack trị_giá hơn 13 triệu đồng
+3	7	10	0	5	Price	Product	08 túi bao_tử Divoom Sling Bag trị_giá hơn 15 triệu đồng
+2	0	3	14	14	Product	Location	Hơn 1000 túi tote 8A và nhiều phần quà hấp_dẫn khác tại 8A từ Circle_K
+1	4	4	0	3	Organization	Product	Hơn 1000 túi tote 8A và nhiều phần quà hấp_dẫn khác tại 8A từ Circle_K
+1	4	4	14	14	Organization	Location	Hơn 1000 túi tote 8A và nhiều phần quà hấp_dẫn khác tại 8A từ Circle_K
+0	0	4	10	10	Promotion	Time	Chương_trình tham_gia bốc_thăm trúng quà chỉ diễn ra trong tháng 03/2022.
+4	10	10	0	4	Time	Promotion	Chương_trình tham_gia bốc_thăm trúng quà chỉ diễn ra trong tháng 03/2022.
+3	5	5	0	3	Price	Product	15 voucher Circle K trị_giá 200K dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn giựt về đó , tham_gia ngay thôi !
+2	0	2	7	13	Promotion	Product	5 GIẢI NHÌ : mỗi giải gồm 02 voucher giảm_giá 2.000.000 đ của CarePlus
+0	7	13	0	2	Product	Promotion	5 GIẢI NHÌ : mỗi giải gồm 02 voucher giảm_giá 2.000.000 đ của CarePlus
+2	1	2	4	6	Location	Location	Địa_chỉ LOTTE Mart_Phú_Thọ : Toà nhà EverRich , 968 đường 3 Tháng 2 , P. 15 , Q. 11 , Tp. Hồ_Chí_Minh ( Khu siêu_thị : Tầng 2 & 3 , Khu nhà_hàng , rạp phim : Tầng 1 & 4 ) .
+1	4	6	1	2	Location	Location	Địa_chỉ LOTTE Mart_Phú_Thọ : Toà nhà EverRich , 968 đường 3 Tháng 2 , P. 15 , Q. 11 , Tp. Hồ_Chí_Minh ( Khu siêu_thị : Tầng 2 & 3 , Khu nhà_hàng , rạp phim : Tầng 1 & 4 ) .
+4	0	5	16	22	Promotion	Regulation	Tặng 1 Bắp bung vị original & caramel 280g hoặc vị bơ tỏi hành_tây 220g với hoá_đơn 400.000 đ các sản_phẩm xuất_xứ Hàn_Quốc gồm :
+0	4	5	0	2	Time	Regulation	Thời_gian áp_dụng ưu_đãi : Đến 21.02.2023
+1	5	9	2	3	Product	Location	Ghé ngay LOTTE Mart mua dâu Hàn_Quốc và bánh dâu_tây thơm thiệt thơm , ngon thiệt ngon nhaaa ~
+0	0	3	4	8	Product	Promotion	Trái_cây rau thịt cá ưu_đãi thả ga đến 41% .
+3	4	8	0	3	Promotion	Product	Trái_cây rau thịt cá ưu_đãi thả ga đến 41% .
+2	2	3	5	7	Location	Location	Địa_điểm : LOTTE Mart_Vinh - Đại_Lộ V.I. Lê_Nin , P. Hà_Huy_Tập , TP. Vinh , Tỉnh Nghệ_An .
+1	5	7	2	3	Location	Location	Địa_điểm : LOTTE Mart_Vinh - Đại_Lộ V.I. Lê_Nin , P. Hà_Huy_Tập , TP. Vinh , Tỉnh Nghệ_An .
+3	0	4	5	8	Promotion	Product	Giảm 50% Chỉ 9.000 đ Dưa_leo baby hộp 500g
+0	5	8	0	4	Product	Promotion	Giảm 50% Chỉ 9.000 đ Dưa_leo baby hộp 500g
+3	0	4	5	10	Promotion	Product	Giảm 50% Chỉ 9.000 đ Lô 2 Nấm kim châm Hàn_Quốc
+0	5	10	0	4	Product	Promotion	Giảm 50% Chỉ 9.000 đ Lô 2 Nấm kim châm Hàn_Quốc
+3	0	4	5	8	Promotion	Product	Giảm 50% Chỉ 9.000 đ Cá_ngừ ngâm dầu 160g
+0	5	8	0	4	Product	Promotion	Giảm 50% Chỉ 9.000 đ Cá_ngừ ngâm dầu 160g
+2	0	3	4	7	Promotion	Product	Mua 1 Tặng 1 Bánh_mì mè Hàn_Quốc 60g .
+0	4	7	0	3	Product	Promotion	Mua 1 Tặng 1 Bánh_mì mè Hàn_Quốc 60g .
+1	4	20	2	3	Promotion	Location	Đặc_biệt , LOTTE Mart Tặng bạn 1 Nước tương đậu_nành Maggi 300ml hoặc 1 Mì chay rau củ Meizan cao_cấp 250g .
+2	0	3	5	15	Promotion	Product	Giải_thưởng đặc_biệt của tuần : Học_bổng Yola 50% và Voucher sức_khoẻ 2 triệu đồng của Careplus
+0	5	15	0	3	Product	Promotion	Giải_thưởng đặc_biệt của tuần : Học_bổng Yola 50% và Voucher sức_khoẻ 2 triệu đồng của Careplus
+4	12	17	2	5	Product	Regulation	Chỉ cần hoá_đơn từ 500.000 đ , khách_hàng thành_viên sẽ nhận được 1 phiếu rút thăm trúng thưởng .
+1	3	5	0	1	Organization	Promotion	Giảm 10% tại Himalaya và IJC
+1	1	1	3	6	Organization	Location	CHÀO_MỪNG MANWAH ĐẾN LOTTE MART PHÚ THỌ
+4	0	4	6	14	Promotion	Regulation	Tặng 1 suất buffet miễn_phí cho nhóm từ 4 khách người_lớn có mã ưu_đãi hợp_lệ
+4	3	7	0	1	Promotion	Regulation	Khách_hàng check-in được miễn_phí buffet line trị_giá 49k
+0	0	4	5	11	Product	Promotion	Dưa Hắc Tiểu_Long KHẮC CHỮ giảm 11% còn 239.000 đ / trái tại LOTTE Mart Hồ_Chí_Minh , Bình_Dương , Vinh , Hà_Nội
+1	0	4	13	15	Product	Location	Dưa Hắc Tiểu_Long KHẮC CHỮ giảm 11% còn 239.000 đ / trái tại LOTTE Mart Hồ_Chí_Minh , Bình_Dương , Vinh , Hà_Nội
+3	5	11	0	4	Promotion	Product	Dưa Hắc Tiểu_Long KHẮC CHỮ giảm 11% còn 239.000 đ / trái tại LOTTE Mart Hồ_Chí_Minh , Bình_Dương , Vinh , Hà_Nội
+2	5	11	13	15	Promotion	Location	Dưa Hắc Tiểu_Long KHẮC CHỮ giảm 11% còn 239.000 đ / trái tại LOTTE Mart Hồ_Chí_Minh , Bình_Dương , Vinh , Hà_Nội
+4	5	14	1	4	Promotion	Regulation	Mua hoá_đơn từ 250.000 đ Tặng 200gr Thịt đùi / thịt vai hoặc 500gr Chuối
+1	0	0	8	11	Promotion	Location	GIẢM " KHỦNG " ĐẾN 75% DUY_NHẤT TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+0	0	2	3	6	Product	Promotion	Nồi chiên Tefal giảm cực sốc 54% , Tặng thêm 1 nồi cơm_điện Tefal 0.7 L trị_giá 2.490.000 đ
+3	3	6	0	2	Promotion	Product	Nồi chiên Tefal giảm cực sốc 54% , Tặng thêm 1 nồi cơm_điện Tefal 0.7 L trị_giá 2.490.000 đ
+0	0	4	5	10	Product	Promotion	Bộ drap cotton poly màu giảm 52% chỉ còn 290.000 đ
+3	5	10	0	4	Promotion	Product	Bộ drap cotton poly màu giảm 52% chỉ còn 290.000 đ
+4	8	13	2	5	Promotion	Regulation	Đặc_biệt , thành_viên của LOTTE Mart còn được mua giá cực sốc thùng Coca , Hạt điều , Bánh_Lu , Trà_olong chỉ từ 89.000 đ .
+2	1	3	5	9	Location	Location	Địa_chỉ LOTTE Mart Đồng_Nai : Lô B-03 Khu TM AMATA , QL 1A , P. Long_Bình , Tp. Biên_Hoà , Tỉnh Đồng_Nai .
+1	5	9	1	3	Location	Location	Địa_chỉ LOTTE Mart Đồng_Nai : Lô B-03 Khu TM AMATA , QL 1A , P. Long_Bình , Tp. Biên_Hoà , Tỉnh Đồng_Nai .
+4	8	15	1	3	Promotion	Regulation	Là thành_viên LOTTE Mart thật tuyệt , được Tặng Táo Fuji Hàn_Quốc 1kg trị_giá 85.900 đ đó cả nhà ơi !
+0	0	3	5	8	Promotion	Time	Giảm cực sốc 27% duy_nhất từ nay đến 21.01.2023 tại hệ_thống siêu_thị LOTTE Mart toàn_quốc .
+1	0	3	10	14	Promotion	Location	Giảm cực sốc 27% duy_nhất từ nay đến 21.01.2023 tại hệ_thống siêu_thị LOTTE Mart toàn_quốc .
+4	5	8	0	3	Time	Promotion	Giảm cực sốc 27% duy_nhất từ nay đến 21.01.2023 tại hệ_thống siêu_thị LOTTE Mart toàn_quốc .
+0	0	2	9	12	Product	Promotion	Nước giặt Downy , Giấy_Premier , Pizza , Chả_giò mua 1 tặng 1 .
+2	9	12	0	2	Promotion	Product	Nước giặt Downy , Giấy_Premier , Pizza , Chả_giò mua 1 tặng 1 .
+2	0	1	7	9	Regulation	Price	Checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+4	3	4	0	1	Product	Regulation	Checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+3	7	9	3	4	Price	Product	Checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+4	10	23	0	3	Product	Regulation	Khách_hàng thành_viên LOTTE Mart khi mua hàng với hoá_đơn từ 1 triệu trở lên sẽ được nhận ngay combo bao_gồm 1 Voucher CarePlus trị_giá 200.000 đồng và 1 Voucher học_bổng 20% của Yola .
+4	10	23	8	9	Product	Regulation	Khách_hàng thành_viên LOTTE Mart khi mua hàng với hoá_đơn từ 1 triệu trở lên sẽ được nhận ngay combo bao_gồm 1 Voucher CarePlus trị_giá 200.000 đồng và 1 Voucher học_bổng 20% của Yola .
+0	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 06/01 – 12/02/2023 .
+3	6	7	8	16	Promotion	Product	Ưu_đãi cực hấp_dẫn chào sân : Giảm 21% Thịt vai / Thịt đùi heo ăn chuối BAPI
+0	8	16	6	7	Product	Promotion	Ưu_đãi cực hấp_dẫn chào sân : Giảm 21% Thịt vai / Thịt đùi heo ăn chuối BAPI
+4	5	14	1	4	Promotion	Regulation	Mua hoá_đơn từ 250.000 đ Tặng 200gr Thịt đùi / thịt vai hoặc 500gr Chuối
+0	0	2	9	11	Promotion	Promotion	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+2	0	2	13	16	Promotion	Location	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+2	9	11	0	2	Promotion	Promotion	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+1	9	11	13	16	Promotion	Location	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+2	5	7	12	13	Product	Location	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+0	5	7	16	17	Product	Promotion	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+1	9	11	5	7	Organization	Product	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+1	9	11	12	13	Organization	Location	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+2	9	11	16	17	Organization	Promotion	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+2	16	17	5	7	Promotion	Product	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+2	16	17	12	13	Promotion	Location	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+4	0	4	23	26	Promotion	Regulation	Tặng bộ Voucher Cơm cuộn / muffin và các chương_trình giảm_giá tại Manwah , Kichi_Kichi , KPub , The_Bunny , Himalaya ... với hoá_đơn từ 600.000 đ
+4	0	8	16	19	Promotion	Regulation	Mua hàng giá sốc chỉ từ 79.000 đ bánh , lạp_xưởng , nước_ngọt , bia với hoá_đơn từ 2.000.000 đ
+4	0	4	6	9	Product	Regulation	Thẻ quà tặng 100.000 đ với hoá_đơn từ 3.000.000 đ
+0	1	4	6	7	Promotion	Time	Riêng chương_trình Tặng bộ Voucher áp_dụng đến 21.01.2023 .
+4	6	7	1	4	Time	Promotion	Riêng chương_trình Tặng bộ Voucher áp_dụng đến 21.01.2023 .
+1	2	2	4	7	Organization	Location	Địa_điểm : Photobooth tại Tầng 1 LOTTE Mart_Phú_Thọ ( Toà nhà EverRich , 968 đường 3 Tháng 2 , P. 15 , Q. 11 ) .
+4	0	4	6	12	Product	Regulation	Thẻ Quà Tặng 100.000 đ cho khách_hàng thành_viên với hoá_đơn từ 3.000.000 đ .
+1	6	7	12	16	Organization	Promotion	Để ngày khai_trương thêm tưng_bừng , Nhà Thỏ “ chơi lớn ” tặng bạn BINGSU TRÀ SỮA với hoá_đơn cho 4 sản_phẩm bất_kì
+4	12	16	18	22	Promotion	Regulation	Để ngày khai_trương thêm tưng_bừng , Nhà Thỏ “ chơi lớn ” tặng bạn BINGSU TRÀ SỮA với hoá_đơn cho 4 sản_phẩm bất_kì
+0	1	2	5	7	Product	Promotion	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+2	1	2	9	12	Product	Time	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+1	1	2	14	15	Product	Location	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+3	5	7	1	2	Promotion	Product	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+0	5	7	9	12	Promotion	Time	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+2	5	7	14	15	Promotion	Location	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+2	9	12	1	2	Time	Product	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+2	9	12	5	7	Time	Promotion	Các khay thịt đang được Giảm đến 20% chỉ từ nay đến 31.12.2022 tại LOTTE Mart_Vinh .
+3	2	2	6	10	Price	Product	Chỉ còn 29 K / thỏi son dưỡng mềm_môi hương dâu ngọt_ngào giúp môi mềm mịn , căng mọng .
+2	3	3	6	10	Price	Product	Chỉ còn 29 K / thỏi son dưỡng mềm_môi hương dâu ngọt_ngào giúp môi mềm mịn , căng mọng .
+2	5	5	6	10	Price	Product	Chỉ còn 29 K / thỏi son dưỡng mềm_môi hương dâu ngọt_ngào giúp môi mềm mịn , căng mọng .
+3	2	2	6	9	Price	Product	Chỉ còn 29 K / tuýp kem dưỡng da tay mềm mịn , ngừa khô ráp với 4 loại hương :
+2	3	3	6	9	Price	Product	Chỉ còn 29 K / tuýp kem dưỡng da tay mềm mịn , ngừa khô ráp với 4 loại hương :
+2	5	5	6	9	Price	Product	Chỉ còn 29 K / tuýp kem dưỡng da tay mềm mịn , ngừa khô ráp với 4 loại hương :
+3	0	2	10	13	Promotion	Product	Giảm đến 27% , chỉ còn 159 K / hộp tinh_chất cô đặc Collagen cấp_nước và se khít lỗ chân_lông .
+0	10	13	0	2	Product	Promotion	Giảm đến 27% , chỉ còn 159 K / hộp tinh_chất cô đặc Collagen cấp_nước và se khít lỗ chân_lông .
+3	0	2	10	13	Promotion	Product	Giảm đến 28% , chỉ còn 129 K / tuýp serum dưỡng mắt retinol làm mờ quầng thâm và xẹp bọng mắt .
+0	10	13	0	2	Product	Promotion	Giảm đến 28% , chỉ còn 129 K / tuýp serum dưỡng mắt retinol làm mờ quầng thâm và xẹp bọng mắt .
+3	0	8	9	14	Promotion	Product	Giảm đến 27% chỉ còn 239 K / hộp kem dưỡng da ban_ngày / đêm có tác_dụng khoá ẩm và phục_hồi da hiệu_quả .
+0	9	14	0	8	Product	Promotion	Giảm đến 27% chỉ còn 239 K / hộp kem dưỡng da ban_ngày / đêm có tác_dụng khoá ẩm và phục_hồi da hiệu_quả .
+0	0	4	14	15	Promotion	Time	Cơn lốc skincare giá sốc “ ối dồi ôi ” mà khuyến_mãi chỉ đến hết 29/12 thôi chị_em mình ơi !
+4	14	15	0	4	Time	Promotion	Cơn lốc skincare giá sốc “ ối dồi ôi ” mà khuyến_mãi chỉ đến hết 29/12 thôi chị_em mình ơi !
+1	0	1	6	9	Organization	Location	K Beauty hiện đang có tại LOTTE Mart Quận 7 , Quận 11 , Gò_Vấp , Đồng_Nai , Bình_Dương , Vũng_Tàu
+0	3	8	0	1	Time	Regulation	THỜI_GIAN THAM_GIA : từ nay đến 22:00 ngày 18/12/2022 .
+0	0	3	4	7	Product	Promotion	Soup chả cá Seaway mua 2 tặng 1 , giá 22.000 đ / phần .
+3	4	7	0	3	Promotion	Product	Soup chả cá Seaway mua 2 tặng 1 , giá 22.000 đ / phần .
+0	4	4	0	2	Time	Regulation	Thời_gian diễn ra : 16/12 - 29/12
+1	7	8	2	3	Product	Location	Đến ngay LOTTE Mart để có ngay bánh_khúc cây thơm ngon với giá chỉ 139k bạn ơi !
+3	14	14	7	8	Price	Product	Đến ngay LOTTE Mart để có ngay bánh_khúc cây thơm ngon với giá chỉ 139k bạn ơi !
+0	3	8	0	1	Time	Regulation	THỜI_GIAN THAM_GIA : từ nay đến 02:00 ngày 15/12/2022 .
+4	3	8	10	17	Product	Regulation	QUÀ TẶNG : 15 vé xem phim LOTTE Cinema cho 15 bạn có dự_đoán chính_xác và sớm nhất ( 01 vé / người thắng giải ) .
+1	0	6	10	12	Product	Location	THỊT BÒ XAY nhập_khẩu trực_tiếp từ Úc tiếp_tục góp_mặt tại LOTTE Mart Vũng_Tàu , Ba_Đình .
+3	4	9	10	13	Promotion	Product	Ưu_đãi hàng mới , giá giảm chỉ từ 57.000 đ gói thịt xay 150g .
+0	10	13	4	9	Product	Promotion	Ưu_đãi hàng mới , giá giảm chỉ từ 57.000 đ gói thịt xay 150g .
+0	0	4	10	11	Product	Promotion	Gà Dakgangjeong sốt cay ngọt món ngon đường_phố Hàn_Quốc , giảm 16% .
+3	10	11	0	4	Promotion	Product	Gà Dakgangjeong sốt cay ngọt món ngon đường_phố Hàn_Quốc , giảm 16% .
+0	0	1	5	6	Promotion	Time	Giảm 17% ~ 21% áp_dụng đến 05.12.2022 tại LOTTE Mart Quận 7 .
+1	0	1	8	11	Promotion	Location	Giảm 17% ~ 21% áp_dụng đến 05.12.2022 tại LOTTE Mart Quận 7 .
+4	5	6	0	1	Time	Promotion	Giảm 17% ~ 21% áp_dụng đến 05.12.2022 tại LOTTE Mart Quận 7 .
+0	3	8	0	1	Time	Regulation	THỜI_GIAN THAM_GIA : từ nay đến 02:00 ngày 11/12/2022 .
+0	3	8	0	1	Time	Regulation	THỜI_GIAN THAM_GIA : từ nay đến 22:00 ngày 10/12/2022 .
+0	0	2	10	10	Promotion	Time	Chuỗi Minigame World_Cup cực hot sắp diễn ra vào ngày 07/12 .
+4	10	10	0	2	Time	Promotion	Chuỗi Minigame World_Cup cực hot sắp diễn ra vào ngày 07/12 .
+0	0	2	3	8	Product	Promotion	Cà_phê lon Mr._Brown giảm 50% chỉ còn 6.900 đ .
+3	3	8	0	2	Promotion	Product	Cà_phê lon Mr._Brown giảm 50% chỉ còn 6.900 đ .
+0	0	1	4	5	Promotion	Time	Ưu_đãi sinh_nhật chỉ áp_dụng đến 06.12.2022 .
+4	4	5	0	1	Time	Promotion	Ưu_đãi sinh_nhật chỉ áp_dụng đến 06.12.2022 .
+0	3	7	8	11	Promotion	Time	Chỉ có tại tiệc Sinh_nhật 14 LOTTE Mart từ nay đến 06.12.2022 .
+4	8	11	3	7	Time	Promotion	Chỉ có tại tiệc Sinh_nhật 14 LOTTE Mart từ nay đến 06.12.2022 .
+4	0	5	7	10	Promotion	Regulation	Tặng 1 nón bảo_hiểm LOTTE Mart với hoá_đơn từ 1.200.000 đ
+4	0	4	6	9	Promotion	Regulation	Tặng 1 túi môi_trường L.Care với hoá_đơn từ 400.000 đ
+2	8	10	12	17	Location	Location	Khuyến_mãi chỉ từ 18.11 ~ 22.11.2022 duy_nhất tại LOTTE Mart Vũng_Tàu ( Góc đường 3/2 và đường Thi_Sách , P. 8 , Tp. Vũng_Tàu , Tỉnh Bà_Rịa – Vũng_Tàu ) .
+1	12	17	8	10	Location	Location	Khuyến_mãi chỉ từ 18.11 ~ 22.11.2022 duy_nhất tại LOTTE Mart Vũng_Tàu ( Góc đường 3/2 và đường Thi_Sách , P. 8 , Tp. Vũng_Tàu , Tỉnh Bà_Rịa – Vũng_Tàu ) .
+2	0	2	10	12	Product	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	0	2	14	21	Product	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	0	2	23	26	Product	Regulation	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	8	8	0	2	Organization	Product	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	8	8	10	12	Organization	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	8	8	14	21	Organization	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	10	10	0	2	Organization	Product	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+1	10	10	10	12	Organization	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+1	10	10	14	21	Organization	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+3	10	12	0	2	Promotion	Product	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	10	12	14	21	Promotion	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	10	12	23	26	Promotion	Regulation	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	14	21	0	2	Promotion	Product	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+2	14	21	10	12	Promotion	Promotion	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+4	14	21	23	26	Promotion	Regulation	Bình giữ nhiệt , bình nước , bếp Lock & Lock_Giảm sốc 50% còn Tặng thêm 1 ly sứ Lock & Lock với hoá_đơn từ 499.000 đ .
+0	0	3	4	9	Product	Promotion	Nước giặt Lix nước_hoa giảm 50% chỉ còn 93.900 đ .
+3	4	9	0	3	Promotion	Product	Nước giặt Lix nước_hoa giảm 50% chỉ còn 93.900 đ .
+0	0	1	2	5	Product	Promotion	Ruột gối mua 1 tặng 1 .
+3	2	5	0	1	Promotion	Product	Ruột gối mua 1 tặng 1 .
+0	0	3	5	7	Promotion	Time	Khuyến_mãi giảm đến 39% chỉ áp_dụng đến 08.11 thôi đó .
+4	5	7	0	3	Time	Promotion	Khuyến_mãi giảm đến 39% chỉ áp_dụng đến 08.11 thôi đó .
+0	3	4	6	8	Product	Promotion	Ngon xuýt_xoa với Mì Hàn_Quốc_Samyang , Nongshim_Giảm đến 42% .
+3	6	8	3	4	Promotion	Product	Ngon xuýt_xoa với Mì Hàn_Quốc_Samyang , Nongshim_Giảm đến 42% .
+4	1	1	8	11	Time	Promotion	Từ 𝟎𝟐 - 𝟏𝟓 / 𝟏𝟏 , mừng khai_trương gian_hàng BAPI FOOD tại LOTTE Mart Gò_Vấp , bạn có ngay quà tặng :
+0	8	11	1	1	Promotion	Time	Từ 𝟎𝟐 - 𝟏𝟓 / 𝟏𝟏 , mừng khai_trương gian_hàng BAPI FOOD tại LOTTE Mart Gò_Vấp , bạn có ngay quà tặng :
+1	8	11	13	15	Promotion	Location	Từ 𝟎𝟐 - 𝟏𝟓 / 𝟏𝟏 , mừng khai_trương gian_hàng BAPI FOOD tại LOTTE Mart Gò_Vấp , bạn có ngay quà tặng :
+1	16	17	0	8	Organization	Product	200g thịt đùi hoặc thịt vai heo ăn chuối khi mua các sản_phẩm heo ăn chuối BAPI FOOD với hoá_đơn từ 250k .
+2	5	8	20	22	Location	Location	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+2	10	13	5	8	Product	Location	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+2	10	13	20	22	Product	Location	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+1	14	15	5	8	Organization	Location	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+1	14	15	10	13	Organization	Product	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+1	14	15	20	22	Organization	Location	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+2	20	22	5	8	Location	Location	Sau khi ra_mắt thành_công tại LOTTE Mart Quận 7 , thịt heo ăn chuối BAPI FOOD tiếp_tục lên kệ tại LOTTE Mart Gò_Vấp .
+4	4	4	11	17	Time	Promotion	QUÀ BẤT_NGỜ : DUY_NHẤT 𝟐𝟖 / 𝟏𝟎 LÚC 𝟏𝟎𝐇 SÁNG - TẶNG 120 PHẦN TÁO HÀN QUỐC CAO_CẤP TẠI LOTTE MART QUẬN 7
+2	6	9	11	17	Time	Promotion	QUÀ BẤT_NGỜ : DUY_NHẤT 𝟐𝟖 / 𝟏𝟎 LÚC 𝟏𝟎𝐇 SÁNG - TẶNG 120 PHẦN TÁO HÀN QUỐC CAO_CẤP TẠI LOTTE MART QUẬN 7
+0	11	17	4	4	Promotion	Time	QUÀ BẤT_NGỜ : DUY_NHẤT 𝟐𝟖 / 𝟏𝟎 LÚC 𝟏𝟎𝐇 SÁNG - TẶNG 120 PHẦN TÁO HÀN QUỐC CAO_CẤP TẠI LOTTE MART QUẬN 7
+2	11	17	6	9	Promotion	Time	QUÀ BẤT_NGỜ : DUY_NHẤT 𝟐𝟖 / 𝟏𝟎 LÚC 𝟏𝟎𝐇 SÁNG - TẶNG 120 PHẦN TÁO HÀN QUỐC CAO_CẤP TẠI LOTTE MART QUẬN 7
+1	11	17	19	22	Promotion	Location	QUÀ BẤT_NGỜ : DUY_NHẤT 𝟐𝟖 / 𝟏𝟎 LÚC 𝟏𝟎𝐇 SÁNG - TẶNG 120 PHẦN TÁO HÀN QUỐC CAO_CẤP TẠI LOTTE MART QUẬN 7
+4	12	17	2	9	Promotion	Regulation	Đặc_biệt , khách_hàng thành_viên mua trái_cây có hoá_đơn từ 500k sẽ được tặng ngay 1kg táo Fuji Hàn_Quốc !
+4	3	7	9	11	Product	Regulation	Quà tặng : 120 phần táo Hàn_Quốc cao_cấp cho 120 khách_hàng đầu_tiên .
+1	3	5	10	11	Promotion	Location	ƯU_ĐÃI ĐẶC_BIỆT : TẶNG 1KG TÁO CHO KHÁCH YÊU CỦA 𝐋𝐎𝐓𝐓𝐄 𝐌𝐀𝐑𝐓
+1	6	7	17	19	Organization	Location	Từ ngày 17/10/2022 đến 31/10/2022 , Thái_Ngon Ngon đang có chương_trình ưu_đãi dành cho khách_hàng mua_sắm tại LOTTE Mart Đồng_Nai vô_cùng hấp_dẫn :
+4	0	2	6	9	Promotion	Regulation	Giảm 5% tổng_bill cho khách_hàng có thẻ thành_viên LOTTE Mart
+4	0	2	6	10	Promotion	Regulation	Giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 500.000 đ
+4	0	2	6	10	Promotion	Regulation	Giảm 15% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+4	1	4	6	8	Time	Promotion	Từ Thứ 6 đến Chủ_Nhật : Giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+2	1	4	12	16	Time	Regulation	Từ Thứ 6 đến Chủ_Nhật : Giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+0	6	8	1	4	Promotion	Time	Từ Thứ 6 đến Chủ_Nhật : Giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+4	6	8	12	16	Promotion	Regulation	Từ Thứ 6 đến Chủ_Nhật : Giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+4	1	1	8	11	Time	Promotion	Từ 𝟏𝟒 - 𝟑𝟏 / 𝟏𝟎 , mừng khai_trương gian_hàng BAPI FOOD , bạn có ngay quà tặng :
+0	8	11	1	1	Promotion	Time	Từ 𝟏𝟒 - 𝟑𝟏 / 𝟏𝟎 , mừng khai_trương gian_hàng BAPI FOOD , bạn có ngay quà tặng :
+4	0	5	7	9	Product	Regulation	01 Túi tote hoặc 500gr chuối cho hoá_đơn từ 250k - 500k .
+4	0	3	5	7	Product	Regulation	01 áo thun cầu_thủ cho hoá_đơn từ 500k - 1000k .
+0	2	4	5	8	Promotion	Time	Đặc_biệt , GIẢM đến 30% từ nay đến 11.10 thôi đó .
+4	5	8	2	4	Time	Promotion	Đặc_biệt , GIẢM đến 30% từ nay đến 11.10 thôi đó .
+0	0	5	6	12	Product	Promotion	Lốc 10 Móc áo trẻ_em Hara giảm ngay 50% chỉ còn 22.500 đ
+3	6	12	0	5	Promotion	Product	Lốc 10 Móc áo trẻ_em Hara giảm ngay 50% chỉ còn 22.500 đ
+4	0	9	11	14	Promotion	Regulation	Tặng ngay 1 gói Trái_Cây Sấy tổng_hợp Choice L 100g cho hoá_đơn mua Thực_Phẩm Tươi_Sống , Bánh hoặc Thức_ăn chế_biến sẵn từ 300.000 đ trở_lên
+4	16	19	1	10	Promotion	Regulation	Với hoá_đơn từ 400.000 đ tại hệ_thống siêu_thị LOTTE Mart toàn_quốc , khách_hàng thành_viên sẽ được mua 1 sản_phẩm_giá sốc
+4	8	13	1	4	Promotion	Regulation	Với hoá_đơn từ 1.000.000 đ , LOTTE Mart Tặng ngay 1 phần quà yêu_thương :
+1	8	13	6	7	Promotion	Location	Với hoá_đơn từ 1.000.000 đ , LOTTE Mart Tặng ngay 1 phần quà yêu_thương :
+4	0	9	11	14	Promotion	Regulation	Tặng ngay 1 gói Bánh gạo Jinju cốm sữa 145g cho hoá_đơn mua Thực_Phẩm Tươi_Sống , Bánh hoặc Thức_ăn chế_biến sẵn từ 300.000 đ trở_lên
+2	0	0	1	2	Organization	Location	GOJOY LOTTE Mart_Vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+2	0	0	5	5	Organization	Promotion	GOJOY LOTTE Mart_Vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+1	5	5	1	2	Promotion	Location	GOJOY LOTTE Mart_Vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+0	5	5	7	9	Promotion	Time	GOJOY LOTTE Mart_Vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+4	7	9	5	5	Time	Promotion	GOJOY LOTTE Mart_Vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+2	0	4	5	6	Promotion	Product	Check-in NHẬN NGAY quà tặng Tai_Nghe trị_giá # 150 k
+0	5	6	0	4	Product	Promotion	Check-in NHẬN NGAY quà tặng Tai_Nghe trị_giá # 150 k
+1	0	2	4	6	Promotion	Location	KHAI_TRƯƠNG CỬA_HÀNG GOJOY TẠI LOTTE MART VINH
+1	8	10	16	18	Organization	Location	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+1	8	10	31	36	Organization	Promotion	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+4	31	36	1	6	Promotion	Regulation	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+2	31	36	16	18	Promotion	Location	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+2	2	4	10	12	Organization	Location	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+1	2	4	15	21	Organization	Promotion	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+1	15	21	10	12	Promotion	Location	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+4	15	21	23	25	Promotion	Regulation	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+4	3	3	8	15	Time	Promotion	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+0	8	15	3	3	Promotion	Time	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+1	8	15	21	23	Promotion	Location	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+2	18	19	8	15	Organization	Promotion	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+2	18	19	21	23	Organization	Location	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+1	6	8	2	4	Promotion	Location	Đến ngay LOTTE Mart Gò_Vấp mừng khai_trương Hải_Sản Hoàng_Gia_nha
+4	0	8	10	13	Promotion	Regulation	TẶNG 1 Lốc 3 Gói TẢO KIMORI TERIYAKI 5G cho hoá_đơn mua THỰC_PHẨM TƯƠI_SỐNG , BÁNH hoặc THỨC_ĂN CHẾ_BIẾN SẴN từ 300.000 Đ trở_lên
+0	3	6	0	1	Time	Regulation	Thời_gian chương_trình : từ 05.09 đến 11.09.2022
+4	0	5	12	19	Promotion	Regulation	Tặng ngay ly sứ cao_cấp Starbucks® ( Trị_giá 450 k ) khi mua 03 sản_phẩm cà_phê hoà_tan cao_cấp Starbucks® bất_kỳ tại quầy Cà_phê trong khu_vực tự chọn của siêu_thị
+1	0	3	5	7	Promotion	Location	Mừng Sinh_nhật 6 tuổi , LOTTE Mart Nha_Trang tặng bạn_hàng trăm Ưu_đãi khủng cùng chương_trình rút thăm với các giải_thưởng hấp_dẫn :
+0	3	8	0	1	Time	Regulation	Thời_gian bỏ_phiếu : từ ngày 26.07 đến hết 02.08.2022 .
+0	4	6	0	2	Time	Regulation	Thời_gian rút thăm : 19h30 ngày 03.08.2022
+1	6	10	15	17	Promotion	Location	Mừng diện_mạo mới , tham_dự ngay chương_trình Rút Thăm Trúng Thưởng đặc_biệt chỉ có ở LOTTE Mart Vũng_Tàu
+0	3	6	0	1	Time	Regulation	Thời_gian bỏ_phiếu : từ nay đến 02.08.2022 .
+0	4	6	0	2	Time	Regulation	Thời_gian rút thăm : 10h ngày 04.08.2022
+4	19	24	1	6	Product	Regulation	Với hoá_đơn mua hàng từ 400.000 đ trở lên tại LOTTE Mart Vũng_Tàu , khách_hàng thành_viên sẽ nhận được 01 phiếu rút thăm trúng thưởng
+1	19	24	10	12	Product	Location	Với hoá_đơn mua hàng từ 400.000 đ trở lên tại LOTTE Mart Vũng_Tàu , khách_hàng thành_viên sẽ nhận được 01 phiếu rút thăm trúng thưởng
+4	19	24	14	15	Product	Regulation	Với hoá_đơn mua hàng từ 400.000 đ trở lên tại LOTTE Mart Vũng_Tàu , khách_hàng thành_viên sẽ nhận được 01 phiếu rút thăm trúng thưởng
+0	0	6	7	8	Product	Promotion	Lô 2 nấm Kim châm Hàn_Quốc 150g giảm 44%
+3	7	8	0	6	Promotion	Product	Lô 2 nấm Kim châm Hàn_Quốc 150g giảm 44%
+0	0	2	3	6	Product	Promotion	Bánh bông lan mua 1 Tặng 1
+3	3	6	0	2	Promotion	Product	Bánh bông lan mua 1 Tặng 1
+1	0	1	2	3	Promotion	Location	Minigame Check-in LOTTE Mart_Vinh chỉ còn diễn ra đến hết hôm_nay 17/07 .
+0	0	1	8	11	Promotion	Time	Minigame Check-in LOTTE Mart_Vinh chỉ còn diễn ra đến hết hôm_nay 17/07 .
+4	8	11	0	1	Time	Promotion	Minigame Check-in LOTTE Mart_Vinh chỉ còn diễn ra đến hết hôm_nay 17/07 .
+4	0	6	11	14	Product	Regulation	150 CẶP VÉ XEM PHIM LOTTE Cinema sẽ dành tặng cho 150 bạn check-in đầu_tiên .
+4	2	7	9	13	Promotion	Regulation	Đặc_biệt , Tặng 1 bịch bánh Karo 156g cho 180 khách_hàng đầu_tiên ngày 15.07.2022
+2	0	1	3	11	Promotion	Product	Giải đặc_biệt : 1 CHUYẾN DU_LỊCH HÀN QUỐC dành cho 4 người
+0	3	11	0	1	Product	Promotion	Giải đặc_biệt : 1 CHUYẾN DU_LỊCH HÀN QUỐC dành cho 4 người
+0	4	8	10	10	Promotion	Time	NGẬP_TRÀN QUÀ TẶNG TRONG TUẦN_LỄ KHAI_TRƯƠNG LOTTE MART VINH ( 15 - 21.07 )
+4	10	10	4	8	Time	Promotion	NGẬP_TRÀN QUÀ TẶNG TRONG TUẦN_LỄ KHAI_TRƯƠNG LOTTE MART VINH ( 15 - 21.07 )
+4	0	4	6	12	Promotion	Regulation	Tặng 1 Túi môi_trường L.Care cho Khách_hàng Thành_viên với hoá_đơn từ 400.000 đ
+4	0	5	7	13	Promotion	Regulation	Tặng 1 Nón bảo_hiểm LOTTE Mart cho Khách_hàng Thành_viên với hoá_đơn từ 1.200.000 đ
+4	10	20	3	5	Promotion	Regulation	Đặc_biệt , là Thành_viên LOTTE Mart , bạn sẽ được mua Bánh xếp Thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+0	10	20	25	28	Promotion	Time	Đặc_biệt , là Thành_viên LOTTE Mart , bạn sẽ được mua Bánh xếp Thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+2	25	28	3	5	Time	Regulation	Đặc_biệt , là Thành_viên LOTTE Mart , bạn sẽ được mua Bánh xếp Thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+4	25	28	10	20	Time	Promotion	Đặc_biệt , là Thành_viên LOTTE Mart , bạn sẽ được mua Bánh xếp Thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+4	7	10	14	16	Time	Promotion	Đừng quên lên lịch ghé siêu_thị WinMart từ nay đến 18/2/2023 để hoà_mình cùng Lễ_Hội Hàn_Quốc độc_đáo cùng WinMart nhé !
+1	14	16	5	6	Promotion	Location	Đừng quên lên lịch ghé siêu_thị WinMart từ nay đến 18/2/2023 để hoà_mình cùng Lễ_Hội Hàn_Quốc độc_đáo cùng WinMart nhé !
+0	14	16	7	10	Promotion	Time	Đừng quên lên lịch ghé siêu_thị WinMart từ nay đến 18/2/2023 để hoà_mình cùng Lễ_Hội Hàn_Quốc độc_đáo cùng WinMart nhé !
+1	0	2	3	3	Organization	Location	Rạp phim CGV Vạn_Hạnh_Mall ( Tầng 6 )
+1	0	2	3	3	Location	Location	Thang_máy Tầng 1 Vạn_Hạnh_Mall
+2	3	3	0	2	Location	Location	Thang_máy Tầng 1 Vạn_Hạnh_Mall
+1	0	5	7	8	Location	Location	Tầng M_Thang 1 và Thang 2 tại Vincom Đồng_Khởi
+2	7	8	0	5	Location	Location	Tầng M_Thang 1 và Thang 2 tại Vincom Đồng_Khởi
+1	0	2	4	5	Organization	Location	Rạp phim CGV tại Vincom_Center Bà_Triệu ( Tầng 6 )
+1	0	5	7	8	Location	Location	Tầng L1_Thang PL3 và Thang PL4 tại Vincom_Center Bà_Triệu
+2	7	8	0	5	Location	Location	Tầng L1_Thang PL3 và Thang PL4 tại Vincom_Center Bà_Triệu
+1	0	5	7	9	Location	Location	Tầng L1_Thang PL1 và Thang PL2 tại Vincom_Center Phạm Ngọc_Thạch
+2	7	9	0	5	Location	Location	Tầng L1_Thang PL1 và Thang PL2 tại Vincom_Center Phạm Ngọc_Thạch
+0	6	6	0	4	Time	Regulation	Áp_dụng tại khu_vực miền Bắc từ 09/02 - 15/02/2023
+1	0	4	11	12	Product	Location	Cam Hàm_Yên và Dứa Nghệ_An đang chờ đón Quý_khách_hàng ngay tại siêu_thị WinMart với các mức giá cực_kì ưu_đãi .
+2	0	1	2	2	Product	Promotion	DỨA QUỲNH LƯU - NGHỆ AN THƠM_LỪNG , NGỌT ĐẬM - ƯU_ĐÃI CUỐI TUẦN NÀY CHỈ 9.900 Đ / QUẢ
+0	2	2	0	1	Promotion	Product	DỨA QUỲNH LƯU - NGHỆ AN THƠM_LỪNG , NGỌT ĐẬM - ƯU_ĐÃI CUỐI TUẦN NÀY CHỈ 9.900 Đ / QUẢ
+2	0	2	7	12	Promotion	Product	Tiết_kiệm ngay 20% cho toàn_bộ các sản_phẩm thịt sạch MEATDeli và Rau_sạch WinEco
+0	7	12	0	2	Product	Promotion	Tiết_kiệm ngay 20% cho toàn_bộ các sản_phẩm thịt sạch MEATDeli và Rau_sạch WinEco
+4	1	1	13	16	Time	Promotion	Từ 09/02 - 12/02 , Siêu_thị WinMart và cửa_hàng WinMart + đem đến Đại_tiệc Rau củ quả sạch , tươi ngon thượng_hạng với mức giá cực sốc từ WinEco - Nông_sản chất_lượng cao :
+0	13	16	1	1	Promotion	Time	Từ 09/02 - 12/02 , Siêu_thị WinMart và cửa_hàng WinMart + đem đến Đại_tiệc Rau củ quả sạch , tươi ngon thượng_hạng với mức giá cực sốc từ WinEco - Nông_sản chất_lượng cao :
+2	13	16	5	9	Promotion	Location	Từ 09/02 - 12/02 , Siêu_thị WinMart và cửa_hàng WinMart + đem đến Đại_tiệc Rau củ quả sạch , tươi ngon thượng_hạng với mức giá cực sốc từ WinEco - Nông_sản chất_lượng cao :
+1	28	28	5	9	Organization	Location	Từ 09/02 - 12/02 , Siêu_thị WinMart và cửa_hàng WinMart + đem đến Đại_tiệc Rau củ quả sạch , tươi ngon thượng_hạng với mức giá cực sốc từ WinEco - Nông_sản chất_lượng cao :
+2	28	28	13	16	Organization	Promotion	Từ 09/02 - 12/02 , Siêu_thị WinMart và cửa_hàng WinMart + đem đến Đại_tiệc Rau củ quả sạch , tươi ngon thượng_hạng với mức giá cực sốc từ WinEco - Nông_sản chất_lượng cao :
+1	7	8	0	4	Promotion	Location	Siêu_thị WinMart và cửa_hàng WinMart + sẽ mở_cửa trở_lại vào Thứ 4 ngày 25/01/2023 ( Mùng 4 Tết )
+0	7	8	10	13	Promotion	Time	Siêu_thị WinMart và cửa_hàng WinMart + sẽ mở_cửa trở_lại vào Thứ 4 ngày 25/01/2023 ( Mùng 4 Tết )
+4	10	13	7	8	Time	Promotion	Siêu_thị WinMart và cửa_hàng WinMart + sẽ mở_cửa trở_lại vào Thứ 4 ngày 25/01/2023 ( Mùng 4 Tết )
+1	7	7	12	13	Organization	Location	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+1	7	7	21	23	Organization	Location	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+1	7	7	28	31	Organization	Promotion	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+2	12	13	21	23	Location	Location	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+2	21	23	12	13	Location	Location	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+4	28	31	2	6	Promotion	Regulation	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+2	28	31	8	11	Promotion	Regulation	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+2	28	31	12	13	Promotion	Location	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+4	28	31	16	20	Promotion	Regulation	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+2	28	31	21	23	Promotion	Location	Khi mua hoá_đơn các sản_phẩm của công_ty Coca-cola từ 189.000 đ tại siêu_thị WinMart hoặc với hoá_đơn từ 49.000 đ tại Cửa_hàng WinMart + , khách_hàng sẽ được tham_gia quay trúng thưởng với những phần quà cực đỉnh :
+2	0	2	4	7	Promotion	Product	𝟖 𝐆𝐢𝐚̉𝐢 𝐧𝐡𝐚̂́𝐭 : Xe_Honda Air Blade 125cc
+0	4	7	0	2	Product	Promotion	𝟖 𝐆𝐢𝐚̉𝐢 𝐧𝐡𝐚̂́𝐭 : Xe_Honda Air Blade 125cc
+0	0	2	4	9	Promotion	Time	Thời_gian nghỉ Tết : Từ 12h00 Thứ 7 ngày 21/01/2023 ( 30 Tết )
+4	4	9	0	2	Time	Promotion	Thời_gian nghỉ Tết : Từ 12h00 Thứ 7 ngày 21/01/2023 ( 30 Tết )
+0	0	2	4	7	Promotion	Time	Thời_gian làm_việc trở_lại : Thứ 4 ngày 25/01/2023 ( Mùng 4 Tết )
+4	4	7	0	2	Time	Promotion	Thời_gian làm_việc trở_lại : Thứ 4 ngày 25/01/2023 ( Mùng 4 Tết )
+1	0	0	1	3	Promotion	Location	KHAI_TRƯƠNG WINMART BÌNH CHIỂU NGÀY 12/01/2023
+0	0	0	5	5	Promotion	Time	KHAI_TRƯƠNG WINMART BÌNH CHIỂU NGÀY 12/01/2023
+4	5	5	0	0	Time	Promotion	KHAI_TRƯƠNG WINMART BÌNH CHIỂU NGÀY 12/01/2023
+4	0	2	5	6	Time	Promotion	Sáng ngày 12/01/2023 WinMart Bình_Chiểu chính_thức hoạt_động tại khu phức_hợp STown Bình_Chiểu , Thành_phố Thủ_Đức !
+2	3	4	8	11	Location	Location	Sáng ngày 12/01/2023 WinMart Bình_Chiểu chính_thức hoạt_động tại khu phức_hợp STown Bình_Chiểu , Thành_phố Thủ_Đức !
+0	5	6	0	2	Promotion	Time	Sáng ngày 12/01/2023 WinMart Bình_Chiểu chính_thức hoạt_động tại khu phức_hợp STown Bình_Chiểu , Thành_phố Thủ_Đức !
+1	5	6	3	4	Promotion	Location	Sáng ngày 12/01/2023 WinMart Bình_Chiểu chính_thức hoạt_động tại khu phức_hợp STown Bình_Chiểu , Thành_phố Thủ_Đức !
+2	5	6	8	11	Promotion	Location	Sáng ngày 12/01/2023 WinMart Bình_Chiểu chính_thức hoạt_động tại khu phức_hợp STown Bình_Chiểu , Thành_phố Thủ_Đức !
+2	8	11	3	4	Location	Location	Sáng ngày 12/01/2023 WinMart Bình_Chiểu chính_thức hoạt_động tại khu phức_hợp STown Bình_Chiểu , Thành_phố Thủ_Đức !
+2	0	0	3	6	Organization	Promotion	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+2	0	0	13	13	Organization	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+2	0	0	15	15	Organization	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+1	3	6	13	13	Promotion	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+2	3	6	15	15	Promotion	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+0	3	6	18	20	Promotion	Time	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+4	18	20	3	6	Time	Promotion	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+1	10	15	4	4	Promotion	Location	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+2	10	15	6	6	Promotion	Location	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+4	10	15	26	27	Promotion	Regulation	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+3	18	22	10	15	Price	Promotion	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+2	26	27	18	22	Regulation	Price	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+4	2	3	1	1	Product	Regulation	Với hoá_đơn_trị_giá 199.000 VND : nhận ngay 1 SET BAO LÌ_XÌ NHUNG
+4	7	10	1	3	Product	Regulation	Với hoá_đơn_trị_giá 399.000 VND : nhận ngay 1 GỐI TỰA CỔ
+4	7	12	1	3	Product	Regulation	Với hoá_đơn_trị_giá 599.000 VND : nhận ngay 1 SET MUỖNG NĨA ĐŨA ENVY™
+4	7	9	1	3	Product	Regulation	Với hoá_đơn_trị_giá 799.000 VND : nhận ngay 1 DÙ ENVY™
+4	19	27	2	6	Product	Regulation	Đặc_biệt , mua 2 Hộp Táo Tết ( cả phiên_bản 6 quả lẫn 8 quả ) : nhận ngay combo quà ly giữ nhiệt và gối tựa cổ
+0	2	2	0	0	Time	Regulation	Thời_gian_tham_gia : 06/01 - 21/01/2023 .
+4	0	6	8	15	Promotion	Regulation	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+1	0	6	20	21	Promotion	Location	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+0	0	6	25	25	Promotion	Time	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+2	0	6	27	27	Promotion	Time	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+4	25	25	0	6	Time	Promotion	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+2	25	25	8	15	Time	Regulation	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+2	27	27	0	6	Time	Promotion	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+2	27	27	8	15	Time	Regulation	Nhận ngay một bộ lì_xì xịn mịn khi mua từ 1kg đào hoặc xuân đào Australia tại 28 cửa_hàng # Winmart Hà_Nội & Hồ_Chí_Minh từ 30/12/2022 - 01/01/2023 !
+4	0	5	8	11	Promotion	Regulation	Giao hàng miễn_phí trong bán_kính 5KM , với hoá_đơn từ 300.000 đ
+1	5	11	0	1	Promotion	Location	Miền Bắc , Trung : Tặng 3 lon khi mua 1 thùng * Tối_đa 3 thùng / hoá_đơn
+4	5	11	13	15	Promotion	Regulation	Miền Bắc , Trung : Tặng 3 lon khi mua 1 thùng * Tối_đa 3 thùng / hoá_đơn
+1	3	9	0	1	Promotion	Location	Miền Nam : Tặng 2 lon khi mua 1 thùng * Tối_đa 2 thùng / hoá_đơn
+4	3	9	11	13	Promotion	Regulation	Miền Nam : Tặng 2 lon khi mua 1 thùng * Tối_đa 2 thùng / hoá_đơn
+0	0	3	12	12	Time	Promotion	9h00 Sáng ngày 09/12/2022 , Công_ty CP Dịch_vụ Thương_mại Tổng_hợp WINCOMMERCE chính_thức khai_trương WinMart Đông_Hội - Siêu_thị WinMart thứ 129 trên Toàn_quốc !
+2	5	10	12	12	Organization	Promotion	9h00 Sáng ngày 09/12/2022 , Công_ty CP Dịch_vụ Thương_mại Tổng_hợp WINCOMMERCE chính_thức khai_trương WinMart Đông_Hội - Siêu_thị WinMart thứ 129 trên Toàn_quốc !
+2	5	10	13	14	Organization	Location	9h00 Sáng ngày 09/12/2022 , Công_ty CP Dịch_vụ Thương_mại Tổng_hợp WINCOMMERCE chính_thức khai_trương WinMart Đông_Hội - Siêu_thị WinMart thứ 129 trên Toàn_quốc !
+4	12	12	0	3	Promotion	Time	9h00 Sáng ngày 09/12/2022 , Công_ty CP Dịch_vụ Thương_mại Tổng_hợp WINCOMMERCE chính_thức khai_trương WinMart Đông_Hội - Siêu_thị WinMart thứ 129 trên Toàn_quốc !
+1	12	12	13	14	Promotion	Location	9h00 Sáng ngày 09/12/2022 , Công_ty CP Dịch_vụ Thương_mại Tổng_hợp WINCOMMERCE chính_thức khai_trương WinMart Đông_Hội - Siêu_thị WinMart thứ 129 trên Toàn_quốc !
+1	5	7	8	9	Promotion	Location	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+2	5	7	11	17	Promotion	Promotion	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+0	5	7	26	28	Promotion	Time	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+2	11	17	5	7	Promotion	Promotion	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+2	11	17	8	9	Promotion	Location	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+2	11	17	26	28	Promotion	Time	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+4	26	28	5	7	Time	Promotion	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+2	26	28	11	17	Time	Promotion	Các chị_em cũng đừng quên Minigame Bữa cơm siêu ngon - Trúng quà siêu đỉnh chỉ với 100k tại siêu_thị WinMart vẫn đang diễn ra đến hết ngày 12/12/2022 , thoả sức trổ_tài nấu_nướng cho cả gia_đình mình .
+3	0	2	5	10	Promotion	Product	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+0	0	2	11	14	Promotion	Time	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+0	5	10	0	2	Product	Promotion	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+2	5	10	11	14	Product	Time	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+2	11	14	0	2	Time	Promotion	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+2	11	14	5	10	Time	Product	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+0	2	6	8	8	Product	Promotion	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+1	2	6	12	12	Product	Location	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+2	8	8	2	6	Promotion	Product	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+2	8	8	12	12	Promotion	Location	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+0	4	6	0	2	Time	Regulation	Thời_gian trao quà : Trước ngày 24/12/2022
+3	0	3	9	11	Promotion	Product	MUA 1 TẶNG 1 - áp_dụng với các sản_phẩm nước giặt Ariel , Nước xả Downy & dao_cạo Gillette
+0	9	11	0	3	Product	Promotion	MUA 1 TẶNG 1 - áp_dụng với các sản_phẩm nước giặt Ariel , Nước xả Downy & dao_cạo Gillette
+3	0	3	9	10	Promotion	Product	ƯU_ĐÃI LÊN ĐẾN 35% - áp_dụng với các sản_phẩm dầu_gội Pantene , Head & Shoulders , nước giặt Ariel và nước xả Downy .
+0	9	10	0	3	Product	Promotion	ƯU_ĐÃI LÊN ĐẾN 35% - áp_dụng với các sản_phẩm dầu_gội Pantene , Head & Shoulders , nước giặt Ariel và nước xả Downy .
+4	20	33	1	2	Product	Regulation	Với hoá_đơn từ # 300,000 VND trở lên cho các sản_phẩm nhập_khẩu từ châu Âu , bạn sẽ nhận được Túi tote “ Sự kết_hợp tuyệt_vời ! ” và sách công_thức nấu_ăn The_Perfect Match !
+2	0	2	4	9	Promotion	Product	01 Giải nhất : Voucher mua_sắm WinMart trị_giá 500.000 VNĐ
+0	4	9	0	2	Product	Promotion	01 Giải nhất : Voucher mua_sắm WinMart trị_giá 500.000 VNĐ
+2	0	2	4	9	Promotion	Product	01 Giải nhì : Voucher mua_sắm WinMart trị_giá 200.000 VNĐ
+0	4	9	0	2	Product	Promotion	01 Giải nhì : Voucher mua_sắm WinMart trị_giá 200.000 VNĐ
+2	0	2	4	9	Promotion	Product	01 Giải ba : Voucher mua_sắm WinMart trị_giá 100.000 VNĐ
+0	4	9	0	2	Product	Promotion	01 Giải ba : Voucher mua_sắm WinMart trị_giá 100.000 VNĐ
+1	0	3	5	7	Promotion	Location	Kết_quả sẽ được thông_báo trên fanpage Siêu_thị WinMart trước ngày 30/11/2022 .
+0	0	3	8	10	Promotion	Time	Kết_quả sẽ được thông_báo trên fanpage Siêu_thị WinMart trước ngày 30/11/2022 .
+4	8	10	0	3	Time	Promotion	Kết_quả sẽ được thông_báo trên fanpage Siêu_thị WinMart trước ngày 30/11/2022 .
+2	0	2	4	9	Promotion	Product	𝟖 𝐆𝐢𝐚̉𝐢 𝐧𝐡𝐚̂́𝐭 - 1 năm miễn_phí mua_sắm tại WinMart / WinMart + trị_giá 26 triệu đồng
+2	4	9	0	2	Product	Promotion	𝟖 𝐆𝐢𝐚̉𝐢 𝐧𝐡𝐚̂́𝐭 - 1 năm miễn_phí mua_sắm tại WinMart / WinMart + trị_giá 26 triệu đồng
+2	0	2	4	14	Promotion	Product	𝟖𝟖 𝐆𝐢𝐚̉𝐢 𝐧𝐡𝐢̀ - 1 năm miễn_phí sử_dụng sản_phẩm Phúc Long trị_giá 3 triệu đồng
+0	4	14	0	2	Product	Promotion	𝟖𝟖 𝐆𝐢𝐚̉𝐢 𝐧𝐡𝐢̀ - 1 năm miễn_phí sử_dụng sản_phẩm Phúc Long trị_giá 3 triệu đồng
+2	0	2	4	11	Promotion	Product	𝟖𝟖𝟖 𝐆𝐢𝐚̉𝐢 𝐛𝐚 - Giỏ hàng sản_phẩm thương_hiệu WinMart trị_giá 888.000 đ
+0	4	11	0	2	Product	Promotion	𝟖𝟖𝟖 𝐆𝐢𝐚̉𝐢 𝐛𝐚 - Giỏ hàng sản_phẩm thương_hiệu WinMart trị_giá 888.000 đ
+3	0	4	7	11	Promotion	Product	Ưu_đãi MUA 2 TẶNG 1 khi mua Lá kim tẩm dầu Olive GIẢM THÊM 5%
+2	0	4	12	14	Promotion	Promotion	Ưu_đãi MUA 2 TẶNG 1 khi mua Lá kim tẩm dầu Olive GIẢM THÊM 5%
+0	7	11	0	4	Product	Promotion	Ưu_đãi MUA 2 TẶNG 1 khi mua Lá kim tẩm dầu Olive GIẢM THÊM 5%
+0	7	11	12	14	Product	Promotion	Ưu_đãi MUA 2 TẶNG 1 khi mua Lá kim tẩm dầu Olive GIẢM THÊM 5%
+2	12	14	0	4	Promotion	Promotion	Ưu_đãi MUA 2 TẶNG 1 khi mua Lá kim tẩm dầu Olive GIẢM THÊM 5%
+2	12	14	7	11	Promotion	Product	Ưu_đãi MUA 2 TẶNG 1 khi mua Lá kim tẩm dầu Olive GIẢM THÊM 5%
+4	0	2	4	8	Promotion	Regulation	Giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng Shopee_Food , khi nhập mã AEON 55 .
+1	0	2	11	12	Promotion	Location	Giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng Shopee_Food , khi nhập mã AEON 55 .
+4	0	2	16	18	Promotion	Regulation	Giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng Shopee_Food , khi nhập mã AEON 55 .
+0	5	7	0	1	Time	Regulation	Thời_gian áp_dụng : từ ngày 01/02 – 28/02/2023
+4	0	2	4	7	Promotion	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+0	0	2	22	22	Promotion	Time	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	0	2	24	24	Promotion	Time	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	14	16	0	2	Organization	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+4	22	22	0	2	Time	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	22	22	4	7	Time	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	24	24	0	2	Time	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	24	24	4	7	Time	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )

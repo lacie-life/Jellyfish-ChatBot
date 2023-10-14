@@ -1,0 +1,641 @@
+4	0	2	4	8	Promotion	Regulation	Giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng Shopee_Food , khi nhập mã AEON 55 .
+1	0	2	11	12	Promotion	Location	Giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng Shopee_Food , khi nhập mã AEON 55 .
+4	0	2	16	18	Promotion	Regulation	Giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng Shopee_Food , khi nhập mã AEON 55 .
+4	0	5	22	27	Product	Regulation	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	7	7	0	5	Price	Product	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	8	8	0	5	Price	Product	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	10	10	0	5	Price	Product	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+3	15	15	0	5	Price	Product	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	16	16	0	5	Price	Product	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	18	18	0	5	Price	Product	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	22	27	7	7	Regulation	Price	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	22	27	8	8	Regulation	Price	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	22	27	10	10	Regulation	Price	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	22	27	15	15	Regulation	Price	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	22	27	16	16	Regulation	Price	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+2	22	27	18	18	Regulation	Price	Bánh cao_cấp Orion Custas 138 g : 20.900 đ / hộp ( giá cũ : 32.400 đ / hộp ) * Áp_dụng hoá_đơn từ 50.000 đ trở lên , tối_đa 5 sản_phẩm .
+0	5	7	0	1	Time	Regulation	Thời_gian áp_dụng : từ ngày 01/02 – 28/02/2023
+2	4	4	0	1	Price	Product	Dâu_Tây Mộc_Châu_Bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+2	5	5	0	1	Price	Product	Dâu_Tây Mộc_Châu_Bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+2	7	7	0	1	Price	Product	Dâu_Tây Mộc_Châu_Bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+3	10	10	0	1	Price	Product	Dâu_Tây Mộc_Châu_Bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+2	11	11	0	1	Price	Product	Dâu_Tây Mộc_Châu_Bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+2	13	13	0	1	Price	Product	Dâu_Tây Mộc_Châu_Bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+2	5	5	0	2	Price	Product	Set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+2	6	6	0	2	Price	Product	Set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+2	8	8	0	2	Price	Product	Set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+3	11	11	0	2	Price	Product	Set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+2	12	12	0	2	Price	Product	Set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+2	14	14	0	2	Price	Product	Set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+2	4	4	0	1	Price	Product	Cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+2	5	5	0	1	Price	Product	Cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+2	7	7	0	1	Price	Product	Cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+3	10	10	0	1	Price	Product	Cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+2	11	11	0	1	Price	Product	Cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+2	13	13	0	1	Price	Product	Cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+2	7	7	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	8	8	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	10	10	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	11	11	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+3	14	14	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	15	15	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	17	17	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	18	18	0	4	Price	Product	Đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+2	4	4	0	1	Price	Product	Cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+2	5	5	0	1	Price	Product	Cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+2	7	7	0	1	Price	Product	Cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+3	10	10	0	1	Price	Product	Cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+2	11	11	0	1	Price	Product	Cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+2	13	13	0	1	Price	Product	Cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+4	0	2	4	7	Promotion	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+0	0	2	22	22	Promotion	Time	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	0	2	24	24	Promotion	Time	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	14	16	0	2	Organization	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+4	22	22	0	2	Time	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	22	22	4	7	Time	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	24	24	0	2	Time	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+2	24	24	4	7	Time	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy CS khi thanh_toán qua thẻ quốc_tế VCB hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+4	0	2	4	7	Promotion	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+0	0	2	20	20	Promotion	Time	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+2	0	2	22	22	Promotion	Time	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+2	14	15	0	2	Organization	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+4	20	20	0	2	Time	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+2	20	20	4	7	Time	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+2	22	22	0	2	Time	Promotion	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+2	22	22	4	7	Time	Regulation	Tặng PMH 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy CS khi thanh_toán qua thẻ JCB ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+3	21	21	17	19	Price	Product	10 bạn may_mắn giúp cặp đôi biết được ngày gặp nhau , mỗi bạn sẽ nhận được 01 AEON VOUCHER trị_giá 50.000 đ .
+2	22	22	17	19	Price	Product	10 bạn may_mắn giúp cặp đôi biết được ngày gặp nhau , mỗi bạn sẽ nhận được 01 AEON VOUCHER trị_giá 50.000 đ .
+0	3	3	0	1	Time	Regulation	Thời_gian_tham_gia minigame : 31.1.2023 - 07.02.2023 .
+0	5	5	0	2	Time	Regulation	Kết_quả được công_bố vào ngày 09.02.2023 .
+1	14	14	7	7	Promotion	Location	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+2	14	14	16	24	Promotion	Promotion	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+0	14	14	26	26	Promotion	Time	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+2	16	24	7	7	Promotion	Location	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+2	16	24	14	14	Promotion	Promotion	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+2	16	24	26	26	Promotion	Time	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+4	26	26	14	14	Time	Promotion	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+2	26	26	16	24	Time	Promotion	Ngoài_ra , sắp tới đây , tại AEON sẽ diễn ra chuỗi sự_kiện cho Valentine ' s Day với chủ_đề Tìm Thấy Nhau Giữa Thiên_Hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+4	0	1	7	10	Promotion	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	0	1	13	16	Promotion	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+0	0	1	19	19	Promotion	Time	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	4	4	0	1	Organization	Promotion	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+4	19	19	0	1	Time	Promotion	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	19	19	7	10	Time	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+2	19	19	13	16	Time	Regulation	Giảm 15K thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+0	0	2	8	10	Product	Time	Túi tài_lộc Fukubukuro sẽ được mở bán từ Mùng 2 Tết ( 23/01/2023 ) với số_lượng có_hạn cho đến khi hết túi .
+4	8	10	0	2	Time	Product	Túi tài_lộc Fukubukuro sẽ được mở bán từ Mùng 2 Tết ( 23/01/2023 ) với số_lượng có_hạn cho đến khi hết túi .
+1	17	19	11	13	Organization	Promotion	Năm mới , deal mới , nhưng vẫn là ưu_ái đặc_biệt giảm thêm 5% cho mẹ có thẻ KIDS CLUB .
+2	8	9	20	27	Product	Promotion	Không chỉ có ưu_đãi của bé , mà túi Fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ Kids Club vào ngày 28 & 29.01 nữa đó mẹ
+2	8	9	30	30	Product	Time	Không chỉ có ưu_đãi của bé , mà túi Fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ Kids Club vào ngày 28 & 29.01 nữa đó mẹ
+3	20	27	8	9	Promotion	Product	Không chỉ có ưu_đãi của bé , mà túi Fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ Kids Club vào ngày 28 & 29.01 nữa đó mẹ
+0	20	27	30	30	Promotion	Time	Không chỉ có ưu_đãi của bé , mà túi Fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ Kids Club vào ngày 28 & 29.01 nữa đó mẹ
+2	30	30	8	9	Time	Product	Không chỉ có ưu_đãi của bé , mà túi Fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ Kids Club vào ngày 28 & 29.01 nữa đó mẹ
+4	30	30	20	27	Time	Promotion	Không chỉ có ưu_đãi của bé , mà túi Fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ Kids Club vào ngày 28 & 29.01 nữa đó mẹ
+0	7	12	17	18	Promotion	Time	Vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé KIDS DAY sẽ diễn ra vào Thứ 7 & Chủ_nhật cuối_cùng mỗi tháng , tức Mùng 7 & Mùng 8 Tết ( 28 & 29.01 ) .
+0	7	12	26	27	Promotion	Time	Vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé KIDS DAY sẽ diễn ra vào Thứ 7 & Chủ_nhật cuối_cùng mỗi tháng , tức Mùng 7 & Mùng 8 Tết ( 28 & 29.01 ) .
+2	17	18	7	12	Time	Promotion	Vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé KIDS DAY sẽ diễn ra vào Thứ 7 & Chủ_nhật cuối_cùng mỗi tháng , tức Mùng 7 & Mùng 8 Tết ( 28 & 29.01 ) .
+4	26	27	7	12	Time	Promotion	Vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé KIDS DAY sẽ diễn ra vào Thứ 7 & Chủ_nhật cuối_cùng mỗi tháng , tức Mùng 7 & Mùng 8 Tết ( 28 & 29.01 ) .
+1	0	1	2	3	Organization	Promotion	GRAB Moca hoàn tiền 10% ( tối_đa 30 K ) , 1 khách_hàng / 2 lần / tháng
+4	2	3	4	4	Promotion	Regulation	GRAB Moca hoàn tiền 10% ( tối_đa 30 K ) , 1 khách_hàng / 2 lần / tháng
+0	3	5	7	7	Promotion	Time	Thời_gian diễn ra Hội sách Nhã_Nam : 22/01 - 01/02/2023 , tại AEON Tân_Phú và Bình_Tân .
+1	3	5	12	15	Promotion	Location	Thời_gian diễn ra Hội sách Nhã_Nam : 22/01 - 01/02/2023 , tại AEON Tân_Phú và Bình_Tân .
+4	7	7	3	5	Time	Promotion	Thời_gian diễn ra Hội sách Nhã_Nam : 22/01 - 01/02/2023 , tại AEON Tân_Phú và Bình_Tân .
+3	5	5	0	2	Price	Product	Coca-cola lon 320ml chỉ còn 8.000 đ / lon
+2	6	6	0	2	Price	Product	Coca-cola lon 320ml chỉ còn 8.000 đ / lon
+2	8	8	0	2	Price	Product	Coca-cola lon 320ml chỉ còn 8.000 đ / lon
+3	26	26	0	5	Price	Product	Khăn mặt mềm mịn SSS 225 được làm từ 100% sợi bông tự_nhiên mềm mịn , thoáng_khí , thấm hút tốt và an_toàn cho da Có_giá 127,000 Đ / cái 50x100cm .
+2	27	27	0	5	Price	Product	Khăn mặt mềm mịn SSS 225 được làm từ 100% sợi bông tự_nhiên mềm mịn , thoáng_khí , thấm hút tốt và an_toàn cho da Có_giá 127,000 Đ / cái 50x100cm .
+2	29	30	0	5	Price	Product	Khăn mặt mềm mịn SSS 225 được làm từ 100% sợi bông tự_nhiên mềm mịn , thoáng_khí , thấm hút tốt và an_toàn cho da Có_giá 127,000 Đ / cái 50x100cm .
+3	21	21	0	4	Price	Product	Áo sơ_mi trắng cổ trụ với chất vải co_giãn từ 98% cotton , 2% PU tạo sự thoải_mái khi mặc có_giá 293,500 Đ / cái
+2	22	22	0	4	Price	Product	Áo sơ_mi trắng cổ trụ với chất vải co_giãn từ 98% cotton , 2% PU tạo sự thoải_mái khi mặc có_giá 293,500 Đ / cái
+2	24	24	0	4	Price	Product	Áo sơ_mi trắng cổ trụ với chất vải co_giãn từ 98% cotton , 2% PU tạo sự thoải_mái khi mặc có_giá 293,500 Đ / cái
+3	11	11	0	4	Price	Product	Quần_Kaki Chino form slim fit tạo nên vẻ ngoài thanh_lịch có_giá 391,700 Đ / cái
+2	12	12	0	4	Price	Product	Quần_Kaki Chino form slim fit tạo nên vẻ ngoài thanh_lịch có_giá 391,700 Đ / cái
+2	14	14	0	4	Price	Product	Quần_Kaki Chino form slim fit tạo nên vẻ ngoài thanh_lịch có_giá 391,700 Đ / cái
+3	9	9	0	3	Price	Product	Áo thun vải bamboo vô_cùng thân_thiện với môi_trường có_giá 175,700 Đ / cái
+2	10	10	0	3	Price	Product	Áo thun vải bamboo vô_cùng thân_thiện với môi_trường có_giá 175,700 Đ / cái
+2	12	12	0	3	Price	Product	Áo thun vải bamboo vô_cùng thân_thiện với môi_trường có_giá 175,700 Đ / cái
+3	3	3	0	0	Price	Product	Quần_jeans thời_thượng có_giá 391,700 Đ / cái
+2	4	4	0	0	Price	Product	Quần_jeans thời_thượng có_giá 391,700 Đ / cái
+2	6	6	0	0	Price	Product	Quần_jeans thời_thượng có_giá 391,700 Đ / cái
+3	7	11	1	6	Price	Promotion	Gần 10.000 giải_thưởng là các voucher mua_sắm giá_trị lên đến 5.000.000 đ
+4	19	30	2	6	Promotion	Regulation	Khách_hàng có hoá_đơn mua hàng điện gia_dụng , điện_lạnh , điện_tử , điện_tử viễn_thông từ 2,500,000 đ , được 𝒎𝒖𝒂 𝒔𝒂̉𝒏 𝒑𝒉𝒂̂̉𝒎 𝒌𝒉𝒂́𝒄 với 𝒈𝒊𝒂́ 𝒈𝒊𝒂̉𝒎 cực shock lên đến 50% .
+3	6	10	0	2	Price	Product	Quần_áo bé trai , bé gái ĐỒNG GIÁ từ 100.000 đ .
+4	28	35	4	8	Promotion	Regulation	ĐẶC BIỆT , với hóa đơn từ 3.000.000 đ ( cộng gộp từ hóa đơn của Siêu thị AEON và TTTM AEON MALL ) , bạn còn có cơ hội tham_gia rút thăm 100% trúng thưởng với các phần quà vô cùng giá trị .
+1	28	35	16	23	Promotion	Location	ĐẶC BIỆT , với hóa đơn từ 3.000.000 đ ( cộng gộp từ hóa đơn của Siêu thị AEON và TTTM AEON MALL ) , bạn còn có cơ hội tham_gia rút thăm 100% trúng thưởng với các phần quà vô cùng giá trị .
+4	5	7	1	4	Promotion	Regulation	Nhập mã “ BFMOCA ” giảm ngay 100K khi thánh toán ví Moca ( Hoá_đơn trên 1,500,000 ) .
+4	5	7	14	17	Promotion	Regulation	Nhập mã “ BFMOCA ” giảm ngay 100K khi thánh toán ví Moca ( Hoá_đơn trên 1,500,000 ) .
+1	12	12	5	7	Organization	Promotion	Nhập mã “ BFMOCA ” giảm ngay 100K khi thánh toán ví Moca ( Hoá_đơn trên 1,500,000 ) .
+2	3	11	32	33	Promotion	Location	Bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu Moschino , Versace , Salavatore … tại hệ_thống Aeon_Mall .
+1	24	25	3	11	Organization	Promotion	Bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu Moschino , Versace , Salavatore … tại hệ_thống Aeon_Mall .
+1	24	25	32	33	Organization	Location	Bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu Moschino , Versace , Salavatore … tại hệ_thống Aeon_Mall .
+1	0	0	11	14	Organization	Promotion	Vascara - “ bạn thân ” của hội chị_em đam_mê thời_trang giảm sốc đến 50%
+1	0	0	12	14	Organization	Promotion	Biti ' s Hunter - thương_hiệu giày xịn “ lão_làng ” bất_ngờ ưu_đãi đến 40%
+2	2	3	12	14	Organization	Promotion	Biti ' s Hunter - thương_hiệu giày xịn “ lão_làng ” bất_ngờ ưu_đãi đến 40%
+1	0	0	2	8	Organization	Promotion	LUG.VN - Giảm khủng chưa từng thấy tới 75% , sắm ngay vali xịn du_lịch càng “ chill ” nha !
+1	4	7	9	10	Organization	Promotion	Dẫn_đầu có thương_hiệu giày Việt BITI ’ S trẻ_em giảm_giá 10% , đồng giá 100K .
+1	4	10	1	3	Promotion	Location	Tưng_bừng quầy quần_áo trẻ_em đồng giá 100 K / 3 món .
+1	8	11	0	1	Promotion	Location	Nhà_sách AEON cũng hưởng_ứng sức nóng với chương_trình đồng giá từ 50K - 70K - 80K - 100K .
+0	7	7	9	9	Promotion	Time	Sale gì tưng_bừng và giảm sâu hơn Black_Friday từ 23-27/11 tại AEON The_Nine chứ ?
+1	7	7	11	12	Promotion	Location	Sale gì tưng_bừng và giảm sâu hơn Black_Friday từ 23-27/11 tại AEON The_Nine chứ ?
+4	9	9	7	7	Time	Promotion	Sale gì tưng_bừng và giảm sâu hơn Black_Friday từ 23-27/11 tại AEON The_Nine chứ ?
+3	13	13	3	4	Price	Product	SẢN_PHẨM MỚI - Xúc_xích collagen bổ_sung collagen giúp trẻ_hoá làn da chỉ với 85,000 Đ / gói
+2	14	14	3	4	Price	Product	SẢN_PHẨM MỚI - Xúc_xích collagen bổ_sung collagen giúp trẻ_hoá làn da chỉ với 85,000 Đ / gói
+2	16	16	3	4	Price	Product	SẢN_PHẨM MỚI - Xúc_xích collagen bổ_sung collagen giúp trẻ_hoá làn da chỉ với 85,000 Đ / gói
+3	14	14	3	6	Price	Product	SẢN_PHẨM MỚI - Mật_ong Hoa Sú Vẹt hương_vị ngọt thanh 100% nguyên_chất chỉ với 270,000 Đ / chai 500g
+2	15	15	3	6	Price	Product	SẢN_PHẨM MỚI - Mật_ong Hoa Sú Vẹt hương_vị ngọt thanh 100% nguyên_chất chỉ với 270,000 Đ / chai 500g
+2	17	18	3	6	Price	Product	SẢN_PHẨM MỚI - Mật_ong Hoa Sú Vẹt hương_vị ngọt thanh 100% nguyên_chất chỉ với 270,000 Đ / chai 500g
+1	0	7	11	12	Product	Location	03 voucher 1,100,000 đ mua Biti ' s ( Áp_dụng tại Aeon Tân_Phú cho lần sau )
+2	3	3	0	1	Price	Product	Set_Sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+2	4	4	0	1	Price	Product	Set_Sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+2	6	6	0	1	Price	Product	Set_Sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+3	10	10	0	1	Price	Product	Set_Sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+2	11	11	0	1	Price	Product	Set_Sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+2	4	4	0	2	Price	Product	Set Sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+2	5	5	0	2	Price	Product	Set Sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+2	7	7	0	2	Price	Product	Set Sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+3	11	11	0	2	Price	Product	Set Sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+2	12	12	0	2	Price	Product	Set Sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+2	5	5	0	3	Price	Product	Bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+2	6	6	0	3	Price	Product	Bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+3	10	10	0	3	Price	Product	Bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+2	11	11	0	3	Price	Product	Bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+2	6	6	0	4	Price	Product	Bó hoa nụ cười Việt : 175.000 đ ( giá gốc 196.000 đ )
+2	7	7	0	4	Price	Product	Bó hoa nụ cười Việt : 175.000 đ ( giá gốc 196.000 đ )
+3	11	11	0	4	Price	Product	Bó hoa nụ cười Việt : 175.000 đ ( giá gốc 196.000 đ )
+2	12	12	0	4	Price	Product	Bó hoa nụ cười Việt : 175.000 đ ( giá gốc 196.000 đ )
+2	6	6	0	4	Price	Product	Cam_Navel Úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+2	7	7	0	4	Price	Product	Cam_Navel Úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+2	9	9	0	4	Price	Product	Cam_Navel Úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+3	13	13	0	4	Price	Product	Cam_Navel Úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+2	14	14	0	4	Price	Product	Cam_Navel Úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+2	3	3	0	1	Price	Product	Bơ Booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+2	4	4	0	1	Price	Product	Bơ Booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+2	6	6	0	1	Price	Product	Bơ Booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+3	10	10	0	1	Price	Product	Bơ Booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+2	11	11	0	1	Price	Product	Bơ Booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+4	14	16	18	21	Promotion	Regulation	Ngoài_ra , khi mua_sắm vào thời_gian này , nhà mình còn có cơ_hội tham_gia QUAY SỐ MAY_MẮN cho hoá_đơn từ 𝟴𝟬𝟬 .
+3	2	5	0	1	Price	Product	Ruột gối chỉ từ 68.000 đ
+3	2	5	0	1	Price	Product	Mền tuyết chỉ từ 229.000 đ
+3	2	4	0	1	Price	Product	Gối cao_su chỉ 468.000 đ
+3	7	10	0	3	Price	Product	Bộ drap áo gối , mền chần chỉ từ 1.199.000 đ
+0	11	16	21	21	Promotion	Time	Sinh_nhật không phải ra dẻ mà ăn lớn làm thật với chương_trình Quay Thưởng quà siêu khủng diễn ra từ ngày 11 - 30/10 .
+4	21	21	11	16	Time	Promotion	Sinh_nhật không phải ra dẻ mà ăn lớn làm thật với chương_trình Quay Thưởng quà siêu khủng diễn ra từ ngày 11 - 30/10 .
+0	3	10	0	1	Time	Regulation	Thời_hạn đăng_ký : bắt_đầu_từ 11/10/2022 và đến hết 23h59 ngày 27/10/2022
+3	3	4	0	1	Price	Promotion	Giải Nhất : 5,000,000 vnd
+3	2	3	0	0	Price	Promotion	Giải_Nhì : 4,000,000 vnd
+3	3	4	0	1	Price	Promotion	Giải Ba : 3,000,000 vnd
+3	3	4	0	1	Price	Promotion	Giải Nhất : 6,000,000 vnd
+3	2	3	0	0	Price	Promotion	Giải_Nhì : 5,000,000 vnd
+3	3	4	0	1	Price	Promotion	Giải Ba : 4,000,000 vnd
+1	11	11	6	7	Organization	Location	Tri_ân tháng của chị_em phụ_nữ , AEON The_Nine cùng các thương_hiệu Acecook , Kewpie , Minh_Dương , An_Nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+1	11	11	25	27	Organization	Promotion	Tri_ân tháng của chị_em phụ_nữ , AEON The_Nine cùng các thương_hiệu Acecook , Kewpie , Minh_Dương , An_Nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+2	25	27	6	7	Promotion	Location	Tri_ân tháng của chị_em phụ_nữ , AEON The_Nine cùng các thương_hiệu Acecook , Kewpie , Minh_Dương , An_Nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+0	25	27	29	31	Promotion	Time	Tri_ân tháng của chị_em phụ_nữ , AEON The_Nine cùng các thương_hiệu Acecook , Kewpie , Minh_Dương , An_Nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+2	29	31	25	27	Time	Promotion	Tri_ân tháng của chị_em phụ_nữ , AEON The_Nine cùng các thương_hiệu Acecook , Kewpie , Minh_Dương , An_Nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+2	8	8	0	3	Price	Product	Thăn ngoại Bò Úc giá dùng thử chỉ 669.000 d / Kg
+2	9	9	0	3	Price	Product	Thăn ngoại Bò Úc giá dùng thử chỉ 669.000 d / Kg
+2	11	11	0	3	Price	Product	Thăn ngoại Bò Úc giá dùng thử chỉ 669.000 d / Kg
+2	0	0	2	6	Promotion	Product	Giải_ĐỘC_QUYỀN : điện_thoại 2 SAMSUNG Z FLIP4 & 1 SAMSUNG Z FOLD 4 .
+0	2	6	0	0	Product	Promotion	Giải_ĐỘC_QUYỀN : điện_thoại 2 SAMSUNG Z FLIP4 & 1 SAMSUNG Z FOLD 4 .
+2	3	6	0	2	Price	Promotion	Mưa lì_xì tiền_mặt lên đến 999.999 Đ từ SAMSUNG .
+1	8	8	0	2	Organization	Promotion	Mưa lì_xì tiền_mặt lên đến 999.999 Đ từ SAMSUNG .
+2	3	5	10	12	Promotion	Location	Cơn lốc Deal giảm_giá đến 50% khi thanh_toán MoMo tại Chuỗi cửa_hàng Circle_K :
+1	8	8	3	5	Organization	Promotion	Cơn lốc Deal giảm_giá đến 50% khi thanh_toán MoMo tại Chuỗi cửa_hàng Circle_K :
+1	8	8	10	12	Organization	Location	Cơn lốc Deal giảm_giá đến 50% khi thanh_toán MoMo tại Chuỗi cửa_hàng Circle_K :
+4	0	2	4	6	Product	Regulation	Voucher giảm 30k cho hoá_đơn từ 50k
+4	0	2	4	6	Product	Regulation	Voucher giảm 10k cho hoá_đơn từ 60k
+4	0	2	4	6	Product	Regulation	Voucher giảm 15k cho hoá_đơn từ 90k
+0	3	3	0	1	Time	Regulation	Thời_gian chương_trình : 21.11.2022 - 07.12.2022
+4	13	16	0	6	Product	Regulation	Mua 3 sản_phẩm bất_kỳ của Công_ty Coca-Cola ( ngoại_trừ Dasani ) nhận ngay 1 lượt quay may_mắn trên app thành_viên CK Club .
+1	13	16	18	21	Product	Location	Mua 3 sản_phẩm bất_kỳ của Công_ty Coca-Cola ( ngoại_trừ Dasani ) nhận ngay 1 lượt quay may_mắn trên app thành_viên CK Club .
+4	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 14/11/2022 – 30/11/2022
+2	0	2	4	11	Promotion	Product	03 Giải đặc_biệt : Phiếu mua hàng điện_máy xanh 10 triệu đồng
+0	4	11	0	2	Product	Promotion	03 Giải đặc_biệt : Phiếu mua hàng điện_máy xanh 10 triệu đồng
+2	0	2	4	8	Promotion	Product	100 Giải nhất : Phiếu mua hàng Decathlon 500K
+0	4	8	0	2	Product	Promotion	100 Giải nhất : Phiếu mua hàng Decathlon 500K
+2	0	3	5	9	Promotion	Product	Hàng ngàn giải khuyến_khích : Sữa Nutriboost cam / dâu ( 297 ml )
+0	5	9	0	3	Product	Promotion	Hàng ngàn giải khuyến_khích : Sữa Nutriboost cam / dâu ( 297 ml )
+0	3	5	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 20.11.2022 .
+0	0	4	7	7	Promotion	Time	Kết_quả sẽ được Circle_K công_bố vào ngày 22.11.2022 tại phần comment post .
+4	7	7	0	4	Time	Promotion	Kết_quả sẽ được Circle_K công_bố vào ngày 22.11.2022 tại phần comment post .
+4	0	3	8	15	Promotion	Regulation	Tặng 1 ly đá ( S ) khi mua Trà_Sữa Gạo Rang Nhật_Bản / Ô Long_Nướng bất_kỳ từ 31.10 – 30.11.2022 .
+0	0	3	18	20	Promotion	Time	Tặng 1 ly đá ( S ) khi mua Trà_Sữa Gạo Rang Nhật_Bản / Ô Long_Nướng bất_kỳ từ 31.10 – 30.11.2022 .
+4	18	20	0	3	Time	Promotion	Tặng 1 ly đá ( S ) khi mua Trà_Sữa Gạo Rang Nhật_Bản / Ô Long_Nướng bất_kỳ từ 31.10 – 30.11.2022 .
+2	18	20	8	15	Time	Regulation	Tặng 1 ly đá ( S ) khi mua Trà_Sữa Gạo Rang Nhật_Bản / Ô Long_Nướng bất_kỳ từ 31.10 – 30.11.2022 .
+4	2	6	8	11	Product	Regulation	NHẬN NGAY 1 VÉ THE MASKED SINGER KHI MUA 2 THÙNG PEPSI TẠI CIRCLE K !
+1	2	6	13	14	Product	Location	NHẬN NGAY 1 VÉ THE MASKED SINGER KHI MUA 2 THÙNG PEPSI TẠI CIRCLE K !
+2	7	10	0	3	Product	Regulation	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+2	7	10	13	13	Product	Promotion	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+4	13	13	0	3	Promotion	Regulation	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+2	13	13	7	10	Promotion	Product	Mua 2 thùng Pepsi - Nhận ngay 1 vé The_Masked Singer cùng chiếc ưu_đãi " Giảm 96 K " cực xịn .
+4	12	20	1	5	Promotion	Regulation	MUA HÓA ĐƠN ĐẦU_TIÊN TỪ 15K TRÊN APP THÀNH_VIÊN CK CLUB , NHẬN NGAY 1 TRONG 8 MÓN QUÀ CỰC CHẤT .
+1	12	20	7	10	Promotion	Location	MUA HÓA ĐƠN ĐẦU_TIÊN TỪ 15K TRÊN APP THÀNH_VIÊN CK CLUB , NHẬN NGAY 1 TRONG 8 MÓN QUÀ CỰC CHẤT .
+0	5	5	0	1	Time	Regulation	Thời_gian áp_dụng : chỉ từ 03/11 - 30/11/2022
+2	0	1	3	5	Promotion	Product	Giải nhất : Ipad Mini 6
+0	3	5	0	1	Product	Promotion	Giải nhất : Ipad Mini 6
+0	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 06/10/2022 – 02/11/2022
+1	3	4	1	1	Organization	Location	Đến Circle_K mở Ví MoMo , nhận ngay 1 lon Carlsberg miễn_phí .
+1	3	4	6	11	Organization	Promotion	Đến Circle_K mở Ví MoMo , nhận ngay 1 lon Carlsberg miễn_phí .
+2	6	11	1	1	Promotion	Location	Đến Circle_K mở Ví MoMo , nhận ngay 1 lon Carlsberg miễn_phí .
+0	4	4	0	1	Time	Regulation	Thời_gian áp_dụng : từ 18.3 - 30.4.2022
+1	9	11	4	5	Product	Location	Bước 2 : đến cửa_hàng Circle_K , chọn mua bia Carlsberg 330ml và mang đến quầy thanh_toán
+1	9	11	4	5	Product	Location	Bước 1 : Ghé cửa_hàng Circle_K và chọn bất_kỳ 2 sản_phẩm Nutriboost , Fuzetea , Teppy , Aquarius và mang đến quầy thanh_toán .
+0	4	4	0	0	Time	Regulation	Thời_gian_tham_gia : chỉ từ 05.4 - 25.4.2022
+2	0	1	3	7	Promotion	Product	Giải Nhất : suất học_bổng toàn_phần tại 8A .
+0	3	7	0	1	Product	Promotion	Giải Nhất : suất học_bổng toàn_phần tại 8A .
+2	0	0	2	5	Promotion	Product	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+0	2	5	0	0	Product	Promotion	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+2	6	9	0	0	Price	Promotion	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+3	6	9	2	5	Price	Product	Giải_Nhì : 2 balo Led Divoom lên tới 6,000,000 Vnđ .
+2	0	1	3	17	Promotion	Product	Giải 3 : 5 túi tote độc_quyền và voucher học 3 buổi học trải nghiệm miễn_phí tại 8A .
+0	3	17	0	1	Product	Promotion	Giải 3 : 5 túi tote độc_quyền và voucher học 3 buổi học trải nghiệm miễn_phí tại 8A .
+3	5	5	0	3	Price	Product	15 voucher Circle K trị_giá 300K dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn giựt về đó , tham_gia ngay thôi !
+0	3	5	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+2	3	5	7	11	Time	Promotion	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+2	7	11	0	0	Promotion	Regulation	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+2	7	11	3	5	Promotion	Time	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+0	7	11	14	14	Promotion	Time	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+1	7	11	16	18	Promotion	Location	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+2	14	14	0	0	Time	Regulation	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+4	14	14	7	11	Time	Promotion	Thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được Circle_K công_bố vào ngày 13.4.2022 tại phần comment post .
+0	0	5	11	11	Promotion	Time	Ưu_đãi nhận 1 ly trà tắc ( M ) áp_dụng từ 23/3 - 19/4/2022 .
+4	11	11	0	5	Time	Promotion	Ưu_đãi nhận 1 ly trà tắc ( M ) áp_dụng từ 23/3 - 19/4/2022 .
+3	6	9	0	4	Price	Product	04 Balo Divoom Pixoo Backpack trị_giá hơn 13 triệu đồng
+3	7	10	0	5	Price	Product	08 túi bao_tử Divoom Sling Bag trị_giá hơn 15 triệu đồng
+2	0	3	14	14	Product	Location	Hơn 1000 túi tote 8A và nhiều phần quà hấp_dẫn khác tại 8A từ Circle_K
+1	4	4	0	3	Organization	Product	Hơn 1000 túi tote 8A và nhiều phần quà hấp_dẫn khác tại 8A từ Circle_K
+1	4	4	14	14	Organization	Location	Hơn 1000 túi tote 8A và nhiều phần quà hấp_dẫn khác tại 8A từ Circle_K
+0	0	4	10	10	Promotion	Time	Chương_trình tham_gia bốc_thăm trúng quà chỉ diễn ra trong tháng 03/2022.
+4	10	10	0	4	Time	Promotion	Chương_trình tham_gia bốc_thăm trúng quà chỉ diễn ra trong tháng 03/2022.
+3	5	5	0	3	Price	Product	15 voucher Circle K trị_giá 200K dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn giựt về đó , tham_gia ngay thôi !
+4	0	1	9	13	Promotion	Regulation	Trà_chanh Nestea ( size M ) chỉ 1K khi mua 1 phần xôi bất_kỳ
+1	15	15	10	10	Organization	Location	Vũ_trụ gửi tín_hiệu cho bạn rằng phải nhanh chân ghé Circle_K chọn mua 2 sản_phẩm Colgate bất_kỳ để nhận ngay :
+1	11	11	5	5	Organization	Location	Bước 1 : Đến cửa_hàng Circle_K , chọn ngay 2 sản_phẩm Colgate bất_kỳ bạn yêu thích + 1 hộp tất và mang đến quầy thanh_toán .
+0	3	4	0	1	Time	Regulation	Thời_gian áp_dụng : đến 28/03/2022 .
+3	6	7	0	3	Price	Product	Sữa tắm Around_Me 500ml mua bằng 69.000 điểm
+2	9	9	0	4	Price	Product	Thùng 24 Coca Cola 235ml với giá sốc chỉ 89.000 đ / thùng
+3	10	10	0	4	Price	Product	Thùng 24 Coca Cola 235ml với giá sốc chỉ 89.000 đ / thùng
+2	12	12	0	4	Price	Product	Thùng 24 Coca Cola 235ml với giá sốc chỉ 89.000 đ / thùng
+2	7	7	0	2	Price	Product	Bánh_quy LU 540g với giá chỉ còn 135.000 đ / hộp
+2	8	8	0	2	Price	Product	Bánh_quy LU 540g với giá chỉ còn 135.000 đ / hộp
+2	10	10	0	2	Price	Product	Bánh_quy LU 540g với giá chỉ còn 135.000 đ / hộp
+2	8	8	0	5	Price	Product	Hạt điều lụa Choice L 500g giá chỉ 89.000 đ / túi
+2	9	9	0	5	Price	Product	Hạt điều lụa Choice L 500g giá chỉ 89.000 đ / túi
+2	11	11	0	5	Price	Product	Hạt điều lụa Choice L 500g giá chỉ 89.000 đ / túi
+2	7	7	0	3	Price	Product	Thùng 24 Trà_Olong Tea + 450ml giá 139.000 đ / thùng
+2	8	8	0	3	Price	Product	Thùng 24 Trà_Olong Tea + 450ml giá 139.000 đ / thùng
+2	10	10	0	3	Price	Product	Thùng 24 Trà_Olong Tea + 450ml giá 139.000 đ / thùng
+3	4	4	0	2	Price	Product	Bánh_chưng Trần_Gia 1kg giá 129.000 đ / cái
+2	5	5	0	2	Price	Product	Bánh_chưng Trần_Gia 1kg giá 129.000 đ / cái
+2	7	7	0	2	Price	Product	Bánh_chưng Trần_Gia 1kg giá 129.000 đ / cái
+3	6	6	0	4	Price	Product	Thùng 12 bia Tiger 500ml giá 209.000 đ / thùng
+2	7	7	0	4	Price	Product	Thùng 12 bia Tiger 500ml giá 209.000 đ / thùng
+2	9	9	0	4	Price	Product	Thùng 12 bia Tiger 500ml giá 209.000 đ / thùng
+0	0	1	6	6	Promotion	Time	TẾT SUM_VẦY , LỘC TRÀN_ĐẦY ( 11.01 ~ 21.01.2023 )
+4	6	6	0	1	Time	Promotion	TẾT SUM_VẦY , LỘC TRÀN_ĐẦY ( 11.01 ~ 21.01.2023 )
+2	0	1	2	5	Product	Promotion	Dâu_tây Hàn_Quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+2	0	1	15	15	Product	Time	Dâu_tây Hàn_Quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+2	2	5	0	1	Promotion	Product	Dâu_tây Hàn_Quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+0	2	5	15	15	Promotion	Time	Dâu_tây Hàn_Quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+2	15	15	0	1	Time	Product	Dâu_tây Hàn_Quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+4	15	15	2	5	Time	Promotion	Dâu_tây Hàn_Quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+0	0	2	9	12	Product	Promotion	Nước giặt Downy , Giấy_Premier , Pizza , Chả_giò mua 1 tặng 1 .
+2	9	12	0	2	Promotion	Product	Nước giặt Downy , Giấy_Premier , Pizza , Chả_giò mua 1 tặng 1 .
+2	0	1	7	9	Regulation	Price	Checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+4	3	4	0	1	Product	Regulation	Checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+3	7	9	3	4	Price	Product	Checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+4	10	23	0	3	Product	Regulation	Khách_hàng thành_viên LOTTE Mart khi mua hàng với hoá_đơn từ 1 triệu trở lên sẽ được nhận ngay combo bao_gồm 1 Voucher CarePlus trị_giá 200.000 đồng và 1 Voucher học_bổng 20% của Yola .
+4	10	23	8	9	Product	Regulation	Khách_hàng thành_viên LOTTE Mart khi mua hàng với hoá_đơn từ 1 triệu trở lên sẽ được nhận ngay combo bao_gồm 1 Voucher CarePlus trị_giá 200.000 đồng và 1 Voucher học_bổng 20% của Yola .
+0	3	5	0	1	Time	Regulation	Thời_gian áp_dụng : 06/01 – 12/02/2023 .
+3	6	7	8	16	Promotion	Product	Ưu_đãi cực hấp_dẫn chào sân : Giảm 21% Thịt vai / Thịt đùi heo ăn chuối BAPI
+0	8	16	6	7	Product	Promotion	Ưu_đãi cực hấp_dẫn chào sân : Giảm 21% Thịt vai / Thịt đùi heo ăn chuối BAPI
+4	5	14	1	4	Promotion	Regulation	Mua hoá_đơn từ 250.000 đ Tặng 200gr Thịt đùi / thịt vai hoặc 500gr Chuối
+0	0	2	9	11	Promotion	Promotion	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+2	0	2	13	16	Promotion	Location	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+2	9	11	0	2	Promotion	Promotion	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+1	9	11	13	16	Promotion	Location	GIẢM 10% TÔM_THẺ - CÁ_CHIM và MIỄN_PHÍ CHẾ_BIẾN MỪNG KHAI_TRƯƠNG HẢI_SẢN HOÀNG_GIA TẠI LOTTE MART PHÚ THỌ ( QUẬN 11 )
+2	5	7	12	13	Product	Location	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+0	5	7	16	17	Product	Promotion	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+1	9	11	5	7	Organization	Product	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+1	9	11	12	13	Organization	Location	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+2	9	11	16	17	Organization	Promotion	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+2	16	17	5	7	Promotion	Product	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+2	16	17	12	13	Promotion	Location	Nội_dung : Khi khách_hàng mua Tôm_Thẻ và Cá_Chim tại Siêu_thị Hải_sản Hoàng_Gia LOTTE Mart_Phú_Thọ sẽ được giảm 10% .
+4	0	4	23	26	Promotion	Regulation	Tặng bộ Voucher Cơm cuộn / muffin và các chương_trình giảm_giá tại Manwah , Kichi_Kichi , KPub , The_Bunny , Himalaya ... với hoá_đơn từ 600.000 đ
+4	0	8	16	19	Promotion	Regulation	Mua hàng giá sốc chỉ từ 79.000 đ bánh , lạp_xưởng , nước_ngọt , bia với hoá_đơn từ 2.000.000 đ
+4	0	4	6	9	Product	Regulation	Thẻ quà tặng 100.000 đ với hoá_đơn từ 3.000.000 đ
+0	1	4	6	7	Promotion	Time	Riêng chương_trình Tặng bộ Voucher áp_dụng đến 21.01.2023 .
+4	6	7	1	4	Time	Promotion	Riêng chương_trình Tặng bộ Voucher áp_dụng đến 21.01.2023 .
+3	0	1	2	6	Promotion	Product	Giảm 19% Combo Sushi Set A lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+0	2	6	0	1	Product	Promotion	Giảm 19% Combo Sushi Set A lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+2	15	15	0	1	Price	Promotion	Giảm 19% Combo Sushi Set A lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+2	15	15	2	6	Price	Product	Giảm 19% Combo Sushi Set A lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+2	16	16	0	1	Price	Promotion	Giảm 19% Combo Sushi Set A lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+2	16	16	2	6	Price	Product	Giảm 19% Combo Sushi Set A lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+2	0	4	5	6	Promotion	Product	Check-in NHẬN NGAY quà tặng Tai_Nghe trị_giá # 150 k
+0	5	6	0	4	Product	Promotion	Check-in NHẬN NGAY quà tặng Tai_Nghe trị_giá # 150 k
+1	0	2	4	6	Promotion	Location	KHAI_TRƯƠNG CỬA_HÀNG GOJOY TẠI LOTTE MART VINH
+1	8	10	16	18	Organization	Location	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+1	8	10	31	36	Organization	Promotion	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+4	31	36	1	6	Promotion	Regulation	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+2	31	36	16	18	Promotion	Location	Khách_hàng mua 9 con Hàu giống Pháp tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp - 242 Nguyễn Văn_Lượng , Phường 10 , Quận Gò_Vấp sẽ được tặng 9 con Hàu giống Pháp
+2	2	4	10	12	Organization	Location	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+1	2	4	15	21	Organization	Promotion	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+1	15	21	10	12	Promotion	Location	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+4	15	21	23	25	Promotion	Regulation	Khách_hàng tại siêu_thị Hải_Sản Hoàng_Gia ( Royal_Seafood ) chi_nhánh thuộc LOTTE Mart Gò_Vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : Sò_Mía , Vẹm Xanh , Nghêu_Sần
+4	3	3	8	15	Time	Promotion	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+0	8	15	3	3	Promotion	Time	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+1	8	15	21	23	Promotion	Location	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+2	18	19	8	15	Organization	Promotion	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+2	18	19	21	23	Organization	Location	Ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món Sò Mía Hấp_Xả tại khu_vực Hải_Sản Hoàng_Gia của LOTTE Mart Gò_Vấp
+1	6	8	2	4	Promotion	Location	Đến ngay LOTTE Mart Gò_Vấp mừng khai_trương Hải_Sản Hoàng_Gia_nha
+3	6	6	0	4	Price	Product	Trà_chanh sả Fuze chai 1L chỉ 5.000 đ
+2	7	7	0	4	Price	Product	Trà_chanh sả Fuze chai 1L chỉ 5.000 đ
+3	7	7	0	5	Price	Product	Khăn ướt Choice L 120 miếng chỉ 5.000 đ
+2	8	8	0	5	Price	Product	Khăn ướt Choice L 120 miếng chỉ 5.000 đ
+3	7	7	0	5	Price	Product	Sữa_tươi Milky Lux ít béo 1L chỉ 15.000 đ
+2	8	8	0	5	Price	Product	Sữa_tươi Milky Lux ít béo 1L chỉ 15.000 đ
+3	8	8	0	6	Price	Product	Lô 2 Kem đánh răng Closeup 230g chỉ 60.000 đ
+2	9	9	0	6	Price	Product	Lô 2 Kem đánh răng Closeup 230g chỉ 60.000 đ
+3	7	7	0	5	Price	Product	Hạt nêm Neptune 4in1 heo 850g chỉ 35.000 đ
+2	8	8	0	5	Price	Product	Hạt nêm Neptune 4in1 heo 850g chỉ 35.000 đ
+3	9	9	0	7	Price	Product	Nước giặt Surf hương nước_hoa túi 3.1 kg chỉ 85.000 đ
+2	10	10	0	7	Price	Product	Nước giặt Surf hương nước_hoa túi 3.1 kg chỉ 85.000 đ
+4	0	8	10	13	Promotion	Regulation	TẶNG 1 Lốc 3 Gói TẢO KIMORI TERIYAKI 5G cho hoá_đơn mua THỰC_PHẨM TƯƠI_SỐNG , BÁNH hoặc THỨC_ĂN CHẾ_BIẾN SẴN từ 300.000 Đ trở_lên
+3	15	15	3	8	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+2	15	15	18	22	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+2	16	16	3	8	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+2	16	16	18	22	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+2	24	24	3	8	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+3	24	24	18	22	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+2	25	25	3	8	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+2	25	25	18	22	Price	Product	Tặng ngay 01 HỘP 10 CHAI NƯỚC HỒNG SÂM / VỊ ĐÔNG TRÙNG 100ML trị_giá 113.000 đ hoặc 02 GÓI BỘT_NGỌT AJINOMOTO 400G trị_giá 58.000 đ
+0	3	6	0	1	Time	Regulation	Thời_gian chương_trình : từ 05.09 đến 11.09.2022
+4	5	11	13	17	Product	Regulation	QUÀ TẶNG MINIGAME ONLINE : 30 CẶP VÉ XEM PHIM LOTTE Cinema cho 30 bạn may_mắn được chọn
+2	0	2	4	7	Promotion	Product	1 Giải Nhất : 4 Thẻ Quà Tặng trị_giá 20 TRIỆU ĐỒNG
+0	4	7	0	2	Product	Promotion	1 Giải Nhất : 4 Thẻ Quà Tặng trị_giá 20 TRIỆU ĐỒNG
+2	9	11	0	2	Price	Promotion	1 Giải Nhất : 4 Thẻ Quà Tặng trị_giá 20 TRIỆU ĐỒNG
+3	9	11	4	7	Price	Product	1 Giải Nhất : 4 Thẻ Quà Tặng trị_giá 20 TRIỆU ĐỒNG
+2	0	1	3	5	Promotion	Product	4 Giải_Nhì : Thẻ Quà Tặng trị_giá 5 TRIỆU ĐỒNG
+0	3	5	0	1	Product	Promotion	4 Giải_Nhì : Thẻ Quà Tặng trị_giá 5 TRIỆU ĐỒNG
+2	7	9	0	1	Price	Promotion	4 Giải_Nhì : Thẻ Quà Tặng trị_giá 5 TRIỆU ĐỒNG
+3	7	9	3	5	Price	Product	4 Giải_Nhì : Thẻ Quà Tặng trị_giá 5 TRIỆU ĐỒNG
+2	0	2	4	7	Promotion	Product	10 Giải Ba : 4 Vé Xem Phim trị_giá 400.000 Đ
+2	4	7	0	2	Product	Promotion	10 Giải Ba : 4 Vé Xem Phim trị_giá 400.000 Đ
+3	9	9	0	2	Price	Promotion	10 Giải Ba : 4 Vé Xem Phim trị_giá 400.000 Đ
+3	9	9	4	7	Price	Product	10 Giải Ba : 4 Vé Xem Phim trị_giá 400.000 Đ
+2	10	10	0	2	Price	Promotion	10 Giải Ba : 4 Vé Xem Phim trị_giá 400.000 Đ
+2	10	10	4	7	Price	Product	10 Giải Ba : 4 Vé Xem Phim trị_giá 400.000 Đ
+0	2	2	0	0	Time	Regulation	Thời_gian_tham_gia : 31.08 ~ 13.09.2022 .
+4	0	5	12	19	Promotion	Regulation	Tặng ngay ly sứ cao_cấp Starbucks® ( Trị_giá 450 k ) khi mua 03 sản_phẩm cà_phê hoà_tan cao_cấp Starbucks® bất_kỳ tại quầy Cà_phê trong khu_vực tự chọn của siêu_thị
+2	0	0	3	6	Organization	Promotion	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+2	0	0	13	13	Organization	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+2	0	0	15	15	Organization	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+1	3	6	13	13	Promotion	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+2	3	6	15	15	Promotion	Location	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+0	3	6	18	20	Promotion	Time	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+4	18	20	3	6	Time	Promotion	WCM cũng chính_thức triển_khai chương_trình Hội_viên WIN tại hơn 3.400 siêu_thị và cửa_hàng WinMart / WinMart + toàn_quốc từ ngày 06/01/2023 .
+1	10	15	4	4	Promotion	Location	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+2	10	15	6	6	Promotion	Location	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+4	10	15	26	27	Promotion	Regulation	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+3	18	22	10	15	Price	Promotion	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+2	26	27	18	22	Regulation	Price	Trong thời_gian này , WinMart / WinMart + cũng triển_khai minigame “ Ưu_đãi X 10 ” phần quà giá_trị lên đến 10.000.000 đ dành riêng cho Hội_viên WIN .
+4	2	3	1	1	Product	Regulation	Với hoá_đơn_trị_giá 199.000 VND : nhận ngay 1 SET BAO LÌ_XÌ NHUNG
+4	7	10	1	3	Product	Regulation	Với hoá_đơn_trị_giá 399.000 VND : nhận ngay 1 GỐI TỰA CỔ
+4	7	12	1	3	Product	Regulation	Với hoá_đơn_trị_giá 599.000 VND : nhận ngay 1 SET MUỖNG NĨA ĐŨA ENVY™
+4	7	9	1	3	Product	Regulation	Với hoá_đơn_trị_giá 799.000 VND : nhận ngay 1 DÙ ENVY™
+4	19	27	2	6	Product	Regulation	Đặc_biệt , mua 2 Hộp Táo Tết ( cả phiên_bản 6 quả lẫn 8 quả ) : nhận ngay combo quà ly giữ nhiệt và gối tựa cổ
+3	10	10	0	3	Price	Product	LÊ HÀN QUỐC NHẬP_KHẨU - ƯU_ĐÃI CỰC SỐC : CHỈ 64.900 Đ / KG !
+2	11	11	0	3	Price	Product	LÊ HÀN QUỐC NHẬP_KHẨU - ƯU_ĐÃI CỰC SỐC : CHỈ 64.900 Đ / KG !
+2	13	13	0	3	Price	Product	LÊ HÀN QUỐC NHẬP_KHẨU - ƯU_ĐÃI CỰC SỐC : CHỈ 64.900 Đ / KG !
+2	2	3	18	20	Promotion	Product	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+0	18	20	2	3	Product	Promotion	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+2	30	30	2	3	Price	Promotion	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+3	30	30	18	20	Price	Product	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+2	31	31	2	3	Price	Promotion	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+2	31	31	18	20	Price	Product	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+2	33	33	2	3	Price	Promotion	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+2	33	33	18	20	Price	Product	Trong khuôn_khổ Lễ_hội Hàn_Quốc , người tiêu_dùng Việt sẽ được thưởng_thức hương_vị ngọt mát thượng_hạng của những trái lê nâu Hàn_Quốc to tròn , căng mọng , giòn_tan chỉ với 64.900 đ / kg
+2	10	10	0	8	Price	Product	Bánh_quy Cosy thập_cẩm socola / rắc hạt 336 g : 74.500 đ / hộp ( giá cũ : 85.000 đ / hộp )
+2	11	11	0	8	Price	Product	Bánh_quy Cosy thập_cẩm socola / rắc hạt 336 g : 74.500 đ / hộp ( giá cũ : 85.000 đ / hộp )
+2	13	13	0	8	Price	Product	Bánh_quy Cosy thập_cẩm socola / rắc hạt 336 g : 74.500 đ / hộp ( giá cũ : 85.000 đ / hộp )
+3	18	18	0	8	Price	Product	Bánh_quy Cosy thập_cẩm socola / rắc hạt 336 g : 74.500 đ / hộp ( giá cũ : 85.000 đ / hộp )
+2	19	19	0	8	Price	Product	Bánh_quy Cosy thập_cẩm socola / rắc hạt 336 g : 74.500 đ / hộp ( giá cũ : 85.000 đ / hộp )
+2	21	21	0	8	Price	Product	Bánh_quy Cosy thập_cẩm socola / rắc hạt 336 g : 74.500 đ / hộp ( giá cũ : 85.000 đ / hộp )
+2	5	5	0	3	Price	Product	Bánh_Chocopie Tết 528 g : 86.500 đ / hộp ( giá cũ : 97.900 đ / hộp )
+2	6	6	0	3	Price	Product	Bánh_Chocopie Tết 528 g : 86.500 đ / hộp ( giá cũ : 97.900 đ / hộp )
+2	8	8	0	3	Price	Product	Bánh_Chocopie Tết 528 g : 86.500 đ / hộp ( giá cũ : 97.900 đ / hộp )
+3	13	13	0	3	Price	Product	Bánh_Chocopie Tết 528 g : 86.500 đ / hộp ( giá cũ : 97.900 đ / hộp )
+2	14	14	0	3	Price	Product	Bánh_Chocopie Tết 528 g : 86.500 đ / hộp ( giá cũ : 97.900 đ / hộp )
+2	16	16	0	3	Price	Product	Bánh_Chocopie Tết 528 g : 86.500 đ / hộp ( giá cũ : 97.900 đ / hộp )
+2	6	6	0	4	Price	Product	Bánh_Danisa Gold Edition 792 g : 279.000 đ / hộp ( giá cũ : 279.000 / hộp )
+2	7	7	0	4	Price	Product	Bánh_Danisa Gold Edition 792 g : 279.000 đ / hộp ( giá cũ : 279.000 / hộp )
+3	9	9	0	4	Price	Product	Bánh_Danisa Gold Edition 792 g : 279.000 đ / hộp ( giá cũ : 279.000 / hộp )
+0	2	2	0	0	Time	Regulation	Thời_gian_tham_gia : 06/01 - 21/01/2023 .
+1	0	1	7	9	Promotion	Location	TƯNG_BỪNG KHAI_TRƯƠNG - SĂN ƯU_ĐÃI VÀNG TẠI WINMART BÌNH CHIỂU ( THỦ ĐỨC ) VÀO NGÀY 12.01.2023
+0	0	1	16	16	Promotion	Time	TƯNG_BỪNG KHAI_TRƯƠNG - SĂN ƯU_ĐÃI VÀNG TẠI WINMART BÌNH CHIỂU ( THỦ ĐỨC ) VÀO NGÀY 12.01.2023
+4	16	16	0	1	Time	Promotion	TƯNG_BỪNG KHAI_TRƯƠNG - SĂN ƯU_ĐÃI VÀNG TẠI WINMART BÌNH CHIỂU ( THỦ ĐỨC ) VÀO NGÀY 12.01.2023
+3	4	4	0	1	Price	Product	Dâu Hàn_Quốc : chỉ 149.900 đ / hộp 250gr
+2	5	5	0	1	Price	Product	Dâu Hàn_Quốc : chỉ 149.900 đ / hộp 250gr
+2	7	8	0	1	Price	Product	Dâu Hàn_Quốc : chỉ 149.900 đ / hộp 250gr
+4	0	2	10	13	Product	Regulation	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+3	5	5	0	2	Price	Product	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+2	6	6	0	2	Price	Product	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+2	8	8	0	2	Price	Product	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+2	10	13	5	5	Regulation	Price	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+2	10	13	6	6	Regulation	Price	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+2	10	13	8	8	Regulation	Price	Nho đen Mỹ : chỉ 199.900 đ / kg * áp_dụng tại miền Bắc
+4	0	2	10	13	Product	Regulation	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+3	5	5	0	2	Price	Product	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+2	6	6	0	2	Price	Product	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+2	8	8	0	2	Price	Product	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+2	10	13	5	5	Regulation	Price	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+2	10	13	6	6	Regulation	Price	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+2	10	13	8	8	Regulation	Price	Cam vàng Úc : chỉ 69.900 đ / kg * áp_dụng tại miền Bắc
+4	0	1	9	12	Product	Regulation	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+3	4	4	0	1	Price	Product	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+2	5	5	0	1	Price	Product	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+2	7	7	0	1	Price	Product	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+2	9	12	4	4	Regulation	Price	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+2	9	12	5	5	Regulation	Price	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+2	9	12	7	7	Regulation	Price	Cam_sành Hàm_Yên : chỉ 15.900 đ / kg * áp_dụng tại miền Bắc
+4	0	1	9	12	Product	Regulation	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+3	4	4	0	1	Price	Product	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+2	5	5	0	1	Price	Product	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+2	7	7	0	1	Price	Product	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+2	9	12	4	4	Regulation	Price	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+2	9	12	5	5	Regulation	Price	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+2	9	12	7	7	Regulation	Price	Mận đá : chỉ 39.900 đ / kg * áp_dụng tại miền Nam
+4	0	1	9	12	Product	Regulation	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+3	4	4	0	1	Price	Product	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+2	5	5	0	1	Price	Product	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+2	7	7	0	1	Price	Product	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+2	9	12	4	4	Regulation	Price	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+2	9	12	5	5	Regulation	Price	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+2	9	12	7	7	Regulation	Price	Bưởi diễn : chỉ 19.900 đ / quả * áp_dụng tại miền Nam
+2	13	13	0	11	Price	Product	Kem đánh răng P / S_giảm ê buốt trắng răng 100 g : 31.500 đ / tuýp ( giá cũ : 55.000 đ / tuýp )
+2	14	14	0	11	Price	Product	Kem đánh răng P / S_giảm ê buốt trắng răng 100 g : 31.500 đ / tuýp ( giá cũ : 55.000 đ / tuýp )
+2	16	16	0	11	Price	Product	Kem đánh răng P / S_giảm ê buốt trắng răng 100 g : 31.500 đ / tuýp ( giá cũ : 55.000 đ / tuýp )
+3	21	21	0	11	Price	Product	Kem đánh răng P / S_giảm ê buốt trắng răng 100 g : 31.500 đ / tuýp ( giá cũ : 55.000 đ / tuýp )
+2	22	22	0	11	Price	Product	Kem đánh răng P / S_giảm ê buốt trắng răng 100 g : 31.500 đ / tuýp ( giá cũ : 55.000 đ / tuýp )
+2	24	24	0	11	Price	Product	Kem đánh răng P / S_giảm ê buốt trắng răng 100 g : 31.500 đ / tuýp ( giá cũ : 55.000 đ / tuýp )
+3	21	22	14	16	Price	Product	Cơ_hội trúng thưởng cho chị_em lên đến 8 triệu đồng trong tầm tay : 08 giải E-Voucher mua_sắm thoả_thích với trị_giá 1.000.000 VNĐ
+3	0	2	5	10	Promotion	Product	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+0	0	2	11	14	Promotion	Time	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+0	5	10	0	2	Product	Promotion	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+2	5	10	11	14	Product	Time	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+2	11	14	0	2	Time	Promotion	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+2	11	14	5	10	Time	Product	Giảm sốc 20% cho sản_phẩm tổ yến nguyên_chất chưng sẵn YenViet duy_nhất trong tháng 11 .
+3	9	9	0	0	Price	Product	Mận ( roi ) đỏ An_Phước : giá chỉ 39.900 đ / kg
+2	10	10	0	0	Price	Product	Mận ( roi ) đỏ An_Phước : giá chỉ 39.900 đ / kg
+2	12	12	0	0	Price	Product	Mận ( roi ) đỏ An_Phước : giá chỉ 39.900 đ / kg
+4	0	10	23	27	Product	Regulation	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	12	12	0	10	Price	Product	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	13	13	0	10	Price	Product	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	15	15	0	10	Price	Product	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+3	17	17	0	10	Price	Product	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	18	18	0	10	Price	Product	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	20	20	0	10	Price	Product	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	23	27	12	12	Regulation	Price	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	23	27	13	13	Regulation	Price	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	23	27	15	15	Regulation	Price	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	23	27	17	17	Regulation	Price	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	23	27	18	18	Regulation	Price	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+2	23	27	20	20	Regulation	Price	Sữa tiệt trùng Vinamilk không đường / có đường 1 L : 28.000 đ / hộp ( 36.500 đ / hộp ) * Tối_đa 3 hộp / hoá_đơn
+0	0	4	13	17	Product	Promotion	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+4	0	4	19	23	Product	Regulation	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	8	8	0	4	Price	Product	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	8	8	13	17	Price	Promotion	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	9	9	0	4	Price	Product	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	9	9	13	17	Price	Promotion	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	11	11	0	4	Price	Product	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	11	11	13	17	Price	Promotion	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+3	13	17	0	4	Promotion	Product	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	13	17	19	23	Promotion	Regulation	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	19	23	8	8	Regulation	Price	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	19	23	9	9	Regulation	Price	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	19	23	11	11	Regulation	Price	Bia Red Ruby 330 ml : giá chỉ 199.000 đ / thùng - Tặng 2 lon cùng loại * Tối_đa 2 thùng / hoá_đơn
+2	7	7	0	2	Price	Product	MEATDeli móng_giò premium ( S ) : 79.900 đ / kg ( giá cũ : 111.900 đ / kg )
+2	8	8	0	2	Price	Product	MEATDeli móng_giò premium ( S ) : 79.900 đ / kg ( giá cũ : 111.900 đ / kg )
+2	10	10	0	2	Price	Product	MEATDeli móng_giò premium ( S ) : 79.900 đ / kg ( giá cũ : 111.900 đ / kg )
+3	15	15	0	2	Price	Product	MEATDeli móng_giò premium ( S ) : 79.900 đ / kg ( giá cũ : 111.900 đ / kg )
+2	16	16	0	2	Price	Product	MEATDeli móng_giò premium ( S ) : 79.900 đ / kg ( giá cũ : 111.900 đ / kg )
+2	18	18	0	2	Price	Product	MEATDeli móng_giò premium ( S ) : 79.900 đ / kg ( giá cũ : 111.900 đ / kg )
+4	0	5	21	25	Product	Regulation	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	7	7	0	5	Price	Product	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	8	8	0	5	Price	Product	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	10	10	0	5	Price	Product	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+3	15	15	0	5	Price	Product	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	16	16	0	5	Price	Product	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	18	18	0	5	Price	Product	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	25	7	7	Regulation	Price	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	25	8	8	Regulation	Price	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	25	10	10	Regulation	Price	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	25	15	15	Regulation	Price	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	25	16	16	Regulation	Price	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	25	18	18	Regulation	Price	Nước xả Downy đam_mê 3.5 L : 169.000 đ / túi ( giá cũ : 262.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+4	0	8	24	28	Product	Regulation	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	10	10	0	8	Price	Product	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	11	11	0	8	Price	Product	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	13	13	0	8	Price	Product	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+3	18	18	0	8	Price	Product	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	19	19	0	8	Price	Product	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	21	21	0	8	Price	Product	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	24	28	10	10	Regulation	Price	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	24	28	11	11	Regulation	Price	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	24	28	13	13	Regulation	Price	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	24	28	18	18	Regulation	Price	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	24	28	19	19	Regulation	Price	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+2	24	28	21	21	Regulation	Price	Nước giặt cửa trên WinMart Home nước_hoa 1.8 kg : 49.000 đ / túi ( giá cũ : 105.000 đ / túi ) * Tối_đa 3 túi / hoá_đơn
+4	0	7	23	28	Product	Regulation	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	9	9	0	7	Price	Product	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	10	10	0	7	Price	Product	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	12	12	0	7	Price	Product	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+3	17	17	0	7	Price	Product	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	18	18	0	7	Price	Product	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	20	20	0	7	Price	Product	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	23	28	9	9	Regulation	Price	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	23	28	10	10	Regulation	Price	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	23	28	12	12	Regulation	Price	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	23	28	17	17	Regulation	Price	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	23	28	18	18	Regulation	Price	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+2	23	28	20	20	Regulation	Price	Bánh_quy Cosy Marie 14 4g / 136 g : 9.500 đ / gói ( giá cũ : 19.000 đ / gói ) * Áp_dụng cho sản_phẩm thứ 2,4,6 , ... cùng hoá_đơn
+4	0	10	28	32	Product	Regulation	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	12	12	0	10	Price	Product	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	13	13	0	10	Price	Product	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	15	16	0	10	Price	Product	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+3	21	21	0	10	Price	Product	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	22	22	0	10	Price	Product	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	24	25	0	10	Price	Product	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	28	32	12	12	Regulation	Price	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	28	32	13	13	Regulation	Price	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	28	32	15	16	Regulation	Price	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	28	32	21	21	Regulation	Price	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	28	32	22	22	Regulation	Price	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+2	28	32	24	25	Regulation	Price	Nước tăng lực Sting hương dâu 330 ml / 320 ml : 50.900 đ / lốc 6 ( giá cũ : 61.000 đ / lốc 6 ) * Áp_dụng với hoá_đơn 88.000 Đ
+4	0	6	22	26	Product	Regulation	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	8	8	0	6	Price	Product	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	9	9	0	6	Price	Product	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	11	11	0	6	Price	Product	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+3	16	16	0	6	Price	Product	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	17	17	0	6	Price	Product	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	19	19	0	6	Price	Product	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	22	26	8	8	Regulation	Price	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	22	26	9	9	Regulation	Price	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	22	26	11	11	Regulation	Price	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	22	26	16	16	Regulation	Price	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	22	26	17	17	Regulation	Price	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	22	26	19	19	Regulation	Price	Nồi lẩu nắp kính Cherry 26 cm : 89.000 đ / cái ( giá cũ : 180.000 đ / cái ) * Áp_dụng với hoá_đơn 388.000 Đ
+2	8	8	0	6	Price	Product	Nước rửa chén Sunlight thiên_nhiên 2.1 kg : 60.000 đ / túi ( giá cũ : 74.900 đ / túi )
+2	9	9	0	6	Price	Product	Nước rửa chén Sunlight thiên_nhiên 2.1 kg : 60.000 đ / túi ( giá cũ : 74.900 đ / túi )
+2	11	11	0	6	Price	Product	Nước rửa chén Sunlight thiên_nhiên 2.1 kg : 60.000 đ / túi ( giá cũ : 74.900 đ / túi )
+3	16	16	0	6	Price	Product	Nước rửa chén Sunlight thiên_nhiên 2.1 kg : 60.000 đ / túi ( giá cũ : 74.900 đ / túi )
+2	17	17	0	6	Price	Product	Nước rửa chén Sunlight thiên_nhiên 2.1 kg : 60.000 đ / túi ( giá cũ : 74.900 đ / túi )
+2	19	19	0	6	Price	Product	Nước rửa chén Sunlight thiên_nhiên 2.1 kg : 60.000 đ / túi ( giá cũ : 74.900 đ / túi )
+0	2	6	8	8	Product	Promotion	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+1	2	6	12	12	Product	Location	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+2	8	8	2	6	Promotion	Product	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+2	8	8	12	12	Promotion	Location	Kết_quả , 10 E-Voucher trị_giá 200.000 VNĐ của Minigame " Mai_đẹt-ti-ni " WinMart cũng đã gọi tên 10 khách_hàng may_mắn chiến_thắng .
+0	4	6	0	2	Time	Regulation	Thời_gian trao quà : Trước ngày 24/12/2022
+3	0	3	9	11	Promotion	Product	MUA 1 TẶNG 1 - áp_dụng với các sản_phẩm nước giặt Ariel , Nước xả Downy & dao_cạo Gillette
+0	9	11	0	3	Product	Promotion	MUA 1 TẶNG 1 - áp_dụng với các sản_phẩm nước giặt Ariel , Nước xả Downy & dao_cạo Gillette
+3	0	3	9	10	Promotion	Product	ƯU_ĐÃI LÊN ĐẾN 35% - áp_dụng với các sản_phẩm dầu_gội Pantene , Head & Shoulders , nước giặt Ariel và nước xả Downy .
+0	9	10	0	3	Product	Promotion	ƯU_ĐÃI LÊN ĐẾN 35% - áp_dụng với các sản_phẩm dầu_gội Pantene , Head & Shoulders , nước giặt Ariel và nước xả Downy .
+2	7	7	0	5	Price	Product	Sữa Ovaltine DHA plus 180 ml : 28.800 đ / lốc 4 ( giá cũ : 33.800 đ / lốc 4 )
+2	8	8	0	5	Price	Product	Sữa Ovaltine DHA plus 180 ml : 28.800 đ / lốc 4 ( giá cũ : 33.800 đ / lốc 4 )
+2	10	11	0	5	Price	Product	Sữa Ovaltine DHA plus 180 ml : 28.800 đ / lốc 4 ( giá cũ : 33.800 đ / lốc 4 )
+3	16	16	0	5	Price	Product	Sữa Ovaltine DHA plus 180 ml : 28.800 đ / lốc 4 ( giá cũ : 33.800 đ / lốc 4 )
+2	17	17	0	5	Price	Product	Sữa Ovaltine DHA plus 180 ml : 28.800 đ / lốc 4 ( giá cũ : 33.800 đ / lốc 4 )
+2	19	20	0	5	Price	Product	Sữa Ovaltine DHA plus 180 ml : 28.800 đ / lốc 4 ( giá cũ : 33.800 đ / lốc 4 )
+2	9	9	0	7	Price	Product	Sữa tiệt trùng Devondale hương dâu 200 ml : 70.600 đ / lốc 6 ( giá cũ : 84.500 đ / lốc 6 )
+2	10	10	0	7	Price	Product	Sữa tiệt trùng Devondale hương dâu 200 ml : 70.600 đ / lốc 6 ( giá cũ : 84.500 đ / lốc 6 )
+2	12	13	0	7	Price	Product	Sữa tiệt trùng Devondale hương dâu 200 ml : 70.600 đ / lốc 6 ( giá cũ : 84.500 đ / lốc 6 )
+3	18	18	0	7	Price	Product	Sữa tiệt trùng Devondale hương dâu 200 ml : 70.600 đ / lốc 6 ( giá cũ : 84.500 đ / lốc 6 )
+2	19	19	0	7	Price	Product	Sữa tiệt trùng Devondale hương dâu 200 ml : 70.600 đ / lốc 6 ( giá cũ : 84.500 đ / lốc 6 )
+2	21	22	0	7	Price	Product	Sữa tiệt trùng Devondale hương dâu 200 ml : 70.600 đ / lốc 6 ( giá cũ : 84.500 đ / lốc 6 )
+2	10	10	0	8	Price	Product	Sữa trái_cây Lif_Kun hương cam / nho 180 ml : 23.800 đ / lốc 4 ( giá cũ : 27.500 đ / lốc 4 )
+2	11	11	0	8	Price	Product	Sữa trái_cây Lif_Kun hương cam / nho 180 ml : 23.800 đ / lốc 4 ( giá cũ : 27.500 đ / lốc 4 )
+2	13	14	0	8	Price	Product	Sữa trái_cây Lif_Kun hương cam / nho 180 ml : 23.800 đ / lốc 4 ( giá cũ : 27.500 đ / lốc 4 )
+3	19	19	0	8	Price	Product	Sữa trái_cây Lif_Kun hương cam / nho 180 ml : 23.800 đ / lốc 4 ( giá cũ : 27.500 đ / lốc 4 )
+2	20	20	0	8	Price	Product	Sữa trái_cây Lif_Kun hương cam / nho 180 ml : 23.800 đ / lốc 4 ( giá cũ : 27.500 đ / lốc 4 )
+2	22	23	0	8	Price	Product	Sữa trái_cây Lif_Kun hương cam / nho 180 ml : 23.800 đ / lốc 4 ( giá cũ : 27.500 đ / lốc 4 )
+2	8	8	0	6	Price	Product	Sữa Kun vị cacao lúa_mạch 180 ml : 23.600 đ / lốc 4 ( giá cũ : 28.200 đ / lốc 4 )
+2	9	9	0	6	Price	Product	Sữa Kun vị cacao lúa_mạch 180 ml : 23.600 đ / lốc 4 ( giá cũ : 28.200 đ / lốc 4 )
+2	11	12	0	6	Price	Product	Sữa Kun vị cacao lúa_mạch 180 ml : 23.600 đ / lốc 4 ( giá cũ : 28.200 đ / lốc 4 )
+3	17	17	0	6	Price	Product	Sữa Kun vị cacao lúa_mạch 180 ml : 23.600 đ / lốc 4 ( giá cũ : 28.200 đ / lốc 4 )
+2	18	18	0	6	Price	Product	Sữa Kun vị cacao lúa_mạch 180 ml : 23.600 đ / lốc 4 ( giá cũ : 28.200 đ / lốc 4 )
+2	20	21	0	6	Price	Product	Sữa Kun vị cacao lúa_mạch 180 ml : 23.600 đ / lốc 4 ( giá cũ : 28.200 đ / lốc 4 )
+4	0	7	25	27	Product	Regulation	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	9	9	0	7	Price	Product	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	10	10	0	7	Price	Product	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	12	13	0	7	Price	Product	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+3	18	18	0	7	Price	Product	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	19	19	0	7	Price	Product	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	21	23	0	7	Price	Product	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	25	27	9	9	Regulation	Price	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	25	27	10	10	Regulation	Price	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	25	27	12	13	Regulation	Price	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	25	27	18	18	Regulation	Price	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	25	27	19	19	Regulation	Price	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
+2	25	27	21	23	Regulation	Price	Sữa lúa_mạch canxi B ’ Fast 180 ml : 15.900 đ / lốc 4 ( giá cũ : 26.800 đ / lốc 4 ) * Tối_đa 2 lốc / hoá_đơn / khách_hàng
