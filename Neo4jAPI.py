@@ -1,6 +1,55 @@
 def add_node(label, value, driver):
     if label == "Organization":
         records, summary, keys = driver.execute_query("""
+                MERGE (p:Organization {value: $value})
+                """, value=value,
+                database_="neo4j",
+                )
+    elif label == "Time":
+        records, summary, keys = driver.execute_query("""
+                MERGE (p:Time {value: $value})
+                """, value=value,
+                database_="neo4j",
+                )
+
+    elif label == "Product":
+        records, summary, keys = driver.execute_query("""
+                MERGE (p:Product {value: $value})
+                """, value=value,
+                database_="neo4j",
+                )
+
+    elif label == "Promotion":
+        records, summary, keys = driver.execute_query("""
+               MERGE (p:Promotion {value: $value})
+               """, value=value,
+               database_="neo4j",
+               )
+
+    elif label == "Regulation":
+        records, summary, keys = driver.execute_query("""
+            MERGE (p:Regulation {value: $value})
+            """, value=value,
+            database_="neo4j",
+            )
+
+    elif label == "Location":
+        records, summary, keys = driver.execute_query("""
+                    MERGE (p:Location {value: $value})
+                    """, value=value,
+                    database_="neo4j",
+                    )
+
+    elif label == "Price":
+        records, summary, keys = driver.execute_query("""
+            MERGE (p:Price {value: $value})
+            """, value=value,
+            database_="neo4j",
+        )
+
+def add_node_2(label, value, driver):
+    if label == "Organization":
+        records, summary, keys = driver.execute_query("""
                 MATCH (init:Organization {value: $init})
                 MERGE (p:Organization {value: $value})
                 MERGE (init)-[:INIT]->(p)
