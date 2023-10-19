@@ -3,6 +3,9 @@ import openai
 from retry import retry
 
 from training import examples
+from dotenv import load_dotenv
+
+load_dotenv()
 
 openai.api_key = os.environ.get('OPENAI_KEY')
 
@@ -25,7 +28,7 @@ def generate_cypher(messages):
     print(messages)
     # Make a request to OpenAI
     completions = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo",
         messages=messages,
         temperature=0.0
     )
