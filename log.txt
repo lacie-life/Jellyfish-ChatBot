@@ -5,6 +5,7 @@ node_1_end: 16
 node_2_start: 10
 node_2_end: 12
 index: 0
+
 Sample: PRICE	9	9	3	5	Price	Product	mê_đắm mê đuối cà_phê kem muối - giá chỉ 20k ngon lắm luôn nha
 
 edge: PRICE
@@ -14,8 +15,8 @@ node_1_start: 10
 node_1_end: 13
 node_2_start: 7
 node_2_end: 7
-711 case
 index: 3
+
 Sample: LOCATION	3	6	0	0	Promotion	Location	7 - eleven tặng gối bông tea + oolong size lớn thấy là mê , ôm là miễn chê
 
 edge: LOCATION

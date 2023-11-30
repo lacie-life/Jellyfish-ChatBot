@@ -369,3 +369,95 @@ def make_sense(driver):
         init='Price',
         database_="neo4j",
     )
+
+def initGraph(driver):
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='INIT',
+        database_="neo4j",
+    )
+
+    # Winmart
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='winmart',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query("""
+                                    MATCH (start:Location {value: INIT)
+                                    MATCH (end:Location {value: winmart)
+                                    MERGE (start)-[:LOCATION]->(end)
+                                    """,
+                                    database_="neo4j",
+                                    )
+
+    # 711
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='7 - eleven',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query("""
+                                    MATCH (start:Location {value: INIT)
+                                    MATCH (end:Location {value: 7 - eleven)
+                                    MERGE (start)-[:LOCATION]->(end)
+                                    """,
+                                    database_="neo4j",
+                                    )
+
+    # circle - k
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='circle-k',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query("""
+                                    MATCH (start:Location {value: INIT)
+                                    MATCH (end:Location {value: circle-k)
+                                    MERGE (start)-[:LOCATION]->(end)
+                                    """,
+                                    database_="neo4j",
+                                    )
+
+    # lotte
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='lotte',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query("""
+                                    MATCH (start:Location {value: INIT)
+                                    MATCH (end:Location {value: lotte)
+                                    MERGE (start)-[:LOCATION]->(end)
+                                    """,
+                                    database_="neo4j",
+                                    )
+
+    # top market
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='top market',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query("""
+                                    MATCH (start:Location {value: INIT)
+                                    MATCH (end:Location {value: top market)
+                                    MERGE (start)-[:LOCATION]->(end)
+                                    """,
+                                    database_="neo4j",
+                                    )
+
+    # aeon
+    records, summary, keys = driver.execute_query(
+        "MERGE (p:Location {value: $init})",
+        init='aeon',
+        database_="neo4j",
+    )
+    records, summary, keys = driver.execute_query("""
+                                    MATCH (start:Location {value: INIT)
+                                    MATCH (end:Location {value: aeon)
+                                    MERGE (start)-[:LOCATION]->(end)
+                                    """,
+                                    database_="neo4j",
+                                    )
+
