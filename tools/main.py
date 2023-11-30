@@ -1,5 +1,5 @@
 from neo4j import GraphDatabase
-from tools.Neo4jAPI import make_sense
+from tools.Neo4jAPI import *
 import glob
 
 ### Entity type:
@@ -96,28 +96,32 @@ if __name__ == '__main__':
 
     paths = [f for f in glob.glob(graph_paths + "**/*.txt", recursive=True)]
 
-    paths.sort()
-    print(paths)
+    neo4j_driver = GraphDatabase.driver(URI, auth=AUTH)
+    initGraph(neo4j_driver)
+    neo4j_driver.close()
 
-    for path in paths:
-
-        print("Create graph for: " + path)
-
-        f = open(path, "r")
-
-        try:
-            neo4j_driver = GraphDatabase.driver(URI, auth=AUTH)
-            make_sense(neo4j_driver)
-            for x in f:
-                if len(x) > 0:
-                    edgeExtraction(x, neo4j_driver)
-                i = i + 1
-
-            f.close()
-
-            neo4j_driver.close()
-        except Exception as e:
-            print(e)
+    # paths.sort()
+    # print(paths)
+    #
+    # for path in paths:
+    #
+    #     print("Create graph for: " + path)
+    #
+    #     f = open(path, "r")
+    #
+    #     try:
+    #         neo4j_driver = GraphDatabase.driver(URI, auth=AUTH)
+    #         make_sense(neo4j_driver)
+    #         for x in f:
+    #             if len(x) > 0:
+    #                 edgeExtraction(x, neo4j_driver)
+    #             i = i + 1
+    #
+    #         f.close()
+    #
+    #         neo4j_driver.close()
+    #     except Exception as e:
+    #         print(e)
 
 
 
