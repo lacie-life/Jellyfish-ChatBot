@@ -1,7 +1,5 @@
-import re
 from neo4j import GraphDatabase
-from Neo4jAPI import add_relation, add_node, make_sense
-import os
+from tools.Neo4jAPI import make_sense
 import glob
 
 ### Entity type:
