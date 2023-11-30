@@ -1,0 +1,624 @@
+OTHER	0	2	8	17	Promotion	Product	5 giải nhất , mỗi giải gồm : 01 voucher giảm_giá 50% tất_cả các khoá học của yola & 03 voucher giảm_giá 2.000.000 đ của careplus .
+AFFILIATION	8	17	0	2	Product	Promotion	5 giải nhất , mỗi giải gồm : 01 voucher giảm_giá 50% tất_cả các khoá học của yola & 03 voucher giảm_giá 2.000.000 đ của careplus .
+OTHER	0	2	7	13	Promotion	Product	5 giải nhì : mỗi giải gồm 02 voucher giảm_giá 2.000.000 đ của careplus
+AFFILIATION	7	13	0	2	Product	Promotion	5 giải nhì : mỗi giải gồm 02 voucher giảm_giá 2.000.000 đ của careplus
+AFFILIATION	1	3	5	5	Promotion	Time	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+OTHER	1	3	9	10	Promotion	Promotion	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+OTHER	1	3	11	11	Promotion	Time	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+REGULATION	5	5	1	3	Time	Promotion	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+OTHER	5	5	9	10	Time	Promotion	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+OTHER	9	10	1	3	Promotion	Promotion	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+OTHER	9	10	5	5	Promotion	Time	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+AFFILIATION	9	10	11	11	Promotion	Time	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+OTHER	11	11	1	3	Time	Promotion	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+REGULATION	11	11	9	10	Time	Promotion	thời_gian_tham_gia bỏ_phiếu tuần đặc_biệt : 13 - 19.02.2023 ( rút thăm 22.02.2023 )
+REGULATION	0	5	16	23	Promotion	Regulation	tặng 1 bắp bung vị original & caramel 280g hoặc vị bơ tỏi hành_tây 220g với hoá_đơn 400.000 đ các sản_phẩm xuất_xứ hàn quốc gồm :
+AFFILIATION	4	5	0	2	Time	Regulation	thời_gian áp_dụng ưu_đãi : đến 21.02.2023
+LOCATION	5	9	2	3	Product	Location	ghé ngay lotte mart mua dâu hàn_quốc và bánh dâu_tây thơm thiệt thơm , ngon thiệt ngon nhaaa ~
+PRICE	3	3	7	10	Price	Product	giá khuyến_mãi chỉ 149.000 đ / hộp dâu hàn quốc 250g .
+OTHER	4	4	7	10	Price	Product	giá khuyến_mãi chỉ 149.000 đ / hộp dâu hàn quốc 250g .
+OTHER	6	6	7	10	Price	Product	giá khuyến_mãi chỉ 149.000 đ / hộp dâu hàn quốc 250g .
+AFFILIATION	0	3	4	8	Product	Promotion	trái_cây rau thịt cá ưu_đãi thả ga đến 41% .
+PRICE	4	8	0	3	Promotion	Product	trái_cây rau thịt cá ưu_đãi thả ga đến 41% .
+PRICE	5	6	0	2	Price	Product	chai dầu 1l mua bằng 19.000 điểm
+PRICE	8	9	0	5	Price	Product	lốc 12 cuộn giấy choice l mua bằng 19.000 điểm
+PRICE	7	8	0	4	Price	Product	bánh xốp phô_mai / socola mua bằng 29.000 điểm
+PRICE	7	8	0	4	Price	Product	lốc 6 nước trái_cây nutri mua bằng 29.000 điểm
+PRICE	7	8	0	4	Price	Product	sữa tắm around me 500ml mua bằng 69.000 điểm
+PRICE	6	7	0	3	Price	Product	ấm đun 1.8 l mua bằng 69.000 điểm
+REGULATION	5	7	9	11	Promotion	Time	9 sản_phẩm hot nhất sẽ sale bùng cháy trong 2 ngày 06 & 07.02 .
+AFFILIATION	9	11	5	7	Time	Promotion	9 sản_phẩm hot nhất sẽ sale bùng cháy trong 2 ngày 06 & 07.02 .
+PRICE	0	4	5	8	Promotion	Product	giảm 50% chỉ 9.000 đ dưa_leo baby hộp 500g
+AFFILIATION	5	8	0	4	Product	Promotion	giảm 50% chỉ 9.000 đ dưa_leo baby hộp 500g
+PRICE	0	4	5	10	Promotion	Product	giảm 50% chỉ 9.000 đ lô 2 nấm kim châm hàn_quốc
+AFFILIATION	5	10	0	4	Product	Promotion	giảm 50% chỉ 9.000 đ lô 2 nấm kim châm hàn_quốc
+PRICE	0	4	5	8	Promotion	Product	giảm 50% chỉ 9.000 đ cá_ngừ ngâm dầu 160g
+AFFILIATION	5	8	0	4	Product	Promotion	giảm 50% chỉ 9.000 đ cá_ngừ ngâm dầu 160g
+AFFILIATION	0	1	5	5	Promotion	Time	giảm 𝟱𝟬% chỉ 3 ngày 03,4,5/02
+REGULATION	5	5	0	1	Time	Promotion	giảm 𝟱𝟬% chỉ 3 ngày 03,4,5/02
+PRICE	0	3	4	8	Promotion	Product	mua 1 tặng 1 bánh_mì mè hàn quốc 60g .
+AFFILIATION	4	8	0	3	Product	Promotion	mua 1 tặng 1 bánh_mì mè hàn quốc 60g .
+PRICE	0	1	2	6	Promotion	Product	giảm 50% hộp 10 trứng happy egg chỉ còn 9.000 đ .
+AFFILIATION	2	6	0	1	Product	Promotion	giảm 50% hộp 10 trứng happy egg chỉ còn 9.000 đ .
+OTHER	9	9	0	1	Price	Promotion	giảm 50% hộp 10 trứng happy egg chỉ còn 9.000 đ .
+OTHER	9	9	2	6	Price	Product	giảm 50% hộp 10 trứng happy egg chỉ còn 9.000 đ .
+OTHER	10	10	0	1	Price	Promotion	giảm 50% hộp 10 trứng happy egg chỉ còn 9.000 đ .
+OTHER	10	10	2	6	Price	Product	giảm 50% hộp 10 trứng happy egg chỉ còn 9.000 đ .
+PRICE	0	1	2	6	Promotion	Product	giảm 50% khăn ướt choice l 120miếng chỉ còn 9.000 đ .
+AFFILIATION	2	6	0	1	Product	Promotion	giảm 50% khăn ướt choice l 120miếng chỉ còn 9.000 đ .
+OTHER	9	9	0	1	Price	Promotion	giảm 50% khăn ướt choice l 120miếng chỉ còn 9.000 đ .
+OTHER	9	9	2	6	Price	Product	giảm 50% khăn ướt choice l 120miếng chỉ còn 9.000 đ .
+OTHER	10	10	0	1	Price	Promotion	giảm 50% khăn ướt choice l 120miếng chỉ còn 9.000 đ .
+OTHER	10	10	2	6	Price	Product	giảm 50% khăn ướt choice l 120miếng chỉ còn 9.000 đ .
+PRICE	0	1	2	5	Promotion	Product	giảm 50% bánh_quy bơ montego 681g chỉ còn 99.500 đ .
+AFFILIATION	2	5	0	1	Product	Promotion	giảm 50% bánh_quy bơ montego 681g chỉ còn 99.500 đ .
+OTHER	8	8	0	1	Price	Promotion	giảm 50% bánh_quy bơ montego 681g chỉ còn 99.500 đ .
+OTHER	8	8	2	5	Price	Product	giảm 50% bánh_quy bơ montego 681g chỉ còn 99.500 đ .
+OTHER	9	9	0	1	Price	Promotion	giảm 50% bánh_quy bơ montego 681g chỉ còn 99.500 đ .
+OTHER	9	9	2	5	Price	Product	giảm 50% bánh_quy bơ montego 681g chỉ còn 99.500 đ .
+LOCATION	4	20	2	3	Promotion	Location	đặc_biệt , lotte mart tặng bạn 1 nước tương đậu_nành maggi 300ml hoặc 1 mì chay rau củ meizan cao_cấp 250g .
+OTHER	0	3	5	15	Promotion	Product	giải_thưởng đặc_biệt của tuần : học_bổng yola 50% và voucher sức_khoẻ 2 triệu đồng của careplus
+AFFILIATION	5	15	0	3	Product	Promotion	giải_thưởng đặc_biệt của tuần : học_bổng yola 50% và voucher sức_khoẻ 2 triệu đồng của careplus
+REGULATION	12	17	2	5	Product	Regulation	chỉ cần hoá_đơn từ 500.000 đ , khách_hàng thành_viên sẽ nhận được 1 phiếu rút thăm trúng thưởng .
+LOCATION	0	8	10	13	Promotion	Location	giảm ngay 400.000 đ / kg tôm_hùm tây úc tại hải_sản hoàng_gia lotte mart
+OTHER	3	3	15	22	Price	Product	giá khuyến_mãi còn 1.390.000 đ / kg ( giá thường 1.790.000 đ / kg ) tôm_hùm tây úc size từ 1kg trở lên .
+OTHER	4	4	15	22	Price	Product	giá khuyến_mãi còn 1.390.000 đ / kg ( giá thường 1.790.000 đ / kg ) tôm_hùm tây úc size từ 1kg trở lên .
+OTHER	6	6	15	22	Price	Product	giá khuyến_mãi còn 1.390.000 đ / kg ( giá thường 1.790.000 đ / kg ) tôm_hùm tây úc size từ 1kg trở lên .
+PRICE	8	13	15	22	Price	Product	giá khuyến_mãi còn 1.390.000 đ / kg ( giá thường 1.790.000 đ / kg ) tôm_hùm tây úc size từ 1kg trở lên .
+LOCATION	7	8	10	13	Organization	Location	áp_dụng khi mua hàng tại hệ_thống siêu_thị hải_sản hoàng_gia thuộc lotte mart quận 7 , gò vấp , phú thọ ( quận 11 ) .
+PRICE	1	1	5	9	Price	Product	chỉ 10.000 đ / lốc 8 gói rong biển sấy
+OTHER	2	2	5	9	Price	Product	chỉ 10.000 đ / lốc 8 gói rong biển sấy
+OTHER	4	4	5	9	Price	Product	chỉ 10.000 đ / lốc 8 gói rong biển sấy
+PRICE	1	1	5	10	Price	Product	chỉ 15.000 đ / gói mì sợi nhỏ only price 460g
+OTHER	2	2	5	10	Price	Product	chỉ 15.000 đ / gói mì sợi nhỏ only price 460g
+OTHER	4	4	5	10	Price	Product	chỉ 15.000 đ / gói mì sợi nhỏ only price 460g
+PRICE	1	1	5	10	Price	Product	chỉ 40.000 đ / gói knorr thịt thăn xương ống 900g
+OTHER	2	2	5	10	Price	Product	chỉ 40.000 đ / gói knorr thịt thăn xương ống 900g
+OTHER	4	4	5	10	Price	Product	chỉ 40.000 đ / gói knorr thịt thăn xương ống 900g
+PRICE	1	1	5	9	Price	Product	chỉ 69.000 đ / túi nước giặt surf 3.3 kg .
+OTHER	2	2	5	9	Price	Product	chỉ 69.000 đ / túi nước giặt surf 3.3 kg .
+OTHER	4	4	5	9	Price	Product	chỉ 69.000 đ / túi nước giặt surf 3.3 kg .
+REGULATION	0	4	6	9	Product	Regulation	thẻ quà tặng 100.000 đ với hoá_đơn từ 1.200.000 đ .
+AFFILIATION	0	4	6	6	Promotion	Time	ưu_đãi phơi_phới mừng năm mới ( 30.01 ~ 07.02.2023 )
+REGULATION	6	6	0	4	Time	Promotion	ưu_đãi phơi_phới mừng năm mới ( 30.01 ~ 07.02.2023 )
+PRICE	0	5	6	7	Promotion	Product	đồng giá 79.900 đ / kg trái_cây nhập_khẩu
+AFFILIATION	6	7	0	5	Product	Promotion	đồng giá 79.900 đ / kg trái_cây nhập_khẩu
+LOCATION	2	7	0	1	Promotion	Location	lotte mart tặng bạn lộc may_mắn đầu năm duy_nhất trong 3 ngày cuối tuần 27.01 - 29.01 .
+AFFILIATION	2	7	14	14	Promotion	Time	lotte mart tặng bạn lộc may_mắn đầu năm duy_nhất trong 3 ngày cuối tuần 27.01 - 29.01 .
+REGULATION	14	14	2	7	Time	Promotion	lotte mart tặng bạn lộc may_mắn đầu năm duy_nhất trong 3 ngày cuối tuần 27.01 - 29.01 .
+REGULATION	6	10	1	4	Promotion	Regulation	với hoá_đơn từ 700.000 đ , tặng 1 trong các sản_phẩm sau : 2 bịch muối iot cao_cấp vifon 950 g / 01 lốc sữa vinamilk 100% 180 ml / 01 hộp sữa milkylux 1 l / 01 bộ ghép hình gỗ boing
+OTHER	6	10	13	20	Promotion	Product	với hoá_đơn từ 700.000 đ , tặng 1 trong các sản_phẩm sau : 2 bịch muối iot cao_cấp vifon 950 g / 01 lốc sữa vinamilk 100% 180 ml / 01 hộp sữa milkylux 1 l / 01 bộ ghép hình gỗ boing
+OTHER	13	20	1	4	Product	Regulation	với hoá_đơn từ 700.000 đ , tặng 1 trong các sản_phẩm sau : 2 bịch muối iot cao_cấp vifon 950 g / 01 lốc sữa vinamilk 100% 180 ml / 01 hộp sữa milkylux 1 l / 01 bộ ghép hình gỗ boing
+AFFILIATION	13	20	6	10	Product	Promotion	với hoá_đơn từ 700.000 đ , tặng 1 trong các sản_phẩm sau : 2 bịch muối iot cao_cấp vifon 950 g / 01 lốc sữa vinamilk 100% 180 ml / 01 hộp sữa milkylux 1 l / 01 bộ ghép hình gỗ boing
+REGULATION	8	13	1	4	Product	Regulation	với hoá_đơn từ 2.000.000 đ , nhận ngay 1 thẻ quà tặng 100.000 đ .
+AFFILIATION	3	7	17	17	Promotion	Time	loa loa loa chương_trình rút thăm trúng thưởng hot nhất đầu năm sẽ diễn ra từ ngày 23.01 - 19.02 đó nhà mình ơi !
+REGULATION	17	17	3	7	Time	Promotion	loa loa loa chương_trình rút thăm trúng thưởng hot nhất đầu năm sẽ diễn ra từ ngày 23.01 - 19.02 đó nhà mình ơi !
+REGULATION	12	15	2	5	Product	Regulation	chỉ cần hoá_đơn từ 500.000 đ , khách_hàng thành_viên sẽ nhận được 1 phiếu rút thăm để có cơ_hội trúng những phần quà giá_trị cho sức_khoẻ và tri_thức từ careplus và yola :
+LOCATION	29	31	12	15	Organization	Product	chỉ cần hoá_đơn từ 500.000 đ , khách_hàng thành_viên sẽ nhận được 1 phiếu rút thăm để có cơ_hội trúng những phần quà giá_trị cho sức_khoẻ và tri_thức từ careplus và yola :
+LOCATION	4	4	0	2	Organization	Product	voucher 100.000 đ tại manwah , kichi-kichi , kpub
+LOCATION	5	6	0	3	Organization	Promotion	mua 2 tặng 1 tại the bunny của ngô kiến huy
+LOCATION	0	0	5	6	Organization	Promotion	v ' art nail zone giảm 30k .
+OTHER	2	4	5	6	Organization	Promotion	v ' art nail zone giảm 30k .
+LOCATION	3	4	0	1	Organization	Promotion	giảm 15% tại thế_giới kim_cương
+LOCATION	3	5	0	1	Organization	Promotion	giảm 10% tại himalaya và ijc
+LOCATION	3	3	0	1	Organization	Promotion	giảm 5% tại pharm.d.
+PRICE	6	6	0	3	Price	Product	sốt ướp thịt nướng chỉ còn 39.500 đ / hũ 397g .
+OTHER	7	7	0	3	Price	Product	sốt ướp thịt nướng chỉ còn 39.500 đ / hũ 397g .
+OTHER	9	9	0	3	Price	Product	sốt ướp thịt nướng chỉ còn 39.500 đ / hũ 397g .
+LOCATION	1	1	3	6	Organization	Location	chào_mừng manwah đến lotte mart phú thọ
+REGULATION	0	4	6	14	Promotion	Regulation	tặng 1 suất buffet miễn_phí cho nhóm từ 4 khách người_lớn có mã ưu_đãi hợp_lệ
+REGULATION	3	7	0	1	Promotion	Regulation	khách_hàng check-in được miễn_phí buffet line trị_giá 49k
+OTHER	0	0	1	3	Price	Product	𝟬𝟬𝟬đ thùng cherry 2kg .
+LOCATION	0	2	14	16	Product	Location	thùng 2kg cherry đang được bán với giá siêu tiết_kiệm chỉ 739.000 đ tại hệ_thống lotte mart .
+PRICE	11	11	0	2	Price	Product	thùng 2kg cherry đang được bán với giá siêu tiết_kiệm chỉ 739.000 đ tại hệ_thống lotte mart .
+OTHER	12	12	0	2	Price	Product	thùng 2kg cherry đang được bán với giá siêu tiết_kiệm chỉ 739.000 đ tại hệ_thống lotte mart .
+OTHER	8	8	0	3	Price	Product	dưa_hấu tròn an tiêm : giá chỉ từ 15.900 đ ~ 26.900 đ / kg
+PRICE	9	9	0	3	Price	Product	dưa_hấu tròn an tiêm : giá chỉ từ 15.900 đ ~ 26.900 đ / kg
+OTHER	8	8	0	4	Price	Product	dưa_hấu ruột đỏ loại 1 : giá từ 9.900 đ ~ 13.900 đ / kg
+PRICE	9	9	0	4	Price	Product	dưa_hấu ruột đỏ loại 1 : giá từ 9.900 đ ~ 13.900 đ / kg
+PRICE	6	6	0	2	Price	Product	dưa hoàng cúc : giá từ 22.900 đ ~ 29.900 đ / kg
+OTHER	7	7	0	2	Price	Product	dưa hoàng cúc : giá từ 22.900 đ ~ 29.900 đ / kg
+PRICE	18	18	2	5	Price	Product	đặc_biệt , dưa_hấu hắc tiểu long hiếm có , mỗi năm chỉ có một vụ ngon_ngọt chỉ còn 18.900 đ ~ 22.900 đ / kg .
+OTHER	19	19	2	5	Price	Product	đặc_biệt , dưa_hấu hắc tiểu long hiếm có , mỗi năm chỉ có một vụ ngon_ngọt chỉ còn 18.900 đ ~ 22.900 đ / kg .
+AFFILIATION	0	5	6	12	Product	Promotion	dưa hắc tiểu long khắc chữ giảm 11% còn 239.000 đ / trái tại lotte mart hồ chí minh , bình dương , vinh , hà_nội
+LOCATION	0	5	14	18	Product	Location	dưa hắc tiểu long khắc chữ giảm 11% còn 239.000 đ / trái tại lotte mart hồ chí minh , bình dương , vinh , hà_nội
+PRICE	6	12	0	5	Promotion	Product	dưa hắc tiểu long khắc chữ giảm 11% còn 239.000 đ / trái tại lotte mart hồ chí minh , bình dương , vinh , hà_nội
+OTHER	6	12	14	18	Promotion	Location	dưa hắc tiểu long khắc chữ giảm 11% còn 239.000 đ / trái tại lotte mart hồ chí minh , bình dương , vinh , hà_nội
+REGULATION	5	14	1	4	Promotion	Regulation	mua hoá_đơn từ 250.000 đ tặng 200gr thịt đùi / thịt vai hoặc 500gr chuối
+LOCATION	0	0	8	11	Promotion	Location	giảm " khủng " đến 75% duy_nhất tại lotte mart phú thọ ( quận 11 )
+AFFILIATION	0	2	3	6	Product	Promotion	nồi chiên tefal giảm cực sốc 54% , tặng thêm 1 nồi cơm_điện tefal 0.7 l trị_giá 2.490.000 đ
+PRICE	3	6	0	2	Promotion	Product	nồi chiên tefal giảm cực sốc 54% , tặng thêm 1 nồi cơm_điện tefal 0.7 l trị_giá 2.490.000 đ
+AFFILIATION	0	4	5	10	Product	Promotion	bộ drap cotton poly màu giảm 52% chỉ còn 290.000 đ
+PRICE	5	10	0	4	Promotion	Product	bộ drap cotton poly màu giảm 52% chỉ còn 290.000 đ
+PRICE	4	4	0	2	Price	Product	mèo thần_tài 30cm chỉ 99.000 đ
+OTHER	5	5	0	2	Price	Product	mèo thần_tài 30cm chỉ 99.000 đ
+PRICE	5	5	0	2	Price	Product	snack khoai_tây 110g chỉ còn 19.000 đ
+OTHER	6	6	0	2	Price	Product	snack khoai_tây 110g chỉ còn 19.000 đ
+REGULATION	5	8	10	10	Time	Promotion	giá rẻ cực rẻ chỉ từ nay đến 21.01.2023 , giảm " khủng " đến 50% và hàng_loạt cơn mưa quà tặng .
+OTHER	5	8	12	12	Time	Promotion	giá rẻ cực rẻ chỉ từ nay đến 21.01.2023 , giảm " khủng " đến 50% và hàng_loạt cơn mưa quà tặng .
+AFFILIATION	10	10	5	8	Promotion	Time	giá rẻ cực rẻ chỉ từ nay đến 21.01.2023 , giảm " khủng " đến 50% và hàng_loạt cơn mưa quà tặng .
+OTHER	10	10	12	12	Promotion	Promotion	giá rẻ cực rẻ chỉ từ nay đến 21.01.2023 , giảm " khủng " đến 50% và hàng_loạt cơn mưa quà tặng .
+OTHER	12	12	5	8	Promotion	Time	giá rẻ cực rẻ chỉ từ nay đến 21.01.2023 , giảm " khủng " đến 50% và hàng_loạt cơn mưa quà tặng .
+OTHER	12	12	10	10	Promotion	Promotion	giá rẻ cực rẻ chỉ từ nay đến 21.01.2023 , giảm " khủng " đến 50% và hàng_loạt cơn mưa quà tặng .
+REGULATION	8	13	2	5	Promotion	Regulation	đặc_biệt , thành_viên của lotte mart còn được mua giá cực sốc thùng coca , hạt điều , bánh lu , trà olong chỉ từ 89.000 đ .
+REGULATION	8	16	1	3	Promotion	Regulation	là thành_viên lotte mart thật tuyệt , được tặng táo fuji hàn quốc 1kg trị_giá 85.900 đ đó cả nhà ơi !
+PRICE	1	1	3	6	Price	Product	chỉ 42.900 đ chả_lụa bì wyn 450g
+OTHER	2	2	3	6	Price	Product	chỉ 42.900 đ chả_lụa bì wyn 450g
+AFFILIATION	0	3	5	8	Promotion	Time	giảm cực sốc 27% duy_nhất từ nay đến 21.01.2023 tại hệ_thống siêu_thị lotte mart toàn_quốc .
+LOCATION	0	3	12	13	Promotion	Location	giảm cực sốc 27% duy_nhất từ nay đến 21.01.2023 tại hệ_thống siêu_thị lotte mart toàn_quốc .
+REGULATION	5	8	0	3	Time	Promotion	giảm cực sốc 27% duy_nhất từ nay đến 21.01.2023 tại hệ_thống siêu_thị lotte mart toàn_quốc .
+OTHER	9	9	0	4	Price	Product	thùng 24 coca cola 235ml với giá sốc chỉ 89.000 đ / thùng
+PRICE	10	10	0	4	Price	Product	thùng 24 coca cola 235ml với giá sốc chỉ 89.000 đ / thùng
+OTHER	12	12	0	4	Price	Product	thùng 24 coca cola 235ml với giá sốc chỉ 89.000 đ / thùng
+OTHER	7	7	0	2	Price	Product	bánh_quy lu 540g với giá chỉ còn 135.000 đ / hộp
+OTHER	8	8	0	2	Price	Product	bánh_quy lu 540g với giá chỉ còn 135.000 đ / hộp
+OTHER	10	10	0	2	Price	Product	bánh_quy lu 540g với giá chỉ còn 135.000 đ / hộp
+OTHER	8	8	0	5	Price	Product	hạt điều lụa choice l 500g giá chỉ 89.000 đ / túi
+OTHER	9	9	0	5	Price	Product	hạt điều lụa choice l 500g giá chỉ 89.000 đ / túi
+OTHER	11	11	0	5	Price	Product	hạt điều lụa choice l 500g giá chỉ 89.000 đ / túi
+OTHER	8	8	0	4	Price	Product	thùng 24 trà olong tea + 450ml giá 139.000 đ / thùng
+OTHER	9	9	0	4	Price	Product	thùng 24 trà olong tea + 450ml giá 139.000 đ / thùng
+OTHER	11	11	0	4	Price	Product	thùng 24 trà olong tea + 450ml giá 139.000 đ / thùng
+PRICE	5	5	0	3	Price	Product	bánh_chưng trần gia 1kg giá 129.000 đ / cái
+OTHER	6	6	0	3	Price	Product	bánh_chưng trần gia 1kg giá 129.000 đ / cái
+OTHER	8	8	0	3	Price	Product	bánh_chưng trần gia 1kg giá 129.000 đ / cái
+PRICE	6	6	0	4	Price	Product	thùng 12 bia tiger 500ml giá 209.000 đ / thùng
+OTHER	7	7	0	4	Price	Product	thùng 12 bia tiger 500ml giá 209.000 đ / thùng
+OTHER	9	9	0	4	Price	Product	thùng 12 bia tiger 500ml giá 209.000 đ / thùng
+AFFILIATION	0	1	6	6	Promotion	Time	tết sum_vầy , lộc tràn_đầy ( 11.01 ~ 21.01.2023 )
+REGULATION	6	6	0	1	Time	Promotion	tết sum_vầy , lộc tràn_đầy ( 11.01 ~ 21.01.2023 )
+OTHER	0	1	2	5	Product	Promotion	dâu_tây hàn_quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+OTHER	0	1	15	15	Product	Time	dâu_tây hàn_quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+PRICE	2	5	0	1	Promotion	Product	dâu_tây hàn_quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+AFFILIATION	2	5	15	15	Promotion	Time	dâu_tây hàn_quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+OTHER	15	15	0	1	Time	Product	dâu_tây hàn_quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+REGULATION	15	15	2	5	Time	Promotion	dâu_tây hàn_quốc mua 1 tặng 1 số_lượng có_hạn , chỉ trong 3 ngày cuối tuần 06,07,08/01
+AFFILIATION	0	2	10	13	Product	Promotion	nước giặt downy , giấy premier , pizza , chả_giò mua 1 tặng 1 .
+PRICE	10	13	0	2	Promotion	Product	nước giặt downy , giấy premier , pizza , chả_giò mua 1 tặng 1 .
+OTHER	0	1	7	9	Regulation	Price	checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+REGULATION	3	4	0	1	Product	Regulation	checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+PRICE	7	9	3	4	Price	Product	checkin photobooth rinh bộ voucher trị_giá đến hơn 1.000.000 đ .
+REGULATION	10	23	0	3	Product	Regulation	khách_hàng thành_viên lotte mart khi mua hàng với hoá_đơn từ 1 triệu trở lên sẽ được nhận ngay combo bao_gồm 1 voucher careplus trị_giá 200.000 đồng và 1 voucher học_bổng 20% của yola .
+REGULATION	10	23	8	9	Product	Regulation	khách_hàng thành_viên lotte mart khi mua hàng với hoá_đơn từ 1 triệu trở lên sẽ được nhận ngay combo bao_gồm 1 voucher careplus trị_giá 200.000 đồng và 1 voucher học_bổng 20% của yola .
+AFFILIATION	3	5	0	1	Time	Regulation	thời_gian áp_dụng : 06/01 – 12/02/2023 .
+PRICE	6	7	8	16	Promotion	Product	ưu_đãi cực hấp_dẫn chào sân : giảm 21% thịt vai / thịt đùi heo ăn chuối bapi
+AFFILIATION	8	16	6	7	Product	Promotion	ưu_đãi cực hấp_dẫn chào sân : giảm 21% thịt vai / thịt đùi heo ăn chuối bapi
+REGULATION	5	14	1	4	Promotion	Regulation	mua hoá_đơn từ 250.000 đ tặng 200gr thịt đùi / thịt vai hoặc 500gr chuối
+AFFILIATION	0	2	9	11	Promotion	Promotion	giảm 10% tôm_thẻ - cá_chim và miễn_phí chế_biến mừng khai_trương hải_sản hoàng_gia tại lotte mart phú thọ ( quận 11 )
+OTHER	0	2	13	16	Promotion	Location	giảm 10% tôm_thẻ - cá_chim và miễn_phí chế_biến mừng khai_trương hải_sản hoàng_gia tại lotte mart phú thọ ( quận 11 )
+OTHER	9	11	0	2	Promotion	Promotion	giảm 10% tôm_thẻ - cá_chim và miễn_phí chế_biến mừng khai_trương hải_sản hoàng_gia tại lotte mart phú thọ ( quận 11 )
+LOCATION	9	11	13	16	Promotion	Location	giảm 10% tôm_thẻ - cá_chim và miễn_phí chế_biến mừng khai_trương hải_sản hoàng_gia tại lotte mart phú thọ ( quận 11 )
+OTHER	5	7	12	15	Product	Location	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+AFFILIATION	5	7	18	19	Product	Promotion	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+LOCATION	9	11	5	7	Organization	Product	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+LOCATION	9	11	12	15	Organization	Location	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+OTHER	9	11	18	19	Organization	Promotion	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+OTHER	18	19	5	7	Promotion	Product	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+OTHER	18	19	12	15	Promotion	Location	nội_dung : khi khách_hàng mua tôm_thẻ và cá_chim tại siêu_thị hải_sản hoàng_gia lotte mart phú thọ sẽ được giảm 10% .
+REGULATION	4	8	16	19	Promotion	Regulation	mua hàng giá sốc chỉ từ 79.000 đ bánh , lạp_xưởng , nước_ngọt , bia với hoá_đơn từ 2.000.000 đ
+REGULATION	0	4	6	9	Product	Regulation	thẻ quà tặng 100.000 đ với hoá_đơn từ 3.000.000 đ
+AFFILIATION	1	4	6	7	Promotion	Time	riêng chương_trình tặng bộ voucher áp_dụng đến 21.01.2023 .
+REGULATION	6	7	1	4	Time	Promotion	riêng chương_trình tặng bộ voucher áp_dụng đến 21.01.2023 .
+REGULATION	1	3	5	9	Product	Regulation	chỉ 500 cặp vé cho 500 bạn đầu_tiên check-in photobooth ngày 06.01 từ 08h00
+AFFILIATION	1	3	11	13	Product	Time	chỉ 500 cặp vé cho 500 bạn đầu_tiên check-in photobooth ngày 06.01 từ 08h00
+REGULATION	11	13	1	3	Time	Product	chỉ 500 cặp vé cho 500 bạn đầu_tiên check-in photobooth ngày 06.01 từ 08h00
+OTHER	11	13	5	9	Time	Regulation	chỉ 500 cặp vé cho 500 bạn đầu_tiên check-in photobooth ngày 06.01 từ 08h00
+LOCATION	2	2	6	9	Organization	Location	địa_điểm : photobooth tại tầng 1 lotte mart phú thọ ( toà nhà everrich , 968 đường 3 tháng 2 , p . 15 , q . 11 ) .
+REGULATION	15	23	3	12	Promotion	Regulation	đồng_thời , khách_hàng thành_viên mới khi mua_sắm với hoá_đơn đầu_tiên từ 600.000 đ sẽ được tặng ngay 1 thẻ quà tặng trị_giá 100.000 đ từ 06.01 đến 21.01.2023 .
+AFFILIATION	15	23	25	27	Promotion	Time	đồng_thời , khách_hàng thành_viên mới khi mua_sắm với hoá_đơn đầu_tiên từ 600.000 đ sẽ được tặng ngay 1 thẻ quà tặng trị_giá 100.000 đ từ 06.01 đến 21.01.2023 .
+OTHER	25	27	3	12	Time	Regulation	đồng_thời , khách_hàng thành_viên mới khi mua_sắm với hoá_đơn đầu_tiên từ 600.000 đ sẽ được tặng ngay 1 thẻ quà tặng trị_giá 100.000 đ từ 06.01 đến 21.01.2023 .
+REGULATION	25	27	15	23	Time	Promotion	đồng_thời , khách_hàng thành_viên mới khi mua_sắm với hoá_đơn đầu_tiên từ 600.000 đ sẽ được tặng ngay 1 thẻ quà tặng trị_giá 100.000 đ từ 06.01 đến 21.01.2023 .
+OTHER	3	5	0	1	Product	Location	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+PRICE	10	10	3	5	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+OTHER	10	10	14	16	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+OTHER	11	11	3	5	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+OTHER	11	11	14	16	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+LOCATION	14	16	0	1	Product	Location	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+OTHER	17	17	3	5	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+PRICE	17	17	14	16	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+OTHER	18	18	3	5	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+OTHER	18	18	14	16	Price	Product	lotte mart phục_vụ giỏ quà tết đẹp đa_dạng giá từ 199.000 đ đến các giỏ quà cao_cấp 2.199.000 đ .
+REGULATION	0	4	6	12	Product	Regulation	thẻ quà tặng 100.000 đ cho khách_hàng thành_viên với hoá_đơn từ 3.000.000 đ .
+PRICE	10	10	0	4	Price	Product	bánh_quy bơ montego kokola 681g giảm cực khủng chỉ còn 79.000 đ / hộp
+OTHER	11	11	0	4	Price	Product	bánh_quy bơ montego kokola 681g giảm cực khủng chỉ còn 79.000 đ / hộp
+OTHER	13	13	0	4	Price	Product	bánh_quy bơ montego kokola 681g giảm cực khủng chỉ còn 79.000 đ / hộp
+PRICE	10	10	0	6	Price	Product	lô 2 lạp_xưởng wyn vị truyền_thống 500g giá chỉ còn 99.000 đ / lô
+OTHER	11	11	0	6	Price	Product	lô 2 lạp_xưởng wyn vị truyền_thống 500g giá chỉ còn 99.000 đ / lô
+OTHER	13	13	0	6	Price	Product	lô 2 lạp_xưởng wyn vị truyền_thống 500g giá chỉ còn 99.000 đ / lô
+PRICE	8	8	0	4	Price	Product	thùng 24 nước_ngọt coca 320ml giá khuyến_mãi chỉ 119.000 đ / thùng
+OTHER	9	9	0	4	Price	Product	thùng 24 nước_ngọt coca 320ml giá khuyến_mãi chỉ 119.000 đ / thùng
+OTHER	11	11	0	4	Price	Product	thùng 24 nước_ngọt coca 320ml giá khuyến_mãi chỉ 119.000 đ / thùng
+OTHER	7	7	0	4	Price	Product	thùng 12 bia budweiser 500ml giá chỉ 219.000 đ / thùng
+OTHER	8	8	0	4	Price	Product	thùng 12 bia budweiser 500ml giá chỉ 219.000 đ / thùng
+PRICE	10	10	0	4	Price	Product	thùng 12 bia budweiser 500ml giá chỉ 219.000 đ / thùng
+LOCATION	2	9	0	1	Promotion	Location	lotte mart tặng bạn 5 bao lì_xì tết quý mão chỉ từ 26.12.2022 đến 10.01.2023 áp_dụng với hoá_đơn từ 400.000 đ .
+AFFILIATION	2	9	12	14	Promotion	Time	lotte mart tặng bạn 5 bao lì_xì tết quý mão chỉ từ 26.12.2022 đến 10.01.2023 áp_dụng với hoá_đơn từ 400.000 đ .
+REGULATION	2	9	17	20	Promotion	Regulation	lotte mart tặng bạn 5 bao lì_xì tết quý mão chỉ từ 26.12.2022 đến 10.01.2023 áp_dụng với hoá_đơn từ 400.000 đ .
+REGULATION	12	14	2	9	Time	Promotion	lotte mart tặng bạn 5 bao lì_xì tết quý mão chỉ từ 26.12.2022 đến 10.01.2023 áp_dụng với hoá_đơn từ 400.000 đ .
+OTHER	12	14	17	20	Time	Regulation	lotte mart tặng bạn 5 bao lì_xì tết quý mão chỉ từ 26.12.2022 đến 10.01.2023 áp_dụng với hoá_đơn từ 400.000 đ .
+LOCATION	6	7	12	16	Organization	Promotion	để ngày khai_trương thêm tưng_bừng , nhà thỏ “ chơi lớn ” tặng bạn bingsu trà sữa với hoá_đơn cho 4 sản_phẩm bất_kì
+REGULATION	12	16	18	22	Promotion	Regulation	để ngày khai_trương thêm tưng_bừng , nhà thỏ “ chơi lớn ” tặng bạn bingsu trà sữa với hoá_đơn cho 4 sản_phẩm bất_kì
+AFFILIATION	1	2	5	7	Product	Promotion	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+OTHER	1	2	9	12	Product	Time	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+LOCATION	1	2	14	16	Product	Location	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+PRICE	5	7	1	2	Promotion	Product	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+AFFILIATION	5	7	9	12	Promotion	Time	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+OTHER	5	7	14	16	Promotion	Location	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+OTHER	9	12	1	2	Time	Product	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+OTHER	9	12	5	7	Time	Promotion	các khay thịt đang được giảm đến 20% chỉ từ nay đến 31.12.2022 tại lotte mart vinh .
+PRICE	2	2	6	10	Price	Product	chỉ còn 29 k / thỏi son dưỡng mềm_môi hương dâu ngọt_ngào giúp môi mềm mịn , căng mọng .
+OTHER	3	3	6	10	Price	Product	chỉ còn 29 k / thỏi son dưỡng mềm_môi hương dâu ngọt_ngào giúp môi mềm mịn , căng mọng .
+OTHER	5	5	6	10	Price	Product	chỉ còn 29 k / thỏi son dưỡng mềm_môi hương dâu ngọt_ngào giúp môi mềm mịn , căng mọng .
+PRICE	2	2	6	9	Price	Product	chỉ còn 29 k / tuýp kem dưỡng da tay mềm mịn , ngừa khô ráp với 4 loại hương :
+OTHER	3	3	6	9	Price	Product	chỉ còn 29 k / tuýp kem dưỡng da tay mềm mịn , ngừa khô ráp với 4 loại hương :
+OTHER	5	5	6	9	Price	Product	chỉ còn 29 k / tuýp kem dưỡng da tay mềm mịn , ngừa khô ráp với 4 loại hương :
+PRICE	0	3	4	5	Promotion	Product	mua 5 giảm 30% mặt_nạ collagen giàu vitamin e và collagen tự_nhiên , giúp da thư_giãn và căng tràn sức_sống . mua_lẻ chỉ 15.900 đ / chiếc với tận 10 loại chiết_xuất cưng_chiều làn da .
+AFFILIATION	4	5	0	3	Product	Promotion	mua 5 giảm 30% mặt_nạ collagen giàu vitamin e và collagen tự_nhiên , giúp da thư_giãn và căng tràn sức_sống . mua_lẻ chỉ 15.900 đ / chiếc với tận 10 loại chiết_xuất cưng_chiều làn da .
+PRICE	0	2	10	13	Promotion	Product	giảm đến 27% , chỉ còn 159 k / hộp tinh_chất cô đặc collagen cấp_nước và se khít lỗ chân_lông .
+AFFILIATION	10	13	0	2	Product	Promotion	giảm đến 27% , chỉ còn 159 k / hộp tinh_chất cô đặc collagen cấp_nước và se khít lỗ chân_lông .
+PRICE	0	2	10	13	Promotion	Product	giảm đến 28% , chỉ còn 129 k / tuýp serum dưỡng mắt retinol làm mờ quầng thâm và xẹp bọng mắt .
+AFFILIATION	10	13	0	2	Product	Promotion	giảm đến 28% , chỉ còn 129 k / tuýp serum dưỡng mắt retinol làm mờ quầng thâm và xẹp bọng mắt .
+PRICE	0	8	9	14	Promotion	Product	giảm đến 27% chỉ còn 239 k / hộp kem dưỡng da ban_ngày / đêm có tác_dụng khoá ẩm và phục_hồi da hiệu_quả .
+AFFILIATION	9	14	0	8	Product	Promotion	giảm đến 27% chỉ còn 239 k / hộp kem dưỡng da ban_ngày / đêm có tác_dụng khoá ẩm và phục_hồi da hiệu_quả .
+AFFILIATION	0	4	14	15	Promotion	Time	cơn lốc skincare giá sốc “ ối dồi ôi ” mà khuyến_mãi chỉ đến hết 29/12 thôi chị_em mình ơi !
+REGULATION	14	15	0	4	Time	Promotion	cơn lốc skincare giá sốc “ ối dồi ôi ” mà khuyến_mãi chỉ đến hết 29/12 thôi chị_em mình ơi !
+LOCATION	0	1	6	9	Organization	Location	k beauty hiện đang có tại lotte mart quận 7 , quận 11 , gò vấp , đồng_nai , bình dương , vũng_tàu
+AFFILIATION	2	7	0	0	Time	Regulation	thời_gian_tham_gia : từ nay đến 22:00 ngày 18/12/2022 .
+PRICE	0	1	2	6	Promotion	Product	giảm 19% combo sushi set a lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+AFFILIATION	2	6	0	1	Product	Promotion	giảm 19% combo sushi set a lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+OTHER	15	15	0	1	Price	Promotion	giảm 19% combo sushi set a lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+OTHER	15	15	2	6	Price	Product	giảm 19% combo sushi set a lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+OTHER	16	16	0	1	Price	Promotion	giảm 19% combo sushi set a lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+OTHER	16	16	2	6	Price	Product	giảm 19% combo sushi set a lớn cho gia_đình cùng nhâm_nhi , giá chỉ còn 129.000 đ .
+AFFILIATION	0	3	4	7	Product	Promotion	soup chả cá seaway mua 2 tặng 1 , giá 22.000 đ / phần .
+PRICE	4	7	0	3	Promotion	Product	soup chả cá seaway mua 2 tặng 1 , giá 22.000 đ / phần .
+AFFILIATION	4	4	0	2	Time	Regulation	thời_gian diễn ra : 16/12 - 29/12
+LOCATION	7	8	2	3	Product	Location	đến ngay lotte mart để có ngay bánh_khúc cây thơm ngon với giá chỉ 139k bạn ơi !
+PRICE	14	14	7	8	Price	Product	đến ngay lotte mart để có ngay bánh_khúc cây thơm ngon với giá chỉ 139k bạn ơi !
+AFFILIATION	2	7	0	0	Time	Regulation	thời_gian_tham_gia : từ nay đến 02:00 ngày 15/12/2022 .
+REGULATION	3	8	10	17	Product	Regulation	quà tặng : 15 vé xem phim lotte cinema cho 15 bạn có dự_đoán chính_xác và sớm nhất ( 01 vé / người thắng giải ) .
+LOCATION	0	6	10	12	Product	Location	thịt bò xay nhập_khẩu trực_tiếp từ úc tiếp_tục góp_mặt tại lotte mart vũng_tàu , ba đình .
+PRICE	4	9	10	13	Promotion	Product	ưu_đãi hàng mới , giá giảm chỉ từ 57.000 đ gói thịt xay 150g .
+AFFILIATION	10	13	4	9	Product	Promotion	ưu_đãi hàng mới , giá giảm chỉ từ 57.000 đ gói thịt xay 150g .
+AFFILIATION	0	4	10	11	Product	Promotion	gà dakgangjeong sốt cay ngọt món ngon đường_phố hàn_quốc , giảm 16% .
+PRICE	10	11	0	4	Promotion	Product	gà dakgangjeong sốt cay ngọt món ngon đường_phố hàn_quốc , giảm 16% .
+AFFILIATION	0	1	5	6	Promotion	Time	giảm 17% ~ 21% áp_dụng đến 05.12.2022 tại lotte mart quận 7 .
+LOCATION	0	1	8	11	Promotion	Location	giảm 17% ~ 21% áp_dụng đến 05.12.2022 tại lotte mart quận 7 .
+REGULATION	5	6	0	1	Time	Promotion	giảm 17% ~ 21% áp_dụng đến 05.12.2022 tại lotte mart quận 7 .
+AFFILIATION	2	7	0	0	Time	Regulation	thời_gian_tham_gia : từ nay đến 02:00 ngày 11/12/2022 .
+AFFILIATION	2	7	0	0	Time	Regulation	thời_gian_tham_gia : từ nay đến 22:00 ngày 10/12/2022 .
+AFFILIATION	0	2	10	10	Promotion	Time	chuỗi minigame world_cup cực hot sắp diễn ra vào ngày 07/12 .
+REGULATION	10	10	0	2	Time	Promotion	chuỗi minigame world_cup cực hot sắp diễn ra vào ngày 07/12 .
+OTHER	8	8	0	5	Price	Product	lốc 5 mì khô samyang hàn_quốc chỉ còn 99.900 đ ( giảm 34% ) .
+PRICE	9	9	0	5	Price	Product	lốc 5 mì khô samyang hàn_quốc chỉ còn 99.900 đ ( giảm 34% ) .
+PRICE	9	9	0	5	Price	Promotion	combo 2 miếng gà rán giòn_rụm + coca chỉ 45.000 đ .
+OTHER	10	10	0	5	Price	Promotion	combo 2 miếng gà rán giòn_rụm + coca chỉ 45.000 đ .
+AFFILIATION	0	2	3	8	Product	Promotion	cà_phê lon mr.brown giảm 50% chỉ còn 6.900 đ .
+PRICE	3	8	0	2	Promotion	Product	cà_phê lon mr.brown giảm 50% chỉ còn 6.900 đ .
+AFFILIATION	0	1	4	5	Promotion	Time	ưu_đãi sinh_nhật chỉ áp_dụng đến 06.12.2022 .
+REGULATION	4	5	0	1	Time	Promotion	ưu_đãi sinh_nhật chỉ áp_dụng đến 06.12.2022 .
+AFFILIATION	3	7	8	11	Promotion	Time	chỉ có tại tiệc sinh_nhật 14 lotte mart từ nay đến 06.12.2022 .
+REGULATION	8	11	3	7	Time	Promotion	chỉ có tại tiệc sinh_nhật 14 lotte mart từ nay đến 06.12.2022 .
+REGULATION	0	4	6	9	Promotion	Regulation	tặng 1 nón bảo_hiểm_lotte mart với hoá_đơn từ 1.200.000 đ
+REGULATION	0	4	6	9	Promotion	Regulation	tặng 1 túi môi_trường l.care với hoá_đơn từ 400.000 đ
+LOCATION	16	20	8	9	Product	Location	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	16	20	30	31	Product	Promotion	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	25	25	16	20	Price	Product	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	25	25	30	31	Price	Promotion	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	26	26	16	20	Price	Product	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	26	26	30	31	Price	Promotion	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	28	28	16	20	Price	Product	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	28	28	30	31	Price	Promotion	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+OTHER	30	31	8	9	Promotion	Location	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+PRICE	30	31	16	20	Promotion	Product	tiếp_tục chuỗi chương_trình ý_nghĩa đồng_hành cùng nông_dân , lotte mart mang đến cho cả nhà sản_phẩm bưởi da xanh túi lưới giá cực rẻ chỉ 25.900 đ / kg , giảm 44% lận đó
+AFFILIATION	0	2	11	13	Product	Promotion	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+AFFILIATION	0	2	15	22	Product	Promotion	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+OTHER	0	2	24	27	Product	Regulation	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+PRICE	11	13	0	2	Promotion	Product	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+OTHER	11	13	15	22	Promotion	Promotion	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+OTHER	11	13	24	27	Promotion	Regulation	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+OTHER	15	22	0	2	Promotion	Product	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+OTHER	15	22	11	13	Promotion	Promotion	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+REGULATION	15	22	24	27	Promotion	Regulation	bình giữ nhiệt , bình nước , bếp lock & lock giảm sốc 50% còn tặng thêm 1 ly sứ lock & lock với hoá_đơn từ 499.000 đ .
+AFFILIATION	0	3	4	9	Product	Promotion	nước giặt lix nước_hoa giảm 50% chỉ còn 93.900 đ .
+PRICE	4	9	0	3	Promotion	Product	nước giặt lix nước_hoa giảm 50% chỉ còn 93.900 đ .
+AFFILIATION	0	1	2	5	Product	Promotion	ruột gối mua 1 tặng 1 .
+PRICE	2	5	0	1	Promotion	Product	ruột gối mua 1 tặng 1 .
+PRICE	1	1	6	8	Price	Product	chỉ 14.000 đ là có ngay bánh lotte chocopie , bánh que only price , nước_mắm knorr .
+OTHER	2	2	6	8	Price	Product	chỉ 14.000 đ là có ngay bánh lotte chocopie , bánh que only price , nước_mắm knorr .
+REGULATION	30	33	1	10	Promotion	Regulation	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+REGULATION	30	33	15	25	Promotion	Regulation	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+REGULATION	30	33	27	28	Promotion	Regulation	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+AFFILIATION	30	33	35	37	Promotion	Time	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+OTHER	35	37	1	10	Time	Regulation	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+OTHER	35	37	15	25	Time	Regulation	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+OTHER	35	37	27	28	Time	Regulation	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+REGULATION	35	37	30	33	Time	Promotion	với hoá_đơn từ 700.000 đ tại lotte mart hồ chí minh , ba đình hoặc hoá_đơn từ 500.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên được mua 1 sản_phẩm_giá sốc từ 09.11 đến 22.11.2022 .
+AFFILIATION	0	3	5	7	Promotion	Time	khuyến_mãi giảm đến 39% chỉ áp_dụng đến 08.11 thôi đó .
+REGULATION	5	7	0	3	Time	Promotion	khuyến_mãi giảm đến 39% chỉ áp_dụng đến 08.11 thôi đó .
+AFFILIATION	3	6	9	11	Product	Promotion	ngon xuýt_xoa với mì hàn quốc samyang , nongshim giảm đến 42% .
+PRICE	9	11	3	6	Promotion	Product	ngon xuýt_xoa với mì hàn quốc samyang , nongshim giảm đến 42% .
+PRICE	12	12	0	9	Price	Product	xốt ướp thịt và các loại tương ngon chuẩn hàn chỉ từ 25.500 đ .
+OTHER	13	13	0	9	Price	Product	xốt ướp thịt và các loại tương ngon chuẩn hàn chỉ từ 25.500 đ .
+REGULATION	1	1	8	11	Time	Promotion	từ 𝟎𝟐 - 𝟏𝟓 / 𝟏𝟏 , mừng khai_trương gian_hàng bapi food tại lotte mart gò vấp , bạn có ngay quà tặng :
+AFFILIATION	8	11	1	1	Promotion	Time	từ 𝟎𝟐 - 𝟏𝟓 / 𝟏𝟏 , mừng khai_trương gian_hàng bapi food tại lotte mart gò vấp , bạn có ngay quà tặng :
+LOCATION	8	11	13	16	Promotion	Location	từ 𝟎𝟐 - 𝟏𝟓 / 𝟏𝟏 , mừng khai_trương gian_hàng bapi food tại lotte mart gò vấp , bạn có ngay quà tặng :
+LOCATION	16	17	0	8	Organization	Product	200g thịt đùi hoặc thịt vai heo ăn chuối khi mua các sản_phẩm heo ăn chuối bapi food với hoá_đơn từ 250k .
+OTHER	5	8	20	23	Location	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+OTHER	10	13	5	8	Product	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+OTHER	10	13	20	23	Product	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+LOCATION	14	15	5	8	Organization	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+LOCATION	14	15	10	13	Organization	Product	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+LOCATION	14	15	20	23	Organization	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+OTHER	20	23	5	8	Location	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
+REGULATION	4	4	11	17	Time	Promotion	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
+OTHER	6	9	11	17	Time	Promotion	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
+AFFILIATION	11	17	4	4	Promotion	Time	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
+OTHER	11	17	6	9	Promotion	Time	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
+LOCATION	11	17	19	22	Promotion	Location	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
+REGULATION	12	18	2	9	Promotion	Regulation	đặc_biệt , khách_hàng thành_viên mua trái_cây có hoá_đơn từ 500k sẽ được tặng ngay 1kg táo fuji hàn quốc !
+REGULATION	3	8	10	12	Product	Regulation	quà tặng : 120 phần táo hàn quốc cao_cấp cho 120 khách_hàng đầu_tiên .
+LOCATION	3	5	10	11	Promotion	Location	ưu_đãi đặc_biệt : tặng 1kg táo cho khách yêu của 𝐋𝐎𝐓𝐓𝐄 𝐌𝐀𝐑𝐓
+AFFILIATION	4	4	0	1	Time	Regulation	thời_gian ưu_đãi : từ 26.10 - 08.11.2022 .
+LOCATION	6	8	18	21	Organization	Location	từ ngày 17/10/2022 đến 31/10/2022 , thái ngon ngon đang có chương_trình ưu_đãi dành cho khách_hàng mua_sắm tại lotte mart đồng nai vô_cùng hấp_dẫn :
+REGULATION	0	2	6	9	Promotion	Regulation	giảm 5% tổng_bill cho khách_hàng có thẻ thành_viên lotte mart
+REGULATION	0	2	6	10	Promotion	Regulation	giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 500.000 đ
+REGULATION	0	2	6	10	Promotion	Regulation	giảm 15% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+REGULATION	1	4	6	8	Time	Promotion	từ thứ 6 đến chủ_nhật : giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+OTHER	1	4	12	16	Time	Regulation	từ thứ 6 đến chủ_nhật : giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+AFFILIATION	6	8	1	4	Promotion	Time	từ thứ 6 đến chủ_nhật : giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+REGULATION	6	8	12	16	Promotion	Regulation	từ thứ 6 đến chủ_nhật : giảm 10% tổng_bill cho khách_hàng có hoá_đơn siêu_thị trên 1.000.000 đ
+REGULATION	1	1	8	11	Time	Promotion	từ 𝟏𝟒 - 𝟑𝟏 / 𝟏𝟎 , mừng khai_trương gian_hàng bapi food , bạn có ngay quà tặng :
+AFFILIATION	8	11	1	1	Promotion	Time	từ 𝟏𝟒 - 𝟑𝟏 / 𝟏𝟎 , mừng khai_trương gian_hàng bapi food , bạn có ngay quà tặng :
+REGULATION	0	5	7	9	Product	Regulation	01 túi tote hoặc 500gr chuối cho hoá_đơn từ 250k - 500k .
+REGULATION	0	3	5	7	Product	Regulation	01 áo thun cầu_thủ cho hoá_đơn từ 500k - 1000k .
+AFFILIATION	2	4	5	8	Promotion	Time	đặc_biệt , giảm đến 30% từ nay đến 11.10 thôi đó .
+REGULATION	5	8	2	4	Time	Promotion	đặc_biệt , giảm đến 30% từ nay đến 11.10 thôi đó .
+AFFILIATION	0	2	14	14	Promotion	Time	giảm đến 46% + tích_luỹ đến 10% vào điểm thẻ thành_viên chỉ trong ngày 10.10.2022
+REGULATION	14	14	0	2	Time	Promotion	giảm đến 46% + tích_luỹ đến 10% vào điểm thẻ thành_viên chỉ trong ngày 10.10.2022
+AFFILIATION	0	5	11	14	Product	Promotion	bình giữ nhiệt lock & lock giá chỉ 194.900 đ , giảm cực sốc 50%
+OTHER	8	8	0	5	Price	Product	bình giữ nhiệt lock & lock giá chỉ 194.900 đ , giảm cực sốc 50%
+OTHER	8	8	11	14	Price	Promotion	bình giữ nhiệt lock & lock giá chỉ 194.900 đ , giảm cực sốc 50%
+OTHER	9	9	0	5	Price	Product	bình giữ nhiệt lock & lock giá chỉ 194.900 đ , giảm cực sốc 50%
+OTHER	9	9	11	14	Price	Promotion	bình giữ nhiệt lock & lock giá chỉ 194.900 đ , giảm cực sốc 50%
+PRICE	11	14	0	5	Promotion	Product	bình giữ nhiệt lock & lock giá chỉ 194.900 đ , giảm cực sốc 50%
+AFFILIATION	0	5	6	12	Product	Promotion	lốc 10 móc áo trẻ_em hara giảm ngay 50% chỉ còn 22.500 đ
+PRICE	6	12	0	5	Promotion	Product	lốc 10 móc áo trẻ_em hara giảm ngay 50% chỉ còn 22.500 đ
+REGULATION	0	9	11	14	Promotion	Regulation	tặng ngay 1 gói trái_cây sấy tổng_hợp choice l 100g cho hoá_đơn mua thực_phẩm tươi_sống , bánh hoặc thức_ăn chế_biến sẵn từ 300.000 đ trở_lên
+REGULATION	16	19	1	10	Promotion	Regulation	với hoá_đơn từ 400.000 đ tại hệ_thống siêu_thị lotte mart toàn_quốc , khách_hàng thành_viên sẽ được mua 1 sản_phẩm_giá sốc
+PRICE	1	1	5	8	Price	Product	chỉ 5.000 đ / lốc 4 sữa milo 115ml
+OTHER	2	2	5	8	Price	Product	chỉ 5.000 đ / lốc 4 sữa milo 115ml
+PRICE	1	1	5	12	Price	Product	chỉ 5.000 đ / gói khăn ướt choice l em bé 80 miếng
+OTHER	2	2	5	12	Price	Product	chỉ 5.000 đ / gói khăn ướt choice l em bé 80 miếng
+REGULATION	30	33	1	10	Promotion	Regulation	với hoá_đơn từ 800.000 đ tại lotte mart hồ chí minh & ba đình hoặc từ 600.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên sẽ được mua 1 sản_phẩm_giá sốc
+REGULATION	30	33	16	16	Promotion	Regulation	với hoá_đơn từ 800.000 đ tại lotte mart hồ chí minh & ba đình hoặc từ 600.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên sẽ được mua 1 sản_phẩm_giá sốc
+OTHER	30	33	17	24	Promotion	Regulation	với hoá_đơn từ 800.000 đ tại lotte mart hồ chí minh & ba đình hoặc từ 600.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên sẽ được mua 1 sản_phẩm_giá sốc
+REGULATION	30	33	26	27	Promotion	Regulation	với hoá_đơn từ 800.000 đ tại lotte mart hồ chí minh & ba đình hoặc từ 600.000 đ tại các siêu_thị lotte mart còn lại , khách_hàng thành_viên sẽ được mua 1 sản_phẩm_giá sốc
+PRICE	1	1	5	9	Price	Product	chỉ 15.000 đ / gói bánh_quy giòn only price 250g
+OTHER	2	2	5	9	Price	Product	chỉ 15.000 đ / gói bánh_quy giòn only price 250g
+PRICE	1	1	5	12	Price	Product	chỉ 80.000 đ / túi nước giặt omo dịu nhẹ cho bé 2kg
+OTHER	2	2	5	12	Price	Product	chỉ 80.000 đ / túi nước giặt omo dịu nhẹ cho bé 2kg
+REGULATION	8	13	1	4	Promotion	Regulation	với hoá_đơn từ 1.000.000 đ , lotte mart tặng ngay 1 phần quà yêu_thương :
+LOCATION	8	13	6	7	Promotion	Location	với hoá_đơn từ 1.000.000 đ , lotte mart tặng ngay 1 phần quà yêu_thương :
+REGULATION	0	9	11	14	Promotion	Regulation	tặng ngay 1 gói bánh gạo jinju cốm sữa 145g cho hoá_đơn mua thực_phẩm tươi_sống , bánh hoặc thức_ăn chế_biến sẵn từ 300.000 đ trở_lên
+OTHER	0	0	1	3	Organization	Location	gojoy lotte mart vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+OTHER	0	0	6	6	Organization	Promotion	gojoy lotte mart vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+LOCATION	6	6	1	3	Promotion	Location	gojoy lotte mart vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+AFFILIATION	6	6	8	10	Promotion	Time	gojoy lotte mart vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+REGULATION	8	10	6	6	Time	Promotion	gojoy lotte mart vinh sẽ chính_thức khai_trương vào 10h00 ngày 18/09/2022 , với nhiều hoạt_động hấp_dẫn đón_chào quí_khách :
+OTHER	0	4	5	6	Promotion	Product	check-in nhận ngay quà tặng tai_nghe trị_giá # 150 k
+AFFILIATION	5	6	0	4	Product	Promotion	check-in nhận ngay quà tặng tai_nghe trị_giá # 150 k
+LOCATION	0	2	4	6	Promotion	Location	khai_trương cửa_hàng gojoy tại lotte mart vinh
+OTHER	2	6	17	20	Product	Location	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+OTHER	2	6	35	40	Product	Promotion	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+LOCATION	9	10	2	6	Organization	Product	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+LOCATION	9	10	17	20	Organization	Location	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+LOCATION	9	10	35	40	Organization	Promotion	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+OTHER	35	40	2	6	Promotion	Product	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+OTHER	35	40	17	20	Promotion	Location	khách_hàng mua 9 con hàu giống pháp tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp - 242 nguyễn văn lượng , phường 10 , quận gò vấp sẽ được tặng 9 con hàu giống pháp
+OTHER	3	4	11	14	Organization	Location	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+OTHER	3	4	17	23	Organization	Promotion	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+OTHER	3	4	29	30	Organization	Product	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+OTHER	17	23	11	14	Promotion	Location	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+PRICE	17	23	29	30	Promotion	Product	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+LOCATION	29	30	11	14	Product	Location	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+AFFILIATION	29	30	17	23	Product	Promotion	khách_hàng tại siêu_thị hải_sản hoàng_gia ( royal seafood ) chi_nhánh thuộc lotte mart gò vấp sẽ được tặng nước hấp sả và giảm 20% khi mua các sản_phẩm : sò mía , vẹm xanh , nghêu sần
+REGULATION	3	3	8	16	Time	Promotion	ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món sò mía hấp xả tại khu_vực hải_sản hoàng_gia của lotte mart gò_vấp
+AFFILIATION	8	16	3	3	Promotion	Time	ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món sò mía hấp xả tại khu_vực hải_sản hoàng_gia của lotte mart gò_vấp
+LOCATION	8	16	22	24	Promotion	Location	ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món sò mía hấp xả tại khu_vực hải_sản hoàng_gia của lotte mart gò_vấp
+OTHER	19	20	8	16	Organization	Promotion	ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món sò mía hấp xả tại khu_vực hải_sản hoàng_gia của lotte mart gò_vấp
+OTHER	19	20	22	24	Organization	Location	ngoài_ra , từ 17/09 - 25/09/2022 còn có chương_trình dùng thử miễn_phí món sò mía hấp xả tại khu_vực hải_sản hoàng_gia của lotte mart gò_vấp
+LOCATION	7	9	2	5	Promotion	Location	đến ngay lotte mart gò vấp mừng khai_trương hải_sản hoàng_gia nha
+PRICE	7	7	0	5	Price	Product	trà chanh sả fuze chai 1l chỉ 5.000 đ
+OTHER	8	8	0	5	Price	Product	trà chanh sả fuze chai 1l chỉ 5.000 đ
+PRICE	7	7	0	5	Price	Product	khăn ướt choice l 120 miếng chỉ 5.000 đ
+OTHER	8	8	0	5	Price	Product	khăn ướt choice l 120 miếng chỉ 5.000 đ
+PRICE	7	7	0	5	Price	Product	sữa_tươi milky lux ít béo 1l chỉ 15.000 đ
+OTHER	8	8	0	5	Price	Product	sữa_tươi milky lux ít béo 1l chỉ 15.000 đ
+PRICE	8	8	0	6	Price	Product	lô 2 kem đánh răng closeup 230g chỉ 60.000 đ
+OTHER	9	9	0	6	Price	Product	lô 2 kem đánh răng closeup 230g chỉ 60.000 đ
+PRICE	7	7	0	5	Price	Product	hạt nêm neptune 4in1 heo 850g chỉ 35.000 đ
+OTHER	8	8	0	5	Price	Product	hạt nêm neptune 4in1 heo 850g chỉ 35.000 đ
+PRICE	9	9	0	7	Price	Product	nước giặt surf hương nước_hoa túi 3.1 kg chỉ 85.000 đ
+OTHER	10	10	0	7	Price	Product	nước giặt surf hương nước_hoa túi 3.1 kg chỉ 85.000 đ
+LOCATION	0	2	3	4	Product	Location	25 bánh trung_thu lotte mart dành tặng cho 25 khách_hàng đầu_tiên mỗi ngày , cả nhà chỉ cần chụp hình check-in tại booth sinh_nhật của lotte mart ba đình và đến quầy dịch_vụ khách_hàng nhận quà nha
+REGULATION	0	8	10	13	Promotion	Regulation	tặng 1 lốc 3 gói tảo kimori teriyaki 5g cho hoá_đơn mua thực_phẩm tươi_sống , bánh hoặc thức_ăn chế_biến sẵn từ 300.000 đ trở_lên
+PRICE	15	15	3	8	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+OTHER	15	15	18	22	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+OTHER	16	16	3	8	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+OTHER	16	16	18	22	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+OTHER	24	24	3	8	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+PRICE	24	24	18	22	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+OTHER	25	25	3	8	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+OTHER	25	25	18	22	Price	Product	tặng ngay 01 hộp 10 chai nước hồng sâm / vị đông trùng 100ml trị_giá 113.000 đ hoặc 02 gói bột_ngọt ajinomoto 400g trị_giá 58.000 đ
+AFFILIATION	3	6	0	1	Time	Regulation	thời_gian chương_trình : từ 05.09 đến 11.09.2022
+REGULATION	5	11	13	17	Product	Regulation	quà tặng minigame online : 30 cặp vé xem phim lotte cinema cho 30 bạn may_mắn được chọn
+OTHER	0	2	4	7	Promotion	Product	1 giải nhất : 4 thẻ quà tặng trị_giá 20 triệu đồng
+AFFILIATION	4	7	0	2	Product	Promotion	1 giải nhất : 4 thẻ quà tặng trị_giá 20 triệu đồng
+OTHER	9	11	0	2	Price	Promotion	1 giải nhất : 4 thẻ quà tặng trị_giá 20 triệu đồng
+PRICE	9	11	4	7	Price	Product	1 giải nhất : 4 thẻ quà tặng trị_giá 20 triệu đồng
+OTHER	0	2	4	6	Promotion	Product	4 giải nhì : thẻ quà tặng trị_giá 5 triệu đồng
+AFFILIATION	4	6	0	2	Product	Promotion	4 giải nhì : thẻ quà tặng trị_giá 5 triệu đồng
+OTHER	8	10	0	2	Price	Promotion	4 giải nhì : thẻ quà tặng trị_giá 5 triệu đồng
+PRICE	8	10	4	6	Price	Product	4 giải nhì : thẻ quà tặng trị_giá 5 triệu đồng
+OTHER	0	2	4	7	Promotion	Product	10 giải ba : 4 vé xem phim trị_giá 400.000 đ
+AFFILIATION	4	7	0	2	Product	Promotion	10 giải ba : 4 vé xem phim trị_giá 400.000 đ
+OTHER	9	9	0	2	Price	Promotion	10 giải ba : 4 vé xem phim trị_giá 400.000 đ
+PRICE	9	9	4	7	Price	Product	10 giải ba : 4 vé xem phim trị_giá 400.000 đ
+OTHER	10	10	0	2	Price	Promotion	10 giải ba : 4 vé xem phim trị_giá 400.000 đ
+OTHER	10	10	4	7	Price	Product	10 giải ba : 4 vé xem phim trị_giá 400.000 đ
+AFFILIATION	2	2	0	0	Time	Regulation	thời_gian_tham_gia : 31.08 ~ 13.09.2022 .
+AFFILIATION	0	1	4	4	Promotion	Time	rút thăm vào ngày 18.09.2022
+REGULATION	4	4	0	1	Time	Promotion	rút thăm vào ngày 18.09.2022
+REGULATION	0	4	6	18	Promotion	Regulation	tặng 2 vé xem phim cho khách_hàng thành_viên với hoá_đơn từ 1.200.000 đ tại lotte mart hồ chí minh , hà_nội hoặc từ 1.000.000 đ tại các siêu_thị còn lại
+REGULATION	0	4	23	23	Promotion	Regulation	tặng 2 vé xem phim cho khách_hàng thành_viên với hoá_đơn từ 1.200.000 đ tại lotte mart hồ chí minh , hà_nội hoặc từ 1.000.000 đ tại các siêu_thị còn lại
+OTHER	0	4	24	29	Promotion	Regulation	tặng 2 vé xem phim cho khách_hàng thành_viên với hoá_đơn từ 1.200.000 đ tại lotte mart hồ chí minh , hà_nội hoặc từ 1.000.000 đ tại các siêu_thị còn lại
+OTHER	0	2	4	5	Promotion	Product	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+AFFILIATION	4	5	0	2	Product	Promotion	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+OTHER	7	7	0	2	Price	Promotion	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+OTHER	7	7	4	5	Price	Product	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+OTHER	8	8	0	2	Price	Promotion	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+PRICE	8	8	4	5	Price	Product	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+OTHER	10	10	0	2	Price	Promotion	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+OTHER	10	10	4	5	Price	Product	3 giải đặc_biệt : voucher himalaya trị_giá 1.000.000 đ / giải
+AFFILIATION	2	9	0	0	Time	Regulation	thời_gian_tham_gia : từ khi công_bố minigame đến hết ngày 20.08.2022
+REGULATION	0	7	15	20	Promotion	Regulation	tặng ngay 1 bánh trung_thu khoai_môn bí xanh / than tre hạt sen 150g cho thành_viên với hoá_đơn từ 800.000 đ tại lotte mart vinh
+LOCATION	0	7	22	24	Promotion	Location	tặng ngay 1 bánh trung_thu khoai_môn bí xanh / than tre hạt sen 150g cho thành_viên với hoá_đơn từ 800.000 đ tại lotte mart vinh
+PRICE	1	1	4	10	Price	Product	chỉ 15.000 đ / khăn ướt only price gói 120 miếng
+OTHER	2	2	4	10	Price	Product	chỉ 15.000 đ / khăn ướt only price gói 120 miếng
+PRICE	1	1	4	8	Price	Product	chỉ 15.000 đ / trái_cây sấy tổng_hợp gói 200g
+OTHER	2	2	4	8	Price	Product	chỉ 15.000 đ / trái_cây sấy tổng_hợp gói 200g
+REGULATION	2	8	10	15	Promotion	Regulation	đặc_biệt , tặng 1 bắp bung only price 220g với hoá_đơn 300.000 đ các sản_phẩm hàn_quốc tại lotte mart vinh
+LOCATION	2	8	17	19	Promotion	Location	đặc_biệt , tặng 1 bắp bung only price 220g với hoá_đơn 300.000 đ các sản_phẩm hàn_quốc tại lotte mart vinh
+AFFILIATION	0	2	6	8	Promotion	Time	thiên_đường thực_phẩm hàn_quốc chỉ diễn ra đến hết 30.08 duy_nhất tại lotte mart vinh thôi nè .
+LOCATION	0	2	11	13	Promotion	Location	thiên_đường thực_phẩm hàn_quốc chỉ diễn ra đến hết 30.08 duy_nhất tại lotte mart vinh thôi nè .
+REGULATION	6	8	0	2	Time	Promotion	thiên_đường thực_phẩm hàn_quốc chỉ diễn ra đến hết 30.08 duy_nhất tại lotte mart vinh thôi nè .
+PRICE	1	1	4	6	Price	Product	chỉ 10.000 đ / snack khoai_tây original - vị hành 110g
+OTHER	2	2	4	6	Price	Product	chỉ 10.000 đ / snack khoai_tây original - vị hành 110g
+PRICE	1	1	4	7	Price	Product	chỉ 10.000 đ / nước cam teppy 1l
+OTHER	2	2	4	7	Price	Product	chỉ 10.000 đ / nước cam teppy 1l
+PRICE	1	1	4	9	Price	Product	chỉ 15.000 đ / trái_cây sấy tổng_hợp choice l 200g
+OTHER	2	2	4	9	Price	Product	chỉ 15.000 đ / trái_cây sấy tổng_hợp choice l 200g
+LOCATION	6	8	0	2	Organization	Promotion	giảm đến 39% sản_phẩm cho gian bếp choice l
+LOCATION	0	4	9	12	Promotion	Location	robot mời bia của heineken hiện đang có tại lotte mart quận 7 .
+OTHER	1	1	2	2	Promotion	Promotion	chỉ 5.000 đ / hộp 1l sữa milky lux ít béo với hoá_đơn từ 400.000 đ
+REGULATION	1	1	12	15	Promotion	Regulation	chỉ 5.000 đ / hộp 1l sữa milky lux ít béo với hoá_đơn từ 400.000 đ
+OTHER	2	2	1	1	Promotion	Promotion	chỉ 5.000 đ / hộp 1l sữa milky lux ít béo với hoá_đơn từ 400.000 đ
+OTHER	2	2	12	15	Promotion	Regulation	chỉ 5.000 đ / hộp 1l sữa milky lux ít béo với hoá_đơn từ 400.000 đ
+OTHER	1	1	2	2	Promotion	Promotion	chỉ 20.000 đ / hộp 400g bánh cracker kem chanh / phô_mai với hoá_đơn từ 600.000 đ
+REGULATION	1	1	13	16	Promotion	Regulation	chỉ 20.000 đ / hộp 400g bánh cracker kem chanh / phô_mai với hoá_đơn từ 600.000 đ
+OTHER	2	2	1	1	Promotion	Promotion	chỉ 20.000 đ / hộp 400g bánh cracker kem chanh / phô_mai với hoá_đơn từ 600.000 đ
+OTHER	2	2	13	16	Promotion	Regulation	chỉ 20.000 đ / hộp 400g bánh cracker kem chanh / phô_mai với hoá_đơn từ 600.000 đ
+OTHER	1	1	2	2	Promotion	Promotion	chỉ 39.000 đ / lốc 12 cuộn giấy vệ_sinh choice l với hoá_đơn từ 1.000.000 đ
+REGULATION	1	1	12	15	Promotion	Regulation	chỉ 39.000 đ / lốc 12 cuộn giấy vệ_sinh choice l với hoá_đơn từ 1.000.000 đ
+OTHER	2	2	1	1	Promotion	Promotion	chỉ 39.000 đ / lốc 12 cuộn giấy vệ_sinh choice l với hoá_đơn từ 1.000.000 đ
+OTHER	2	2	12	15	Promotion	Regulation	chỉ 39.000 đ / lốc 12 cuộn giấy vệ_sinh choice l với hoá_đơn từ 1.000.000 đ
+OTHER	3	9	12	16	Promotion	Product	mỗi tuần : 02 giải “ mua_sắm thả ga ” mỗi giải 20.000.000 điểm vào tài_khoản thành_viên tương_đương 20.000.000 đồng
+AFFILIATION	12	16	3	9	Product	Promotion	mỗi tuần : 02 giải “ mua_sắm thả ga ” mỗi giải 20.000.000 điểm vào tài_khoản thành_viên tương_đương 20.000.000 đồng
+OTHER	18	19	3	9	Price	Promotion	mỗi tuần : 02 giải “ mua_sắm thả ga ” mỗi giải 20.000.000 điểm vào tài_khoản thành_viên tương_đương 20.000.000 đồng
+PRICE	18	19	12	16	Price	Product	mỗi tuần : 02 giải “ mua_sắm thả ga ” mỗi giải 20.000.000 điểm vào tài_khoản thành_viên tương_đương 20.000.000 đồng
+OTHER	0	7	9	16	Promotion	Product	01 giải đặc_biệt “ cùng đi hàn_quốc ” : 01 chuyến du_lịch hàn_quốc dành cho 4 người trị_giá 120.000.000 đồng
+AFFILIATION	9	16	0	7	Product	Promotion	01 giải đặc_biệt “ cùng đi hàn_quốc ” : 01 chuyến du_lịch hàn_quốc dành cho 4 người trị_giá 120.000.000 đồng
+OTHER	18	19	0	7	Price	Promotion	01 giải đặc_biệt “ cùng đi hàn_quốc ” : 01 chuyến du_lịch hàn_quốc dành cho 4 người trị_giá 120.000.000 đồng
+PRICE	18	19	9	16	Price	Product	01 giải đặc_biệt “ cùng đi hàn_quốc ” : 01 chuyến du_lịch hàn_quốc dành cho 4 người trị_giá 120.000.000 đồng
+PRICE	0	5	13	18	Promotion	Product	tặng ngay ly sứ cao_cấp starbucks® ( trị_giá 450 k ) khi mua 03 sản_phẩm cà_phê hoà_tan cao_cấp starbucks® bất_kỳ tại quầy cà_phê trong khu_vực tự chọn của siêu_thị
+AFFILIATION	13	18	0	5	Product	Promotion	tặng ngay ly sứ cao_cấp starbucks® ( trị_giá 450 k ) khi mua 03 sản_phẩm cà_phê hoà_tan cao_cấp starbucks® bất_kỳ tại quầy cà_phê trong khu_vực tự chọn của siêu_thị
+REGULATION	0	8	10	17	Promotion	Regulation	tặng 100 phần kimbap / ngày trị_giá 45.000 đ cho hoá_đơn từ 150.000 đ các sản_phẩm chế_biến sẵn , áp_dụng 29.07 đến 31.07.2022
+AFFILIATION	0	8	20	22	Promotion	Time	tặng 100 phần kimbap / ngày trị_giá 45.000 đ cho hoá_đơn từ 150.000 đ các sản_phẩm chế_biến sẵn , áp_dụng 29.07 đến 31.07.2022
+REGULATION	20	22	0	8	Time	Promotion	tặng 100 phần kimbap / ngày trị_giá 45.000 đ cho hoá_đơn từ 150.000 đ các sản_phẩm chế_biến sẵn , áp_dụng 29.07 đến 31.07.2022
+OTHER	20	22	10	17	Time	Regulation	tặng 100 phần kimbap / ngày trị_giá 45.000 đ cho hoá_đơn từ 150.000 đ các sản_phẩm chế_biến sẵn , áp_dụng 29.07 đến 31.07.2022
+AFFILIATION	0	3	10	11	Product	Promotion	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	5	5	0	3	Price	Product	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	5	5	10	11	Price	Promotion	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	6	6	0	3	Price	Product	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	6	6	10	11	Price	Promotion	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	8	8	0	3	Price	Product	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	8	8	10	11	Price	Promotion	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+PRICE	10	11	0	3	Promotion	Product	chảo tefal đáy từ chỉ 229.900 đ / cái ( giảm 40% ) tặng 1 chảo supor
+OTHER	4	4	0	2	Price	Product	mì shin ramyun chỉ 11.900 đ / gói ( giá thường 21.600 đ )
+OTHER	5	5	0	2	Price	Product	mì shin ramyun chỉ 11.900 đ / gói ( giá thường 21.600 đ )
+OTHER	7	7	0	2	Price	Product	mì shin ramyun chỉ 11.900 đ / gói ( giá thường 21.600 đ )
+PRICE	9	12	0	2	Price	Product	mì shin ramyun chỉ 11.900 đ / gói ( giá thường 21.600 đ )
+LOCATION	0	3	5	8	Promotion	Location	mừng sinh_nhật 6 tuổi , lotte mart nha trang tặng bạn_hàng trăm ưu_đãi khủng cùng chương_trình rút thăm với các giải_thưởng hấp_dẫn :
+PRICE	9	9	0	7	Price	Product	20 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 20.000.000 đ / giải
+OTHER	10	10	0	7	Price	Product	20 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 20.000.000 đ / giải
+OTHER	12	12	0	7	Price	Product	20 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 20.000.000 đ / giải
+PRICE	9	9	0	7	Price	Product	10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	10	10	0	7	Price	Product	10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	12	12	0	7	Price	Product	10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+PRICE	8	8	0	6	Price	Product	300.000 điểm cộng vào tài_khoản thẻ thành_viên trị_giá 300.000 đ / giải
+OTHER	9	9	0	6	Price	Product	300.000 điểm cộng vào tài_khoản thẻ thành_viên trị_giá 300.000 đ / giải
+OTHER	11	11	0	6	Price	Product	300.000 điểm cộng vào tài_khoản thẻ thành_viên trị_giá 300.000 đ / giải
+AFFILIATION	3	8	0	1	Time	Regulation	thời_gian bỏ_phiếu : từ ngày 26.07 đến hết 02.08.2022 .
+AFFILIATION	4	6	0	2	Time	Regulation	thời_gian rút thăm : 19h30 ngày 03.08.2022
+LOCATION	6	10	15	17	Promotion	Location	mừng diện_mạo mới , tham_dự ngay chương_trình rút thăm trúng thưởng đặc_biệt chỉ có ở lotte mart vũng_tàu
+OTHER	0	2	4	11	Promotion	Product	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+AFFILIATION	4	11	0	2	Product	Promotion	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	13	13	0	2	Price	Promotion	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+PRICE	13	13	4	11	Price	Product	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	14	14	0	2	Price	Promotion	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	14	14	4	11	Price	Product	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	16	16	0	2	Price	Promotion	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	16	16	4	11	Price	Product	1 giải đặc_biệt : 10 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 10.000.000 đ / giải
+OTHER	0	2	4	11	Promotion	Product	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+AFFILIATION	4	11	0	2	Product	Promotion	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+OTHER	13	13	0	2	Price	Promotion	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+PRICE	13	13	4	11	Price	Product	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+OTHER	14	14	0	2	Price	Promotion	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+OTHER	14	14	4	11	Price	Product	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+OTHER	16	16	0	2	Price	Promotion	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+OTHER	16	16	4	11	Price	Product	3 giải nhất : 3 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 3.000.000 đ / giải
+OTHER	0	2	4	11	Promotion	Product	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+AFFILIATION	4	11	0	2	Product	Promotion	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+OTHER	13	13	0	2	Price	Promotion	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+PRICE	13	13	4	11	Price	Product	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+OTHER	14	14	0	2	Price	Promotion	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+OTHER	14	14	4	11	Price	Product	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+OTHER	16	16	0	2	Price	Promotion	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+OTHER	16	16	4	11	Price	Product	3 giải nhì : 1 triệu điểm cộng vào tài_khoản thẻ thành_viên trị_giá 1.000.000 đ / giải
+OTHER	0	2	4	9	Promotion	Product	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+AFFILIATION	4	9	0	2	Product	Promotion	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+OTHER	11	11	0	2	Price	Promotion	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+PRICE	11	11	4	9	Price	Product	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+OTHER	12	12	0	2	Price	Promotion	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+OTHER	12	12	4	9	Price	Product	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+OTHER	14	14	0	2	Price	Promotion	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+OTHER	14	14	4	9	Price	Product	20 giải khuyến_khích : 4 vé xem phim lotte cinema trị_giá 400.000 đ / giải
+AFFILIATION	3	6	0	1	Time	Regulation	thời_gian bỏ_phiếu : từ nay đến 02.08.2022 .
+AFFILIATION	4	6	0	2	Time	Regulation	thời_gian rút thăm : 10h ngày 04.08.2022
+REGULATION	19	24	1	6	Product	Regulation	với hoá_đơn mua hàng từ 400.000 đ trở lên tại lotte mart vũng_tàu , khách_hàng thành_viên sẽ nhận được 01 phiếu rút thăm trúng thưởng
+LOCATION	19	24	10	12	Product	Location	với hoá_đơn mua hàng từ 400.000 đ trở lên tại lotte mart vũng_tàu , khách_hàng thành_viên sẽ nhận được 01 phiếu rút thăm trúng thưởng
+REGULATION	19	24	14	15	Product	Regulation	với hoá_đơn mua hàng từ 400.000 đ trở lên tại lotte mart vũng_tàu , khách_hàng thành_viên sẽ nhận được 01 phiếu rút thăm trúng thưởng
+AFFILIATION	0	7	8	9	Product	Promotion	lô 2 nấm kim châm hàn quốc 150g giảm 44%
+PRICE	8	9	0	7	Promotion	Product	lô 2 nấm kim châm hàn quốc 150g giảm 44%
+AFFILIATION	0	2	3	6	Product	Promotion	bánh bông lan mua 1 tặng 1
+PRICE	3	6	0	2	Promotion	Product	bánh bông lan mua 1 tặng 1
+PRICE	3	3	0	1	Price	Product	cherry mỹ chỉ 499.000 đ
+OTHER	4	4	0	1	Price	Product	cherry mỹ chỉ 499.000 đ
+LOCATION	0	1	2	4	Promotion	Location	minigame check-in lotte mart vinh chỉ còn diễn ra đến hết hôm_nay 17/07 .
+AFFILIATION	0	1	9	12	Promotion	Time	minigame check-in lotte mart vinh chỉ còn diễn ra đến hết hôm_nay 17/07 .
+REGULATION	9	12	0	1	Time	Promotion	minigame check-in lotte mart vinh chỉ còn diễn ra đến hết hôm_nay 17/07 .
+REGULATION	0	6	11	14	Product	Regulation	150 cặp vé xem phim lotte cinema sẽ dành tặng cho 150 bạn check-in đầu_tiên .
+OTHER	1	1	2	2	Promotion	Promotion	chỉ 18.000 đ / khăn ướt only price gói 120 miếng với hoá_đơn từ 600.000 đ
+REGULATION	1	1	12	15	Promotion	Regulation	chỉ 18.000 đ / khăn ướt only price gói 120 miếng với hoá_đơn từ 600.000 đ
+OTHER	2	2	1	1	Promotion	Promotion	chỉ 18.000 đ / khăn ướt only price gói 120 miếng với hoá_đơn từ 600.000 đ
+OTHER	2	2	12	15	Promotion	Regulation	chỉ 18.000 đ / khăn ướt only price gói 120 miếng với hoá_đơn từ 600.000 đ
+OTHER	1	1	2	2	Promotion	Promotion	chỉ 34.000 đ / nước ép quýt jeju kwangdong chai 1.5 l với hoá_đơn từ 800.000 đ
+REGULATION	1	1	13	16	Promotion	Regulation	chỉ 34.000 đ / nước ép quýt jeju kwangdong chai 1.5 l với hoá_đơn từ 800.000 đ
+OTHER	2	2	1	1	Promotion	Promotion	chỉ 34.000 đ / nước ép quýt jeju kwangdong chai 1.5 l với hoá_đơn từ 800.000 đ
+OTHER	2	2	13	16	Promotion	Regulation	chỉ 34.000 đ / nước ép quýt jeju kwangdong chai 1.5 l với hoá_đơn từ 800.000 đ
+REGULATION	2	7	9	13	Promotion	Regulation	đặc_biệt , tặng 1 bịch bánh karo 156g cho 180 khách_hàng đầu_tiên ngày 15.07.2022
+OTHER	0	1	3	10	Promotion	Product	giải đặc_biệt : 1 chuyến du_lịch hàn_quốc dành cho 4 người
+AFFILIATION	3	10	0	1	Product	Promotion	giải đặc_biệt : 1 chuyến du_lịch hàn_quốc dành cho 4 người
+REGULATION	0	0	1	4	Time	Promotion	15.07.2022 khai_trương lotte mart vinh
+AFFILIATION	1	4	0	0	Promotion	Time	15.07.2022 khai_trương lotte mart vinh
+AFFILIATION	4	8	10	10	Promotion	Time	ngập_tràn quà tặng trong tuần_lễ khai_trương lotte mart vinh ( 15 - 21.07 )
+REGULATION	10	10	4	8	Time	Promotion	ngập_tràn quà tặng trong tuần_lễ khai_trương lotte mart vinh ( 15 - 21.07 )
+REGULATION	0	4	6	12	Promotion	Regulation	tặng 1 túi môi_trường l.care cho khách_hàng thành_viên với hoá_đơn từ 400.000 đ
+REGULATION	0	4	6	12	Promotion	Regulation	tặng 1 nón bảo_hiểm_lotte mart cho khách_hàng thành_viên với hoá_đơn từ 1.200.000 đ
+REGULATION	10	20	3	5	Promotion	Regulation	đặc_biệt , là thành_viên lotte mart , bạn sẽ được mua bánh xếp thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+AFFILIATION	10	20	25	28	Promotion	Time	đặc_biệt , là thành_viên lotte mart , bạn sẽ được mua bánh xếp thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+OTHER	25	28	3	5	Time	Regulation	đặc_biệt , là thành_viên lotte mart , bạn sẽ được mua bánh xếp thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+REGULATION	25	28	10	20	Time	Promotion	đặc_biệt , là thành_viên lotte mart , bạn sẽ được mua bánh xếp thịt nấm 350g với giá chỉ 33.000 đ ( giảm 30% ) từ nay đến 19.07
+REGULATION	0	0	3	10	Time	Promotion	15.07.2022 - sẵn_sàng khai_trương đại siêu_thị hàn quốc lotte mart vinh
+AFFILIATION	3	10	0	0	Promotion	Time	15.07.2022 - sẵn_sàng khai_trương đại siêu_thị hàn quốc lotte mart vinh

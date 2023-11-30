@@ -33,3 +33,1343 @@
 
 # Specific files
 app/.env
+/VPhoBertTagger_x_Relex/datasets/bds2022/sample.jsonl
+/VPhoBertTagger_x_Relex/datasets/covid19/dev.txt
+/VPhoBertTagger_x_Relex/datasets/covid19/dev_syllable.txt
+/VPhoBertTagger_x_Relex/datasets/covid19/test.txt
+/VPhoBertTagger_x_Relex/datasets/covid19/test_syllable.txt
+/VPhoBertTagger_x_Relex/datasets/covid19/train.txt
+/VPhoBertTagger_x_Relex/datasets/covid19/train_syllable.txt
+/VPhoBertTagger_x_Relex/datasets/lvtn/test.cached
+/VPhoBertTagger_x_Relex/datasets/lvtn/test.txt
+/VPhoBertTagger_x_Relex/datasets/lvtn/train.cached
+/VPhoBertTagger_x_Relex/datasets/lvtn/train.txt
+/VPhoBertTagger_x_Relex/datasets/lvtn_old/test.txt
+/VPhoBertTagger_x_Relex/datasets/lvtn_old/train.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2016/dev.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2016/test.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2016/train.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352806.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352831.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352870.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352899.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352906.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352924.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352926.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352965.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352975.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352977.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352978.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23352979.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353017.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353026.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353036.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353042.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353044.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353052.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353105.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353165.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353224.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353257.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353318.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353320.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Doi Song/23353419.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352073.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352081.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352117.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352143.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352232.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352265.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352299.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352301.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352366.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352382.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352385.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352411.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352414.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352417.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352433.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352457.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352480.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352486.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352495.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352524.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352532.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352546.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352563.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352577.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giai tri/23352588.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353111.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353218.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353387.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353390.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353552.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353553.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353576.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353699.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353760.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23353861.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354202.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354285.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354474.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354545.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354793.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354910.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354912.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354916.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354944.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354946.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23354977.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23355061.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23355064.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23355095.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Giao duc/23355228.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352507.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352508.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352539.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352601.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352634.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352641.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352675.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23352718.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356247.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356299.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356314.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356315.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356329.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356339.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356505.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356604.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356622.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356624.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356638.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356715.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356716.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356724.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356731.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356745.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/KH - CN/23356765.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352372.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352381.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352396.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352428.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352436.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352444.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352498.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352573.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352585.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352586.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352602.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352651.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352682.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352720.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352725.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352733.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352750.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352751.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352753.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352769.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352787.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352795.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352807.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352821.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Kinh te/23352857.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351947.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351963.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351978.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351983.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351987.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351988.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23351992.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352000.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352001.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352002.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352013.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352020.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352024.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352028.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352033.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352066.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352071.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352078.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352079.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352099.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352125.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352126.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352173.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352190.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Phap luat/23352292.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352600.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352605.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352614.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352644.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352690.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352738.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352743.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352802.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352804.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352814.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352825.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352849.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352878.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352887.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352918.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352923.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352941.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352944.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352959.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352964.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23352999.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23353000.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23353001.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23353015.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The gioi/23353031.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352239.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352329.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352331.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352397.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352402.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352408.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352437.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352445.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352448.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352449.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352451.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352489.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352517.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352550.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352551.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352581.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352592.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352593.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352603.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352609.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352637.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352653.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352662.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352665.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/The thao/23352683.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353267.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353283.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353311.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353321.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353364.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353379.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353458.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353471.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353613.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353614.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353632.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353634.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353668.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353674.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353680.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353706.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353707.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353721.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353723.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353763.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353773.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353779.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353780.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353801.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353834.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353842.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353901.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353904.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353916.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Van hoa/23353931.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352327.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352332.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352345.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352347.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352363.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352373.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352409.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352413.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352416.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352421.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352438.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352453.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352467.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352471.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352473.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352474.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352522.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352535.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352596.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352626.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352648.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352656.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352659.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352684.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352693.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352706.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352715.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352736.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352774.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-dev/Xa hoi/23352781.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24451925.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24476024.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24483786.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24518119.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24599825.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24601755.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24705340.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24710465.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24778288.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7/24881113.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24566358.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24660307.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24688913.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24697334.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24721608.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24743776.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24782798.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24798725.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24802191.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24870899.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 CNTT - Vi#U1ec5n thông/24882485.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24415062.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24430244.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24437568.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24579908.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24684290.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24778760.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24789938.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24830846.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24849538.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24856273.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24867415.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Công ngh#U1ec7 Thi#U1ebft b#U1ecb - Ph#U1ea7n c#U1ee9ng/24900662.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24396579.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24403633.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24410798.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24457804.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24497042.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24520486.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24568398.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24589198.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24608560.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24660008.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24760038.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24804667.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24823817.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24848294.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24848521.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24851327.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24900537.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí/24901248.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24382548.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24440102.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24454904.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24550113.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24572848.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24587840.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24630076.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24742457.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24797533.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24844657.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Gi#U1ea3i trí Âm nh#U1ea1c/24856833.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24484476.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24487539.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24620897.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24663125.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24663382.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24676707.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24768650.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24800851.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Giáo d#U1ee5c/24808362.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Khoa h#U1ecdc/24506379.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Khoa h#U1ecdc/24530851.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Khoa h#U1ecdc/24731470.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Khoa h#U1ecdc/24753325.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Khoa h#U1ecdc/24765250.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Khoa h#U1ecdc/24870792.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24402906.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24427769.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24430640.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24430933.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24452575.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24460828.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24466614.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24477819.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24521205.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24585044.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24645829.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24681732.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24710822.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24711089.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24777727.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24817845.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24825034.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24839422.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24867954.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf/24875238.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Ch#U1ee9ng khoán/24596366.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Ch#U1ee9ng khoán/24749898.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Ch#U1ee9ng khoán/24809032.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24467995.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24468281.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24589556.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24629498.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24640923.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24714805.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24718610.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24739126.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24752981.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24754804.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24827011.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24843696.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Kinh doanh/24894135.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24386181.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24518855.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24546530.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24609160.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24612134.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24623163.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24631914.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24677601.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24765248.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24768997.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24794285.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24796218.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24808463.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24808720.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Kinh t#U1ebf Tài chính/24857007.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Nhà ð#U1ea5t/24712774.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24398354.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24398606.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24434007.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24467261.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24473311.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24492634.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24578615.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24580249.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24610918.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24703481.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24743184.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24744439.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24796868.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24799096.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Pháp lu#U1eadt/24827089.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24495542.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24503940.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24600969.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24624726.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24672816.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24673482.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24689923.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24793543.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ebf gi#U1edbi/24881311.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24416404.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24477503.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24607573.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24685628.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24686546.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24738161.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24752878.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24767906.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao/24769741.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24527838.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24557491.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24570211.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24603220.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24642763.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24705236.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24834287.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24848490.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24849193.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24854400.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24872304.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24888805.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24900741.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Bóng ðá qu#U1ed1c t#U1ebf/24900743.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Qu#U1ea7n v#U1ee3t/24636919.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Qu#U1ea7n v#U1ee3t/24661858.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Th#U1ec3 thao Qu#U1ea7n v#U1ee3t/24829505.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24457046.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24609184.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24615775.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24647189.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24648109.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24667794.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24847781.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24891267.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa/24894691.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Du l#U1ecbch/24471464.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Du l#U1ecbch/24696981.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Du l#U1ecbch/24735645.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Du l#U1ecbch/24823386.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Du l#U1ecbch/24832737.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Du l#U1ecbch/24854363.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Ngh#U1ec7 thu#U1eadt/24419138.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Vãn hóa Ngh#U1ec7 thu#U1eadt/24738794.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i/24438042.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i/24755376.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i/24797448.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i/24831053.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Giao thông/24425264.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Giao thông/24434088.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Giao thông/24826498.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Giao thông/24870101.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Giao thông/24874547.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Môi trý#U1eddng - Khí h#U1eadu/24651289.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24413768.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24449031.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24506693.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24644081.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24645143.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24657217.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24659167.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24678234.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24681341.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24681368.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24683119.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24691721.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24715735.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24737869.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24805251.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24857924.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/X#U00e3 h#U1ed9i Th#U1eddi s#U1ef1/24903191.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24386853.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24396110.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24396882.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24419297.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24423042.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24446278.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24509762.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24561887.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24569400.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24583634.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24597278.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24616349.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24630208.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24632539.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24665411.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24701718.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24711109.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-Test-Domains/Ð#U1eddi s#U1ed1ng/24717794.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351225.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351385.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351436.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351489.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351549.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351820.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23351971.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352393.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352412.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352530.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352538.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352561.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352562.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352578.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352583.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352589.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352590.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352623.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352640.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352704.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352708.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352717.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352734.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352747.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23352761.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353444.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353445.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353446.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353502.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353519.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353545.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353565.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353566.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353622.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353635.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353636.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353637.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353648.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353657.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353689.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353727.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353732.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353739.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353755.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353757.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353794.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353799.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353824.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353825.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353830.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353840.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353841.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353860.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353864.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353867.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353874.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353944.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353945.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353995.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23353996.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354010.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354027.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354028.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354030.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354032.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354034.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354055.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354065.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354085.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354088.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354089.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354091.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354092.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354093.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Doi song/23354098.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351391.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351416.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351435.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351493.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351514.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351516.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351542.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351569.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351574.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351576.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351581.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351615.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351627.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351649.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351650.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351719.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351809.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351817.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351853.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351943.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351948.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351950.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23351985.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352019.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352070.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352610.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352615.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352617.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352624.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352631.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352642.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352654.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352674.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352676.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352681.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352702.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352710.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352713.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352719.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352731.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352752.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352754.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352757.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352778.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352820.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352853.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352871.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352886.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352892.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352896.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352901.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352911.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352914.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352936.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352937.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23352966.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353022.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353037.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353056.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353073.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353077.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353110.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353122.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353135.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353154.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353159.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353189.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353195.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353196.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353204.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353226.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353253.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353261.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353268.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giai tri/23353292.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351113.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351440.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351647.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351841.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351852.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351945.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351952.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23351979.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352075.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352240.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352260.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352296.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352300.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352370.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352415.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352663.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352677.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352707.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352816.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352872.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352900.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23352951.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23353040.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23353057.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23353060.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355416.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355434.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355470.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355557.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355571.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355626.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355656.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355773.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355817.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355858.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355917.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355935.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23355988.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356093.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356193.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356205.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356221.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356245.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356295.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356494.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356511.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356574.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356798.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356858.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356918.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23356961.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357000.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357062.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357120.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357167.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357233.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357263.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357534.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357550.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357652.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357711.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357741.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357752.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357765.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357779.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357809.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357851.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357897.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357937.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23357994.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23358011.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23358086.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23358097.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23358104.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Giao duc/23358261.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351316.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351393.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351394.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351432.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351438.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351460.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351595.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351617.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351645.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351652.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351941.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23351949.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352016.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352087.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352090.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352378.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352427.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352432.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352434.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352440.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352460.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352462.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352468.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352476.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23352497.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356767.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356771.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356782.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356793.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356874.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356885.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356887.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356902.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356906.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356907.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356915.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356933.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356960.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356992.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356993.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23356998.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357028.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357037.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357063.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357081.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357094.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357095.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357097.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357135.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357151.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357190.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357240.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357258.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357266.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357288.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357308.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357309.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357329.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357336.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357341.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357344.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357389.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357394.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357396.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357443.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357457.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357471.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357489.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357491.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23357544.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23366716.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23366722.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23366740.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23366751.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/KH - CN/23366765.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351307.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351422.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351427.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351433.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351434.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351518.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351524.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351566.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351567.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351839.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351849.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351864.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351959.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351961.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351969.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351970.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351981.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351984.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351990.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23351994.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352006.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352009.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352236.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352283.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352305.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352874.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352876.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352894.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352938.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352940.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352967.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352972.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352992.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23352995.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353038.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353039.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353099.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353106.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353128.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353141.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353160.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353178.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353186.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353232.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353263.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353274.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353295.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353309.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353325.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353353.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353363.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353377.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353423.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353432.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353433.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353435.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353436.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353469.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353477.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353479.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353483.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353504.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353537.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353575.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353609.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353625.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353696.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353704.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353708.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353786.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353791.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353846.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353857.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353863.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Kinh te/23353872.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351164.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351260.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351425.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351426.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351437.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351511.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351515.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351554.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351555.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351562.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351563.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351564.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351571.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351579.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351582.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351642.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351749.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351834.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351837.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351846.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351851.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351861.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351923.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351931.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23351933.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352303.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352314.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352317.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352319.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352320.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352321.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352322.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352328.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352334.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352335.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352343.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352352.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352357.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352359.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352361.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352390.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352401.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352405.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352410.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352425.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352429.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352443.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352456.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352470.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352477.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352482.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352488.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352492.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352494.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352518.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352523.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352526.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352540.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352545.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352552.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352568.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352580.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352591.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352597.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352612.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352618.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352619.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352620.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352625.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352628.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352629.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352635.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352649.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352650.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Phap luat/23352671.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23351190.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23351424.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23351651.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23351856.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23351995.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352003.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352014.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352027.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352065.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352084.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352316.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352337.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352346.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352348.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352419.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352442.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352450.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352487.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352491.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352499.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352543.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352548.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352571.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352572.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23352575.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353032.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353048.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353049.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353074.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353094.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353107.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353145.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353147.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353152.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353157.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353162.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353199.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353228.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353272.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353278.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353280.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353291.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353304.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353305.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353308.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353327.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353330.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353331.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353332.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353333.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353361.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353366.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353380.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353398.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353437.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353464.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353476.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353506.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353510.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353515.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353571.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353685.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353701.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353785.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353787.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353838.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353849.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353878.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353891.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353913.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353950.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353954.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353973.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353975.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The gioi/23353976.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351392.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351494.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351519.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351521.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351522.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351556.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351578.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351611.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351612.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351635.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351672.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351778.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351937.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351951.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351960.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351982.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351996.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23351997.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352018.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352021.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352026.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352089.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352107.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352110.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352200.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352686.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352687.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352695.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352696.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352701.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352739.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352746.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352748.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352765.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352777.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352824.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352829.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352845.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352883.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352929.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352934.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352947.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352948.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352949.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352961.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352989.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23352997.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353007.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353030.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353034.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353051.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353087.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353114.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353115.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353170.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353177.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353181.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353188.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353192.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353209.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353217.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353225.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353246.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353251.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353264.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353276.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353284.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353322.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353343.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353348.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353378.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353397.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353412.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353452.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353456.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/The thao/23353467.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23351431.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23351636.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23351653.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23351888.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23351946.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23351967.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352085.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352309.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352376.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352461.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352536.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352560.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352594.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352730.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352755.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352785.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352800.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352856.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352905.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352907.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352933.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23352954.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353018.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353047.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353075.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353148.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353183.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353184.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353185.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353250.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23353967.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354042.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354045.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354082.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354103.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354126.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354130.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354166.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354219.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354244.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354253.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354265.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354288.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354310.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354318.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354320.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354336.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354396.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354400.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354442.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354450.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354460.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354516.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354536.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354538.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354544.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354575.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354619.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354627.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354648.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354656.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354695.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354697.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354698.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354699.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354717.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354718.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354719.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354738.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354739.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354751.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354780.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354796.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354803.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354816.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354831.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354879.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354880.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354881.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354920.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354935.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354953.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354956.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23354982.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23355001.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23355040.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23355132.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23355250.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23355254.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Van hoa/23355290.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351214.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351318.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351430.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351510.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351543.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351561.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351607.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351610.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351632.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351700.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351814.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351815.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351831.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351848.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351858.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351887.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351939.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351956.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351965.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351974.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351976.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23351998.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352030.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352122.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352161.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352163.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352297.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352298.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352323.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352326.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352792.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352822.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352830.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352844.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352880.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352939.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352963.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23352994.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353004.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353014.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353066.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353090.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353091.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353104.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353117.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353118.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353119.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353124.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353126.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353133.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353139.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353167.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353190.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353205.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353214.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353220.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353275.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353277.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353299.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353302.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353310.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353313.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353314.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353324.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353358.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353370.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353399.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353400.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353401.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353416.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353417.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353422.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353424.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353449.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353454.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353462.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353465.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353478.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353481.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353516.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353521.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353526.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353528.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353543.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353561.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353564.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353574.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353582.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353597.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/raw/VLSP2018-NER-train-Jan14/Xa hoi/23353617.muc
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/dev.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/dev_syllables.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/test.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/test_syllables.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/train.txt
+/VPhoBertTagger_x_Relex/datasets/vlsp2018/train_syllables.txt
+/VPhoBertTagger_x_Relex/datasets/train.txt
+/VPhoBertTagger_x_Relex/outputs/exp_1/best_model.pt
+/VPhoBertTagger_x_Relex/outputs/exp_1/confusion_matrix.png
+/VPhoBertTagger_x_Relex/outputs/best_model.pt
+/VPhoBertTagger_x_Relex/outputs/confusion_matrix.png
+/VPhoBertTagger_x_Relex/vphoberttagger/models/__init__.py
+/VPhoBertTagger_x_Relex/vphoberttagger/models/base.py
+/VPhoBertTagger_x_Relex/vphoberttagger/models/bert.py
+/VPhoBertTagger_x_Relex/vphoberttagger/models/phobert.py
+/VPhoBertTagger_x_Relex/vphoberttagger/models/vibert.py
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/dep/vi-dep.xz
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/ner/vi-500brownclusters.xz
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/ner/vi-ner.xz
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/ner/vi-pretrainedembeddings.xz
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/postagger/vi-tagger
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/wordsegmenter/vi-vocab
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/models/wordsegmenter/wordsegmenter.rdr
+/VPhoBertTagger_x_Relex/vphoberttagger/vncorenlp/VnCoreNLP-1.1.1.jar
+/VPhoBertTagger_x_Relex/vphoberttagger/__init__.py
+/VPhoBertTagger_x_Relex/vphoberttagger/arguments.py
+/VPhoBertTagger_x_Relex/vphoberttagger/conlleval.py
+/VPhoBertTagger_x_Relex/vphoberttagger/constant.py
+/VPhoBertTagger_x_Relex/vphoberttagger/dataset.py
+/VPhoBertTagger_x_Relex/vphoberttagger/demo.py
+/VPhoBertTagger_x_Relex/vphoberttagger/helper.py
+/VPhoBertTagger_x_Relex/vphoberttagger/predictor.py
+/VPhoBertTagger_x_Relex/vphoberttagger/processor.py
+/VPhoBertTagger_x_Relex/vphoberttagger/segmenter.py
+/VPhoBertTagger_x_Relex/vphoberttagger/trainer.py
+/VPhoBertTagger_x_Relex/vncorenlp/models/wordsegmenter/vi-vocab
+/VPhoBertTagger_x_Relex/vncorenlp/models/wordsegmenter/wordsegmenter.rdr
+/VPhoBertTagger_x_Relex/vncorenlp/VnCoreNLP-1.1.1.jar
+
+/VPhoBertTagger_x_Relex/logs
+/VPhoBertTagger_x_Relex/runs
+

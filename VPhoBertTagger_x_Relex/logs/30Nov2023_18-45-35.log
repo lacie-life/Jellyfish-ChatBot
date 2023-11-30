@@ -1,0 +1,4 @@
+Start TRAIN process...
+Arguments: Namespace(adam_epsilon=1e-06, classifier_learning_rate=0.0003, data_dir='./datasets/lvtn', early_stop=1000.0, epochs=50, eval_batch_size=8, gradient_accumulation_steps=1, learning_rate=3e-05, load_weights=None, max_grad_norm=1.0, max_seq_length=256, model_arch='softmax', model_name_or_path='vinai/phobert-base', no_cuda=False, num_workers=0, output_dir='outputs', overwrite_data=True, run_test=True, save_step=20000, seed=42, task='lvtn', train_batch_size=8, type='train', warmup_proportion=0.1, weight_decay=0.01)
+
+==============================Training epoch 0==============================

@@ -1,0 +1,4 @@
+tools/RDRsegmenter/
+statics/pretrained_model/
+capu/
+runs/

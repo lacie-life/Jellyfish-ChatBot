@@ -1,0 +1,12 @@
+PRICE	0	2	4	5	Promotion	Promotion	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	0	2	7	8	Promotion	Organization	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	0	2	10	10	Promotion	Organization	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+AFFILIATION	4	5	0	2	Promotion	Promotion	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	4	5	7	8	Promotion	Organization	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	4	5	10	10	Promotion	Organization	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+AFFILIATION	7	8	0	2	Organization	Promotion	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+PRICE	7	8	4	5	Organization	Promotion	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+LOCATION	7	8	10	10	Organization	Organization	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	10	10	0	2	Organization	Promotion	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	10	10	4	5	Organization	Promotion	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
+OTHER	10	10	7	8	Organization	Organization	Đồng giá 11k các thức uống : Trà Tắc_Size_Lớn , Cafe_Sữa_Đá / Đen_Đá_Vừa
