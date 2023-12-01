@@ -113,11 +113,11 @@ def add_node_2(label, value, driver):
 
 
 def add_relation(label_1, value_1, relation, label_2, value_2, driver):
-    print("Relation: " + label_1 + " - " + relation + " - " + label_2)
+    # print("Relation: " + label_1 + " - " + relation + " - " + label_2)
     ############### Affiliation ###########################################
 
     if label_1 == "Time" and label_2 == "Regulation":
-        print("Relation: Time - Regulation - Affiliation")
+        # print("Relation: Time - Regulation - Affiliation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Time {value: $value_1})
                                 MATCH (end:Regulation {value: $value_2})
@@ -128,7 +128,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Promotion" and label_2 == "Promotion":
-        print("Relation: Promotion - Promotion - Affiliation")
+        # print("Relation: Promotion - Promotion - Affiliation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
@@ -139,7 +139,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Product" and label_2 == "Promotion":
-        print("Relation: Product - Promotion - Affiliation")
+        # print("Relation: Product - Promotion - Affiliation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
@@ -150,7 +150,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Promotion" and label_2 == "Time":
-        print("Relation: Promotion - Time - Affiliation")
+        # print("Relation: Promotion - Time - Affiliation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Time {value: $value_2})
@@ -161,7 +161,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Product" and label_2 == "Time":
-        print("Relation: Product - Time - Affiliation")
+        # print("Relation: Product - Time - Affiliation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Time {value: $value_2})
@@ -174,7 +174,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
 
     #################### Regulation ##############################################
     elif label_1 == "Product" and label_2 == "Regulation":
-        print("Relation: Product - Regulation - Regulation")
+        # print("Relation: Product - Regulation - Regulation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Regulation {value: $value_2})
@@ -185,7 +185,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Promotion" and label_2 == "Regulation":
-        print("Relation: Promotion - Regulation - Regulation")
+        # print("Relation: Promotion - Regulation - Regulation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Regulation {value: $value_2})
@@ -196,7 +196,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Time" and label_2 == "Product":
-        print("Relation: Time - Product - Regulation")
+        # print("Relation: Time - Product - Regulation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Time {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
@@ -207,7 +207,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Time" and label_2 == "Promotion":
-        print("Relation: Time - Promotion - Regulation")
+        # print("Relation: Time - Promotion - Regulation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Time {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
@@ -218,7 +218,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Regulation" and label_2 == "Price":
-        print("Relation: Regulation - Price - Regulation")
+        # print("Relation: Regulation - Price - Regulation")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Regulation {value: $value_1})
                                 MATCH (end:Price {value: $value_2})
@@ -231,7 +231,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
 
     ######################## Location ##############################################
     elif label_1 == "Organization" and label_2 == "Location":
-        print("Relation: Organization - Location - Location")
+        # print("Relation: Organization - Location - Location")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Organization {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
@@ -242,7 +242,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Promotion" and label_2 == "Location":
-        print("Relation: Promotion - Location - Location")
+        # print("Relation: Promotion - Location - Location")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
@@ -253,7 +253,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Product" and label_2 == "Location":
-        print("Relation: Product - Location - Location")
+        # print("Relation: Product - Location - Location")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Product {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
@@ -264,7 +264,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Organization" and label_2 == "Promotion":
-        print("Relation: Organization - Promotion - Location")
+        # print("Relation: Organization - Promotion - Location")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Organization {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
@@ -275,7 +275,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Organization" and label_2 == "Product":
-        print("Relation: Organization - Product - Location")
+        # print("Relation: Organization - Product - Location")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Organization {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
@@ -286,7 +286,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Location" and label_2 == "Location":
-        print("Relation: Location - Location - Location")
+        # print("Relation: Location - Location - Location")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Location {value: $value_1})
                                 MATCH (end:Location {value: $value_2})
@@ -299,7 +299,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
 
     ###################### Price #################################################
     elif label_1 == "Price" and label_2 == "Product":
-        print("Relation: Price - Product - Price")
+        # print("Relation: Price - Product - Price")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Price {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
@@ -310,7 +310,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Price" and label_2 == "Promotion":
-        print("Relation: Price - Promotion - Price")
+        # print("Relation: Price - Promotion - Price")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Price {value: $value_1})
                                 MATCH (end:Promotion {value: $value_2})
@@ -321,7 +321,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       database_="neo4j",
                                                       )
     elif label_1 == "Promotion" and label_2 == "Product":
-        print("Relation: Promotion - Product - Price")
+        # print("Relation: Promotion - Product - Price")
         records, summary, keys = driver.execute_query("""
                                 MATCH (start:Promotion {value: $value_1})
                                 MATCH (end:Product {value: $value_2})
@@ -375,49 +375,53 @@ def make_sense(driver):
 
 # TODO: Store name and node name
 def add_node_3(label, value, driver, store_name):
+
+    parent = "_" + store_name
+
     if label == "Organization":
         records, summary, keys = driver.execute_query("""
                 MATCH (init:Organization {value: $init})
                 MERGE (p:Organization {value: $value})
                 MERGE (init)-[:INIT]->(p)
                 """, init='Organization', value=value,
-                                                      database_="neo4j",
-                                                      )
+                database_="neo4j",
+                )
+
     elif label == "Time":
         records, summary, keys = driver.execute_query("""
-                MATCH (init:Time {value: $init})
+                MATCH (init:Property {value: $init})
                 MERGE (p:Time {value: $value})
                 MERGE (init)-[:INIT]->(p)
-                """, init='Time', value=value,
-                                                      database_="neo4j",
-                                                      )
+                """, init='time' + parent, value=value,
+                database_="neo4j",
+                )
 
     elif label == "Product":
         records, summary, keys = driver.execute_query("""
-                MATCH (init:Product {value: $init})
+                MATCH (init:Property {value: $init})
                 MERGE (p:Product {value: $value})
                 MERGE (init)-[:INIT]->(p)
-                """, init='Product', value=value,
-                                                      database_="neo4j",
-                                                      )
+                """, init='product' + parent, value=value,
+                database_="neo4j",
+                )
 
     elif label == "Promotion":
         records, summary, keys = driver.execute_query("""
-               MATCH (init:Promotion {value: $init})
+               MATCH (init:Property {value: $init})
                MERGE (p:Promotion {value: $value})
                MERGE (init)-[:INIT]->(p)
-               """, init='Promotion', value=value,
-                                                      database_="neo4j",
-                                                      )
+               """, init='promotion' + parent, value=value,
+               database_="neo4j",
+            )
 
     elif label == "Regulation":
         records, summary, keys = driver.execute_query("""
-            MATCH (init:Regulation {value: $init})
+            MATCH (init:Property {value: $init})
             MERGE (p:Regulation {value: $value})
             MERGE (init)-[:INIT]->(p)
-            """, init='Regulation', value=value,
-                                                      database_="neo4j",
-                                                      )
+            """, init='regulation' + parent, value=value,
+            database_="neo4j",
+            )
 
     elif label == "Location":
         records, summary, keys = driver.execute_query("""
@@ -425,17 +429,17 @@ def add_node_3(label, value, driver, store_name):
                     MERGE (p:Location {value: $value})
                     MERGE (init)-[:INIT]->(p)
                     """, init='Location', value=value,
-                                                      database_="neo4j",
-                                                      )
+                    database_="neo4j",
+                    )
 
     elif label == "Price":
         records, summary, keys = driver.execute_query("""
-            MATCH (init:Price {value: $init})
+            MATCH (init:Property {value: $init})
             MERGE (p:Price {value: $value})
             MERGE (init)-[:INIT]->(p)
-            """, init='Price', value=value,
-                                                      database_="neo4j",
-                                                      )
+            """, init='price' + parent, value=value,
+            database_="neo4j",
+            )
 
 def initGraph(driver):
     records, summary, keys = driver.execute_query(

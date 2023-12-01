@@ -55,33 +55,34 @@ def edgeExtraction(sample, driver, store_name):
     node_1_label = tmp[5]
     node_2_label = tmp[6]
 
-    print("node_1_start: " + str(node_1_start))
-    print("node_1_end: " + str(node_1_end))
-
-    print("node_2_start: " + str(node_2_start))
-    print("node_2_end: " + str(node_2_end))
+    # print("node_1_start: " + str(node_1_start))
+    # print("node_1_end: " + str(node_1_end))
+    #
+    # print("node_2_start: " + str(node_2_start))
+    # print("node_2_end: " + str(node_2_end))
 
     for i1 in range(node_1_start, node_1_end + 1):
-        if tmp[i1] == '7' and tmp[i1 + 1] == '-' and tmp[i1 + 2] == 'eleven':
-            node_1 = '7 - eleven'
-            break
+        if tmp[i1] == '7' and i1 + 1 < len(tmp):
+            if tmp[i1 + 1] == '-' and tmp[i1 + 2] == 'eleven':
+                node_1 = '7 - eleven'
+                break
         else:
             node_1 = node_1 + tmp[i1] + " "
 
     for i2 in range(node_2_start, node_2_end + 1):
-        if tmp[i2] == '7' and tmp[i2 + 1] == '-' and tmp[i2 + 2] == 'eleven':
-            node_2 = '7 - eleven'
-            # print("711 case")
-            break
+        if tmp[i2] == '7' and i2 + 1 < len(tmp):
+            if tmp[i2 + 1] == '-' and tmp[i2 + 2] == 'eleven':
+                node_2 = '7 - eleven'
+                break
         else:
             node_2 = node_2 + tmp[i2] + " "
 
-
-    print("index: " + str(i))
-    print("Sample: " + sample)
-    print("edge: " + edge)
-    print("node_1: " + node_1 + "| label: " + node_1_label)
-    print("node_2: " + node_2 + "| label: " + node_2_label)
+    # if store_name == 'lotte':
+    #     print("index: " + str(i))
+    #     print("Sample: " + sample)
+    #     print("edge: " + edge)
+    #     print("node_1: " + node_1 + "| label: " + node_1_label)
+    #     print("node_2: " + node_2 + "| label: " + node_2_label)
 
     # Add to neo4j
     add_node_3(node_1_label, node_1, driver, store_name)
@@ -96,38 +97,33 @@ if __name__ == '__main__':
 
     paths = [f for f in glob.glob(graph_paths + "**/*.txt", recursive=True)]
 
-    neo4j_driver = GraphDatabase.driver(URI, auth=AUTH)
-    initGraph(neo4j_driver)
-    neo4j_driver.close()
+    try:
+        neo4j_driver = GraphDatabase.driver(URI, auth=AUTH)
+        initGraph(neo4j_driver)
+        # make_sense(neo4j_driver)
 
-    paths.sort()
-    print(paths)
+        paths.sort()
+        print(paths)
 
-    store_name = ['711', 'aeon', 'ciclek', 'lotte', 'top market', 'winmart']
+        store_name = ['711', 'aeon', 'ciclek', 'lotte', 'top_market', 'winmart']
+        store_idx = 0
 
-    i = 0
-    for path in paths:
+        for path in paths:
 
-        print("Create graph for: " + store_name[i])
-        print("Path: " + path)
-    #
-    #     f = open(path, "r")
-    #
-    #     try:
-    #         neo4j_driver = GraphDatabase.driver(URI, auth=AUTH)
-    #         make_sense(neo4j_driver)
-    #         for x in f:
-    #             if len(x) > 0:
-    #                 edgeExtraction(x, neo4j_driver)
-    #             i = i + 1
-    #
-    #         f.close()
-    #
-    #         neo4j_driver.close()
-        i= i+1
-    #     except Exception as e:
-    #         print(e)
+            print("Create graph for: " + store_name[store_idx])
+            print("Path: " + path)
+
+            f = open(path, "r")
+
+            for x in f:
+                if len(x) > 0:
+                    edgeExtraction(x, neo4j_driver, store_name[store_idx])
+                i = i + 1
+
+            f.close()
+            store_idx = store_idx + 1
+        neo4j_driver.close()
+    except Exception as e:
+        print(e)
 
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/

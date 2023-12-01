@@ -351,11 +351,6 @@ LOCATION	14	15	5	8	Organization	Location	sau khi ra_mắt thành_công tại lot
 LOCATION	14	15	10	13	Organization	Product	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
 LOCATION	14	15	20	23	Organization	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
 OTHER	20	23	5	8	Location	Location	sau khi ra_mắt thành_công tại lotte mart quận 7 , thịt heo ăn chuối bapi food tiếp_tục lên kệ tại lotte mart gò vấp .
-REGULATION	4	4	11	17	Time	Promotion	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
-OTHER	6	9	11	17	Time	Promotion	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
-AFFILIATION	11	17	4	4	Promotion	Time	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
-OTHER	11	17	6	9	Promotion	Time	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
-LOCATION	11	17	19	22	Promotion	Location	quà bất_ngờ : duy_nhất 𝟐𝟖 / 𝟏𝟎 lúc 𝟏𝟎𝐇 sáng - tặng 120 phần táo hàn quốc cao_cấp tại lotte mart quận 7
 REGULATION	12	18	2	9	Promotion	Regulation	đặc_biệt , khách_hàng thành_viên mua trái_cây có hoá_đơn từ 500k sẽ được tặng ngay 1kg táo fuji hàn quốc !
 REGULATION	3	8	10	12	Product	Regulation	quà tặng : 120 phần táo hàn quốc cao_cấp cho 120 khách_hàng đầu_tiên .
 LOCATION	3	5	10	11	Promotion	Location	ưu_đãi đặc_biệt : tặng 1kg táo cho khách yêu của 𝐋𝐎𝐓𝐓𝐄 𝐌𝐀𝐑𝐓
