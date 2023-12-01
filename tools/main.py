@@ -32,7 +32,7 @@ i = 0
 test_max = 100
 
 
-def edgeExtraction(sample, driver):
+def edgeExtraction(sample, driver, store_name):
     # print(sample)
     x = sample.replace('\t', ' ').replace('\n', '')
     tmp = x.split(" ")
@@ -84,15 +84,15 @@ def edgeExtraction(sample, driver):
     print("node_2: " + node_2 + "| label: " + node_2_label)
 
     # Add to neo4j
-    # add_node(node_1_label, node_1, driver)
-    # add_node(node_2_label, node_2, driver)
-    # add_relation(node_1_label, node_1, edge, node_2_label, node_2, driver)
+    add_node_3(node_1_label, node_1, driver, store_name)
+    add_node_3(node_2_label, node_2, driver, store_name)
+    add_relation(node_1_label, node_1, edge, node_2_label, node_2, driver)
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    graph_paths = "./data/Graph_Create/"
+    graph_paths = "../data/Graph_Create/"
 
     paths = [f for f in glob.glob(graph_paths + "**/*.txt", recursive=True)]
 
@@ -100,12 +100,16 @@ if __name__ == '__main__':
     initGraph(neo4j_driver)
     neo4j_driver.close()
 
-    # paths.sort()
-    # print(paths)
-    #
-    # for path in paths:
-    #
-    #     print("Create graph for: " + path)
+    paths.sort()
+    print(paths)
+
+    store_name = ['711', 'aeon', 'ciclek', 'lotte', 'top market', 'winmart']
+
+    i = 0
+    for path in paths:
+
+        print("Create graph for: " + store_name[i])
+        print("Path: " + path)
     #
     #     f = open(path, "r")
     #
@@ -120,6 +124,7 @@ if __name__ == '__main__':
     #         f.close()
     #
     #         neo4j_driver.close()
+        i= i+1
     #     except Exception as e:
     #         print(e)
 

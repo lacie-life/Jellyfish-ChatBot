@@ -3,49 +3,50 @@ def add_node(label, value, driver):
         records, summary, keys = driver.execute_query("""
                 MERGE (p:Organization {value: $value})
                 """, value=value,
-                database_="neo4j",
-                )
+                                                      database_="neo4j",
+                                                      )
     elif label == "Time":
         records, summary, keys = driver.execute_query("""
                 MERGE (p:Time {value: $value})
                 """, value=value,
-                database_="neo4j",
-                )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Product":
         records, summary, keys = driver.execute_query("""
                 MERGE (p:Product {value: $value})
                 """, value=value,
-                database_="neo4j",
-                )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Promotion":
         records, summary, keys = driver.execute_query("""
                MERGE (p:Promotion {value: $value})
                """, value=value,
-               database_="neo4j",
-               )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Regulation":
         records, summary, keys = driver.execute_query("""
             MERGE (p:Regulation {value: $value})
             """, value=value,
-            database_="neo4j",
-            )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Location":
         records, summary, keys = driver.execute_query("""
                     MERGE (p:Location {value: $value})
                     """, value=value,
-                    database_="neo4j",
-                    )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Price":
         records, summary, keys = driver.execute_query("""
             MERGE (p:Price {value: $value})
             """, value=value,
-            database_="neo4j",
-        )
+                                                      database_="neo4j",
+                                                      )
+
 
 def add_node_2(label, value, driver):
     if label == "Organization":
@@ -53,17 +54,17 @@ def add_node_2(label, value, driver):
                 MATCH (init:Organization {value: $init})
                 MERGE (p:Organization {value: $value})
                 MERGE (init)-[:INIT]->(p)
-                """, init='Organization',value=value,
-                database_="neo4j",
-                )
+                """, init='Organization', value=value,
+                                                      database_="neo4j",
+                                                      )
     elif label == "Time":
         records, summary, keys = driver.execute_query("""
                 MATCH (init:Time {value: $init})
                 MERGE (p:Time {value: $value})
                 MERGE (init)-[:INIT]->(p)
                 """, init='Time', value=value,
-                database_="neo4j",
-                )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Product":
         records, summary, keys = driver.execute_query("""
@@ -71,8 +72,8 @@ def add_node_2(label, value, driver):
                 MERGE (p:Product {value: $value})
                 MERGE (init)-[:INIT]->(p)
                 """, init='Product', value=value,
-                database_="neo4j",
-                )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Promotion":
         records, summary, keys = driver.execute_query("""
@@ -80,8 +81,8 @@ def add_node_2(label, value, driver):
                MERGE (p:Promotion {value: $value})
                MERGE (init)-[:INIT]->(p)
                """, init='Promotion', value=value,
-               database_="neo4j",
-               )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Regulation":
         records, summary, keys = driver.execute_query("""
@@ -89,8 +90,8 @@ def add_node_2(label, value, driver):
             MERGE (p:Regulation {value: $value})
             MERGE (init)-[:INIT]->(p)
             """, init='Regulation', value=value,
-            database_="neo4j",
-            )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Location":
         records, summary, keys = driver.execute_query("""
@@ -98,8 +99,8 @@ def add_node_2(label, value, driver):
                     MERGE (p:Location {value: $value})
                     MERGE (init)-[:INIT]->(p)
                     """, init='Location', value=value,
-                    database_="neo4j",
-                    )
+                                                      database_="neo4j",
+                                                      )
 
     elif label == "Price":
         records, summary, keys = driver.execute_query("""
@@ -107,8 +108,8 @@ def add_node_2(label, value, driver):
             MERGE (p:Price {value: $value})
             MERGE (init)-[:INIT]->(p)
             """, init='Price', value=value,
-            database_="neo4j",
-        )
+                                                      database_="neo4j",
+                                                      )
 
 
 def add_relation(label_1, value_1, relation, label_2, value_2, driver):
@@ -295,6 +296,7 @@ def add_relation(label_1, value_1, relation, label_2, value_2, driver):
                                                       value_2=value_2,
                                                       database_="neo4j",
                                                       )
+
     ###################### Price #################################################
     elif label_1 == "Price" and label_2 == "Product":
         print("Relation: Price - Product - Price")
@@ -370,10 +372,75 @@ def make_sense(driver):
         database_="neo4j",
     )
 
+
+# TODO: Store name and node name
+def add_node_3(label, value, driver, store_name):
+    if label == "Organization":
+        records, summary, keys = driver.execute_query("""
+                MATCH (init:Organization {value: $init})
+                MERGE (p:Organization {value: $value})
+                MERGE (init)-[:INIT]->(p)
+                """, init='Organization', value=value,
+                                                      database_="neo4j",
+                                                      )
+    elif label == "Time":
+        records, summary, keys = driver.execute_query("""
+                MATCH (init:Time {value: $init})
+                MERGE (p:Time {value: $value})
+                MERGE (init)-[:INIT]->(p)
+                """, init='Time', value=value,
+                                                      database_="neo4j",
+                                                      )
+
+    elif label == "Product":
+        records, summary, keys = driver.execute_query("""
+                MATCH (init:Product {value: $init})
+                MERGE (p:Product {value: $value})
+                MERGE (init)-[:INIT]->(p)
+                """, init='Product', value=value,
+                                                      database_="neo4j",
+                                                      )
+
+    elif label == "Promotion":
+        records, summary, keys = driver.execute_query("""
+               MATCH (init:Promotion {value: $init})
+               MERGE (p:Promotion {value: $value})
+               MERGE (init)-[:INIT]->(p)
+               """, init='Promotion', value=value,
+                                                      database_="neo4j",
+                                                      )
+
+    elif label == "Regulation":
+        records, summary, keys = driver.execute_query("""
+            MATCH (init:Regulation {value: $init})
+            MERGE (p:Regulation {value: $value})
+            MERGE (init)-[:INIT]->(p)
+            """, init='Regulation', value=value,
+                                                      database_="neo4j",
+                                                      )
+
+    elif label == "Location":
+        records, summary, keys = driver.execute_query("""
+                    MATCH (init:Location {value: $init})
+                    MERGE (p:Location {value: $value})
+                    MERGE (init)-[:INIT]->(p)
+                    """, init='Location', value=value,
+                                                      database_="neo4j",
+                                                      )
+
+    elif label == "Price":
+        records, summary, keys = driver.execute_query("""
+            MATCH (init:Price {value: $init})
+            MERGE (p:Price {value: $value})
+            MERGE (init)-[:INIT]->(p)
+            """, init='Price', value=value,
+                                                      database_="neo4j",
+                                                      )
+
 def initGraph(driver):
     records, summary, keys = driver.execute_query(
         "MERGE (p:Location {value: $init})",
-        init='INIT',
+        init='LOCATION',
         database_="neo4j",
     )
 
@@ -384,14 +451,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Location {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Location {value: $value2})
                                     MERGE (start)-[:LOCATION]->(end)
                                     """,
-                                    value1='INIT',
-                                    value2='winmart',
-                                    database_="neo4j",
-                                    )
+                                                  value1='INIT',
+                                                  value2='winmart',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -399,14 +466,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Property {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Property {value: $value2})
                                     MERGE (start)-[:PRICE]->(end)
                                     """,
-                                    value1='winmart',
-                                    value2='price_winmart',
-                                    database_="neo4j",
-                                    )
+                                                  value1='winmart',
+                                                  value2='price_winmart',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -414,14 +481,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                        MATCH (start:Location {value: $value1)
-                                        MATCH (end:Property {value: $value2)
+                                        MATCH (start:Location {value: $value1})
+                                        MATCH (end:Property {value: $value2})
                                         MERGE (start)-[:PRODUCT]->(end)
                                         """,
-                                        value1='winmart',
-                                        value2='product_winmart',
-                                        database_="neo4j",
-                                        )
+                                                  value1='winmart',
+                                                  value2='product_winmart',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -429,14 +496,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                            MATCH (start:Location {value: $value1)
-                                            MATCH (end:Property {value: $value2)
+                                            MATCH (start:Location {value: $value1})
+                                            MATCH (end:Property {value: $value2})
                                             MERGE (start)-[:PROMOTION]->(end)
                                             """,
-                                            value1='winmart',
-                                            value2='promotion_winmart',
-                                            database_="neo4j",
-                                            )
+                                                  value1='winmart',
+                                                  value2='promotion_winmart',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -444,14 +511,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                MATCH (start:Location {value: $value1)
-                                                MATCH (end:Property {value: $value2)
+                                                MATCH (start:Location {value: $value1})
+                                                MATCH (end:Property {value: $value2})
                                                 MERGE (start)-[:REGULATION]->(end)
                                                 """,
-                                                value1='winmart',
-                                                value2='regulation_winmart',
-                                                database_="neo4j",
-                                                )
+                                                  value1='winmart',
+                                                  value2='regulation_winmart',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -459,15 +526,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                    MATCH (start:Location {value: $value1)
-                                                    MATCH (end:Property {value: $value2)
+                                                    MATCH (start:Location {value: $value1})
+                                                    MATCH (end:Property {value: $value2})
                                                     MERGE (start)-[:TIME]->(end)
                                                     """,
-                                                    value1='winmart',
-                                                    value2='time_winmart',
+                                                  value1='winmart',
+                                                  value2='time_winmart',
                                                   database_="neo4j",
                                                   )
-
 
     # 711
     records, summary, keys = driver.execute_query(
@@ -476,15 +542,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Location {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Location {value: $value2})
                                     MERGE (start)-[:LOCATION]->(end)
                                     """,
-                                    value1='INIT',
-                                    value2='7 - eleven',
-                                    database_="neo4j",
-                                    )
-
+                                                  value1='INIT',
+                                                  value2='7 - eleven',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -492,14 +557,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Property {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Property {value: $value2})
                                     MERGE (start)-[:PRICE]->(end)
                                     """,
-                                    value1='7 - eleven',
-                                    value2='price_711',
-                                    database_="neo4j",
-                                    )
+                                                  value1='7 - eleven',
+                                                  value2='price_711',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -507,14 +572,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                        MATCH (start:Location {value: $value1)
-                                        MATCH (end:Property {value: $value2)
+                                        MATCH (start:Location {value: $value1})
+                                        MATCH (end:Property {value: $value2})
                                         MERGE (start)-[:PRODUCT]->(end)
                                         """,
-                                        value1='7 - eleven',
-                                        value2='product_711',
-                                        database_="neo4j",
-                                        )
+                                                  value1='7 - eleven',
+                                                  value2='product_711',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -522,14 +587,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                            MATCH (start:Location {value: $value1)
-                                            MATCH (end:Property {value: $value2)
+                                            MATCH (start:Location {value: $value1})
+                                            MATCH (end:Property {value: $value2})
                                             MERGE (start)-[:PROMOTION]->(end)
                                             """,
-                                            value1='7 - eleven',
-                                            value2='promotion_711',
-                                            database_="neo4j",
-                                            )
+                                                  value1='7 - eleven',
+                                                  value2='promotion_711',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -537,14 +602,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                MATCH (start:Location {value: $value1)
-                                                MATCH (end:Property {value: $value2)
+                                                MATCH (start:Location {value: $value1})
+                                                MATCH (end:Property {value: $value2})
                                                 MERGE (start)-[:REGULATION]->(end)
                                                 """,
-                                                value1='7 - eleven',
-                                                value2='regulation_711',
-                                                database_="neo4j",
-                                                )
+                                                  value1='7 - eleven',
+                                                  value2='regulation_711',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -552,12 +617,12 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                    MATCH (start:Location {value: $value1)
-                                                    MATCH (end:Property {value: $value2)
+                                                    MATCH (start:Location {value: $value1})
+                                                    MATCH (end:Property {value: $value2})
                                                     MERGE (start)-[:TIME]->(end)
                                                     """,
-                                                    value1='7 - eleven',
-                                                    value2='time_711',
+                                                  value1='7 - eleven',
+                                                  value2='time_711',
                                                   database_="neo4j",
                                                   )
 
@@ -568,14 +633,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Location {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Location {value: $value2})
                                     MERGE (start)-[:LOCATION]->(end)
                                     """,
-                                    value1='INIT',
-                                    value2='circle-k',
-                                    database_="neo4j",
-                                    )
+                                                  value1='INIT',
+                                                  value2='circle-k',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -583,14 +648,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Property {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Property {value: $value2})
                                     MERGE (start)-[:PRICE]->(end)
                                     """,
-                                    value1='circle-k',
-                                    value2='price_ciclek',
-                                    database_="neo4j",
-                                    )
+                                                  value1='circle-k',
+                                                  value2='price_ciclek',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -598,14 +663,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                        MATCH (start:Location {value: $value1)
-                                        MATCH (end:Property {value: $value2)
+                                        MATCH (start:Location {value: $value1})
+                                        MATCH (end:Property {value: $value2})
                                         MERGE (start)-[:PRODUCT]->(end)
                                         """,
-                                        value1='circle-k',
-                                        value2='product_ciclek',
-                                        database_="neo4j",
-                                        )
+                                                  value1='circle-k',
+                                                  value2='product_ciclek',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -613,14 +678,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                            MATCH (start:Location {value: $value1)
-                                            MATCH (end:Property {value: $value2)
+                                            MATCH (start:Location {value: $value1})
+                                            MATCH (end:Property {value: $value2})
                                             MERGE (start)-[:PROMOTION]->(end)
                                             """,
-                                            value1='circle-k',
-                                            value2='promotion_ciclek',
-                                            database_="neo4j",
-                                            )
+                                                  value1='circle-k',
+                                                  value2='promotion_ciclek',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -628,14 +693,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                MATCH (start:Location {value: $value1)
-                                                MATCH (end:Property {value: $value2)
+                                                MATCH (start:Location {value: $value1})
+                                                MATCH (end:Property {value: $value2})
                                                 MERGE (start)-[:REGULATION]->(end)
                                                 """,
-                                                value1='circle-k',
-                                                value2='regulation_ciclek',
-                                                database_="neo4j",
-                                                )
+                                                  value1='circle-k',
+                                                  value2='regulation_ciclek',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -643,12 +708,12 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                    MATCH (start:Location {value: $value1)
-                                                    MATCH (end:Property {value: $value2)
+                                                    MATCH (start:Location {value: $value1})
+                                                    MATCH (end:Property {value: $value2})
                                                     MERGE (start)-[:TIME]->(end)
                                                     """,
-                                                    value1='circle-k',
-                                                    value2='time_ciclek',
+                                                  value1='circle-k',
+                                                  value2='time_ciclek',
                                                   database_="neo4j",
                                                   )
 
@@ -659,14 +724,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Location {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Location {value: $value2})
                                     MERGE (start)-[:LOCATION]->(end)
                                     """,
-                                    value1='INIT',
-                                    value2='lotte',
-                                    database_="neo4j",
-                                    )
+                                                  value1='INIT',
+                                                  value2='lotte',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -674,14 +739,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Property {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Property {value: $value2})
                                     MERGE (start)-[:PRICE]->(end)
                                     """,
-                                    value1='lotte',
-                                    value2='price_lotte',
-                                    database_="neo4j",
-                                    )
+                                                  value1='lotte',
+                                                  value2='price_lotte',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -689,14 +754,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                        MATCH (start:Location {value: $value1)
-                                        MATCH (end:Property {value: $value2)
+                                        MATCH (start:Location {value: $value1})
+                                        MATCH (end:Property {value: $value2})
                                         MERGE (start)-[:PRODUCT]->(end)
                                         """,
-                                        value1='lotte',
-                                        value2='product_lotte',
-                                        database_="neo4j",
-                                        )
+                                                  value1='lotte',
+                                                  value2='product_lotte',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -704,14 +769,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                            MATCH (start:Location {value: $value1)
-                                            MATCH (end:Property {value: $value2)
+                                            MATCH (start:Location {value: $value1})
+                                            MATCH (end:Property {value: $value2})
                                             MERGE (start)-[:PROMOTION]->(end)
                                             """,
-                                            value1='lotte',
-                                            value2='promotion_lotte',
-                                            database_="neo4j",
-                                            )
+                                                  value1='lotte',
+                                                  value2='promotion_lotte',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -719,14 +784,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                MATCH (start:Location {value: $value1)
-                                                MATCH (end:Property {value: $value2)
+                                                MATCH (start:Location {value: $value1})
+                                                MATCH (end:Property {value: $value2})
                                                 MERGE (start)-[:REGULATION]->(end)
                                                 """,
-                                                value1='lotte',
-                                                value2='regulation_lotte',
-                                                database_="neo4j",
-                                                )
+                                                  value1='lotte',
+                                                  value2='regulation_lotte',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -734,12 +799,12 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                    MATCH (start:Location {value: $value1)
-                                                    MATCH (end:Property {value: $value2)
+                                                    MATCH (start:Location {value: $value1})
+                                                    MATCH (end:Property {value: $value2})
                                                     MERGE (start)-[:TIME]->(end)
                                                     """,
-                                                    value1='lotte',
-                                                    value2='time_lotte',
+                                                  value1='lotte',
+                                                  value2='time_lotte',
                                                   database_="neo4j",
                                                   )
 
@@ -750,15 +815,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Location {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Location {value: $value2})
                                     MERGE (start)-[:LOCATION]->(end)
                                     """,
-                                    value1='INIT',
-                                    value2='top market',
-                                    database_="neo4j",
-                                    )
-
+                                                  value1='INIT',
+                                                  value2='top market',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -766,14 +830,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Property {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Property {value: $value2})
                                     MERGE (start)-[:PRICE]->(end)
                                     """,
-                                    value1='top market',
-                                    value2='price_top_market',
-                                    database_="neo4j",
-                                    )
+                                                  value1='top market',
+                                                  value2='price_top_market',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -781,14 +845,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                        MATCH (start:Location {value: $value1)
-                                        MATCH (end:Property {value: $value2)
+                                        MATCH (start:Location {value: $value1})
+                                        MATCH (end:Property {value: $value2})
                                         MERGE (start)-[:PRODUCT]->(end)
                                         """,
-                                        value1='top market',
-                                        value2='product_top_market',
-                                        database_="neo4j",
-                                        )
+                                                  value1='top market',
+                                                  value2='product_top_market',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -796,14 +860,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                            MATCH (start:Location {value: $value1)
-                                            MATCH (end:Property {value: $value2)
+                                            MATCH (start:Location {value: $value1})
+                                            MATCH (end:Property {value: $value2})
                                             MERGE (start)-[:PROMOTION]->(end)
                                             """,
-                                            value1='top market',
-                                            value2='promotion_top_market',
-                                            database_="neo4j",
-                                            )
+                                                  value1='top market',
+                                                  value2='promotion_top_market',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -811,14 +875,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                MATCH (start:Location {value: $value1)
-                                                MATCH (end:Property {value: $value2)
+                                                MATCH (start:Location {value: $value1})
+                                                MATCH (end:Property {value: $value2})
                                                 MERGE (start)-[:REGULATION]->(end)
                                                 """,
-                                                value1='top market',
-                                                value2='regulation_top_market',
-                                                database_="neo4j",
-                                                )
+                                                  value1='top market',
+                                                  value2='regulation_top_market',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -826,12 +890,12 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                    MATCH (start:Location {value: $value1)
-                                                    MATCH (end:Property {value: $value2)
+                                                    MATCH (start:Location {value: $value1})
+                                                    MATCH (end:Property {value: $value2})
                                                     MERGE (start)-[:TIME]->(end)
                                                     """,
-                                                    value1='top market',
-                                                    value2='time_top_market',
+                                                  value1='top market',
+                                                  value2='time_top_market',
                                                   database_="neo4j",
                                                   )
 
@@ -842,15 +906,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Location {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Location {value: $value2})
                                     MERGE (start)-[:LOCATION]->(end)
                                     """,
-                                    value1='INIT',
-                                    value2='aeon',
-                                    database_="neo4j",
-                                    )
-
+                                                  value1='INIT',
+                                                  value2='aeon',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -858,14 +921,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                    MATCH (start:Location {value: $value1)
-                                    MATCH (end:Property {value: $value2)
+                                    MATCH (start:Location {value: $value1})
+                                    MATCH (end:Property {value: $value2})
                                     MERGE (start)-[:PRICE]->(end)
                                     """,
-                                    value1='aeon',
-                                    value2='price_aeon',
-                                    database_="neo4j",
-                                    )
+                                                  value1='aeon',
+                                                  value2='price_aeon',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -873,14 +936,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                        MATCH (start:Location {value: $value1)
-                                        MATCH (end:Property {value: $value2)
+                                        MATCH (start:Location {value: $value1})
+                                        MATCH (end:Property {value: $value2})
                                         MERGE (start)-[:PRODUCT]->(end)
                                         """,
-                                        value1='aeon',
-                                        value2='product_aeon',
-                                        database_="neo4j",
-                                        )
+                                                  value1='aeon',
+                                                  value2='product_aeon',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -888,14 +951,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                            MATCH (start:Location {value: $value1)
-                                            MATCH (end:Property {value: $value2)
+                                            MATCH (start:Location {value: $value1})
+                                            MATCH (end:Property {value: $value2})
                                             MERGE (start)-[:PROMOTION]->(end)
                                             """,
-                                            value1='aeon',
-                                            value2='promotion_aeon',
-                                            database_="neo4j",
-                                            )
+                                                  value1='aeon',
+                                                  value2='promotion_aeon',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -903,14 +966,14 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                MATCH (start:Location {value: $value1)
-                                                MATCH (end:Property {value: $value2)
+                                                MATCH (start:Location {value: $value1})
+                                                MATCH (end:Property {value: $value2})
                                                 MERGE (start)-[:REGULATION]->(end)
                                                 """,
-                                                value1='aeon',
-                                                value2='regulation_aeon',
-                                                database_="neo4j",
-                                                )
+                                                  value1='aeon',
+                                                  value2='regulation_aeon',
+                                                  database_="neo4j",
+                                                  )
 
     records, summary, keys = driver.execute_query(
         "MERGE (p:Property {value: $init})",
@@ -918,12 +981,11 @@ def initGraph(driver):
         database_="neo4j",
     )
     records, summary, keys = driver.execute_query("""
-                                                    MATCH (start:Location {value: $value1)
-                                                    MATCH (end:Property {value: $value2)
+                                                    MATCH (start:Location {value: $value1})
+                                                    MATCH (end:Property {value: $value2})
                                                     MERGE (start)-[:TIME]->(end)
                                                     """,
-                                                    value1='aeon',
-                                                    value2='time_aeon',
+                                                  value1='aeon',
+                                                  value2='time_aeon',
                                                   database_="neo4j",
                                                   )
-
