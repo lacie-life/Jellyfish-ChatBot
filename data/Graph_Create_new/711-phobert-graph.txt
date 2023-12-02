@@ -1,0 +1,718 @@
+PRICE	9	9	3	5	Price	Product	mê_đắm mê đuối cà_phê kem muối - giá chỉ 20k ngon lắm luôn nha
+LOCATION	1	7	0	0	Promotion	Location	7-eleven tặng gối bông tea+ oolong size lớn thấy là mê, ôm là miễn chê
+LOCATION	17	20	27	27	Product	Location	một trong những item không_thể bỏ lỡ trong tháng 9 này, đó là sự xuất_hiện của chiếc gối bông tea+ oolong siêu to khổng_lồ - độc_quyền tại 7-eleven.
+REGULATION	4	7	0	2	Product	Regulation	mua 6 chai = 1 túi đeo chéo
+REGULATION	1	2	0	0	Product	Regulation	mua 10 chai = 1 gối bông tea+ oolong size lớn
+OTHER	7	9	13	17	Promotion	Product	tùng dinh dinh, có bánh xinh xinh: tặng nutriboost cookies - khi mua 2 bánh trung_thu_hình thú 7-select
+AFFILIATION	13	17	7	9	Product	Promotion	tùng dinh dinh, có bánh xinh xinh: tặng nutriboost cookies - khi mua 2 bánh trung_thu_hình thú 7-select
+REGULATION	7	9	13	17	Promotion	Product	tùng dinh dinh, có bánh xinh xinh: tặng nutriboost cookies - khi mua 2 bánh trung_thu_hình thú 7-select
+OTHER	13	17	7	9	Product	Promotion	tùng dinh dinh, có bánh xinh xinh: tặng nutriboost cookies - khi mua 2 bánh trung_thu_hình thú 7-select
+OTHER	4	7	10	17	Promotion	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	10	17	4	7	Product	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	19	20	4	7	Organization	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+LOCATION	19	20	10	17	Organization	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	4	7	10	17	Promotion	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	10	17	4	7	Product	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+LOCATION	19	20	4	7	Organization	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	19	20	10	17	Organization	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+PRICE	4	7	10	17	Promotion	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	10	17	4	7	Product	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	19	20	4	7	Organization	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	19	20	10	17	Organization	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	4	7	10	17	Promotion	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+AFFILIATION	10	17	4	7	Product	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	19	20	4	7	Organization	Promotion	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+OTHER	19	20	10	17	Organization	Product	chất hơn nước cất: tặng ly rap việt khi mua pepsi không calo/ vị chanh không calo 320ml trên app 7-eleven
+LOCATION	3	6	14	14	Product	Location	không đùa đâu, chiếc ly rap viet được nhà_nhà săn_đón nay đã có_mặt tại 7-eleven rồi
+REGULATION	7	10	2	5	Product	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	7	10	22	26	Product	Promotion	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	12	20	2	5	Product	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	12	20	22	26	Product	Promotion	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	2	5	Promotion	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	7	10	Promotion	Product	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	12	20	Promotion	Product	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	7	10	2	5	Product	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	7	10	22	26	Product	Promotion	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	12	20	2	5	Product	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	12	20	22	26	Product	Promotion	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	2	5	Promotion	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	7	10	Promotion	Product	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+PRICE	22	26	12	20	Promotion	Product	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	7	10	2	5	Product	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	7	10	22	26	Product	Promotion	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	12	20	2	5	Product	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+AFFILIATION	12	20	22	26	Product	Promotion	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	2	5	Promotion	Regulation	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	7	10	Promotion	Product	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	22	26	12	20	Promotion	Product	ưu đãi: tích 24 điểm pepsi = 1 ly rap việt ( 1 pepsi không calo/ không calo vị chanh 320ml = 1 điểm trên app 7-eleven)
+OTHER	6	7	11	15	Promotion	Product	nạp thêm dưỡng_chất bằng chiếc deal: giảm 3k - khi mua 2 bánh_mì que/ cơm nắm bất_kì
+AFFILIATION	11	15	6	7	Product	Promotion	nạp thêm dưỡng_chất bằng chiếc deal: giảm 3k - khi mua 2 bánh_mì que/ cơm nắm bất_kì
+PRICE	6	7	11	15	Promotion	Product	nạp thêm dưỡng_chất bằng chiếc deal: giảm 3k - khi mua 2 bánh_mì que/ cơm nắm bất_kì
+OTHER	11	15	6	7	Product	Promotion	nạp thêm dưỡng_chất bằng chiếc deal: giảm 3k - khi mua 2 bánh_mì que/ cơm nắm bất_kì
+PRICE	4	5	7	12	Promotion	Product	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	4	5	14	17	Promotion	Regulation	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	7	12	4	5	Product	Promotion	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	7	12	14	17	Product	Regulation	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	4	5	7	12	Promotion	Product	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+REGULATION	4	5	14	17	Promotion	Regulation	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	7	12	4	5	Product	Promotion	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	7	12	14	17	Product	Regulation	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	4	5	7	12	Promotion	Product	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	4	5	14	17	Promotion	Regulation	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+AFFILIATION	7	12	4	5	Product	Promotion	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	7	12	14	17	Product	Regulation	tuyệt phẩm nhà bảy: giảm 3k - cơm trắng/ cơm chiên/ mì trộn khi mua cùng topping bất_kì
+OTHER	0	4	9	10	Product	Promotion	combo bánh trung_thu kinh đô + trà tắc - giảm 9k
+PRICE	9	10	0	4	Promotion	Product	combo bánh trung_thu kinh đô + trà tắc - giảm 9k
+AFFILIATION	0	4	9	10	Product	Promotion	combo bánh trung_thu kinh đô + trà tắc - giảm 9k
+OTHER	9	10	0	4	Promotion	Product	combo bánh trung_thu kinh đô + trà tắc - giảm 9k
+OTHER	0	7	12	13	Product	Promotion	combo bánh trung_thu nướng hình con vật 80g + lồng đèn - giảm 14k
+PRICE	12	13	0	7	Promotion	Product	combo bánh trung_thu nướng hình con vật 80g + lồng đèn - giảm 14k
+AFFILIATION	0	7	12	13	Product	Promotion	combo bánh trung_thu nướng hình con vật 80g + lồng đèn - giảm 14k
+OTHER	12	13	0	7	Promotion	Product	combo bánh trung_thu nướng hình con vật 80g + lồng đèn - giảm 14k
+OTHER	0	4	6	10	Promotion	Product	mua 2 tính tiền 1 - bưởi da xanh tách múi
+AFFILIATION	6	10	0	4	Product	Promotion	mua 2 tính tiền 1 - bưởi da xanh tách múi
+PRICE	0	4	6	10	Promotion	Product	mua 2 tính tiền 1 - bưởi da xanh tách múi
+OTHER	6	10	0	4	Product	Promotion	mua 2 tính tiền 1 - bưởi da xanh tách múi
+PRICE	15	15	5	11	Price	Product	cho ngày thêm "tươi" cùng: trà đào/ trà vải/ trà nhãn mật_ong - giá ưu_đãi 25k (giá gốc: 29k)
+OTHER	16	18	5	11	Price	Product	cho ngày thêm "tươi" cùng: trà đào/ trà vải/ trà nhãn mật_ong - giá ưu_đãi 25k (giá gốc: 29k)
+OTHER	15	15	5	11	Price	Product	cho ngày thêm "tươi" cùng: trà đào/ trà vải/ trà nhãn mật_ong - giá ưu_đãi 25k (giá gốc: 29k)
+PRICE	16	18	5	11	Price	Product	cho ngày thêm "tươi" cùng: trà đào/ trà vải/ trà nhãn mật_ong - giá ưu_đãi 25k (giá gốc: 29k)
+OTHER	0	2	4	6	Product	Promotion	lồng đèn trung_thu - đồng giá 89k siêu "iu" cho bạn nhỏ vui hội trăng rằm
+PRICE	4	6	0	2	Promotion	Product	lồng đèn trung_thu - đồng giá 89k siêu "iu" cho bạn nhỏ vui hội trăng rằm
+AFFILIATION	0	2	4	6	Product	Promotion	lồng đèn trung_thu - đồng giá 89k siêu "iu" cho bạn nhỏ vui hội trăng rằm
+OTHER	4	6	0	2	Promotion	Product	lồng đèn trung_thu - đồng giá 89k siêu "iu" cho bạn nhỏ vui hội trăng rằm
+AFFILIATION	0	3	6	7	Time	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	9	10	Time	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	6	7	0	3	Promotion	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	6	7	9	10	Promotion	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	0	3	Product	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	6	7	Product	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	6	7	Time	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	9	10	Time	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	6	7	0	3	Promotion	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+PRICE	6	7	9	10	Promotion	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	0	3	Product	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	6	7	Product	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	6	7	Time	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	9	10	Time	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	6	7	0	3	Promotion	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	6	7	9	10	Promotion	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	0	3	Product	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+AFFILIATION	9	10	6	7	Product	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	6	7	Time	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	0	3	9	10	Time	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+REGULATION	6	7	0	3	Promotion	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	6	7	9	10	Promotion	Product	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	0	3	Product	Time	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+OTHER	9	10	6	7	Product	Promotion	daily happy hour: 6h - 10h, giảm 5k - combo bánh_mì & cà_phê
+PRICE	6	6	0	3	Price	Product	cà_phê sữa_tươi đường đen - giá 29k thơm ngon tới giọt cuối_cùng
+PRICE	13	13	6	9	Price	Product	béo ngậy thơm ngon món mới: sa_lát nui sốt kem - giá chỉ 35k
+PRICE	8	8	2	5	Price	Product	flash sale: nho mẫu_đơn hộp 450g - giá 399k (giá gốc: 509k)
+OTHER	9	11	2	5	Price	Product	flash sale: nho mẫu_đơn hộp 450g - giá 399k (giá gốc: 509k)
+OTHER	8	8	2	5	Price	Product	flash sale: nho mẫu_đơn hộp 450g - giá 399k (giá gốc: 509k)
+PRICE	9	11	2	5	Price	Product	flash sale: nho mẫu_đơn hộp 450g - giá 399k (giá gốc: 509k)
+OTHER	1	4	5	8	Product	Promotion	mua 1 kem cornetto popcorn tặng 1 kem cornetto bất_kì
+PRICE	5	8	1	4	Promotion	Product	mua 1 kem cornetto popcorn tặng 1 kem cornetto bất_kì
+AFFILIATION	1	4	5	8	Product	Promotion	mua 1 kem cornetto popcorn tặng 1 kem cornetto bất_kì
+OTHER	5	8	1	4	Promotion	Product	mua 1 kem cornetto popcorn tặng 1 kem cornetto bất_kì
+OTHER	0	5	8	11	Product	Promotion	combo 2 kem th true ice-cream (tuỳ chọn) tặng túi giữ nhiệt
+PRICE	8	11	0	5	Promotion	Product	combo 2 kem th true ice-cream (tuỳ chọn) tặng túi giữ nhiệt
+AFFILIATION	0	5	8	11	Product	Promotion	combo 2 kem th true ice-cream (tuỳ chọn) tặng túi giữ nhiệt
+OTHER	8	11	0	5	Promotion	Product	combo 2 kem th true ice-cream (tuỳ chọn) tặng túi giữ nhiệt
+LOCATION	6	7	0	2	Organization	Promotion	freeship đến 35k khi đặt_hàng qua ứng_dụng 7-eleven.
+LOCATION	9	20	2	2	Promotion	Location	tại cửa_hàng 7-eleven đang có "chuyên mục" mời bạn dùng thử món ngon cơm trắng/cơm chiên ăn kèm các loại topping đa_dạng chắc_chắn sẽ làm_bạn mê mẩn.
+OTHER	3	5	8	9	Product	Promotion	thêm ưu đãi: cơm trắng/cơm chiên & topping giảm 3k - tặng kèm đồ chua
+PRICE	8	9	3	5	Promotion	Product	thêm ưu đãi: cơm trắng/cơm chiên & topping giảm 3k - tặng kèm đồ chua
+AFFILIATION	3	5	8	9	Product	Promotion	thêm ưu đãi: cơm trắng/cơm chiên & topping giảm 3k - tặng kèm đồ chua
+OTHER	8	9	3	5	Promotion	Product	thêm ưu đãi: cơm trắng/cơm chiên & topping giảm 3k - tặng kèm đồ chua
+OTHER	7	11	14	17	Promotion	Product	độ đáng yêu đạt cấp "vô đối": tặng gấu bông kem phô_mai khi mua 3 kem cheesy bar
+AFFILIATION	14	17	7	11	Product	Promotion	độ đáng yêu đạt cấp "vô đối": tặng gấu bông kem phô_mai khi mua 3 kem cheesy bar
+PRICE	7	11	14	17	Promotion	Product	độ đáng yêu đạt cấp "vô đối": tặng gấu bông kem phô_mai khi mua 3 kem cheesy bar
+OTHER	14	17	7	11	Product	Promotion	độ đáng yêu đạt cấp "vô đối": tặng gấu bông kem phô_mai khi mua 3 kem cheesy bar
+OTHER	4	7	8	12	Product	Promotion	quà_bánh đêm trăng: mua 2 bánh trung_thu_hình thú -tặng 1 nutriboost cookie 297ml
+PRICE	8	12	4	7	Promotion	Product	quà_bánh đêm trăng: mua 2 bánh trung_thu_hình thú -tặng 1 nutriboost cookie 297ml
+AFFILIATION	4	7	8	12	Product	Promotion	quà_bánh đêm trăng: mua 2 bánh trung_thu_hình thú -tặng 1 nutriboost cookie 297ml
+OTHER	8	12	4	7	Promotion	Product	quà_bánh đêm trăng: mua 2 bánh trung_thu_hình thú -tặng 1 nutriboost cookie 297ml
+OTHER	3	9	13	15	Product	Promotion	hút rột rột hồng trà sữa/ trà sữa oolong rang size bất_kì - free 1 topping cực đã
+PRICE	13	15	3	9	Promotion	Product	hút rột rột hồng trà sữa/ trà sữa oolong rang size bất_kì - free 1 topping cực đã
+AFFILIATION	3	9	13	15	Product	Promotion	hút rột rột hồng trà sữa/ trà sữa oolong rang size bất_kì - free 1 topping cực đã
+OTHER	13	15	3	9	Promotion	Product	hút rột rột hồng trà sữa/ trà sữa oolong rang size bất_kì - free 1 topping cực đã
+PRICE	9	10	4	7	Price	Product	thử ngay món mới: cà_phê sữa_tươi đường đen - giá 29k chuẩn gu đúng vị
+OTHER	0	3	9	11	Promotion	Product	tặng kèm đồ chua + ớt lát khi mua cơm trắng/ cơm_chiên & topping
+AFFILIATION	9	11	0	3	Product	Promotion	tặng kèm đồ chua + ớt lát khi mua cơm trắng/ cơm_chiên & topping
+PRICE	0	3	9	11	Promotion	Product	tặng kèm đồ chua + ớt lát khi mua cơm trắng/ cơm_chiên & topping
+OTHER	9	11	0	3	Product	Promotion	tặng kèm đồ chua + ớt lát khi mua cơm trắng/ cơm_chiên & topping
+OTHER	0	1	2	9	Promotion	Product	giải nhất: 10 chuyến du_lịch hàn_quốc dành cho 2 người.
+AFFILIATION	2	9	0	1	Product	Promotion	giải nhất: 10 chuyến du_lịch hàn_quốc dành cho 2 người.
+OTHER	0	1	2	4	Promotion	Product	giải nhì: 300 nón bảo_hiểm thời_trang
+AFFILIATION	2	4	0	1	Product	Promotion	giải nhì: 300 nón bảo_hiểm thời_trang
+OTHER	0	1	2	5	Promotion	Product	giải ba: 500 bình giữ nhiệt cực cool
+AFFILIATION	2	5	0	1	Product	Promotion	giải ba: 500 bình giữ nhiệt cực cool
+LOCATION	2	2	5	5	Organization	Location	mua ngay ricola tại hệ_thống 7-eleven gần nhất để có cơ_hội trúng thưởng và tận_hưởng một mùa hè hứng_khởi nhé.
+PRICE	12	12	2	9	Price	Product	món mới: cơm nắm trứng ngâm tương nhật/ cá_hồi cay - chỉ 16k thơm ngon đến miếng cuối_cùng
+OTHER	3	13	14	19	Product	Promotion	ưu đãi: mua 2 cơm nắm trứng ngâm tương nhật/ cơm nắm cá_hồi cay, tặng 1 trà tắc ly lớn
+PRICE	14	19	3	13	Promotion	Product	ưu đãi: mua 2 cơm nắm trứng ngâm tương nhật/ cơm nắm cá_hồi cay, tặng 1 trà tắc ly lớn
+AFFILIATION	3	13	14	19	Product	Promotion	ưu đãi: mua 2 cơm nắm trứng ngâm tương nhật/ cơm nắm cá_hồi cay, tặng 1 trà tắc ly lớn
+OTHER	14	19	3	13	Promotion	Product	ưu đãi: mua 2 cơm nắm trứng ngâm tương nhật/ cơm nắm cá_hồi cay, tặng 1 trà tắc ly lớn
+LOCATION	6	6	1	1	Organization	Location	cùng 7-eleven thách_thức hư tổn với tsubaki
+LOCATION	13	14	6	7	Organization	Promotion	dụi mắt 3 lần mới tin giảm 50% hàng chục combo no_nê trên app 7-eleven - giá chỉ từ 13k/ combo
+LOCATION	5	5	0	0	Organization	Location	7-eleven mà đã kết_hợp cùng pepsi là chỉ có chất quá đi thôi
+LOCATION	4	8	15	15	Product	Location	kiếm ở đâu ra bánh_mì cải bó xôi xá_xíu - phiên_bản đặc_biệt chỉ 29k ngoài 7-eleven
+OTHER	13	13	4	8	Price	Product	kiếm ở đâu ra bánh_mì cải bó xôi xá_xíu - phiên_bản đặc_biệt chỉ 29k ngoài 7-eleven
+OTHER	4	8	15	15	Product	Location	kiếm ở đâu ra bánh_mì cải bó xôi xá_xíu - phiên_bản đặc_biệt chỉ 29k ngoài 7-eleven
+PRICE	13	13	4	8	Price	Product	kiếm ở đâu ra bánh_mì cải bó xôi xá_xíu - phiên_bản đặc_biệt chỉ 29k ngoài 7-eleven
+OTHER	2	3	5	10	Promotion	Product	ưu đãi: giảm 11k - combo bánh_mì cải bó xôi xá_xíu & cà_phê việt_nam
+AFFILIATION	5	10	2	3	Product	Promotion	ưu đãi: giảm 11k - combo bánh_mì cải bó xôi xá_xíu & cà_phê việt_nam
+PRICE	2	3	5	10	Promotion	Product	ưu đãi: giảm 11k - combo bánh_mì cải bó xôi xá_xíu & cà_phê việt_nam
+OTHER	5	10	2	3	Product	Promotion	ưu đãi: giảm 11k - combo bánh_mì cải bó xôi xá_xíu & cà_phê việt_nam
+OTHER	0	2	4	12	Promotion	Product	đồng giá 19k - hồng trà sữa/ trà sữa oolong rang ly lớn
+AFFILIATION	4	12	0	2	Product	Promotion	đồng giá 19k - hồng trà sữa/ trà sữa oolong rang ly lớn
+PRICE	0	2	4	12	Promotion	Product	đồng giá 19k - hồng trà sữa/ trà sữa oolong rang ly lớn
+OTHER	4	12	0	2	Product	Promotion	đồng giá 19k - hồng trà sữa/ trà sữa oolong rang ly lớn
+REGULATION	4	9	11	13	Promotion	Regulation	ra đây coi nè: tặng 1 ly giữ nhiệt 7-eleven, với hoá_đơn từ 250k
+LOCATION	6	7	13	13	Promotion	Location	deal siêu hot, mua siêu đỉnh: giảm 7k - 11k một_số sản_phẩm tại 7-eleven
+PRICE	2	3	7	9	Promotion	Product	tuyệt_đỉnh combo: giảm 11k - khi mua bánh_mì việt_nam bất_kì & cà_phê việt nam chuẩn không cần chỉnh
+OTHER	7	9	2	3	Product	Promotion	tuyệt_đỉnh combo: giảm 11k - khi mua bánh_mì việt_nam bất_kì & cà_phê việt nam chuẩn không cần chỉnh
+OTHER	2	3	7	9	Promotion	Product	tuyệt_đỉnh combo: giảm 11k - khi mua bánh_mì việt_nam bất_kì & cà_phê việt nam chuẩn không cần chỉnh
+AFFILIATION	7	9	2	3	Product	Promotion	tuyệt_đỉnh combo: giảm 11k - khi mua bánh_mì việt_nam bất_kì & cà_phê việt nam chuẩn không cần chỉnh
+OTHER	4	7	15	16	Product	Promotion	món mới tới đây: combo cơm trắng/ cơm_chiên & xá_xíu & trứng ốp la - giảm 5k quá đã
+PRICE	15	16	4	7	Promotion	Product	món mới tới đây: combo cơm trắng/ cơm_chiên & xá_xíu & trứng ốp la - giảm 5k quá đã
+AFFILIATION	4	7	15	16	Product	Promotion	món mới tới đây: combo cơm trắng/ cơm_chiên & xá_xíu & trứng ốp la - giảm 5k quá đã
+OTHER	15	16	4	7	Promotion	Product	món mới tới đây: combo cơm trắng/ cơm_chiên & xá_xíu & trứng ốp la - giảm 5k quá đã
+OTHER	4	7	11	11	Promotion	Product	tích tem đổi quà: tặng cốc giữ nhiệt - khi mua fuzetea+ quá_xá đã
+AFFILIATION	11	11	4	7	Product	Promotion	tích tem đổi quà: tặng cốc giữ nhiệt - khi mua fuzetea+ quá_xá đã
+PRICE	4	7	11	11	Promotion	Product	tích tem đổi quà: tặng cốc giữ nhiệt - khi mua fuzetea+ quá_xá đã
+OTHER	11	11	4	7	Product	Promotion	tích tem đổi quà: tặng cốc giữ nhiệt - khi mua fuzetea+ quá_xá đã
+REGULATION	6	9	2	4	Product	Regulation	ưu đãi: tích 7 tem = 1 cốc giữ nhiệt (3 trà fuzetea+ chai 450ml = 1 tem trên app 7-eleven)
+PRICE	5	8	13	15	Promotion	Product	thời tới cản hông nổi: đồng giá 11k/ cái - khi mua từ 2 bánh_mì que bất_kì
+OTHER	13	15	5	8	Product	Promotion	thời tới cản hông nổi: đồng giá 11k/ cái - khi mua từ 2 bánh_mì que bất_kì
+OTHER	5	8	13	15	Promotion	Product	thời tới cản hông nổi: đồng giá 11k/ cái - khi mua từ 2 bánh_mì que bất_kì
+AFFILIATION	13	15	5	8	Product	Promotion	thời tới cản hông nổi: đồng giá 11k/ cái - khi mua từ 2 bánh_mì que bất_kì
+PRICE	27	27	2	8	Price	Product	quà tặng: 1 chai chống nắng senka uv milk + 1 chai chống nắng senka uv gentle milk + 1 chai chống nắng senka uv gel trị_giá 660k
+OTHER	8	8	3	5	Price	Product	tích_tắc có "deal": trà tắc khổng_lồ giá chỉ 10k - độc_quyền trên app 7-eleven
+LOCATION	12	13	3	5	Organization	Product	tích_tắc có "deal": trà tắc khổng_lồ giá chỉ 10k - độc_quyền trên app 7-eleven
+PRICE	8	8	3	5	Price	Product	tích_tắc có "deal": trà tắc khổng_lồ giá chỉ 10k - độc_quyền trên app 7-eleven
+OTHER	12	13	3	5	Organization	Product	tích_tắc có "deal": trà tắc khổng_lồ giá chỉ 10k - độc_quyền trên app 7-eleven
+OTHER	0	1	2	4	Promotion	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	2	4	0	1	Product	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	6	7	0	1	Organization	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+LOCATION	6	7	2	4	Organization	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	0	1	2	4	Promotion	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	2	4	0	1	Product	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+LOCATION	6	7	0	1	Organization	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	6	7	2	4	Organization	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+PRICE	0	1	2	4	Promotion	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	2	4	0	1	Product	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	6	7	0	1	Organization	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	6	7	2	4	Organization	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	0	1	2	4	Promotion	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+AFFILIATION	2	4	0	1	Product	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	6	7	0	1	Organization	Promotion	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+OTHER	6	7	2	4	Organization	Product	giảm 50% trà tắc khổng_lồ trên app 7-eleven quá_xá hời
+LOCATION	5	6	4	4	Promotion	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	5	6	7	11	Promotion	Product	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	7	11	4	4	Product	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	7	11	5	6	Product	Promotion	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	5	6	4	4	Promotion	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	5	6	7	11	Promotion	Product	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+LOCATION	7	11	4	4	Product	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	7	11	5	6	Product	Promotion	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	5	6	4	4	Promotion	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	5	6	7	11	Promotion	Product	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	7	11	4	4	Product	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+AFFILIATION	7	11	5	6	Product	Promotion	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	5	6	4	4	Promotion	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+PRICE	5	6	7	11	Promotion	Product	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	7	11	4	4	Product	Location	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	7	11	5	6	Product	Promotion	"kiwi kiwi" đổ_bộ tại 7-eleven: giảm 15k kiwi vàng hộp 4 trái
+OTHER	0	1	4	4	Promotion	Time	flash sale từ ngày 19 - 25/06/2023
+AFFILIATION	4	4	0	1	Time	Promotion	flash sale từ ngày 19 - 25/06/2023
+REGULATION	0	1	4	4	Promotion	Time	flash sale từ ngày 19 - 25/06/2023
+OTHER	4	4	0	1	Time	Promotion	flash sale từ ngày 19 - 25/06/2023
+PRICE	10	10	4	7	Price	Product	giòn, ngọt, mọng nước cherry mỹ hộp 250gr giá chỉ 125k (giá gốc 209k)
+OTHER	11	13	4	7	Price	Product	giòn, ngọt, mọng nước cherry mỹ hộp 250gr giá chỉ 125k (giá gốc 209k)
+OTHER	10	10	4	7	Price	Product	giòn, ngọt, mọng nước cherry mỹ hộp 250gr giá chỉ 125k (giá gốc 209k)
+PRICE	11	13	4	7	Price	Product	giòn, ngọt, mọng nước cherry mỹ hộp 250gr giá chỉ 125k (giá gốc 209k)
+LOCATION	5	7	11	11	Promotion	Location	hè là phải "phiêu" cùng summer chill box chỉ có tại 7-eleven
+REGULATION	0	4	6	10	Promotion	Regulation	tặng 1 thú bông/ gối, với hoá_đơn từ 139k sản_phẩm rohto
+REGULATION	6	12	2	4	Promotion	Regulation	quà tặng: 07 người may_mắn sẽ nhận được 01 thùng bia tiger soju vị bất_kì
+OTHER	0	4	14	17	Product	Promotion	combo mì trộn giá hẹ + 1 trứng ốp la & 1 topping bất_kì, tặng 1 sprite 390ml
+PRICE	14	17	0	4	Promotion	Product	combo mì trộn giá hẹ + 1 trứng ốp la & 1 topping bất_kì, tặng 1 sprite 390ml
+AFFILIATION	0	4	14	17	Product	Promotion	combo mì trộn giá hẹ + 1 trứng ốp la & 1 topping bất_kì, tặng 1 sprite 390ml
+OTHER	14	17	0	4	Promotion	Product	combo mì trộn giá hẹ + 1 trứng ốp la & 1 topping bất_kì, tặng 1 sprite 390ml
+OTHER	2	3	4	9	Organization	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	2	3	10	11	Organization	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+AFFILIATION	4	9	10	11	Product	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	10	11	4	9	Promotion	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	2	3	4	9	Organization	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	2	3	10	11	Organization	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	4	9	10	11	Product	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+PRICE	10	11	4	9	Promotion	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+LOCATION	2	3	4	9	Organization	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	2	3	10	11	Organization	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	4	9	10	11	Product	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	10	11	4	9	Promotion	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	2	3	4	9	Organization	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+LOCATION	2	3	10	11	Organization	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	4	9	10	11	Product	Promotion	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	10	11	4	9	Promotion	Product	độc_quyền trên app 7-eleven: trà oolong nhài sữa ly lớn giảm 50% - chỉ 13k
+OTHER	0	2	3	8	Promotion	Product	giải đặc biệt: máy_tính bảng ipad 10 wifi 64gb & tai_nghe airpods 3
+AFFILIATION	3	8	0	2	Product	Promotion	giải đặc biệt: máy_tính bảng ipad 10 wifi 64gb & tai_nghe airpods 3
+OTHER	0	1	2	3	Promotion	Product	giải nhất: balo vans
+AFFILIATION	2	3	0	1	Product	Promotion	giải nhất: balo vans
+OTHER	0	1	2	3	Promotion	Product	giải nhì: tai_nghe coca-cola
+AFFILIATION	2	3	0	1	Product	Promotion	giải nhì: tai_nghe coca-cola
+OTHER	0	1	2	4	Promotion	Product	giải ba: loa fanta nho
+AFFILIATION	2	4	0	1	Product	Promotion	giải ba: loa fanta nho
+OTHER	0	2	3	6	Promotion	Product	giải khuyến khích: voucher 7-eleven trị_giá 50k
+AFFILIATION	3	6	0	2	Product	Promotion	giải khuyến khích: voucher 7-eleven trị_giá 50k
+REGULATION	6	9	1	5	Promotion	Regulation	với hoá_đơn sản_phẩm trái_cây từ 149k, tặng 0,5kg quýt/ táo
+OTHER	1	7	10	13	Product	Promotion	mua 2 kem kitkat/ kitkat gold que 65g bất_kì - tặng 1 đôi dép tung_tăng vui hè
+PRICE	10	13	1	7	Promotion	Product	mua 2 kem kitkat/ kitkat gold que 65g bất_kì - tặng 1 đôi dép tung_tăng vui hè
+AFFILIATION	1	7	10	13	Product	Promotion	mua 2 kem kitkat/ kitkat gold que 65g bất_kì - tặng 1 đôi dép tung_tăng vui hè
+OTHER	10	13	1	7	Promotion	Product	mua 2 kem kitkat/ kitkat gold que 65g bất_kì - tặng 1 đôi dép tung_tăng vui hè
+AFFILIATION	3	4	5	6	Product	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	5	6	3	4	Promotion	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	3	4	Organization	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	5	6	Organization	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	3	4	5	6	Product	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+PRICE	5	6	3	4	Promotion	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	3	4	Organization	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	5	6	Organization	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	3	4	5	6	Product	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	5	6	3	4	Promotion	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+PRICE	9	9	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	3	4	Organization	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	5	6	Organization	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	3	4	5	6	Product	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	5	6	3	4	Promotion	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+PRICE	10	12	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	3	4	Organization	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	5	6	Organization	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	3	4	5	6	Product	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	5	6	3	4	Promotion	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	3	4	Organization	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+LOCATION	16	17	5	6	Organization	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	3	4	5	6	Product	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	5	6	3	4	Promotion	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	9	9	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	3	4	Price	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	10	12	5	6	Price	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+LOCATION	16	17	3	4	Organization	Product	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	16	17	5	6	Organization	Promotion	tỉnh_táo ngày dài: cà_phê sữa_tươi giảm 50% - chỉ 13k (giá gốc 25k) chỉ có trên app 7-eleven
+OTHER	3	6	7	8	Product	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+PRICE	7	8	3	6	Promotion	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	3	6	7	8	Product	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	7	8	3	6	Promotion	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+PRICE	11	11	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	3	6	7	8	Product	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	7	8	3	6	Promotion	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+PRICE	12	14	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+AFFILIATION	3	6	7	8	Product	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	7	8	3	6	Promotion	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	11	11	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	3	6	Price	Product	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	12	14	7	8	Price	Promotion	hốt_hoảng flash sale: táo breeze túi 1kg giảm 3k - chỉ 116k (giá gốc 152k)
+OTHER	4	6	8	11	Product	Promotion	dằn chắc bụng mua 1 cơm_hộp bất_kì - tặng 1 coca-cola zero bao sảng_khoái
+PRICE	8	11	4	6	Promotion	Product	dằn chắc bụng mua 1 cơm_hộp bất_kì - tặng 1 coca-cola zero bao sảng_khoái
+AFFILIATION	4	6	8	11	Product	Promotion	dằn chắc bụng mua 1 cơm_hộp bất_kì - tặng 1 coca-cola zero bao sảng_khoái
+OTHER	8	11	4	6	Promotion	Product	dằn chắc bụng mua 1 cơm_hộp bất_kì - tặng 1 coca-cola zero bao sảng_khoái
+PRICE	8	8	2	5	Price	Product	món mói: burger trứng jambon phô_mai - chỉ 29k vừa chính_thức lên kệ nhà_bảy
+OTHER	3	7	14	17	Product	Promotion	đỉnh của đỉnh: combo mì trộn giá hẹ + trứng & topping bất_kì - tặng 1 sprite 390ml
+PRICE	14	17	3	7	Promotion	Product	đỉnh của đỉnh: combo mì trộn giá hẹ + trứng & topping bất_kì - tặng 1 sprite 390ml
+AFFILIATION	3	7	14	17	Product	Promotion	đỉnh của đỉnh: combo mì trộn giá hẹ + trứng & topping bất_kì - tặng 1 sprite 390ml
+OTHER	14	17	3	7	Promotion	Product	đỉnh của đỉnh: combo mì trộn giá hẹ + trứng & topping bất_kì - tặng 1 sprite 390ml
+PRICE	9	10	6	7	Price	Product	giá siêu mềm cùng món mới: bánh_mì pate - chỉ 20k đượm vị ngon thơm
+REGULATION	7	10	2	6	Promotion	Regulation	ưu đãi: hoá_đơn 120k sản_phẩm kem bất_kì, tặng 1 thú bông siêu xinh
+OTHER	0	1	10	11	Product	Promotion	trà sữa ngon tuyệt_vời - bảy mời bạn 1 ly: giảm 50% - giá chỉ 13k
+PRICE	10	11	0	1	Promotion	Product	trà sữa ngon tuyệt_vời - bảy mời bạn 1 ly: giảm 50% - giá chỉ 13k
+AFFILIATION	0	1	10	11	Product	Promotion	trà sữa ngon tuyệt_vời - bảy mời bạn 1 ly: giảm 50% - giá chỉ 13k
+OTHER	10	11	0	1	Promotion	Product	trà sữa ngon tuyệt_vời - bảy mời bạn 1 ly: giảm 50% - giá chỉ 13k
+OTHER	0	1	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	16	20	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+AFFILIATION	2	6	0	1	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	2	6	16	20	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	0	1	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	16	20	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	2	6	0	1	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+AFFILIATION	2	6	16	20	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	0	1	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	16	20	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	2	6	0	1	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	2	6	16	20	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	0	1	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+PRICE	16	20	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+PRICE	0	1	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	16	20	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	2	6	0	1	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	2	6	16	20	Product	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	0	1	Promotion	Promotion	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	16	20	2	6	Promotion	Product	giảm 25k: combo bánh_mì nấm dr.oetker 250g + 2 lon bia heineken bạc cao 330ml - tặng thêm 1 ly đá
+OTHER	0	1	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	0	1	8	13	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+AFFILIATION	2	6	0	1	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	2	6	8	13	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	0	1	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	0	1	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	0	1	8	13	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	2	6	0	1	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+AFFILIATION	2	6	8	13	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	0	1	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+PRICE	0	1	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	0	1	8	13	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	2	6	0	1	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	2	6	8	13	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	0	1	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	0	1	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	0	1	8	13	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	2	6	0	1	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	2	6	8	13	Product	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+OTHER	8	13	0	1	Promotion	Promotion	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+PRICE	8	13	2	6	Promotion	Product	giảm 28k: lốc 4 lon bia craft - tặng 2 ly đá (giảm 6k)
+REGULATION	4	6	11	14	Promotion	Time	nóng giòn thơm ngon: đồng giá 20k tất_cả bánh_mì việt_nam mỗi thứ bảy hàng tuần
+OTHER	11	14	4	6	Time	Promotion	nóng giòn thơm ngon: đồng giá 20k tất_cả bánh_mì việt_nam mỗi thứ bảy hàng tuần
+OTHER	4	6	11	14	Promotion	Time	nóng giòn thơm ngon: đồng giá 20k tất_cả bánh_mì việt_nam mỗi thứ bảy hàng tuần
+AFFILIATION	11	14	4	6	Time	Promotion	nóng giòn thơm ngon: đồng giá 20k tất_cả bánh_mì việt_nam mỗi thứ bảy hàng tuần
+PRICE	15	15	8	11	Price	Product	mì trộn nhà bảy, thơm ngon hết sẩy: mì trộn giá hẹ - giá chỉ 14k
+OTHER	2	4	7	9	Promotion	Product	ưu đãi: tặng 1 coca-cola khi mua combo mì trộn + topping bất_kì
+AFFILIATION	7	9	2	4	Product	Promotion	ưu đãi: tặng 1 coca-cola khi mua combo mì trộn + topping bất_kì
+AFFILIATION	2	4	7	9	Promotion	Product	ưu đãi: tặng 1 coca-cola khi mua combo mì trộn + topping bất_kì
+OTHER	7	9	2	4	Product	Promotion	ưu đãi: tặng 1 coca-cola khi mua combo mì trộn + topping bất_kì
+OTHER	2	3	4	6	Organization	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	2	3	7	8	Organization	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+AFFILIATION	4	6	7	8	Product	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	7	8	4	6	Promotion	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	2	3	4	6	Organization	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	2	3	7	8	Organization	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	4	6	7	8	Product	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+PRICE	7	8	4	6	Promotion	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	2	3	4	6	Organization	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+LOCATION	2	3	7	8	Organization	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	4	6	7	8	Product	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	7	8	4	6	Promotion	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+LOCATION	2	3	4	6	Organization	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	2	3	7	8	Organization	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	4	6	7	8	Product	Promotion	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	7	8	4	6	Promotion	Product	độc_quyền trên app 7-eleven: trà tắc khổng_lồ giảm 50% - giá chỉ 10k
+OTHER	0	1	2	2	Promotion	Time	flash sale: 11h - 17h từ 15 - 21/05/2023
+AFFILIATION	2	2	0	1	Time	Promotion	flash sale: 11h - 17h từ 15 - 21/05/2023
+REGULATION	0	1	2	2	Promotion	Time	flash sale: 11h - 17h từ 15 - 21/05/2023
+OTHER	2	2	0	1	Time	Promotion	flash sale: 11h - 17h từ 15 - 21/05/2023
+OTHER	7	10	12	14	Product	Promotion	"măm măm" bữa sáng hoàn hảo: mua 1 sandwich/ sandwich nướng bất_kì, tặng 1 sprite no_nê thích mê
+PRICE	12	14	7	10	Promotion	Product	"măm măm" bữa sáng hoàn hảo: mua 1 sandwich/ sandwich nướng bất_kì, tặng 1 sprite no_nê thích mê
+AFFILIATION	7	10	12	14	Product	Promotion	"măm măm" bữa sáng hoàn hảo: mua 1 sandwich/ sandwich nướng bất_kì, tặng 1 sprite no_nê thích mê
+OTHER	12	14	7	10	Promotion	Product	"măm măm" bữa sáng hoàn hảo: mua 1 sandwich/ sandwich nướng bất_kì, tặng 1 sprite no_nê thích mê
+OTHER	3	7	9	10	Product	Promotion	hít_hà suýt xoa: cơm trộn nghêu kiểu thái - giảm 3k
+PRICE	9	10	3	7	Promotion	Product	hít_hà suýt xoa: cơm trộn nghêu kiểu thái - giảm 3k
+AFFILIATION	3	7	9	10	Product	Promotion	hít_hà suýt xoa: cơm trộn nghêu kiểu thái - giảm 3k
+OTHER	9	10	3	7	Promotion	Product	hít_hà suýt xoa: cơm trộn nghêu kiểu thái - giảm 3k
+REGULATION	6	12	2	4	Promotion	Regulation	quà tặng: 10 người may_mắn sẽ nhận được 01 thùng bia tiger soju vị bất_kì
+LOCATION	9	10	7	7	Organization	Location	lễ đến rồi, nhập tiệc thôi: cùng 7-eleven ăn lẩu "haidilao" tại nhà
+REGULATION	4	7	0	2	Promotion	Regulation	đổi 3 tem , tặng 1 túi 7-eleven cực cool
+AFFILIATION	4	4	0	3	Time	Regulation	ưu_đãi diễn ra từ: 27/04 - 07/05/2023
+AFFILIATION	3	3	0	2	Time	Regulation	ưu_đãi áp_dụng tới: 30/04/2023
+LOCATION	15	16	7	7	Promotion	Location	có hề gì đâu bởi_vì vani x 7-eleven đem đến bạn ưu_đãi cháy hơn hè: giảm 60k
+PRICE	4	8	11	14	Promotion	Product	ở đây chúng_mình còn tặng 01 túi quà du_lịch khi mua 2 sản_phẩm colgate bất_kì nữa đó
+OTHER	11	14	4	8	Product	Promotion	ở đây chúng_mình còn tặng 01 túi quà du_lịch khi mua 2 sản_phẩm colgate bất_kì nữa đó
+OTHER	4	8	11	14	Promotion	Product	ở đây chúng_mình còn tặng 01 túi quà du_lịch khi mua 2 sản_phẩm colgate bất_kì nữa đó
+AFFILIATION	11	14	4	8	Product	Promotion	ở đây chúng_mình còn tặng 01 túi quà du_lịch khi mua 2 sản_phẩm colgate bất_kì nữa đó
+OTHER	0	4	12	12	Product	Location	bia tiger soju infused lager - giá 22k/ lon đã có_mặt tại 7-eleven
+PRICE	7	8	0	4	Price	Product	bia tiger soju infused lager - giá 22k/ lon đã có_mặt tại 7-eleven
+LOCATION	0	4	12	12	Product	Location	bia tiger soju infused lager - giá 22k/ lon đã có_mặt tại 7-eleven
+OTHER	7	8	0	4	Price	Product	bia tiger soju infused lager - giá 22k/ lon đã có_mặt tại 7-eleven
+PRICE	11	11	6	9	Price	Product	nạp vitamin trái_cây cùng flash sale: nho đỏ úc 500gr chỉ 102k (giá gốc: 120k)
+OTHER	12	14	6	9	Price	Product	nạp vitamin trái_cây cùng flash sale: nho đỏ úc 500gr chỉ 102k (giá gốc: 120k)
+OTHER	11	11	6	9	Price	Product	nạp vitamin trái_cây cùng flash sale: nho đỏ úc 500gr chỉ 102k (giá gốc: 120k)
+PRICE	12	14	6	9	Price	Product	nạp vitamin trái_cây cùng flash sale: nho đỏ úc 500gr chỉ 102k (giá gốc: 120k)
+PRICE	11	11	6	8	Price	Product	vừa thổi vừa ăn món mới: cháo nghêu pattaya - chỉ 25k ngon miễn bàn
+OTHER	0	1	2	5	Promotion	Promotion	ưu đãi: tặng 1 sprite 390ml khi mua sản phẩm.
+AFFILIATION	2	5	0	1	Promotion	Promotion	ưu đãi: tặng 1 sprite 390ml khi mua sản phẩm.
+PRICE	14	14	6	11	Price	Product	bánh xinh núng na núng nính: pudding bơ/ sapoche/ sô cô la - chỉ 23k (giá gốc: 26k)
+OTHER	15	17	6	11	Price	Product	bánh xinh núng na núng nính: pudding bơ/ sapoche/ sô cô la - chỉ 23k (giá gốc: 26k)
+OTHER	14	14	6	11	Price	Product	bánh xinh núng na núng nính: pudding bơ/ sapoche/ sô cô la - chỉ 23k (giá gốc: 26k)
+PRICE	15	17	6	11	Price	Product	bánh xinh núng na núng nính: pudding bơ/ sapoche/ sô cô la - chỉ 23k (giá gốc: 26k)
+OTHER	1	2	6	10	Product	Promotion	mua mì trộn nhà bảy - tặng 1 trà tắc lớn siêu phẩm làm nên bữa ăn hoàn_hảo
+PRICE	6	10	1	2	Promotion	Product	mua mì trộn nhà bảy - tặng 1 trà tắc lớn siêu phẩm làm nên bữa ăn hoàn_hảo
+AFFILIATION	1	2	6	10	Product	Promotion	mua mì trộn nhà bảy - tặng 1 trà tắc lớn siêu phẩm làm nên bữa ăn hoàn_hảo
+OTHER	6	10	1	2	Promotion	Product	mua mì trộn nhà bảy - tặng 1 trà tắc lớn siêu phẩm làm nên bữa ăn hoàn_hảo
+OTHER	5	7	9	11	Product	Promotion	ăn_uống no_nê combo songkran: mua 1 sản_phẩm bất_kì - tặng 1 sprite thích mê
+PRICE	9	11	5	7	Promotion	Product	ăn_uống no_nê combo songkran: mua 1 sản_phẩm bất_kì - tặng 1 sprite thích mê
+AFFILIATION	5	7	9	11	Product	Promotion	ăn_uống no_nê combo songkran: mua 1 sản_phẩm bất_kì - tặng 1 sprite thích mê
+OTHER	9	11	5	7	Promotion	Product	ăn_uống no_nê combo songkran: mua 1 sản_phẩm bất_kì - tặng 1 sprite thích mê
+PRICE	11	11	4	8	Price	Product	độc lạ món mới: cơm nắm tom yum gà - chỉ 17k vừa lên kệ tại nhà_bảy
+OTHER	2	4	7	11	Promotion	Product	ưu đãi: tặng 1 sprite khi mua cơm nắm tom yum gà
+AFFILIATION	7	11	2	4	Product	Promotion	ưu đãi: tặng 1 sprite khi mua cơm nắm tom yum gà
+PRICE	2	4	7	11	Promotion	Product	ưu đãi: tặng 1 sprite khi mua cơm nắm tom yum gà
+OTHER	7	11	2	4	Product	Promotion	ưu đãi: tặng 1 sprite khi mua cơm nắm tom yum gà
+AFFILIATION	3	3	0	2	Time	Regulation	thời_gian đổi quà: 15/4 - 15/7/2023
+PRICE	11	11	6	8	Price	Product	lan_toả sự ngọt_ngào cùng món mới: bánh crepe sầu_riêng - chỉ 21k (giá gốc 25k) thơm ngon béo ngậy
+OTHER	12	14	6	8	Price	Product	lan_toả sự ngọt_ngào cùng món mới: bánh crepe sầu_riêng - chỉ 21k (giá gốc 25k) thơm ngon béo ngậy
+OTHER	11	11	6	8	Price	Product	lan_toả sự ngọt_ngào cùng món mới: bánh crepe sầu_riêng - chỉ 21k (giá gốc 25k) thơm ngon béo ngậy
+PRICE	12	14	6	8	Price	Product	lan_toả sự ngọt_ngào cùng món mới: bánh crepe sầu_riêng - chỉ 21k (giá gốc 25k) thơm ngon béo ngậy
+LOCATION	1	4	12	12	Product	Location	hot_trend: mận hà nội/ thanh_trà được bán với giá ưu_đãi ngay tại 7-eleven
+PRICE	2	2	0	1	Price	Product	thanh_trà 500g: 89k => 73k
+OTHER	4	4	0	1	Price	Product	thanh_trà 500g: 89k => 73k
+OTHER	2	2	0	1	Price	Product	thanh_trà 500g: 89k => 73k
+PRICE	4	4	0	1	Price	Product	thanh_trà 500g: 89k => 73k
+PRICE	3	3	0	2	Price	Product	mận hà_nội 500g: 79k => 69k
+OTHER	5	5	0	2	Price	Product	mận hà_nội 500g: 79k => 69k
+OTHER	3	3	0	2	Price	Product	mận hà_nội 500g: 79k => 69k
+PRICE	5	5	0	2	Price	Product	mận hà_nội 500g: 79k => 69k
+PRICE	9	9	4	6	Price	Product	thử ngay món mới: gỏi lạp thái - giá 30k lạ_miệng thơm ngon
+PRICE	8	8	4	6	Price	Product	flash sale cực đỉnh: trà tắc khổng_lồ chỉ 10k (giá gốc: 20k) - giao gấp 24/7
+OTHER	9	11	4	6	Price	Product	flash sale cực đỉnh: trà tắc khổng_lồ chỉ 10k (giá gốc: 20k) - giao gấp 24/7
+OTHER	8	8	4	6	Price	Product	flash sale cực đỉnh: trà tắc khổng_lồ chỉ 10k (giá gốc: 20k) - giao gấp 24/7
+PRICE	9	11	4	6	Price	Product	flash sale cực đỉnh: trà tắc khổng_lồ chỉ 10k (giá gốc: 20k) - giao gấp 24/7
+OTHER	7	8	10	15	Promotion	Product	ngày mới thêm tỉnh_táo với ưu đãi: giảm 5k - cà_phê sữa dừa/ sữa_tươi sương sáo ngon tuyệt
+AFFILIATION	10	15	7	8	Product	Promotion	ngày mới thêm tỉnh_táo với ưu đãi: giảm 5k - cà_phê sữa dừa/ sữa_tươi sương sáo ngon tuyệt
+PRICE	7	8	10	15	Promotion	Product	ngày mới thêm tỉnh_táo với ưu đãi: giảm 5k - cà_phê sữa dừa/ sữa_tươi sương sáo ngon tuyệt
+OTHER	10	15	7	8	Product	Promotion	ngày mới thêm tỉnh_táo với ưu đãi: giảm 5k - cà_phê sữa dừa/ sữa_tươi sương sáo ngon tuyệt
+OTHER	3	4	5	14	Promotion	Product	tiệc_trà đậm đà: giảm 5k oolong nhài sữa/ trà dâu/ trà oolong sen vàng macchiato giải_nhiệt ngày nắng
+AFFILIATION	5	14	3	4	Product	Promotion	tiệc_trà đậm đà: giảm 5k oolong nhài sữa/ trà dâu/ trà oolong sen vàng macchiato giải_nhiệt ngày nắng
+PRICE	3	4	5	14	Promotion	Product	tiệc_trà đậm đà: giảm 5k oolong nhài sữa/ trà dâu/ trà oolong sen vàng macchiato giải_nhiệt ngày nắng
+OTHER	5	14	3	4	Product	Promotion	tiệc_trà đậm đà: giảm 5k oolong nhài sữa/ trà dâu/ trà oolong sen vàng macchiato giải_nhiệt ngày nắng
+OTHER	6	11	14	17	Promotion	Product	trà tươi mát, hè thêm chill": tặng 1 gối cổ du lịch, khi mua 6 chai tea+ plus
+AFFILIATION	14	17	6	11	Product	Promotion	trà tươi mát, hè thêm chill": tặng 1 gối cổ du lịch, khi mua 6 chai tea+ plus
+PRICE	6	11	14	17	Promotion	Product	trà tươi mát, hè thêm chill": tặng 1 gối cổ du lịch, khi mua 6 chai tea+ plus
+OTHER	14	17	6	11	Product	Promotion	trà tươi mát, hè thêm chill": tặng 1 gối cổ du lịch, khi mua 6 chai tea+ plus
+PRICE	12	12	5	10	Price	Product	điểm 10 cho chất lượng: táo fuji nhật (hộp 3 trái) chỉ 213k (giá gốc: 345k)
+OTHER	13	15	5	10	Price	Product	điểm 10 cho chất lượng: táo fuji nhật (hộp 3 trái) chỉ 213k (giá gốc: 345k)
+OTHER	12	12	5	10	Price	Product	điểm 10 cho chất lượng: táo fuji nhật (hộp 3 trái) chỉ 213k (giá gốc: 345k)
+PRICE	13	15	5	10	Price	Product	điểm 10 cho chất lượng: táo fuji nhật (hộp 3 trái) chỉ 213k (giá gốc: 345k)
+OTHER	0	1	4	4	Promotion	Time	flash sale: áp_dụng từ 04 - 07/04/2023
+AFFILIATION	4	4	0	1	Time	Promotion	flash sale: áp_dụng từ 04 - 07/04/2023
+REGULATION	0	1	4	4	Promotion	Time	flash sale: áp_dụng từ 04 - 07/04/2023
+OTHER	4	4	0	1	Time	Promotion	flash sale: áp_dụng từ 04 - 07/04/2023
+PRICE	11	12	5	8	Price	Product	ngọt_ngào thơm béo món mới: bánh su kem xoài - chỉ 14k/ hộp 2 cái (giá gốc: 18k)
+OTHER	15	17	5	8	Price	Product	ngọt_ngào thơm béo món mới: bánh su kem xoài - chỉ 14k/ hộp 2 cái (giá gốc: 18k)
+OTHER	11	12	5	8	Price	Product	ngọt_ngào thơm béo món mới: bánh su kem xoài - chỉ 14k/ hộp 2 cái (giá gốc: 18k)
+PRICE	15	17	5	8	Price	Product	ngọt_ngào thơm béo món mới: bánh su kem xoài - chỉ 14k/ hộp 2 cái (giá gốc: 18k)
+PRICE	8	8	0	5	Price	Product	trứng gà ta v.food 10 quả - chỉ 41k (giá gốc 57k) thích mê
+OTHER	9	11	0	5	Price	Product	trứng gà ta v.food 10 quả - chỉ 41k (giá gốc 57k) thích mê
+OTHER	8	8	0	5	Price	Product	trứng gà ta v.food 10 quả - chỉ 41k (giá gốc 57k) thích mê
+PRICE	9	11	0	5	Price	Product	trứng gà ta v.food 10 quả - chỉ 41k (giá gốc 57k) thích mê
+OTHER	5	11	13	16	Product	Promotion	bữa sáng no nê: mua 1 bánh_bao vịt quay sốt tiêu đen - tặng 01 lavie 500ml
+PRICE	13	16	5	11	Promotion	Product	bữa sáng no nê: mua 1 bánh_bao vịt quay sốt tiêu đen - tặng 01 lavie 500ml
+AFFILIATION	5	11	13	16	Product	Promotion	bữa sáng no nê: mua 1 bánh_bao vịt quay sốt tiêu đen - tặng 01 lavie 500ml
+OTHER	13	16	5	11	Promotion	Product	bữa sáng no nê: mua 1 bánh_bao vịt quay sốt tiêu đen - tặng 01 lavie 500ml
+LOCATION	7	12	22	22	Product	Location	với lớp nhân đậm_đà cực cuốn, món bánh_bao vịt quay sốt tiêu đen thơm_lừng đang là món ăn sáng khá phổ_biến tại 7-eleven
+PRICE	10	10	5	7	Price	Product	chua chua_ngọt ngọt món mới: khóm cắt sẵn - chỉ 19k (giá gốc: 23k)/ hộp ăn đã ghiền
+OTHER	11	13	5	7	Price	Product	chua chua_ngọt ngọt món mới: khóm cắt sẵn - chỉ 19k (giá gốc: 23k)/ hộp ăn đã ghiền
+OTHER	10	10	5	7	Price	Product	chua chua_ngọt ngọt món mới: khóm cắt sẵn - chỉ 19k (giá gốc: 23k)/ hộp ăn đã ghiền
+PRICE	11	13	5	7	Price	Product	chua chua_ngọt ngọt món mới: khóm cắt sẵn - chỉ 19k (giá gốc: 23k)/ hộp ăn đã ghiền
+OTHER	5	6	8	11	Product	Promotion	ăn no uống say: mua 1 burger bất_kì, tặng 1 coca-cola 390ml cực đã
+PRICE	8	11	5	6	Promotion	Product	ăn no uống say: mua 1 burger bất_kì, tặng 1 coca-cola 390ml cực đã
+AFFILIATION	5	6	8	11	Product	Promotion	ăn no uống say: mua 1 burger bất_kì, tặng 1 coca-cola 390ml cực đã
+OTHER	8	11	5	6	Promotion	Product	ăn no uống say: mua 1 burger bất_kì, tặng 1 coca-cola 390ml cực đã
+OTHER	3	5	7	12	Product	Promotion	ưu đãi: mua 1 mì trộn bất_kì, tặng 1 trà tắc ly lớn
+PRICE	7	12	3	5	Promotion	Product	ưu đãi: mua 1 mì trộn bất_kì, tặng 1 trà tắc ly lớn
+AFFILIATION	3	5	7	12	Product	Promotion	ưu đãi: mua 1 mì trộn bất_kì, tặng 1 trà tắc ly lớn
+OTHER	7	12	3	5	Promotion	Product	ưu đãi: mua 1 mì trộn bất_kì, tặng 1 trà tắc ly lớn
+PRICE	6	7	0	4	Price	Promotion	tặng hộp quà summer chill trị_giá hơn 500k
+PRICE	9	10	4	7	Price	Product	ngon thơm đậm đà: trà oolong nhài sữa chỉ từ 20k mê_đắm mê đuối
+OTHER	1	5	6	8	Time	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	10	10	Time	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	1	5	Promotion	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	10	10	Promotion	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	13	13	Promotion	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	1	5	Product	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	6	8	Product	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+LOCATION	10	10	13	13	Product	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	6	8	Time	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	10	10	Time	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	1	5	Promotion	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	10	10	Promotion	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+LOCATION	6	8	13	13	Promotion	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	1	5	Product	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	6	8	Product	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	13	13	Product	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	6	8	Time	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	10	10	Time	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	1	5	Promotion	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+PRICE	6	8	10	10	Promotion	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	13	13	Promotion	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	1	5	Product	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	6	8	Product	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	13	13	Product	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	6	8	Time	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	10	10	Time	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	1	5	Promotion	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	10	10	Promotion	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	13	13	Promotion	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	1	5	Product	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+AFFILIATION	10	10	6	8	Product	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	13	13	Product	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+AFFILIATION	1	5	6	8	Time	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	10	10	Time	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	1	5	Promotion	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	10	10	Promotion	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	13	13	Promotion	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	1	5	Product	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	6	8	Product	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	13	13	Product	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	6	8	Time	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	1	5	10	10	Time	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+REGULATION	6	8	1	5	Promotion	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	10	10	Promotion	Product	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	6	8	13	13	Promotion	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	1	5	Product	Time	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	6	8	Product	Promotion	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+OTHER	10	10	13	13	Product	Location	tưng_bừng ngày bánh_mì việt nam 24/03/2023: đồng giá 20k tất_cả bánh_mì việt_nam tại 7-eleven
+PRICE	11	11	4	8	Price	Product	lên kệ món mới: hộp sushi inari lục bảo - giá 40k thử ngay nha
+OTHER	0	1	2	8	Promotion	Promotion	ưu đãi: tặng 01 trà sữa 7-eleven size m khi mua sản_phẩm
+AFFILIATION	2	8	0	1	Promotion	Promotion	ưu đãi: tặng 01 trà sữa 7-eleven size m khi mua sản_phẩm
+LOCATION	1	4	9	9	Promotion	Location	minigame: tặng 2 bộ sticker & giấy note độc_quyền 7-eleven
+REGULATION	0	7	10	11	Promotion	Regulation	tặng 1 nước táo lên_men somersby táo/mâm xôi - cho hoá_đơn 50k
+PRICE	4	4	0	3	Price	Product	dâu_tây hàn quốc 250gr: 209k => 129k
+OTHER	6	6	0	3	Price	Product	dâu_tây hàn quốc 250gr: 209k => 129k
+OTHER	4	4	0	3	Price	Product	dâu_tây hàn quốc 250gr: 209k => 129k
+PRICE	6	6	0	3	Price	Product	dâu_tây hàn quốc 250gr: 209k => 129k
+PRICE	9	9	5	7	Price	Product	uống thoả cơn ghiền flashsale: trà tắc khổng_lồ chỉ 10k đập_tan cơn khát khi đặt qua shopeefood.
+OTHER	16	16	5	7	Organization	Product	uống thoả cơn ghiền flashsale: trà tắc khổng_lồ chỉ 10k đập_tan cơn khát khi đặt qua shopeefood.
+OTHER	9	9	5	7	Price	Product	uống thoả cơn ghiền flashsale: trà tắc khổng_lồ chỉ 10k đập_tan cơn khát khi đặt qua shopeefood.
+LOCATION	16	16	5	7	Organization	Product	uống thoả cơn ghiền flashsale: trà tắc khổng_lồ chỉ 10k đập_tan cơn khát khi đặt qua shopeefood.
+LOCATION	2	3	9	9	Product	Location	nhắc đến trà tắc thì không_thể không kể đến 7-eleven được.
+OTHER	1	4	8	10	Product	Promotion	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+PRICE	7	7	1	4	Price	Product	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	7	7	8	10	Price	Promotion	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	8	10	1	4	Promotion	Product	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	1	4	8	10	Product	Promotion	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	7	7	1	4	Price	Product	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	7	7	8	10	Price	Promotion	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+PRICE	8	10	1	4	Promotion	Product	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+AFFILIATION	1	4	8	10	Product	Promotion	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	7	7	1	4	Price	Product	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	7	7	8	10	Price	Promotion	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+OTHER	8	10	1	4	Promotion	Product	flashsale: dâu_tây hàn quốc 250gr - chỉ 129k (giảm 80k/ hộp) thơm ngon_ngọt lành
+REGULATION	5	8	3	4	Promotion	Regulation	khuấy_động lên nào: hoá_đơn 70k, tặng 01 bộ sticker & giấy note 7-eleven
+REGULATION	3	7	1	2	Promotion	Regulation	nhập mã freeshipbanmoi, giảm đến 35k tiền ship
+LOCATION	15	16	2	8	Organization	Promotion	ăn_uống no_nê flash sale siêu hời cho bữa sáng - trưa ngon_miệng chỉ có trên app 7-eleven
+OTHER	0	1	2	7	Promotion	Promotion	ưu đãi: tặng 1 nutriboost cam/ dâu 297ml khi mua sản phẩm.
+AFFILIATION	2	7	0	1	Promotion	Promotion	ưu đãi: tặng 1 nutriboost cam/ dâu 297ml khi mua sản phẩm.
+LOCATION	10	11	3	3	Organization	Product	siêu ưu_đãi - pepsi cùng ngàn khuyến_mãi chỉ có trên app 7-eleven
+OTHER	9	13	2	2	Promotion	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	16	16	Promotion	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	2	2	Product	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	9	13	Product	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	2	2	Organization	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	9	13	Organization	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+LOCATION	18	18	16	16	Organization	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	2	2	Promotion	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	16	16	Promotion	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	2	2	Product	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	9	13	Product	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	2	2	Organization	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+LOCATION	18	18	9	13	Organization	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	16	16	Organization	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+LOCATION	9	13	2	2	Promotion	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	16	16	Promotion	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	2	2	Product	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	9	13	Product	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	2	2	Organization	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	9	13	Organization	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	16	16	Organization	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	2	2	Promotion	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	16	16	Promotion	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+LOCATION	16	16	2	2	Product	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	9	13	Product	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	2	2	Organization	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	9	13	Organization	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	16	16	Organization	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	2	2	Promotion	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+PRICE	9	13	16	16	Promotion	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	2	2	Product	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	9	13	Product	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	2	2	Organization	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	9	13	Organization	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	16	16	Organization	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	2	2	Promotion	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	9	13	16	16	Promotion	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	16	16	2	2	Product	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+AFFILIATION	16	16	9	13	Product	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	2	2	Organization	Location	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	9	13	Organization	Promotion	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	18	18	16	16	Organization	Product	hãy để 7-eleven lo lo lo cho em, vì: flash sale đồng giá 15k các loại bánh_mì trên shopeefood
+OTHER	0	1	2	4	Promotion	Promotion	ưu đãi: miễn_phí 01 topping khi mua size bất_kì.
+AFFILIATION	2	4	0	1	Promotion	Promotion	ưu đãi: miễn_phí 01 topping khi mua size bất_kì.
+AFFILIATION	4	8	10	13	Product	Promotion	nhâm_nhi xiên que: mua 2 xúc xích/ xiên que bất_kì, tặng 01 coca-cola 390ml
+OTHER	10	13	4	8	Promotion	Product	nhâm_nhi xiên que: mua 2 xúc xích/ xiên que bất_kì, tặng 01 coca-cola 390ml
+OTHER	4	8	10	13	Product	Promotion	nhâm_nhi xiên que: mua 2 xúc xích/ xiên que bất_kì, tặng 01 coca-cola 390ml
+PRICE	10	13	4	8	Promotion	Product	nhâm_nhi xiên que: mua 2 xúc xích/ xiên que bất_kì, tặng 01 coca-cola 390ml
+OTHER	4	5	7	12	Promotion	Product	da sáng dáng xinh: giảm 8k - combo 01 salad bò nướng/ cá_ngừ & trứng + 1 rau_câu dừa
+AFFILIATION	7	12	4	5	Product	Promotion	da sáng dáng xinh: giảm 8k - combo 01 salad bò nướng/ cá_ngừ & trứng + 1 rau_câu dừa
+PRICE	4	5	7	12	Promotion	Product	da sáng dáng xinh: giảm 8k - combo 01 salad bò nướng/ cá_ngừ & trứng + 1 rau_câu dừa
+OTHER	7	12	4	5	Product	Promotion	da sáng dáng xinh: giảm 8k - combo 01 salad bò nướng/ cá_ngừ & trứng + 1 rau_câu dừa
+OTHER	4	4	5	7	Promotion	Product	mạnh như combo samurai: tặng 01 trà sữa - khi mua 01 sản_phẩm sushi bất_kì
+AFFILIATION	5	7	4	4	Product	Promotion	mạnh như combo samurai: tặng 01 trà sữa - khi mua 01 sản_phẩm sushi bất_kì
+PRICE	4	4	5	7	Promotion	Product	mạnh như combo samurai: tặng 01 trà sữa - khi mua 01 sản_phẩm sushi bất_kì
+OTHER	5	7	4	4	Product	Promotion	mạnh như combo samurai: tặng 01 trà sữa - khi mua 01 sản_phẩm sushi bất_kì
+OTHER	7	8	12	16	Product	Promotion	combo thượng_hạng "yum cha lưỡng quảng": mua 01 xíu_mại & há cảo, tặng 01 trà fuzetea+ 450ml
+PRICE	12	16	7	8	Promotion	Product	combo thượng_hạng "yum cha lưỡng quảng": mua 01 xíu_mại & há cảo, tặng 01 trà fuzetea+ 450ml
+AFFILIATION	7	8	12	16	Product	Promotion	combo thượng_hạng "yum cha lưỡng quảng": mua 01 xíu_mại & há cảo, tặng 01 trà fuzetea+ 450ml
+OTHER	12	16	7	8	Promotion	Product	combo thượng_hạng "yum cha lưỡng quảng": mua 01 xíu_mại & há cảo, tặng 01 trà fuzetea+ 450ml
+AFFILIATION	3	3	0	2	Time	Regulation	thời_gian mở bán: 03/03 - 08/03/2022
+OTHER	2	2	3	6	Promotion	Product	combo shogun: tặng 01 nutriboost cam/ dâu - khi mua 1 sản_phẩm bất_kì trong danh_sách
+AFFILIATION	3	6	2	2	Product	Promotion	combo shogun: tặng 01 nutriboost cam/ dâu - khi mua 1 sản_phẩm bất_kì trong danh_sách
+PRICE	2	2	3	6	Promotion	Product	combo shogun: tặng 01 nutriboost cam/ dâu - khi mua 1 sản_phẩm bất_kì trong danh_sách
+OTHER	3	6	2	2	Product	Promotion	combo shogun: tặng 01 nutriboost cam/ dâu - khi mua 1 sản_phẩm bất_kì trong danh_sách
+PRICE	4	5	6	9	Promotion	Product	bữa sáng ngọt ngào: giảm 8k combo bánh đan mạch + trà oolong sen vàng macchiato
+OTHER	6	9	4	5	Product	Promotion	bữa sáng ngọt ngào: giảm 8k combo bánh đan mạch + trà oolong sen vàng macchiato
+OTHER	4	5	6	9	Promotion	Product	bữa sáng ngọt ngào: giảm 8k combo bánh đan mạch + trà oolong sen vàng macchiato
+AFFILIATION	6	9	4	5	Product	Promotion	bữa sáng ngọt ngào: giảm 8k combo bánh đan mạch + trà oolong sen vàng macchiato
+PRICE	4	5	0	2	Price	Product	hộp quà trái_cây chỉ từ 300k
+AFFILIATION	3	3	0	2	Time	Regulation	thời_gian mở bán: 01 - 12/03/2023
+PRICE	10	11	5	8	Price	Product	thơm béo đậm_đà món mới: trà oolong nhài sữa chỉ từ 20k
+PRICE	11	11	5	9	Price	Product	ánh mắt ta chạm vào: trà oolong sen vàng macchiato chỉ 29k
+PRICE	9	13	3	7	Price	Product	siêu "fresh" cùng: calamelo trà tắc bưởi hồng - giá dùng thử chỉ 22k (giá gốc: 29k)
+OTHER	14	16	3	7	Price	Product	siêu "fresh" cùng: calamelo trà tắc bưởi hồng - giá dùng thử chỉ 22k (giá gốc: 29k)
+OTHER	9	13	3	7	Price	Product	siêu "fresh" cùng: calamelo trà tắc bưởi hồng - giá dùng thử chỉ 22k (giá gốc: 29k)
+PRICE	14	16	3	7	Price	Product	siêu "fresh" cùng: calamelo trà tắc bưởi hồng - giá dùng thử chỉ 22k (giá gốc: 29k)
+OTHER	1	8	10	13	Product	Promotion	mua 1 oreo pie socola/ socola dâu hộp 180g - nhận 1 card blackpink
+PRICE	10	13	1	8	Promotion	Product	mua 1 oreo pie socola/ socola dâu hộp 180g - nhận 1 card blackpink
+OTHER	1	6	8	11	Product	Promotion	mua 1 oreo pie socola hộp 360g - nhận 2 card blackpink
+PRICE	8	11	1	6	Promotion	Product	mua 1 oreo pie socola hộp 360g - nhận 2 card blackpink
+PRICE	3	7	8	9	Promotion	Product	valentine cực cháy: mua 2 tính tiền 1 bcs dolphi
+OTHER	8	9	3	7	Product	Promotion	valentine cực cháy: mua 2 tính tiền 1 bcs dolphi
+PRICE	4	7	8	12	Promotion	Product	sữa_chua đã "thử chưa?": mua 2 tặng 1 sữa_chua dưa lưới/nha đam delifres
+OTHER	8	12	4	7	Product	Promotion	sữa_chua đã "thử chưa?": mua 2 tặng 1 sữa_chua dưa lưới/nha đam delifres
+OTHER	5	10	12	16	Product	Promotion	món ngon, hương_vị cải tiến: cơm trộn cá_hồi furikake rong biển - tặng 1 nutriboost cam/dâu 297ml
+PRICE	12	16	5	10	Promotion	Product	món ngon, hương_vị cải tiến: cơm trộn cá_hồi furikake rong biển - tặng 1 nutriboost cam/dâu 297ml
+AFFILIATION	5	10	12	16	Product	Promotion	món ngon, hương_vị cải tiến: cơm trộn cá_hồi furikake rong biển - tặng 1 nutriboost cam/dâu 297ml
+OTHER	12	16	5	10	Promotion	Product	món ngon, hương_vị cải tiến: cơm trộn cá_hồi furikake rong biển - tặng 1 nutriboost cam/dâu 297ml

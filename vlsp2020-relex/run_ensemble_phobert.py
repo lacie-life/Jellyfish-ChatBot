@@ -115,7 +115,7 @@ if __name__ == "__main__":
             "model_dir": "./models/original_train_dev/phobert_em_es_base_maxlen_384_epochs_10"
         },
     ]
-    weights = [0.4, 0.6]
+    weights = [0.6, 0.4]
 
     config = RobertaConfig.from_pretrained(models[0]["model_dir"])
     id2label = config.id2label

@@ -93,7 +93,7 @@ def edgeExtraction(sample, driver, store_name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    graph_paths = "../data/Graph_Create/"
+    graph_paths = "../data/Graph_Create_new/"
 
     paths = [f for f in glob.glob(graph_paths + "**/*.txt", recursive=True)]
 

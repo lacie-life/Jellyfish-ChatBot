@@ -1,0 +1,605 @@
+LOCATION	0	2	11	17	Organization	Promotion	tops market online đang tung siêu deal tại app: https://bit.ly/topsmarketonline - giảm đến 200k cho tất_cả các mặt_hàng tại siêu thị, từ thịt, cá, rau củ, mỹ phẩm, bách hoá... gì cũng có!
+REGULATION	3	8	1	2	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 600k
+OTHER	3	8	10	12	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 600k
+OTHER	3	8	1	2	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 600k
+REGULATION	3	8	10	12	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 600k
+OTHER	2	3	5	9	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+OTHER	2	3	13	15	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+OTHER	20	20	5	9	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+PRICE	20	20	13	15	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+PRICE	2	3	5	9	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+OTHER	2	3	13	15	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+OTHER	20	20	5	9	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+OTHER	20	20	13	15	Price	Product	giá chỉ từ 132,500vnd cho chocolate hộp thiếc hình trái_tim xinh xắn, hay chocolate ferrero rocher lừng_danh chỉ với giá 164.800vnd.
+PRICE	9	10	0	2	Price	Product	bánh tươi đặc_biệt cho dịp valentine với giá chỉ từ 9,000vnd.
+REGULATION	3	6	1	2	Promotion	Regulation	nhập mã lonely giảm 11% tối_đa 200k cho đơn từ 550k
+OTHER	3	6	8	10	Promotion	Regulation	nhập mã lonely giảm 11% tối_đa 200k cho đơn từ 550k
+OTHER	3	6	1	2	Promotion	Regulation	nhập mã lonely giảm 11% tối_đa 200k cho đơn từ 550k
+REGULATION	3	6	8	10	Promotion	Regulation	nhập mã lonely giảm 11% tối_đa 200k cho đơn từ 550k
+REGULATION	3	10	14	14	Promotion	Time	đừng bỏ lỡ ưu_đãi lên đến 35% các loại thực_phẩm tươi, diễn ra từ 10/2-12/2.
+OTHER	14	14	3	10	Time	Promotion	đừng bỏ lỡ ưu_đãi lên đến 35% các loại thực_phẩm tươi, diễn ra từ 10/2-12/2.
+OTHER	3	10	14	14	Promotion	Time	đừng bỏ lỡ ưu_đãi lên đến 35% các loại thực_phẩm tươi, diễn ra từ 10/2-12/2.
+AFFILIATION	14	14	3	10	Time	Promotion	đừng bỏ lỡ ưu_đãi lên đến 35% các loại thực_phẩm tươi, diễn ra từ 10/2-12/2.
+REGULATION	0	1	3	5	Promotion	Regulation	giảm 35k cho đơn từ 300k
+REGULATION	0	1	3	5	Promotion	Regulation	giảm 60k cho đơn từ 500k
+REGULATION	0	1	3	5	Promotion	Regulation	giảm 100k cho đơn từ 800k
+REGULATION	3	8	1	2	Promotion	Regulation	nhập mã bb1234 giảm ngay 5%, lên đến 50k cho đơn từ 350k
+OTHER	3	8	10	12	Promotion	Regulation	nhập mã bb1234 giảm ngay 5%, lên đến 50k cho đơn từ 350k
+OTHER	3	8	1	2	Promotion	Regulation	nhập mã bb1234 giảm ngay 5%, lên đến 50k cho đơn từ 350k
+REGULATION	3	8	10	12	Promotion	Regulation	nhập mã bb1234 giảm ngay 5%, lên đến 50k cho đơn từ 350k
+REGULATION	0	2	4	6	Promotion	Regulation	giảm ngay 60k cho đơn từ 500k
+REGULATION	0	2	4	6	Promotion	Regulation	giảm ngay 100k cho đơn từ 800k
+REGULATION	0	2	4	6	Promotion	Regulation	giảm ngay 150k cho đơn từ 1.200k
+OTHER	9	10	2	3	Product	Location	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+AFFILIATION	9	10	16	23	Product	Promotion	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	16	23	2	3	Promotion	Location	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	16	23	9	10	Promotion	Product	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	9	10	2	3	Product	Location	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	9	10	16	23	Product	Promotion	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+LOCATION	16	23	2	3	Promotion	Location	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	16	23	9	10	Promotion	Product	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+LOCATION	9	10	2	3	Product	Location	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	9	10	16	23	Product	Promotion	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	16	23	2	3	Promotion	Location	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	16	23	9	10	Promotion	Product	hãy cùng tops market chúc_mừng cho chủ_nhân của chiếc iphone 14 - người thắng cuộc của chương_trình "tích điểm ngay, săn ngay iphone 14"!
+OTHER	3	10	13	16	Promotion	Time	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+LOCATION	3	10	19	22	Promotion	Location	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+OTHER	13	16	3	10	Time	Promotion	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+REGULATION	3	10	13	16	Promotion	Time	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+OTHER	3	10	19	22	Promotion	Location	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+OTHER	13	16	3	10	Time	Promotion	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+OTHER	3	10	13	16	Promotion	Time	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+OTHER	3	10	19	22	Promotion	Location	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+AFFILIATION	13	16	3	10	Time	Promotion	đừng quên chương_trình rút thăm trúng thưởng trị_giá lên tới 75.000.000vnd vẫn còn diễn ra tới 19/01/2023 đấy, đến tops market hải phòng để tham_gia ngay thôi.
+OTHER	7	9	0	0	Product	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	7	9	12	14	Product	Promotion	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	12	14	0	0	Promotion	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+PRICE	12	14	7	9	Promotion	Product	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+LOCATION	7	9	0	0	Product	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	7	9	12	14	Product	Promotion	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	12	14	0	0	Promotion	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	12	14	7	9	Promotion	Product	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	7	9	0	0	Product	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+AFFILIATION	7	9	12	14	Product	Promotion	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	12	14	0	0	Promotion	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	12	14	7	9	Promotion	Product	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	7	9	0	0	Product	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	7	9	12	14	Product	Promotion	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+LOCATION	12	14	0	0	Promotion	Location	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	12	14	7	9	Promotion	Product	topsmarket nói thay lòng bạn bằng những giỏ quà tết tinh_tế - ưu_đãi đến 9%
+OTHER	8	9	2	2	Promotion	Location	đặc biệt, topsmarket đang áp_dụng ưu_đãi đặc biệt: giảm 8% cho đơn hàng từ 5 - dưới 50 triệu đồng;
+REGULATION	8	9	11	14	Promotion	Regulation	đặc biệt, topsmarket đang áp_dụng ưu_đãi đặc biệt: giảm 8% cho đơn hàng từ 5 - dưới 50 triệu đồng;
+LOCATION	8	9	2	2	Promotion	Location	đặc biệt, topsmarket đang áp_dụng ưu_đãi đặc biệt: giảm 8% cho đơn hàng từ 5 - dưới 50 triệu đồng;
+OTHER	8	9	11	14	Promotion	Regulation	đặc biệt, topsmarket đang áp_dụng ưu_đãi đặc biệt: giảm 8% cho đơn hàng từ 5 - dưới 50 triệu đồng;
+REGULATION	0	1	3	6	Promotion	Regulation	giảm 8,5% cho đơn hàng từ 50 - dưới 100 triệu đồng;
+REGULATION	0	1	3	9	Promotion	Regulation	giảm 9% cho đơn hàng từ 100 triệu đồng trở_lên.
+LOCATION	14	16	11	13	Promotion	Location	[áp_dụng tại hải phòng] sắm tết hoành tráng, ưu_đãi hàng_đầu - topsmarket hải phòng ưu_đãi đến 50%
+OTHER	2	8	11	18	Time	Regulation	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	2	8	21	31	Time	Promotion	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	21	31	2	8	Promotion	Time	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+REGULATION	21	31	11	18	Promotion	Regulation	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	2	8	11	18	Time	Regulation	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	2	8	21	31	Time	Promotion	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+REGULATION	21	31	2	8	Promotion	Time	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	21	31	11	18	Promotion	Regulation	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	2	8	11	18	Time	Regulation	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+AFFILIATION	2	8	21	31	Time	Promotion	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	21	31	2	8	Promotion	Time	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	21	31	11	18	Promotion	Regulation	theo đó từ ngày 14/01 đến hết ngày 31/01/2023, với mỗi đơn hàng mua online tại app từ 359k đã được nhận 1 bao lì_xì may_mắn tương_đương 1 điểm tích_luỹ trên app.
+OTHER	8	10	14	23	Organization	Promotion	với mỗi 359.000 (*đơn hàng thành công) trên tops market app khách_hàng sẽ được nhận 1 bao lì_xì may_mắn có 1 điểm tích luỹ.
+REGULATION	14	23	1	6	Promotion	Regulation	với mỗi 359.000 (*đơn hàng thành công) trên tops market app khách_hàng sẽ được nhận 1 bao lì_xì may_mắn có 1 điểm tích luỹ.
+LOCATION	8	10	14	23	Organization	Promotion	với mỗi 359.000 (*đơn hàng thành công) trên tops market app khách_hàng sẽ được nhận 1 bao lì_xì may_mắn có 1 điểm tích luỹ.
+OTHER	14	23	1	6	Promotion	Regulation	với mỗi 359.000 (*đơn hàng thành công) trên tops market app khách_hàng sẽ được nhận 1 bao lì_xì may_mắn có 1 điểm tích luỹ.
+REGULATION	10	15	1	3	Promotion	Regulation	với mỗi 5 điểm thu_thập được, khách_hàng sẽ đổi được 1 mã giảm_giá 5% tối_đa 60.000.
+REGULATION	10	15	1	3	Promotion	Regulation	với mỗi 9 điểm thu_thập được, khách_hàng sẽ đổi được 1 mã giảm_giá 9% tối_đa 119.000.
+REGULATION	2	7	1	1	Promotion	Regulation	với mỗi 19 điểm thu_thập được khách_hàng sẽ đổi được 1 mã giảm_giá 19% tối_đa 299.000
+REGULATION	3	7	22	29	Promotion	Regulation	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	9	11	3	7	Organization	Promotion	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	13	17	3	7	Price	Promotion	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	22	29	13	17	Regulation	Price	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	3	7	22	29	Promotion	Regulation	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+LOCATION	9	11	3	7	Organization	Promotion	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	13	17	3	7	Price	Promotion	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	22	29	13	17	Regulation	Price	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	3	7	22	29	Promotion	Regulation	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	9	11	3	7	Organization	Promotion	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+PRICE	13	17	3	7	Price	Promotion	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+OTHER	22	29	13	17	Regulation	Price	lì_xì đặc biệt: 1 năm sử_dụng mã khuyến_mãi của tops market online có giá_trị lên đến 10 triệu cho khách_hàng thu_thập được số điểm_cao nhất trong chương_trình (tối_thiểu 200 điểm)
+REGULATION	3	4	1	2	Promotion	Regulation	nhập mã tops60 giảm 60k cho đơn từ 599k
+OTHER	3	4	6	8	Promotion	Regulation	nhập mã tops60 giảm 60k cho đơn từ 599k
+OTHER	3	4	1	2	Promotion	Regulation	nhập mã tops60 giảm 60k cho đơn từ 599k
+REGULATION	3	4	6	8	Promotion	Regulation	nhập mã tops60 giảm 60k cho đơn từ 599k
+REGULATION	3	4	1	2	Promotion	Regulation	nhập mã tops100 giảm 100k cho đơn từ 1.300k
+OTHER	3	4	6	8	Promotion	Regulation	nhập mã tops100 giảm 100k cho đơn từ 1.300k
+OTHER	3	4	1	2	Promotion	Regulation	nhập mã tops100 giảm 100k cho đơn từ 1.300k
+REGULATION	3	4	6	8	Promotion	Regulation	nhập mã tops100 giảm 100k cho đơn từ 1.300k
+REGULATION	0	1	3	5	Promotion	Regulation	giảm 80k cho đơn từ 500k
+REGULATION	0	1	3	7	Promotion	Regulation	giảm 120k cho đơn từ 1,2 triệu đồng
+LOCATION	7	9	11	14	Product	Location	xin chúc_mừng 4 khách_hàng may mắn, nhận vouchers 500.000 vnd tại tops market hải phòng
+OTHER	4	7	1	1	Promotion	Regulation	nhập bbfresh để được giảm 5% tối_đa 200k cho đơn hàng từ 350k!
+REGULATION	4	7	9	12	Promotion	Regulation	nhập bbfresh để được giảm 5% tối_đa 200k cho đơn hàng từ 350k!
+REGULATION	4	7	1	1	Promotion	Regulation	nhập bbfresh để được giảm 5% tối_đa 200k cho đơn hàng từ 350k!
+OTHER	4	7	9	12	Promotion	Regulation	nhập bbfresh để được giảm 5% tối_đa 200k cho đơn hàng từ 350k!
+OTHER	0	3	5	8	Promotion	Location	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	0	3	15	18	Promotion	Regulation	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	0	3	22	27	Promotion	Product	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	22	27	0	3	Product	Promotion	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	22	27	5	8	Product	Location	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+REGULATION	22	27	15	18	Product	Regulation	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+LOCATION	0	3	5	8	Promotion	Location	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	0	3	15	18	Promotion	Regulation	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	0	3	22	27	Promotion	Product	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	22	27	0	3	Product	Promotion	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	22	27	5	8	Product	Location	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	22	27	15	18	Product	Regulation	chương_trình rút thăm may_mắn tại tops market hải phòng đang nóng dần lên. với mỗi hoá_đơn từ 300.000 vnd, khách_hàng sẽ có một phiếu rút thăm trúng thưởng. mua_sắm ngay để tham_gia và nhận thưởng cực hấp_dẫn từ 02/01-09/01/2023 này.
+OTHER	0	2	3	10	Promotion	Product	giải khuyến_khích 1: 3 giỏ quà tết khai xuân rực_rỡ 5.
+AFFILIATION	3	10	0	2	Product	Promotion	giải khuyến_khích 1: 3 giỏ quà tết khai xuân rực_rỡ 5.
+OTHER	0	2	3	10	Promotion	Product	giải khuyến_khích 2: 5 hộp mứt tết hn hộp lục_giác 200g.
+AFFILIATION	3	10	0	2	Product	Promotion	giải khuyến_khích 2: 5 hộp mứt tết hn hộp lục_giác 200g.
+REGULATION	0	3	5	8	Promotion	Regulation	giảm 5% tối_đa 50k cho đơn hàng từ 400k
+REGULATION	0	3	5	8	Promotion	Regulation	giảm 10% tối_đa 200k cho đơn hàng từ 700k
+OTHER	7	9	5	6	Promotion	Location	[chỉ áp_dụng tại miền nam] tops market khuyến_mãi đến 25%, dành riêng cho các khách_hàng miền nam dịp cuối năm
+REGULATION	7	9	14	16	Promotion	Regulation	[chỉ áp_dụng tại miền nam] tops market khuyến_mãi đến 25%, dành riêng cho các khách_hàng miền nam dịp cuối năm
+LOCATION	7	9	5	6	Promotion	Location	[chỉ áp_dụng tại miền nam] tops market khuyến_mãi đến 25%, dành riêng cho các khách_hàng miền nam dịp cuối năm
+OTHER	7	9	14	16	Promotion	Regulation	[chỉ áp_dụng tại miền nam] tops market khuyến_mãi đến 25%, dành riêng cho các khách_hàng miền nam dịp cuối năm
+REGULATION	0	1	3	5	Promotion	Regulation	giảm 55k cho đơn từ 399k
+REGULATION	0	1	3	5	Promotion	Regulation	giảm 88k cho đơn từ 699k
+REGULATION	3	6	1	2	Promotion	Regulation	nhập mã bbparty giảm 2% tối_đa 200k cho đơn từ 500k
+OTHER	3	6	8	10	Promotion	Regulation	nhập mã bbparty giảm 2% tối_đa 200k cho đơn từ 500k
+OTHER	3	6	1	2	Promotion	Regulation	nhập mã bbparty giảm 2% tối_đa 200k cho đơn từ 500k
+REGULATION	3	6	8	10	Promotion	Regulation	nhập mã bbparty giảm 2% tối_đa 200k cho đơn từ 500k
+REGULATION	0	2	4	7	Promotion	Time	kết_quả được công_bố vào thứ 5, ngày 5/1/2023.
+OTHER	4	7	0	2	Time	Promotion	kết_quả được công_bố vào thứ 5, ngày 5/1/2023.
+OTHER	0	2	4	7	Promotion	Time	kết_quả được công_bố vào thứ 5, ngày 5/1/2023.
+AFFILIATION	4	7	0	2	Time	Promotion	kết_quả được công_bố vào thứ 5, ngày 5/1/2023.
+REGULATION	0	2	4	6	Promotion	Regulation	giảm ngay 55k cho đơn từ 399k
+REGULATION	0	2	4	6	Promotion	Regulation	giảm ngay 88k cho đơn từ 699k
+REGULATION	0	2	4	7	Promotion	Regulation	giảm ngay 120k cho đơn từ 1 triệu
+REGULATION	5	10	1	2	Promotion	Regulation	nhập mã freeship để được miễn_phí giao hàng trong vòng 2h cho đơn từ 300k
+OTHER	5	10	12	14	Promotion	Regulation	nhập mã freeship để được miễn_phí giao hàng trong vòng 2h cho đơn từ 300k
+OTHER	5	10	1	2	Promotion	Regulation	nhập mã freeship để được miễn_phí giao hàng trong vòng 2h cho đơn từ 300k
+REGULATION	5	10	12	14	Promotion	Regulation	nhập mã freeship để được miễn_phí giao hàng trong vòng 2h cho đơn từ 300k
+REGULATION	3	5	1	2	Promotion	Regulation	nhập mã tops50 giảm ngay 50k cho đơn từ 300k
+OTHER	3	5	7	9	Promotion	Regulation	nhập mã tops50 giảm ngay 50k cho đơn từ 300k
+OTHER	3	5	1	2	Promotion	Regulation	nhập mã tops50 giảm ngay 50k cho đơn từ 300k
+REGULATION	3	5	7	9	Promotion	Regulation	nhập mã tops50 giảm ngay 50k cho đơn từ 300k
+REGULATION	3	5	1	2	Promotion	Regulation	nhập mã tops200 giảm ngay 200k cho đơn từ 1.000k
+OTHER	3	5	7	9	Promotion	Regulation	nhập mã tops200 giảm ngay 200k cho đơn từ 1.000k
+OTHER	3	5	1	2	Promotion	Regulation	nhập mã tops200 giảm ngay 200k cho đơn từ 1.000k
+REGULATION	3	5	7	9	Promotion	Regulation	nhập mã tops200 giảm ngay 200k cho đơn từ 1.000k
+REGULATION	3	8	1	2	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 800k
+OTHER	3	8	10	12	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 800k
+OTHER	3	8	1	2	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 800k
+REGULATION	3	8	10	12	Promotion	Regulation	nhập mã tops3 giảm ngay 3% lên đến 200k cho đơn từ 800k
+LOCATION	0	5	7	8	Product	Location	1 voucher trị_giá 1 triệu đồng từ tops market dành cho người đưa ra dự_đoán nhanh và chính_xác nhất.
+OTHER	0	0	3	9	Promotion	Time	minigame diễn ra từ giờ đến hết 21h00 ngày 18/12/2022.
+AFFILIATION	3	9	0	0	Time	Promotion	minigame diễn ra từ giờ đến hết 21h00 ngày 18/12/2022.
+REGULATION	0	0	3	9	Promotion	Time	minigame diễn ra từ giờ đến hết 21h00 ngày 18/12/2022.
+OTHER	3	9	0	0	Time	Promotion	minigame diễn ra từ giờ đến hết 21h00 ngày 18/12/2022.
+OTHER	0	3	5	8	Promotion	Time	kết_quả sẽ được công_bố vào 5h chiều ngày 20/12/2022.
+AFFILIATION	5	8	0	3	Time	Promotion	kết_quả sẽ được công_bố vào 5h chiều ngày 20/12/2022.
+LOCATION	2	5	0	1	Promotion	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	8	11	Promotion	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	13	13	Promotion	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	0	1	Product	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	2	5	Product	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	13	13	Product	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	2	5	Time	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	8	11	Time	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	0	1	Promotion	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	8	11	Promotion	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	13	13	Promotion	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+LOCATION	8	11	0	1	Product	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	2	5	Product	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	13	13	Product	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	2	5	Time	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	8	11	Time	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	0	1	Promotion	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	8	11	Promotion	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	13	13	Promotion	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	0	1	Product	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	2	5	Product	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	13	13	Product	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+AFFILIATION	13	13	2	5	Time	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	8	11	Time	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	0	1	Promotion	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	8	11	Promotion	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+REGULATION	2	5	13	13	Promotion	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	0	1	Product	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	2	5	Product	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	13	13	Product	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	2	5	Time	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	8	11	Time	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	0	1	Promotion	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+PRICE	2	5	8	11	Promotion	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	2	5	13	13	Promotion	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	0	1	Product	Location	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	2	5	Product	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	8	11	13	13	Product	Time	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	2	5	Time	Promotion	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+OTHER	13	13	8	11	Time	Product	tops market ưu_đãi lên đến 20% các sản_phẩm bánh bông lan cuộn từ 8/12-14/12/2022.
+LOCATION	4	9	12	15	Product	Location	trao quà tặng lớn 60.000.000vnd và 1 phút mua_sắm miễn_phí tại chi_nhánh tops market miền bắc
+LOCATION	0	4	14	15	Product	Location	10 người chơi may_mắn sẽ nhận giải_thưởng là 10 voucher trị_giá 500.000 vnd/voucher từ tops market.
+AFFILIATION	2	5	6	14	Promotion	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	2	5	20	20	Promotion	Time	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	6	14	2	5	Promotion	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	6	14	20	20	Promotion	Time	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	20	20	2	5	Time	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	20	20	6	14	Time	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	2	5	6	14	Promotion	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	2	5	20	20	Promotion	Time	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	6	14	2	5	Promotion	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+REGULATION	6	14	20	20	Promotion	Time	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	20	20	2	5	Time	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	20	20	6	14	Time	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	2	5	6	14	Promotion	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	2	5	20	20	Promotion	Time	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	6	14	2	5	Promotion	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	6	14	20	20	Promotion	Time	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+OTHER	20	20	2	5	Time	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+AFFILIATION	20	20	6	14	Time	Promotion	tận_hưởng mức ưu_đãi lên đến 50%, chương_trình “mua 1 tặng 1”, “mua 2 tặng 1” trong khoảng thời_gian áp_dụng từ 22/11-7/12/2022.
+PRICE	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+LOCATION	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+LOCATION	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+REGULATION	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+REGULATION	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+AFFILIATION	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	5	7	Promotion	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	9	10	Promotion	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	14	20	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	2	3	22	27	Promotion	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	2	3	Product	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	9	10	Product	Location	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	14	20	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	5	7	22	27	Product	Time	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	14	20	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+AFFILIATION	22	27	2	3	Time	Promotion	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	22	27	5	7	Time	Product	ưu_đãi khủng, giảm 10% tất_cả các mặt_hàng tươi_sống tại tops market trong khung giờ từ 8:00 đến 10:00 tại miền bắc và 7:30 đến 10:00 tại miền nam.
+OTHER	0	4	7	7	Promotion	Time	ưu_đãi lớn lên tới 30%, áp_dụng từ 17.11-24.11.2022.
+AFFILIATION	7	7	0	4	Time	Promotion	ưu_đãi lớn lên tới 30%, áp_dụng từ 17.11-24.11.2022.
+REGULATION	0	4	7	7	Promotion	Time	ưu_đãi lớn lên tới 30%, áp_dụng từ 17.11-24.11.2022.
+OTHER	7	7	0	4	Time	Promotion	ưu_đãi lớn lên tới 30%, áp_dụng từ 17.11-24.11.2022.
+OTHER	0	3	7	9	Promotion	Product	ưu_đãi lên đến 30% cho các sản_phẩm dưa lưới, dưa_hấu và nhiều loại dưa khác…
+AFFILIATION	7	9	0	3	Product	Promotion	ưu_đãi lên đến 30% cho các sản_phẩm dưa lưới, dưa_hấu và nhiều loại dưa khác…
+PRICE	0	3	7	9	Promotion	Product	ưu_đãi lên đến 30% cho các sản_phẩm dưa lưới, dưa_hấu và nhiều loại dưa khác…
+OTHER	7	9	0	3	Product	Promotion	ưu_đãi lên đến 30% cho các sản_phẩm dưa lưới, dưa_hấu và nhiều loại dưa khác…
+OTHER	1	3	9	11	Organization	Promotion	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+REGULATION	9	11	5	6	Promotion	Regulation	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+OTHER	9	11	13	15	Promotion	Regulation	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+OTHER	1	3	9	11	Organization	Promotion	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+OTHER	9	11	5	6	Promotion	Regulation	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+REGULATION	9	11	13	15	Promotion	Regulation	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+LOCATION	1	3	9	11	Organization	Promotion	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+OTHER	9	11	5	6	Promotion	Regulation	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+OTHER	9	11	13	15	Promotion	Regulation	mở tops market app, nhập mã birthday để được giảm ngay 10% cho hoá_đơn từ 350.000vnd các tình_yêu nha!
+REGULATION	0	2	4	6	Promotion	Regulation	giảm đến 60k cho hoá_đơn từ 299k
+REGULATION	0	3	5	7	Promotion	Regulation	giảm khủng thêm 100k cho hoá_đơn từ 669k
+OTHER	0	3	4	9	Promotion	Product	02 giải đặc biệt: 02 voucher mua_sắm trị_giá 1.000.000đ/ voucher
+AFFILIATION	4	9	0	3	Product	Promotion	02 giải đặc biệt: 02 voucher mua_sắm trị_giá 1.000.000đ/ voucher
+OTHER	0	3	4	9	Promotion	Product	08 giải may mắn: 08 voucher mua_sắm trị_giá 500.000đ/ voucher
+AFFILIATION	4	9	0	3	Product	Promotion	08 giải may mắn: 08 voucher mua_sắm trị_giá 500.000đ/ voucher
+OTHER	10	14	24	26	Time	Product	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	10	14	34	36	Time	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	10	14	Product	Time	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+LOCATION	24	26	15	19	Product	Location	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	34	36	Product	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	10	14	24	26	Time	Product	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	10	14	34	36	Time	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+REGULATION	24	26	10	14	Product	Time	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	15	19	Product	Location	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	34	36	Product	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	10	14	24	26	Time	Product	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	10	14	34	36	Time	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	10	14	Product	Time	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	15	19	Product	Location	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+REGULATION	24	26	34	36	Product	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+AFFILIATION	10	14	24	26	Time	Product	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	10	14	34	36	Time	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	10	14	Product	Time	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	15	19	Product	Location	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	24	26	34	36	Product	Regulation	loa loa loa, dành riêng cho những khách_hàng thân_yêu hưởng_ứng ngày không túi nilon 19.10, tops market lê trọng tấn đã chuẩn_bị những chiếc túi “xanh” lohas vô_cùng đáng yêu làm_quà tặng chỉ với hoá_đơn từ 500k.
+OTHER	0	3	4	8	Promotion	Product	01 giải đặc biệt: 01 voucher mua_sắm trị_giá 1.000.000vnd/voucher
+AFFILIATION	4	8	0	3	Product	Promotion	01 giải đặc biệt: 01 voucher mua_sắm trị_giá 1.000.000vnd/voucher
+OTHER	0	3	4	8	Promotion	Product	04 giải may mắn: 04 voucher mua_sắm trị_giá 500.000vnd/voucher
+AFFILIATION	4	8	0	3	Product	Promotion	04 giải may mắn: 04 voucher mua_sắm trị_giá 500.000vnd/voucher
+OTHER	2	8	17	19	Time	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	2	8	21	26	Time	Promotion	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	2	8	Promotion	Time	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	14	15	Promotion	Location	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+REGULATION	21	26	17	19	Promotion	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	2	8	17	19	Time	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	2	8	21	26	Time	Promotion	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	2	8	Promotion	Time	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+LOCATION	21	26	14	15	Promotion	Location	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	17	19	Promotion	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	2	8	17	19	Time	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	2	8	21	26	Time	Promotion	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+REGULATION	21	26	2	8	Promotion	Time	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	14	15	Promotion	Location	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	17	19	Promotion	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	2	8	17	19	Time	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+AFFILIATION	2	8	21	26	Time	Promotion	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	2	8	Promotion	Time	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	14	15	Promotion	Location	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	21	26	17	19	Promotion	Regulation	cụ thể, từ ngày 07/10 đến hết ngày 02/11/2022, khách_hàng khi tham_gia mua_sắm tại tops market với hoá_đơn từ 500.000vnd sẽ nhận được 1 phiếu rút thăm.
+OTHER	0	2	3	6	Promotion	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	9	10	Promotion	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	0	2	Product	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	9	10	Product	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	0	2	Price	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+PRICE	13	16	3	6	Price	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	3	6	Promotion	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	9	10	Promotion	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	0	2	Product	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	9	10	Product	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+PRICE	13	16	0	2	Price	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	3	6	Price	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	3	6	Promotion	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	9	10	Promotion	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+AFFILIATION	3	6	0	2	Product	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	9	10	Product	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	0	2	Price	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	3	6	Price	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	3	6	Promotion	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	9	10	Promotion	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	0	2	Product	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+LOCATION	3	6	9	10	Product	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	0	2	Price	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	3	6	Price	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	0	2	3	6	Promotion	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+LOCATION	0	2	9	10	Promotion	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	0	2	Product	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	3	6	9	10	Product	Location	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	0	2	Price	Promotion	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	13	16	3	6	Price	Product	08 giải nhất: 01 năm mua_sắm miễn_phí tại siêu_thị tops market với tổng giá_trị lên đến 60.000.000vnd
+OTHER	4	7	1	2	Promotion	Location	bật_mí tops market còn tặng liền_tay túi lohas thân_thiện môi_trường cho những hoá_đơn mua_sắm từ 500k.
+REGULATION	4	7	12	15	Promotion	Regulation	bật_mí tops market còn tặng liền_tay túi lohas thân_thiện môi_trường cho những hoá_đơn mua_sắm từ 500k.
+LOCATION	4	7	1	2	Promotion	Location	bật_mí tops market còn tặng liền_tay túi lohas thân_thiện môi_trường cho những hoá_đơn mua_sắm từ 500k.
+OTHER	4	7	12	15	Promotion	Regulation	bật_mí tops market còn tặng liền_tay túi lohas thân_thiện môi_trường cho những hoá_đơn mua_sắm từ 500k.
+OTHER	0	3	4	8	Promotion	Product	2 giải đặc biệt: 2 voucher mua_sắm trị_giá 500.000vnd/voucher
+AFFILIATION	4	8	0	3	Product	Promotion	2 giải đặc biệt: 2 voucher mua_sắm trị_giá 500.000vnd/voucher
+OTHER	0	3	4	8	Promotion	Product	10 giải may mắn: 10 voucher mua_sắm trị_giá 200.000vnd/voucher
+AFFILIATION	4	8	0	3	Product	Promotion	10 giải may mắn: 10 voucher mua_sắm trị_giá 200.000vnd/voucher
+REGULATION	2	4	6	8	Promotion	Regulation	đặc biệt, giảm thêm 40k cho hoá_đơn từ 329k
+OTHER	2	5	26	27	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	12	14	Time	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	16	22	Time	Promotion	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	2	5	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	7	8	Promotion	Time	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	12	14	Promotion	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+LOCATION	16	22	26	27	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	26	27	2	5	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	2	5	26	27	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	12	14	Time	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	16	22	Time	Promotion	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+LOCATION	16	22	2	5	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	7	8	Promotion	Time	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	12	14	Promotion	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	26	27	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	26	27	2	5	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+AFFILIATION	2	5	26	27	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	12	14	Time	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	16	22	Time	Promotion	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	2	5	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	7	8	Promotion	Time	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	12	14	Promotion	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	26	27	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	26	27	2	5	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	2	5	26	27	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	12	14	Time	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	16	22	Time	Promotion	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	2	5	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	7	8	Promotion	Time	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+REGULATION	16	22	12	14	Promotion	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	26	27	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	26	27	2	5	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	2	5	26	27	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	12	14	Time	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	16	22	Time	Promotion	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	2	5	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+REGULATION	16	22	7	8	Promotion	Time	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	12	14	Promotion	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	26	27	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	26	27	2	5	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	2	5	26	27	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	7	8	12	14	Time	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+AFFILIATION	7	8	16	22	Time	Promotion	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	2	5	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	7	8	Promotion	Time	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	12	14	Promotion	Regulation	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	16	22	26	27	Promotion	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+OTHER	26	27	2	5	Location	Location	duy_nhất tại tops market an phú vào ngày 14.09, khách_hàng mua_sắm với hoá_đơn từ 500k sẽ nhận được chiếc túi thân_thiện với môi_trường siêu tiện_lợi từ tops market.
+REGULATION	3	6	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	12	15	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	3	6	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+REGULATION	3	6	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	12	15	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	3	6	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	12	15	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	3	6	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+REGULATION	12	15	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	3	6	12	15	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+REGULATION	12	15	1	2	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	3	6	Promotion	Promotion	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+OTHER	12	15	8	10	Promotion	Regulation	nhập mã tops10 giảm 10%, tối_đa 100k cho đơn từ 299k và chopp miễn_phí dịch_vụ 30k.
+LOCATION	1	2	5	6	Product	Location	mua đồ chay là ghé tops market ngay nha, ưu_đãi chỉ duy_nhất trong ngày 10/09 thôi đó!
+REGULATION	0	2	4	6	Promotion	Regulation	tặng voucher 99k cho đơn từ 799k
+REGULATION	0	4	6	10	Promotion	Regulation	freeship 0đ (tối đa 11k) cho hoá_đơn thực_phẩm tươi_sống từ 250k
+OTHER	15	17	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	24	26	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+AFFILIATION	19	22	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	15	17	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	24	26	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	15	17	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+AFFILIATION	28	31	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+LOCATION	15	17	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	24	26	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	15	17	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	24	26	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+LOCATION	24	26	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	15	17	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	24	26	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+LOCATION	19	22	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	15	17	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	24	26	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	15	17	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	19	22	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	3	4	Promotion	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	15	17	Promotion	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	19	22	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	24	26	28	31	Promotion	Product	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+LOCATION	28	31	3	4	Product	Location	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	15	17	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	28	31	24	26	Product	Promotion	giờ đây, cùng tops market chúc_mừng đến những người chơi đã thành_công 'rinh' giải_thưởng gồm 05 giải đặc_biệt với voucher trị_giá 500.000 đồng và 10 giải may_mắn với voucher trị_giá 200.000 đồng tại danh_sách
+OTHER	0	1	11	14	Time	Promotion	ngày 31/8 tới đây, hãy cùng tops market thảo điền tham_gia ngày không túi nilon để chung tay bảo_vệ môi trường, lan_toả tinh_thần sống xanh nhé.
+OTHER	11	14	0	1	Promotion	Time	ngày 31/8 tới đây, hãy cùng tops market thảo điền tham_gia ngày không túi nilon để chung tay bảo_vệ môi trường, lan_toả tinh_thần sống xanh nhé.
+LOCATION	11	14	6	9	Promotion	Location	ngày 31/8 tới đây, hãy cùng tops market thảo điền tham_gia ngày không túi nilon để chung tay bảo_vệ môi trường, lan_toả tinh_thần sống xanh nhé.
+AFFILIATION	0	1	11	14	Time	Promotion	ngày 31/8 tới đây, hãy cùng tops market thảo điền tham_gia ngày không túi nilon để chung tay bảo_vệ môi trường, lan_toả tinh_thần sống xanh nhé.
+OTHER	11	14	0	1	Promotion	Time	ngày 31/8 tới đây, hãy cùng tops market thảo điền tham_gia ngày không túi nilon để chung tay bảo_vệ môi trường, lan_toả tinh_thần sống xanh nhé.
+OTHER	11	14	6	9	Promotion	Location	ngày 31/8 tới đây, hãy cùng tops market thảo điền tham_gia ngày không túi nilon để chung tay bảo_vệ môi trường, lan_toả tinh_thần sống xanh nhé.
+REGULATION	3	4	1	2	Promotion	Regulation	nhập mã tops30 giảm 30k cho đơn từ 299k, mua_sắm cực sung chẳng cần thắt_lưng buộc bụng ngày chờ lương nhé!
+OTHER	3	4	6	8	Promotion	Regulation	nhập mã tops30 giảm 30k cho đơn từ 299k, mua_sắm cực sung chẳng cần thắt_lưng buộc bụng ngày chờ lương nhé!
+OTHER	3	4	1	2	Promotion	Regulation	nhập mã tops30 giảm 30k cho đơn từ 299k, mua_sắm cực sung chẳng cần thắt_lưng buộc bụng ngày chờ lương nhé!
+REGULATION	3	4	6	8	Promotion	Regulation	nhập mã tops30 giảm 30k cho đơn từ 299k, mua_sắm cực sung chẳng cần thắt_lưng buộc bụng ngày chờ lương nhé!
+REGULATION	5	9	1	2	Promotion	Regulation	nhập mã tops35 để được giảm đến 10% tối_đa 30k cho đơn từ 299k
+OTHER	5	9	11	13	Promotion	Regulation	nhập mã tops35 để được giảm đến 10% tối_đa 30k cho đơn từ 299k
+OTHER	5	9	1	2	Promotion	Regulation	nhập mã tops35 để được giảm đến 10% tối_đa 30k cho đơn từ 299k
+REGULATION	5	9	11	13	Promotion	Regulation	nhập mã tops35 để được giảm đến 10% tối_đa 30k cho đơn từ 299k
+OTHER	5	7	10	12	Promotion	Product	đếm ngược 08 ngày kết_thúc minigame: check-in moonlight nhận ngay voucher mua_sắm 500k
+AFFILIATION	10	12	5	7	Product	Promotion	đếm ngược 08 ngày kết_thúc minigame: check-in moonlight nhận ngay voucher mua_sắm 500k
