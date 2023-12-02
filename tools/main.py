@@ -78,11 +78,11 @@ def edgeExtraction(sample, driver, store_name):
             node_2 = node_2 + tmp[i2] + " "
 
     # if store_name == 'lotte':
-    #     print("index: " + str(i))
-    #     print("Sample: " + sample)
-    #     print("edge: " + edge)
-    #     print("node_1: " + node_1 + "| label: " + node_1_label)
-    #     print("node_2: " + node_2 + "| label: " + node_2_label)
+    print("index: " + str(i))
+    print("Sample: " + sample)
+    print("edge: " + edge)
+    print("node_1: " + node_1 + "| label: " + node_1_label)
+    print("node_2: " + node_2 + "| label: " + node_2_label)
 
     # Add to neo4j
     add_node_3(node_1_label, node_1, driver, store_name)
@@ -104,6 +104,8 @@ if __name__ == '__main__':
 
         paths.sort()
         print(paths)
+
+        # paths = paths[0:1]
 
         store_name = ['711', 'aeon', 'ciclek', 'lotte', 'top_market', 'winmart']
         store_idx = 0
