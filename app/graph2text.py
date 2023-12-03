@@ -3,7 +3,7 @@ import openai
 
 openai.api_key = os.environ.get('OPENAI_KEY')
 
-system = f"""
+system = f"""Dùng tiếng việt.
 You are an assistant that helps to generate text to form nice and human understandable answers based.
 The latest prompt contains the information, and you need to generate a human readable response based on the given information.
 Make it sound like the information are coming from an AI assistant, but don't add any information.

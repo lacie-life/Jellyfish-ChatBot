@@ -35,7 +35,7 @@ st.set_page_config(layout="wide")
 st.title("DM Thesis with context : DM + Neo4j")
 
 
-cypher_test = """MATCH path = (a:Promotion)-[:PRICE]->(b:Product {value: 'temp2'})
+cypher_test = """MATCH path = (a:Property {value: 'promotion_711'})-[:INIT]->(b:Promotion)
 RETURN path"""
 
 def generate_context(prompt, context_data='generated'):
