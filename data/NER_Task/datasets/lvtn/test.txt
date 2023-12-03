@@ -1,0 +1,4100 @@
+từ	O
+01/02	B-Time
+-	O
+08/02/2023	I-Time
+,	O
+nhanh	O
+chân	O
+đến	O
+ngay	O
+siêu_thị	O
+winmart	B-Location
+hoặc	O
+cửa_hàng	O
+winmart	O
++	O
+để	O
+rinh	O
+ưu_đãi	B-Promotion
+độc_quyền	I-Promotion
+cho	I-Promotion
+hội_viên	I-Promotion
+win	I-Promotion
+
+
+#	O
+giá	O
+tốt	O
+,	O
+giảm_giá	B-Promotion
+lên	I-Promotion
+tới	I-Promotion
+33%	I-Promotion
+các	O
+sản_phẩm	B-Product
+thực_phẩm	I-Product
+,	O
+ưu_đãi	O
+mua	B-Promotion
+1	I-Promotion
+tặng	I-Promotion
+1	I-Promotion
+các	O
+sản_phẩm	B-Product
+gia_dụng	I-Product
+.	O
+
+
+chảo	B-Product
+từ	I-Product
+sunhouse	I-Product
+20cm	I-Product
+sh	I-Product
+m2	I-Product
+0	I-Product
+:	O
+109.000	B-Price
+đ	B-Price
+/	B-Price
+cái	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+184.000	I-Price
+đ	I-Price
+/	I-Price
+cái	I-Price
+)	O
+
+
+đặc_biệt	O
+thịt	B-Product
+heo	I-Product
+xay	I-Product
+chuẩn	O
+ngon	O
+,	O
+giá	O
+chỉ	O
+87.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+chất_lượng	O
+thượng_hạng	O
+!	O
+
+
+9h00	B-Time
+sáng	I-Time
+ngày	I-Time
+09/12/2022	I-Time
+,	O
+công_ty	O
+cp	O
+dịch_vụ	O
+thương_mại	O
+tổng_hợp	O
+wincommerce	B-Organization
+chính_thức	O
+khai_trương	B-Promotion
+winmart	B-Location
+đông	I-Location
+hội	I-Location
+-	O
+siêu_thị	O
+winmart	O
+thứ	O
+129	O
+trên	O
+toàn_quốc	O
+!	O
+
+
+cuối	B-Time
+tuần	I-Time
+này	I-Time
+,	O
+tại	O
+khu_vực	O
+miền	O
+bắc	O
+,	O
+siêu_thị	O
+winmart	B-Location
+và	I-Location
+cửa_hàng	I-Location
+winmart	I-Location
++	O
+có	O
+ưu_đãi	O
+cực	O
+sốc	O
+củ_đậu	B-Product
+chỉ	O
+với	O
+giá	O
+14.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+!	O
+
+
+bưởi	B-Product
+hồng	I-Product
+da	I-Product
+xanh	I-Product
+quả	O
+nặng_tay	O
+,	O
+mã	O
+bóng	O
+mượt	O
+,	O
+mọng	O
+nước	O
+,	O
+ngọt_lịm	O
+:	O
+giá	O
+chỉ	O
+còn	O
+39.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+mận	B-Product
+(	O
+roi	I-Product
+)	O
+an	I-Product
+phước	I-Product
+đỏ_au	O
+,	O
+giòn	O
+ngọt	O
+:	O
+giá	O
+chỉ	O
+49.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+cam	B-Product
+canh	I-Product
+miền	I-Product
+bắc	I-Product
+vào	O
+mùa	O
+ngon_ngọt	O
+,	O
+vỏ	O
+mỏng	O
+,	O
+thơm	O
+ngọt	O
+đặc_trưng	O
+:	O
+giá	O
+chỉ	O
+còn	O
+54.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+cam_sành	B-Product
+hàm_yên	I-Product
+trái	O
+to	O
+,	O
+tép	O
+mọng	O
+nước	O
+,	O
+vị	O
+ngọt	O
+đậm_đà	O
+:	O
+giá	O
+chỉ	O
+còn	O
+24.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+nho	B-Product
+đen	I-Product
+mỹ	I-Product
+nhập_khẩu	O
+trực_tiếp	O
+,	O
+cuống	O
+xanh_tươi	O
+,	O
+trái	O
+nguyên	O
+phấn	O
+tươi	O
+ngon	O
+,	O
+giòn_tan	O
+ngọt_lịm	O
+:	O
+giá	O
+chỉ	O
+còn	O
+219.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+táo	B-Product
+cripps	I-Product
+nam_phi	I-Product
+nhập_khẩu	O
+,	O
+trái	O
+đỏ	O
+căng	O
+bóng	O
+,	O
+giòn	O
+ngọt	O
+thơm	O
+ngon	O
+:	O
+giá	O
+chỉ	O
+còn	O
+59.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+cam_lòng	B-Product
+vàng	I-Product
+chỉ	O
+22.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+cam	B-Product
+canh	I-Product
+chỉ	O
+54.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+.	O
+
+
+xịt	B-Product
+vải	I-Product
+downy	I-Product
+huyền_bí	I-Product
+/	O
+đam_mê	I-Product
+370	I-Product
+ml	I-Product
+:	O
+giá	O
+chỉ	O
+99.000	B-Price
+đ	B-Price
+/	B-Price
+chai	B-Price
+*	O
+-50%	B-Promotion
+khi	I-Promotion
+mua	I-Promotion
+2	I-Promotion
+sản_phẩm	I-Promotion
+
+
+nước	B-Product
+giặt	I-Product
+winmart	I-Product
+home	I-Product
+cửa	I-Product
+trước	I-Product
+tinh_dầu	I-Product
+thơm	I-Product
+4.1	I-Product
+kg	I-Product
+:	O
+giá	O
+chỉ	O
+221.000	B-Price
+đ	B-Price
+/	B-Price
+túi	B-Price
+*	O
+-50%	B-Promotion
+khi	I-Promotion
+mua	I-Promotion
+2	I-Promotion
+sản_phẩm	I-Promotion
+
+
+giấy	B-Product
+rút	I-Product
+lụa	I-Product
+3	I-Product
+lớp	I-Product
+silkwell	I-Product
+200	I-Product
+tờ	I-Product
+:	O
+giá	O
+chỉ	O
+31.000	B-Price
+đ	B-Price
+/	B-Price
+gói	B-Price
+*	O
+mua	B-Promotion
+2	I-Promotion
+tặng	I-Promotion
+1	I-Promotion
+
+
+bánh	B-Product
+gạo	I-Product
+nhật	I-Product
+ichi	I-Product
+kameda	I-Product
+100	I-Product
+g	I-Product
+:	O
+16.900	B-Price
+đ	B-Price
+/	B-Price
+gói	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+24.500	I-Price
+đ	I-Price
+/	I-Price
+gói	I-Price
+)	O
+
+
+nước	B-Product
+giặt	I-Product
+ariel	I-Product
+hương_hoa	I-Product
+oải	I-Product
+hương	I-Product
+túi	I-Product
+3.2	I-Product
+kg	I-Product
+:	O
+149.000	B-Price
+đ	B-Price
+/	B-Price
+túi	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+225.000	I-Price
+đ	I-Price
+/	I-Price
+túi	I-Price
+)	O
+
+
+nước	B-Product
+giặt	I-Product
+xả	I-Product
+chante	I-Product
+cao_cấp	I-Product
+3.4	I-Product
+kg	I-Product
+:	O
+giá	O
+chỉ	O
+199.000	B-Price
+đ	B-Price
+/	B-Price
+can	B-Price
+*	O
+giảm	B-Promotion
+50%	I-Promotion
+khi	B-Regulation
+mua	I-Regulation
+2	I-Regulation
+sản_phẩm	I-Regulation
+
+
+khăn	B-Product
+giấy	I-Product
+rút	I-Product
+winmart	I-Product
+home	I-Product
+250	I-Product
+tờ	I-Product
+2	I-Product
+lớp	I-Product
+:	O
+giá	O
+chỉ	O
+22.900	B-Price
+đ	B-Price
+/	B-Price
+gói	B-Price
+*	O
+mua	B-Promotion
+2	I-Promotion
+tặng	I-Promotion
+1	I-Promotion
+
+
+ưu_đãi	B-Promotion
+tặng	I-Promotion
+50,000	I-Promotion
+vnđ	I-Promotion
+của	O
+hoà_mạng	O
+wintel	B-Organization
+sẽ	O
+kết_thúc	B-Time
+ngày	I-Time
+10.11.2022	I-Time
+
+
+gạo	B-Product
+vinaseed	I-Product
+st25	I-Product
+3	I-Product
+kg	I-Product
+:	O
+89.900	B-Price
+đ	B-Price
+/	B-Price
+túi	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+119.900	I-Price
+đ	I-Price
+/	I-Price
+túi	I-Price
+)	O
+(	O
+tối_đa	B-Regulation
+5	I-Regulation
+sản_phẩm	I-Regulation
+/	O
+khách_hàng	I-Regulation
+)	O
+
+
+nước_mắm	B-Product
+chin-su	I-Product
+cá_cơm	I-Product
+biển	I-Product
+đông	I-Product
+500	I-Product
+ml	I-Product
+:	O
+69.900	B-Price
+đ	B-Price
+/	B-Price
+chai	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+100.200	I-Price
+đ	I-Price
+/	I-Price
+chai	I-Price
+)	O
+*	O
+tối_đa	B-Regulation
+5	I-Regulation
+sản_phẩm	I-Regulation
+/	O
+khách_hàng	I-Regulation
+
+
+ba	B-Product
+chỉ	I-Product
+bò	I-Product
+mỹ	I-Product
+thiên	I-Product
+vương	I-Product
+acefoods	I-Product
+500	I-Product
+g	I-Product
+:	O
+99.900	B-Price
+đ	B-Price
+/	B-Price
+khay	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+149.000	I-Price
+đ	I-Price
+/	I-Price
+khay	I-Price
+)	O
+
+
+bưởi	B-Product
+hồng	I-Product
+da	I-Product
+xanh	I-Product
+loại	I-Product
+nhỏ	I-Product
+:	O
+29.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+49.900	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+)	O
+
+
+cá_hồi	B-Product
+úc	I-Product
+nguyên	I-Product
+con	I-Product
+5-7	I-Product
+kg	I-Product
+/	O
+con	I-Product
+:	O
+299.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+379.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+)	O
+&	O
+cá_hồi	B-Product
+úc	I-Product
+fillet	I-Product
+:	O
+399.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+(	O
+giá	B-Price
+cũ	I-Price
+:	O
+519.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+)	O
+
+
+với	O
+mỗi	B-Regulation
+19	B-Promotion
+điểm	I-Promotion
+thu_thập	I-Promotion
+được	I-Promotion
+khách_hàng	I-Promotion
+sẽ	I-Promotion
+đổi	O
+được	O
+1	O
+mã	O
+giảm_giá	O
+19%	O
+tối_đa	O
+299.000	O
+
+
+lì_xì	O
+đặc_biệt	O
+:	O
+1	B-Promotion
+năm	I-Promotion
+sử_dụng	I-Promotion
+mã	I-Promotion
+khuyến_mãi	I-Promotion
+của	O
+tops	B-Organization
+market	I-Organization
+online	I-Organization
+có	O
+giá_trị	B-Price
+lên	I-Price
+đến	I-Price
+10	I-Price
+triệu	I-Price
+cho	O
+khách_hàng	O
+thu_thập	O
+được	O
+số	B-Regulation
+điểm_cao	I-Regulation
+nhất	I-Regulation
+trong	I-Regulation
+chương_trình	I-Regulation
+(	O
+tối_thiểu	I-Regulation
+200	I-Regulation
+điểm	I-Regulation
+)	O
+
+
+nhập	O
+mã	B-Regulation
+tops60	I-Regulation
+giảm	B-Promotion
+60k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+599k	I-Regulation
+
+
+nhập	O
+mã	B-Regulation
+tops100	I-Regulation
+giảm	B-Promotion
+100k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+1.300	I-Regulation
+k	I-Regulation
+
+
+giảm	B-Promotion
+80k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+500k	I-Regulation
+
+
+giảm	B-Promotion
+120k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+1,2	I-Regulation
+triệu	I-Regulation
+đồng	I-Regulation
+
+
+xin	O
+chúc_mừng	O
+4	O
+khách_hàng	O
+may_mắn	O
+,	O
+nhận	O
+vouchers	B-Product
+500.000	I-Product
+vnd	I-Product
+tại	O
+tops	B-Location
+market	I-Location
+hải_phòng	I-Location
+
+
+nhập	O
+bbfresh	B-Regulation
+để	O
+được	O
+giảm	B-Promotion
+5%	I-Promotion
+tối_đa	I-Promotion
+200k	I-Promotion
+cho	O
+đơn	B-Regulation
+hàng	I-Regulation
+từ	I-Regulation
+350	I-Regulation
+k	I-Regulation
+!	O
+
+
+chương_trình	B-Promotion
+rút	I-Promotion
+thăm	I-Promotion
+may_mắn	I-Promotion
+tại	O
+tops	B-Location
+market	I-Location
+hải_phòng	I-Location
+đang	O
+nóng	O
+dần	O
+lên	O
+.	O
+với	O
+mỗi	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+300.000	I-Regulation
+vnd	I-Regulation
+,	O
+khách_hàng	O
+sẽ	O
+có	O
+một	B-Product
+phiếu	I-Product
+rút	I-Product
+thăm	I-Product
+trúng	I-Product
+thưởng	I-Product
+.	O
+mua_sắm	O
+ngay	O
+để	O
+tham_gia	O
+và	O
+nhận	O
+thưởng	O
+cực	O
+hấp_dẫn	O
+từ	O
+02/01-09/01/2023	O
+này	O
+.	O
+
+
+giải	B-Promotion
+khuyến_khích	I-Promotion
+1	I-Promotion
+:	O
+3	B-Product
+giỏ	I-Product
+quà	I-Product
+tết	I-Product
+khai	I-Product
+xuân	I-Product
+rực_rỡ	I-Product
+5	I-Product
+.	O
+
+
+giải	B-Promotion
+khuyến_khích	I-Promotion
+2	I-Promotion
+:	O
+5	B-Product
+hộp	I-Product
+mứt	I-Product
+tết	I-Product
+hn	I-Product
+hộp	I-Product
+lục_giác	I-Product
+200g	I-Product
+.	O
+
+
+giảm	B-Promotion
+5%	I-Promotion
+tối_đa	I-Promotion
+50k	I-Promotion
+cho	O
+đơn	B-Regulation
+hàng	I-Regulation
+từ	I-Regulation
+400k	I-Regulation
+
+
+giảm	B-Promotion
+10%	I-Promotion
+tối_đa	I-Promotion
+200k	I-Promotion
+cho	O
+đơn	B-Regulation
+hàng	I-Regulation
+từ	I-Regulation
+700k	I-Regulation
+
+
+[	O
+chỉ	O
+áp_dụng	O
+tại	O
+miền	O
+nam	O
+]	O
+tops	B-Location
+market	I-Location
+khuyến_mãi	B-Promotion
+đến	I-Promotion
+25%	I-Promotion
+,	O
+dành	O
+riêng	O
+cho	O
+các	O
+khách_hàng	B-Regulation
+miền	I-Regulation
+nam	I-Regulation
+dịp	O
+cuối	O
+năm	O
+
+
+giảm	B-Promotion
+55k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+399k	I-Regulation
+
+
+giảm	B-Promotion
+88k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+699k	I-Regulation
+
+
+nhập	O
+mã	B-Regulation
+bbparty	I-Regulation
+giảm	B-Promotion
+2%	I-Promotion
+tối_đa	I-Promotion
+200k	I-Promotion
+cho	O
+đơn_từ	B-Regulation
+500k	I-Regulation
+
+
+giảm	B-Promotion
+ngay	I-Promotion
+30k	I-Promotion
+cho	I-Promotion
+mỗi	I-Promotion
+cuốc	I-Promotion
+xe	I-Promotion
+đến	I-Promotion
+aeon	I-Promotion
+khi	O
+đặt	O
+grabcar	B-Organization
+trên	O
+ứng_dụng	O
+grab	O
+
+
+chi_tiết	O
+ưu_đãi	O
+:	O
+giảm	B-Promotion
+30.000	I-Promotion
+vnđ	I-Promotion
+cho	O
+mỗi	B-Regulation
+cuốc	I-Regulation
+xe	I-Regulation
+đến	I-Regulation
+aeon	I-Regulation
+tân_phú	I-Regulation
+,	O
+aeon	I-Regulation
+bình_tân	I-Regulation
+,	O
+aeon	I-Regulation
+bình_dương	I-Regulation
+
+
+thời_gian	B-Regulation
+áp_dụng	I-Regulation
+:	O
+20.10.2022	B-Time
+-	O
+21.01.2023	I-Time
+
+
+aeon	B-Location
+việt_nam	I-Location
+đã	O
+sẵn_sàng	O
+chờ	O
+bạn	O
+tới	O
+nơi	O
+,	O
+từ	O
+𝟏𝟐	B-Time
+.	B-Time
+
+
+𝟎𝟏	B-Time
+.	B-Time
+
+
+𝟐𝟎𝟐𝟑	B-Time
+-	O
+𝟏𝟓	I-Time
+.	I-Time
+
+
+𝟎𝟏	I-Time
+.	I-Time
+
+
+𝟐𝟎𝟐𝟑	I-Time
+này	O
+,	O
+đến	O
+aeon	B-Location
+mua_sắm	O
+ngay	O
+với	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+𝟏	I-Regulation
+.	I-Regulation
+
+
+𝟎𝟎𝟎	I-Regulation
+.	I-Regulation
+
+
+𝟎𝟎𝟎𝐕𝐍𝐃	I-Regulation
+là	O
+được	O
+nhận	B-Promotion
+liền_tay	I-Promotion
+bộ	I-Promotion
+bao	I-Promotion
+lì_xì	I-Promotion
+với	O
+thiết_kế	O
+độc_quyền	O
+cung	O
+chúc	O
+tân_xuân	O
+,	O
+đón	O
+mừng	O
+năm	O
+mới	O
+sang_trọng	O
+,	O
+quyền_quý	O
+,	O
+vạn_sự_như_ý	O
+!	O
+
+
+bánh_quy	B-Product
+bơ	I-Product
+pháp	I-Product
+lu	I-Product
+540g	I-Product
+chỉ	O
+còn	O
+169.000	B-Price
+đ	B-Price
+/	B-Price
+hộp	B-Price
+
+
+coca-cola	B-Product
+lon	I-Product
+320ml	I-Product
+chỉ	O
+còn	O
+8.000	B-Price
+đ	B-Price
+/	B-Price
+lon	B-Price
+
+
+lê_hàn_quốc	B-Product
+chỉ	O
+còn	O
+89.900	B-Price
+đ	B-Price
+/	B-Price
+1	B-Price
+kg	B-Price
+
+
+ưu_đãi	B-Promotion
+kéo_dài	O
+đến	B-Time
+hết	I-Time
+25/01/2023	I-Time
+(	O
+mùng	O
+4	O
+tết	O
+)	O
+
+
+giảm	B-Promotion
+15k	I-Promotion
+thanh_toán	O
+qua	O
+𝐕𝐍𝐏𝐀𝐘	B-Organization
+khi	O
+nhập	O
+mã	B-Regulation
+“	I-Regulation
+𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡	I-Regulation
+”	I-Regulation
+(	O
+cho	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+500.000	I-Regulation
+đ	I-Regulation
+)	O
+từ	O
+05/01	B-Time
+-	O
+31/01/2023	I-Time
+
+
+mua	B-Regulation
+từ	I-Regulation
+30	I-Regulation
+triệu	I-Regulation
+nhận	B-Promotion
+ngay	I-Promotion
+voucher	I-Promotion
+1,5	I-Promotion
+triệu	I-Promotion
+
+
+sức	O
+nóng	O
+của	O
+những	O
+trận	O
+bóng	O
+tại	O
+world_cup	O
+sao	O
+bằng	O
+đại_tiệc	B-Promotion
+sinh_nhật	I-Promotion
+cực	O
+hoành_tráng	O
+tại	O
+𝐀𝐄𝐎𝐍	B-Location
+𝐇à	I-Location
+đô𝐧𝐠	I-Location
+và	I-Location
+𝐀𝐄𝐎𝐍	I-Location
+𝐇ả𝐢	I-Location
+𝐏𝐡ò𝐧𝐠	I-Location
+𝐋ê	I-Location
+𝐂𝐡â𝐧	I-Location
+từ	O
+ngày	O
+08-14/12	B-Time
+,	O
+cả	O
+nhà	O
+đã	O
+sẵn_sàng	O
+chiến	O
+thật	O
+sung	O
+chưa	O
+nè	O
+?	O
+
+
+sashimi	B-Product
+set	I-Product
+79	I-Product
+giảm	O
+còn	O
+59,000	B-Price
+đ	B-Price
+/	B-Price
+set	B-Price
+(	O
+giá	B-Price
+gốc	I-Price
+:	I-Price
+79,000	I-Price
+đ	I-Price
+/	I-Price
+set	I-Price
+)	O
+
+
+ba	B-Product
+chỉ	I-Product
+bò	I-Product
+canada	I-Product
+500g	I-Product
+giảm	O
+còn	O
+119,000	B-Price
+đ	B-Price
+/	B-Price
+khay	B-Price
+(	O
+giá	B-Price
+gốc	I-Price
+:	O
+145,000	I-Price
+đ	I-Price
+/	I-Price
+khay	I-Price
+)	O
+
+
+chưa	O
+hết	O
+,	O
+chấn_động	O
+liền	O
+với	O
+chương_trình	O
+quay	B-Promotion
+số	I-Promotion
+may_mắn	I-Promotion
+với	O
+tổng	O
+giá_trị	O
+quà	B-Product
+tặng	I-Product
+lên	I-Product
+đến	I-Product
+𝟔𝟎	I-Product
+,	I-Product
+𝟎𝟎𝟎	I-Product
+,	I-Product
+𝟎𝟎𝟎đ	I-Product
+tại	O
+aeon	B-Location
+hải_phòng	I-Location
+.	O
+
+
+chương_trình	B-Promotion
+thử_thách	I-Promotion
+bước	I-Promotion
+nhảy	I-Promotion
+ngày	O
+10-11/12	B-Time
+tại	O
+aeon	B-Location
+hải_phòng	I-Location
+&	O
+hà_đông	I-Location
+được	O
+rất	O
+nhiều	O
+bạn	O
+trẻ	O
+mong_chờ	O
+.	O
+
+
+lườn	B-Product
+cá_hồi	I-Product
+129.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+nay	O
+chỉ	O
+còn	O
+100.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+ba_rọi	B-Product
+heo	I-Product
+209.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+nay	O
+chỉ	O
+còn	O
+149.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+bưởi	B-Product
+da	I-Product
+xanh	I-Product
+79.000	B-Price
+đ	B-Price
+/	B-Price
+trái	B-Price
+nay	O
+chỉ	O
+còn	O
+55.000	B-Price
+đ	B-Price
+/	B-Price
+trái	B-Price
+
+
+sushi	B-Product
+set	I-Product
+chiên	I-Product
+xù	I-Product
+98.100	B-Price
+đ	B-Price
+/	B-Price
+phần	B-Price
+nay	O
+chỉ	O
+còn	O
+85.000	B-Price
+đ	B-Price
+/	B-Price
+phần	B-Price
+
+
+cơm	B-Product
+nắm	I-Product
+cá_hồi	I-Product
+sốt	I-Product
+kabayaki	I-Product
+17.600	B-Price
+đ	B-Price
+/	B-Price
+cái	B-Price
+nay	O
+chỉ	O
+còn	O
+14.000	B-Price
+đ	B-Price
+/	B-Price
+cái	B-Price
+
+
+ưu_đãi	O
+lớn	O
+-	O
+đặt_hàng	O
+sớm	O
+:	O
+21.11	B-Time
+-	O
+14.12.2022	I-Time
+,	O
+giảm	B-Promotion
+khủng	I-Promotion
+8%	I-Promotion
+cho	O
+tất_cả	O
+hoá_đơn	B-Regulation
+mua	I-Regulation
+giỏ	I-Regulation
+quà	I-Regulation
+tết	I-Regulation
+tại	I-Regulation
+aeon	I-Regulation
+.	O
+
+
+mỗi	O
+cây	O
+,	O
+mỗi	O
+hoa	O
+...	O
+mỗi	O
+member	B-Regulation
+the	I-Regulation
+nine	I-Regulation
+sẽ	O
+được	O
+hưởng	O
+ngay	O
+đặc_quyền	O
+giảm	B-Promotion
+thêm	I-Promotion
+5%	I-Promotion
+khi	O
+mua_sắm	O
+vào	O
+ngày	O
+05/12	B-Time
+này	O
+!	O
+
+
+ngày	B-Time
+hồng	I-Time
+12/12	I-Time
+sale	O
+đậm	O
+với	O
+các	O
+sản_phẩm	B-Promotion
+đồng	I-Promotion
+giá	I-Promotion
+từ	I-Promotion
+12k	I-Promotion
+,	O
+120	I-Promotion
+k	I-Promotion
+,	I-Promotion
+…	I-Promotion
+
+
+giảm	B-Promotion
+50k	I-Promotion
+thanh_toán	O
+qua	O
+vnpay	B-Organization
+khi	O
+nhập	O
+mã	B-Regulation
+aeon50	I-Regulation
+(	O
+cho	I-Regulation
+hoá_đơn	I-Regulation
+từ	I-Regulation
+1.000.000	I-Regulation
+đ	I-Regulation
+)	O
+
+
+ba_rọi	B-Product
+heo	I-Product
+giá	B-Price
+thường	I-Price
+209.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+nay	O
+chỉ	O
+còn	O
+149.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+thịt	B-Product
+bò	I-Product
+xay	I-Product
+giá	B-Price
+thường	I-Price
+280.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+nay	O
+chỉ	O
+còn	O
+259.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+nho	B-Product
+xanh	I-Product
+không	I-Product
+hạt	I-Product
+mỹ	I-Product
+giá	B-Price
+thường	I-Price
+229.900	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+nay	O
+chỉ	O
+còn	O
+195.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+cá	B-Product
+cam	I-Product
+cắt	I-Product
+khúc	I-Product
+giá	B-Price
+thường	I-Price
+93.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+nay	O
+chỉ	O
+còn	O
+75.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+đừng	O
+quên	O
+thanh_toán	O
+“	O
+không	O
+tiền_mặt	O
+"	O
+qua	O
+vnpay	B-Organization
+và	O
+nhập	O
+mã	B-Regulation
+“	I-Regulation
+aeon	I-Regulation
+50	I-Regulation
+”	I-Regulation
+để	O
+được	O
+giảm	B-Promotion
+thêm	I-Promotion
+50.000	I-Promotion
+đ	I-Promotion
+nữa	O
+nhé	O
+!	O
+
+
+tặng	B-Promotion
+01	I-Promotion
+cuốn	I-Promotion
+coupon	I-Promotion
+với	I-Promotion
+các	I-Promotion
+voucher	I-Promotion
+giảm_giá	I-Promotion
+đến	O
+từ	O
+các	O
+thương_hiệu	B-Organization
+mẹ	I-Organization
+và	I-Organization
+bé	I-Organization
+khi	O
+mẹ	O
+đăng_ký	B-Regulation
+mới	I-Regulation
+thẻ	I-Regulation
+kids	I-Regulation
+club	I-Regulation
+.	O
+
+
+cả	O
+nhà	O
+đừng	O
+bỏ_qua	O
+các	O
+hoạt_động	O
+rinh	O
+quà	O
+cực	O
+hấp_dẫn	O
+trong	O
+lễ_hội	B-Promotion
+halloween	I-Promotion
+diễn	O
+ra	O
+từ	O
+ngày	O
+28.10	B-Time
+đến	I-Time
+31.10.2022	I-Time
+này	O
+tại	O
+aeon	B-Location
+như	O
+:	O
+
+
+thử	O
+sức	O
+với	O
+minigame	B-Promotion
+“	I-Promotion
+đánh_thức	I-Promotion
+vùng_đất	I-Promotion
+bí_ẩn	I-Promotion
+”	I-Promotion
+:	O
+nhận	B-Promotion
+ngay	I-Promotion
+0	I-Promotion
+1	I-Promotion
+lượt	I-Promotion
+chơi	I-Promotion
+ném	I-Promotion
+banh	I-Promotion
+cho	O
+hoá_đơn	B-Regulation
+chỉ	I-Regulation
+từ	I-Regulation
+200.000	I-Regulation
+vnđ	I-Regulation
+với	O
+100%	O
+cơ_hội	O
+trúng	O
+quà	O
+(	O
+tối_đa	O
+03	O
+lượt	O
+chơi	O
+và	O
+chỉ	O
+tham_gia	O
+01	O
+lần	O
+/	O
+ngày	O
+)	O
+.	O
+
+
+với	O
+hoá_đơn	B-Regulation
+10,000,000	I-Regulation
+đ	I-Regulation
+của	I-Regulation
+máy_lạnh	I-Regulation
+,	O
+quạt	I-Regulation
+,	O
+máy	I-Regulation
+lọc	I-Regulation
+không_khí	I-Regulation
+khách_hàng	O
+được	O
+tặng	B-Promotion
+máy	I-Promotion
+làm	I-Promotion
+kem	I-Promotion
+iris	I-Promotion
+ohyama	I-Promotion
+trị_giá	O
+799,000	B-Price
+đ	B-Price
+.	O
+
+
+thời_gian	B-Regulation
+diễn	I-Regulation
+ra	I-Regulation
+sự_kiện	I-Regulation
+:	O
+22/09	B-Time
+đến	I-Time
+hết	I-Time
+05/10	I-Time
+
+
+thời_gian	B-Regulation
+:	O
+từ	B-Time
+9:00	I-Time
+giờ	I-Time
+sáng	I-Time
+đến	I-Time
+4:00	I-Time
+giờ	I-Time
+chiều	I-Time
+ngày	I-Time
+01/10/2022	I-Time
+
+
+ngày	O
+02/10/2022	B-Time
+là	O
+ngày	O
+chính_thức	O
+diễn	O
+ra	O
+chương_trình	B-Promotion
+aeon	I-Promotion
+ekiden	I-Promotion
+với	O
+nhiều	O
+hoạt_động	O
+hấp_dẫn	O
+như	O
+sau	O
+
+
+mách	O
+nhỏ	O
+cho	O
+các	O
+mẹ	O
+chưa	O
+ghé	O
+#	O
+babyfair	B-Promotion
+diễn	O
+ra	O
+từ	O
+08-21.09	B-Time
+còn	O
+có	O
+:	O
+
+
+thăn	B-Product
+ngoại	I-Product
+bò	I-Product
+úc	I-Product
+giá	B-Price
+dùng	I-Price
+thử	I-Price
+chỉ	I-Price
+669.000	I-Price
+d	I-Price
+/	I-Price
+kg	I-Price
+
+
+nạc	B-Product
+vai	I-Product
+bò	I-Product
+úc	I-Product
+giá	B-Price
+dùng	I-Price
+thử	I-Price
+chỉ	I-Price
+399.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+
+
+thời_gian	B-Regulation
+áp_dụng	I-Regulation
+khuyến_mãi	I-Regulation
+:	O
+16/9	B-Time
+-	O
+21/9	I-Time
+
+
+chăm_sóc	O
+da	O
+mặt	O
+:	O
+mua	B-Promotion
+2	I-Promotion
+giảm	I-Promotion
+25%	I-Promotion
+-	O
+mua	I-Promotion
+03	I-Promotion
+giảm	I-Promotion
+35%	I-Promotion
+(	O
+áp_dụng	B-Regulation
+cho	I-Regulation
+sản_phẩm	I-Regulation
+dòng	I-Regulation
+dưỡng	I-Regulation
+da	I-Regulation
+)	O
+
+
+áp_dụng	O
+từ	O
+01	O
+–	O
+30/09/2022	O
+độc_quyền	O
+tại	O
+cửa_hàng	B-Organization
+yves	I-Organization
+rocher	I-Organization
+–	O
+glam	B-Location
+beautique	I-Location
+bình_tân	I-Location
+
+
+không	O
+đùa	O
+đâu	O
+,	O
+chiếc	B-Product
+ly	I-Product
+rap	I-Product
+viet	I-Product
+được	O
+nhà_nhà	O
+săn_đón	O
+nay	O
+đã	O
+có_mặt	O
+tại	O
+7	B-Location
+-	B-Location
+eleven	B-Location
+rồi	O
+
+
+ưu_đãi	O
+:	O
+tích	B-Regulation
+24	I-Regulation
+điểm	I-Regulation
+pepsi	I-Regulation
+=	O
+1	B-Product
+ly	I-Product
+rap	I-Product
+việt	I-Product
+(	O
+1	B-Product
+pepsi	I-Product
+không	I-Product
+calo	I-Product
+/	O
+không	I-Product
+calo	I-Product
+vị	I-Product
+chanh	I-Product
+320ml	I-Product
+=	O
+1	B-Promotion
+điểm	I-Promotion
+trên	I-Promotion
+app	I-Promotion
+7	I-Promotion
+-	I-Promotion
+eleven	I-Promotion
+)	O
+
+
+nạp	O
+thêm	O
+dưỡng_chất	O
+bằng	O
+chiếc	O
+deal	O
+:	O
+giảm	B-Promotion
+3k	I-Promotion
+-	O
+khi	O
+mua	O
+2	B-Product
+bánh_mì	I-Product
+que	I-Product
+/	O
+cơm	I-Product
+nắm	I-Product
+bất_kì	O
+
+
+tuyệt_phẩm	O
+nhà	O
+bảy	O
+:	O
+giảm	B-Promotion
+3k	I-Promotion
+-	O
+cơm	B-Product
+trắng	I-Product
+/	O
+cơm_chiên	I-Product
+/	O
+mì	I-Product
+trộn	I-Product
+khi	O
+mua	B-Regulation
+cùng	I-Regulation
+topping	I-Regulation
+bất_kì	I-Regulation
+
+
+combo	B-Product
+bánh_trung_thu	I-Product
+kinh_đô	I-Product
++	O
+trà	I-Product
+tắc	I-Product
+-	O
+giảm	B-Promotion
+9k	I-Promotion
+
+
+combo	B-Product
+bánh_trung_thu	I-Product
+nướng	I-Product
+hình	I-Product
+con	I-Product
+vật	I-Product
+80g	I-Product
++	O
+lồng	I-Product
+đèn	I-Product
+-	O
+giảm	B-Promotion
+14k	I-Promotion
+
+
+mua	B-Promotion
+2	I-Promotion
+tính	I-Promotion
+tiền	I-Promotion
+1	I-Promotion
+-	O
+bưởi	B-Product
+da	I-Product
+xanh	I-Product
+tách	I-Product
+múi	I-Product
+
+
+cho	O
+ngày	O
+thêm	O
+"	O
+tươi	O
+"	O
+cùng	O
+:	O
+trà	B-Product
+đào	I-Product
+/	O
+trà	I-Product
+vải	I-Product
+/	O
+trà	I-Product
+nhãn	I-Product
+mật_ong	I-Product
+-	O
+giá	O
+ưu_đãi	O
+25k	B-Price
+(	O
+giá	B-Price
+gốc	I-Price
+:	O
+29	I-Price
+k	I-Price
+)	O
+
+
+lồng	B-Product
+đèn	I-Product
+trung_thu	I-Product
+-	O
+đồng	B-Promotion
+giá	I-Promotion
+89k	I-Promotion
+siêu	O
+"	O
+iu	O
+"	O
+cho	O
+bạn	O
+nhỏ	O
+vui	O
+hội	O
+trăng	O
+rằm	O
+
+
+daily	B-Time
+happy	I-Time
+hour	I-Time
+:	O
+6h	I-Time
+-	O
+10h	I-Time
+,	O
+giảm	B-Promotion
+5k	I-Promotion
+-	O
+combo	B-Product
+bánh_mì	I-Product
+&	O
+cà_phê	I-Product
+
+
+cà_phê	B-Product
+sữa_tươi	I-Product
+đường	I-Product
+đen	I-Product
+-	O
+giá	O
+29k	B-Price
+thơm	O
+ngon	O
+tới	O
+giọt	O
+cuối_cùng	O
+
+
+trong	O
+khung	O
+giờ	O
+từ	B-Time
+8:00	I-Time
+-	O
+22:00	I-Time
+ngày	I-Time
+06-07/01/2023	I-Time
+,	O
+các	O
+bạn	O
+đến	O
+các	O
+cửa_hàng	O
+circle	B-Location
+k	I-Location
+này	O
+để	O
+nhận	B-Promotion
+bo	I-Promotion
+góc	I-Promotion
+nè	O
+.	O
+
+
+trà	B-Product
+sữa	I-Product
+ngon	O
+tuyệt_vời	O
+-	O
+bảy	O
+mời	O
+bạn	O
+1	O
+ly	O
+:	O
+giảm	B-Promotion
+50%	I-Promotion
+-	O
+giá	I-Promotion
+chỉ	I-Promotion
+13k	I-Promotion
+
+
+giảm	B-Promotion
+25	I-Promotion
+k	I-Promotion
+:	O
+combo	B-Product
+bánh_mì	I-Product
+nấm	I-Product
+dr.oetker	I-Product
+250g	I-Product
++	O
+2	I-Product
+lon	I-Product
+bia	I-Product
+heineken	I-Product
+bạc	I-Product
+cao	I-Product
+330ml	I-Product
+-	O
+tặng	B-Promotion
+thêm	I-Promotion
+1	I-Promotion
+ly	I-Promotion
+đá	I-Promotion
+
+
+giảm	B-Promotion
+28	I-Promotion
+k	I-Promotion
+:	O
+lốc	B-Product
+4	I-Product
+lon	I-Product
+bia	I-Product
+craft	I-Product
+-	O
+tặng	B-Promotion
+2	I-Promotion
+ly	I-Promotion
+đá	I-Promotion
+(	O
+giảm	I-Promotion
+6	I-Promotion
+k	I-Promotion
+)	O
+
+
+nóng	O
+giòn	O
+thơm	O
+ngon	O
+:	O
+đồng	B-Promotion
+giá	I-Promotion
+20k	I-Promotion
+tất_cả	O
+bánh_mì	O
+việt_nam	O
+mỗi	O
+thứ_bảy	B-Time
+hàng	I-Time
+tuần	I-Time
+
+
+mì	O
+trộn	O
+nhà	O
+bảy	O
+,	O
+thơm	O
+ngon	O
+hết_sẩy	O
+:	O
+mì	B-Product
+trộn	I-Product
+giá	I-Product
+hẹ	I-Product
+-	O
+giá	O
+chỉ	O
+14k	B-Price
+
+
+ưu_đãi	O
+:	O
+tặng	B-Promotion
+1	I-Promotion
+coca-cola	I-Promotion
+khi	O
+mua	O
+combo	B-Product
+mì	I-Product
+trộn	I-Product
++	O
+topping	I-Product
+bất_kì	O
+
+
+độc_quyền	O
+trên	O
+app	B-Organization
+7	I-Organization
+-	I-Organization
+eleven	I-Organization
+:	O
+trà	B-Product
+tắc	I-Product
+khổng_lồ	I-Product
+giảm	B-Promotion
+50%	I-Promotion
+-	O
+giá	I-Promotion
+chỉ	I-Promotion
+10k	I-Promotion
+
+
+flash	B-Promotion
+sale	I-Promotion
+:	O
+11h	B-Time
+-	O
+17h	I-Time
+từ	I-Time
+15	I-Time
+-	O
+21/05/2023	I-Time
+
+
+"	O
+măm	O
+măm	O
+"	O
+bữa	O
+sáng	O
+hoàn_hảo	O
+:	O
+mua	O
+1	B-Product
+sandwich	I-Product
+/	O
+sandwich	I-Product
+nướng	I-Product
+bất_kì	O
+,	O
+tặng	B-Promotion
+1	I-Promotion
+sprite	I-Promotion
+no_nê	O
+thích	O
+mê	O
+
+
+đừng	O
+quên	O
+circle	B-Location
+k	I-Location
+vẫn	O
+mở	O
+pre-order	B-Promotion
+đến	O
+hết	B-Time
+ngày	I-Time
+06/01	I-Time
+nha	O
+cả	O
+nhà	O
+.	O
+
+
+những	O
+chiếc	O
+cookies	B-Product
+tết	I-Product
+tràn_ngập	O
+sắc_màu	O
+hấp_dẫn	O
+đã	O
+có_mặt	O
+tại	O
+circle	B-Location
+k	I-Location
+rồi_đây	O
+.	O
+
+
+từ	B-Time
+hôm_nay	I-Time
+đến	I-Time
+06/01/2023	I-Time
+,	O
+circle	B-Location
+k	I-Location
+mở	O
+đợt	O
+pre-order	B-Promotion
+bo	I-Promotion
+góc	I-Promotion
+blackpink	I-Promotion
+,	O
+bạn	O
+chỉ	O
+cần	O
+vào	O
+app	O
+ck	O
+club	O
+,	O
+đăng_ký	O
+mua	O
+sản_phẩm	O
+oreo	O
+có	O
+bo	O
+góc	O
+.	O
+
+
+riêng	O
+với	O
+hộp	B-Product
+oreo	I-Product
+vị	I-Product
+vani	I-Product
+193,2	B-Promotion
+g	B-Promotion
+sẽ	I-Promotion
+có	I-Promotion
+1	I-Promotion
+bo	I-Promotion
+góc	I-Promotion
+sẵn	O
+trong	O
+hộp	O
+,	O
+mấy	O
+bà	O
+nào	O
+đam_mê	O
+cảm_giác	O
+unbox	O
+thì	O
+đừng	O
+bỏ_qua	O
+hộp	O
+này	O
+nha	O
+!	O
+
+
+combo	O
+thượng_hạng	O
+"	O
+yum	O
+cha	O
+lưỡng	O
+quảng	O
+"	O
+:	O
+mua	O
+01	B-Product
+xíu_mại	I-Product
+&	O
+há	I-Product
+cảo	I-Product
+,	O
+tặng	B-Promotion
+01	I-Promotion
+trà	I-Promotion
+fuzetea	I-Promotion
++	O
+450ml	I-Promotion
+
+
+thời_gian	B-Regulation
+mở	I-Regulation
+bán	I-Regulation
+:	O
+03/03	B-Time
+-	O
+08/03/2022	I-Time
+
+
+combo	O
+shogun	O
+:	O
+tặng	B-Promotion
+01	B-Product
+nutriboost	I-Product
+cam	I-Product
+/	O
+dâu	I-Product
+-	O
+khi	O
+mua	O
+1	O
+sản_phẩm	O
+bất_kì	O
+trong	O
+danh_sách	O
+
+
+bữa	O
+sáng	O
+ngọt_ngào	O
+:	O
+giảm	B-Promotion
+8k	I-Promotion
+combo	B-Product
+bánh	I-Product
+đan_mạch	I-Product
++	O
+trà	I-Product
+oolong	I-Product
+sen	I-Product
+vàng	I-Product
+macchiato	I-Product
+
+
+hộp	B-Product
+quà	I-Product
+trái_cây	I-Product
+chỉ	O
+từ	B-Price
+300k	I-Price
+
+
+thời_gian	B-Regulation
+mở	I-Regulation
+bán	I-Regulation
+:	O
+01	B-Time
+-	O
+12/03/2023	I-Time
+
+
+thơm	O
+béo	O
+đậm_đà	O
+món	O
+mới	O
+:	O
+trà	B-Product
+oolong	I-Product
+nhài	I-Product
+sữa	I-Product
+chỉ	O
+từ	B-Price
+20k	I-Price
+
+
+ánh	O
+mắt	O
+ta	O
+chạm	O
+vào	O
+:	O
+trà	B-Product
+oolong	I-Product
+sen	I-Product
+vàng	I-Product
+macchiato	I-Product
+chỉ	O
+29k	B-Price
+
+
+siêu	O
+"	O
+fresh	O
+"	O
+cùng	O
+:	O
+calamelo	B-Product
+trà	I-Product
+tắc	I-Product
+bưởi	I-Product
+hồng	I-Product
+-	O
+giá	B-Price
+dùng	I-Price
+thử	I-Price
+chỉ	I-Price
+22k	I-Price
+(	O
+giá	B-Price
+gốc	I-Price
+:	O
+29	I-Price
+k	I-Price
+)	O
+
+
+mua	O
+1	B-Product
+oreo	I-Product
+pie	I-Product
+socola	I-Product
+/	O
+socola	I-Product
+dâu	I-Product
+hộp	I-Product
+180g	I-Product
+-	O
+nhận	B-Promotion
+1	I-Promotion
+card	I-Promotion
+blackpink	I-Promotion
+
+
+năm	O
+mới	O
+đón	O
+nhiều	O
+niềm	O
+vui	O
+với	O
+ưu_đãi	O
+siêu	O
+hấp_dẫn	O
+tại	O
+circle	B-Location
+k	I-Location
+cùng	O
+mcvitie	B-Organization
+’	B-Organization
+s	B-Organization
+.	O
+
+
+với	O
+hoá_đơn	B-Regulation
+trị_giá	I-Regulation
+50.000	I-Regulation
+vnđ	I-Regulation
+bạn	O
+đã	O
+được	O
+nhận	B-Promotion
+ngay	I-Promotion
+01	I-Promotion
+bánh_quy	I-Promotion
+mcvitie	I-Promotion
+’	I-Promotion
+s	I-Promotion
+dark	I-Promotion
+cookie	I-Promotion
+120g	I-Promotion
+vô_cùng	O
+thơm	O
+ngon	O
+,	O
+thương_hiệu	O
+bánh_quy	O
+đến	O
+từ	O
+anh	O
+quốc	O
+.	O
+
+
+ờ	O
+mây	O
+zing	O
+gút	O
+chóp	O
+circle	B-Location
+k	I-Location
+đồng_loạt	O
+khai_trương	O
+3	O
+cửa_hàng	O
+mới_toanh	O
+tại	O
+cần_thơ	B-Location
+và	I-Location
+hà_nội	I-Location
+.	O
+
+
+nhận	B-Promotion
+ngay	I-Promotion
+túi	I-Promotion
+quà	I-Promotion
+trị_giá	I-Promotion
+100k	I-Promotion
+với	O
+mỗi	O
+hoá_đơn	O
+mua	O
+hàng	O
+từ	O
+100k	O
+trở	O
+lên	O
+duy_nhất	O
+vào	O
+ngày	O
+30/12/2022	B-Time
+.	O
+
+
+giải_thưởng	B-Promotion
+chất	O
+lừ	O
+:	O
+10	B-Product
+sổ	I-Product
+voucher	I-Product
+combo	I-Product
+ăn	I-Product
+sáng	I-Product
++	O
+phaphin	I-Product
+cafe	I-Product
+đỉnh_cao	O
+.	O
+
+
+thời_gian	B-Regulation
+tham_gia	I-Regulation
+:	O
+kết_quả	O
+sẽ	O
+được	O
+tính	O
+đến	O
+hết	B-Time
+ngày	I-Time
+03/01/2023	I-Time
+.	O
+
+
+kết_quả	B-Promotion
+sẽ	I-Promotion
+được	I-Promotion
+công_bố	I-Promotion
+vào	O
+ngày	O
+04/01/2023	B-Time
+tại	O
+fanpage	B-Organization
+circle	I-Organization
+k	I-Organization
+vietnam	I-Organization
+.	O
+
+
+thời_gian	O
+chương_trình	B-Promotion
+top	I-Promotion
+brands	I-Promotion
+2022	I-Promotion
+:	O
+từ	O
+01/12/2022	B-Time
+–	I-Time
+28/12/2022	I-Time
+.	O
+
+
+thời_gian	B-Regulation
+áp_dụng	I-Regulation
+:	O
+chỉ	O
+từ	O
+03/11	B-Time
+-	O
+30/11/2022	I-Time
+
+
+giải	B-Promotion
+nhất	I-Promotion
+:	O
+ipad	B-Product
+mini	I-Product
+6	I-Product
+
+
+giải	B-Promotion
+nhì	I-Promotion
+:	O
+e-voucher	B-Product
+ăn_uống	I-Product
+,	O
+mua_sắm	I-Product
+trị_giá	O
+2	B-Price
+triệu	I-Price
+từ	O
+urbox	B-Organization
+.	O
+
+
+giải	B-Promotion
+ba	I-Promotion
+:	O
+bút	B-Product
+làm	I-Product
+trắng	I-Product
+răng	I-Product
+colgate	I-Product
+optic	I-Product
+white	I-Product
+o	I-Product
+2	I-Product
+.	O
+
+
+giải	B-Promotion
+bốn	I-Promotion
+:	O
+hộp	B-Product
+quà	I-Product
+tặng	I-Product
+gồm	I-Product
+2	I-Product
+hộp	I-Product
+kem	I-Product
+đánh	I-Product
+răng	I-Product
+optic	I-Product
+white	I-Product
+o	I-Product
+2	I-Product
+.	O
+
+
+giải	B-Promotion
+năm	I-Promotion
+:	O
+1	B-Product
+set	I-Product
+quà	I-Product
+world_cup	I-Product
+(	O
+lịch	I-Product
+thi_đấu	I-Product
+và	I-Product
+cờ	I-Product
+các	I-Product
+nước	I-Product
+)	I-Product
+.	O
+
+
+giải	B-Promotion
+i	I-Promotion
+:	O
+01	B-Product
+ipad	I-Product
+pro	I-Product
+2021	I-Product
+
+
+giải	B-Promotion
+ii	I-Promotion
+:	O
+02	B-Product
+apple	I-Product
+watch	I-Product
+6	I-Product
+
+
+giải	B-Promotion
+iii	I-Promotion
+:	O
+05	B-Product
+bàn_chải	I-Product
+điện	I-Product
+p	I-Product
+/	I-Product
+s	I-Product
+
+
+đặc_biệt	O
+,	O
+tiết_kiệm	B-Promotion
+ngay	I-Promotion
+3k	I-Promotion
+khi	O
+mua	O
+bánh	B-Product
+kem	I-Product
+dâu	I-Product
+từ	O
+08.6	B-Time
+–	I-Time
+05.7.2022	I-Time
+.	O
+
+
+giải_thưởng	O
+:	O
+1	B-Product
+tai	I-Product
+nghe	I-Product
+beats	I-Product
+studio	I-Product
+buds	I-Product
+chính	O
+hãng	O
+trị_giá	O
+2.990.000	B-Price
+cực	O
+xịn	O
+,	O
+cực	O
+đã	O
+.	O
+
+
+thời_gian	B-Regulation
+tham_gia	I-Regulation
+:	O
+đến	O
+hết	B-Time
+ngày	I-Time
+12.6.2022	I-Time
+,	O
+kết_quả	B-Promotion
+sẽ	I-Promotion
+được	I-Promotion
+circle	I-Promotion
+k	I-Promotion
+công_bố	I-Promotion
+vào	O
+ngày	O
+14.6.2022	B-Time
+tại	O
+phần	O
+comment	O
+post	O
+.	O
+
+
+khi	O
+mua	O
+2	B-Product
+chai	I-Product
+nước_khoáng	I-Product
+lavie	I-Product
+700ml	I-Product
+,	O
+bạn	O
+mình	O
+nhớ	O
+mở	O
+app	B-Organization
+ck	I-Organization
+club	I-Organization
+tích	O
+tem	O
+nhận	B-Promotion
+ngay	I-Promotion
+1	I-Promotion
+chai	I-Promotion
+lavie	I-Promotion
+miễn_phí	O
+từ	O
+29.5	B-Time
+–	I-Time
+03.6.2022	I-Time
+nhé	O
+.	O
+
+
+thời_gian	B-Regulation
+áp_dụng	I-Regulation
+:	O
+từ	O
+25.5.2022	B-Time
+–	I-Time
+30.5.2022	I-Time
+.	O
+
+
+thử_thách	B-Promotion
+đoán	I-Promotion
+đội	I-Promotion
+chiến_thắng	I-Promotion
+,	O
+nhận	O
+e-voucher	B-Product
+100k	I-Product
+
+
+giải_thưởng	O
+:	O
+circle	B-Location
+k	I-Location
+tặng	B-Promotion
+ngay	I-Promotion
+10	B-Regulation
+e-voucher	I-Regulation
+100k	I-Regulation
+cho	I-Regulation
+10	I-Regulation
+bạn	I-Regulation
+dự_đoán	I-Regulation
+đúng	I-Regulation
+,	O
+hợp_lệ	I-Regulation
+và	O
+may_mắn	O
+nhất	O
+(	O
+kết_quả	O
+tính	O
+đến	O
+hết	O
+19h	O
+ngày	O
+19.5.2022	O
+)	O
+
+
+giải_thưởng	O
+:	O
+circle	B-Location
+k	I-Location
+tặng	B-Promotion
+ngay	I-Promotion
+20	B-Regulation
+e-voucher	I-Regulation
+50k	I-Regulation
+cho	I-Regulation
+20	I-Regulation
+bạn	I-Regulation
+dự_đoán	I-Regulation
+đúng	I-Regulation
+,	O
+hợp_lệ	I-Regulation
+và	O
+may_mắn	O
+nhất	O
+(	O
+kết_quả	O
+tính	O
+đến	O
+hết	O
+19h	O
+ngày	O
+15.5.2022	O
+)	O
+
+
+nhận	B-Promotion
+1	I-Promotion
+gói	I-Promotion
+snack	I-Promotion
+cực	O
+ngon	O
+khi	O
+tải	B-Regulation
+và	I-Regulation
+đăng_ký	I-Regulation
+thành_công	I-Regulation
+app	I-Regulation
+thành_viên	I-Regulation
+ck	I-Regulation
+club	I-Regulation
+
+
+những	O
+chiếc	O
+voucher	B-Product
+100k	I-Product
+của	O
+circle	B-Location
+k	I-Location
+sẽ	O
+gọi	O
+tên	O
+ai	O
+đây	O
+,	O
+thử	O
+tài	O
+may_mắn	O
+với	O
+3	O
+bước	O
+đơn_giản	O
+sau	O
+:	O
+
+
+chai	B-Product
+dầu	I-Product
+1l	I-Product
+mua	O
+bằng	O
+19.000	B-Price
+điểm	I-Price
+
+
+lốc	B-Product
+12	I-Product
+cuộn	I-Product
+giấy	I-Product
+choice	I-Product
+l	I-Product
+mua	O
+bằng	O
+19.000	B-Price
+điểm	I-Price
+
+
+bánh	B-Product
+xốp	I-Product
+phô_mai	I-Product
+/	I-Product
+socola	I-Product
+mua	O
+bằng	O
+29.000	B-Price
+điểm	I-Price
+
+
+lốc	B-Product
+6	I-Product
+nước	I-Product
+trái_cây	I-Product
+nutri	I-Product
+mua	O
+bằng	O
+29.000	B-Price
+điểm	I-Price
+
+
+sữa	B-Product
+tắm	I-Product
+around	I-Product
+me	I-Product
+500ml	I-Product
+mua	O
+bằng	O
+69.000	B-Price
+điểm	I-Price
+
+
+ấm	B-Product
+đun	I-Product
+1.8	I-Product
+l	I-Product
+mua	O
+bằng	O
+69.000	B-Price
+điểm	I-Price
+
+
+giảm	B-Promotion
+𝟱𝟬%	I-Promotion
+chỉ	I-Promotion
+từ	I-Promotion
+𝟵	I-Promotion
+.	I-Promotion
+
+
+𝟬𝟬𝟬đ	I-Promotion
+duy_nhất	O
+tại	O
+lotte_mart	B-Location
+phú_thọ	I-Location
+(	O
+quận	I-Location
+11	I-Location
+)	O
+
+
+9	O
+sản_phẩm	O
+hot	O
+nhất	O
+sẽ	O
+sale	B-Promotion
+bùng	I-Promotion
+cháy	I-Promotion
+trong	O
+2	B-Time
+ngày	I-Time
+06	I-Time
+&	O
+07.02	I-Time
+.	O
+
+
+giảm	B-Promotion
+50%	I-Promotion
+chỉ	I-Promotion
+9.000	I-Promotion
+đ	I-Promotion
+dưa_leo	B-Product
+baby	I-Product
+hộp	I-Product
+500g	I-Product
+
+
+giảm	B-Promotion
+50%	I-Promotion
+chỉ	I-Promotion
+9.000	I-Promotion
+đ	I-Promotion
+lô	B-Product
+2	I-Product
+nấm	I-Product
+kim	I-Product
+châm	I-Product
+hàn_quốc	I-Product
+
+
+giảm	B-Promotion
+50%	I-Promotion
+chỉ	I-Promotion
+9.000	I-Promotion
+đ	I-Promotion
+cá_ngừ	B-Product
+ngâm	I-Product
+dầu	I-Product
+160g	I-Product
+
+
+giảm	B-Promotion
+𝟱𝟬%	I-Promotion
+chỉ	O
+3	O
+ngày	O
+03,4,5/02	B-Time
+
+
+mua	B-Promotion
+1	I-Promotion
+tặng	I-Promotion
+1	I-Promotion
+bánh_mì	B-Product
+mè	I-Product
+hàn_quốc	I-Product
+60g	I-Product
+.	O
+
+
+giảm	B-Promotion
+50%	I-Promotion
+hộp	B-Product
+10	I-Product
+trứng	I-Product
+happy	I-Product
+egg	I-Product
+chỉ	O
+còn	O
+9.000	B-Price
+đ	B-Price
+.	O
+
+
+giảm	B-Promotion
+50%	I-Promotion
+khăn	B-Product
+ướt	I-Product
+choice	I-Product
+l	I-Product
+120miếng	I-Product
+chỉ	O
+còn	O
+9.000	B-Price
+đ	B-Price
+.	O
+
+
+giảm	B-Promotion
+15%	I-Promotion
+tại	O
+thế_giới	B-Organization
+kim_cương	I-Organization
+
+
+giảm	B-Promotion
+10%	I-Promotion
+tại	O
+himalaya	B-Organization
+và	I-Organization
+ijc	I-Organization
+
+
+giảm	B-Promotion
+5%	I-Promotion
+tại	O
+pharm.d.	B-Organization
+
+
+sốt	B-Product
+ướp	I-Product
+thịt	I-Product
+nướng	I-Product
+chỉ	O
+còn	O
+39.500	B-Price
+đ	B-Price
+/	B-Price
+hũ	B-Price
+397g	O
+.	O
+
+
+chào_mừng	O
+manwah	B-Organization
+đến	O
+lotte_mart	B-Location
+phú_thọ	I-Location
+
+
+tặng	B-Promotion
+1	I-Promotion
+suất	I-Promotion
+buffet	I-Promotion
+miễn_phí	I-Promotion
+cho	O
+nhóm	B-Regulation
+từ	I-Regulation
+4	I-Regulation
+khách	I-Regulation
+người_lớn	I-Regulation
+có	I-Regulation
+mã	I-Regulation
+ưu_đãi	I-Regulation
+hợp_lệ	I-Regulation
+
+
+khách_hàng	B-Regulation
+check-in	I-Regulation
+được	O
+miễn_phí	B-Promotion
+buffet	I-Promotion
+line	I-Promotion
+trị_giá	I-Promotion
+49k	I-Promotion
+
+
+chỉ	O
+𝟳𝟯𝟵	B-Price
+.	B-Price
+
+
+𝟬𝟬𝟬đ	B-Price
+thùng	B-Product
+cherry	I-Product
+2kg	I-Product
+.	O
+
+
+thùng	B-Product
+2kg	I-Product
+cherry	I-Product
+đang	O
+được	O
+bán	O
+với	O
+giá	O
+siêu	O
+tiết_kiệm	O
+chỉ	O
+739.000	B-Price
+đ	B-Price
+tại	O
+hệ_thống	B-Location
+lotte_mart	I-Location
+.	O
+
+
+dưa_hấu	B-Product
+tròn	I-Product
+an	I-Product
+tiêm	I-Product
+:	O
+giá	O
+chỉ	O
+từ	O
+15.900	B-Price
+đ	B-Price
+~	O
+26.900	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+
+
+dưa_hấu	B-Product
+ruột	I-Product
+đỏ	I-Product
+loại	I-Product
+1	I-Product
+:	O
+giá	O
+từ	O
+9.900	B-Price
+đ	B-Price
+~	O
+13.900	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+
+
+dưa	B-Product
+hoàng	I-Product
+cúc	I-Product
+:	O
+giá	O
+từ	O
+22.900	B-Price
+đ	B-Price
+~	O
+29.900	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+
+
+đặc_biệt	O
+,	O
+dưa_hấu	B-Product
+hắc	I-Product
+tiểu	I-Product
+long	I-Product
+hiếm	O
+có	O
+,	O
+mỗi	O
+năm	O
+chỉ	O
+có	O
+một	O
+vụ	O
+ngon_ngọt	O
+chỉ	O
+còn	O
+18.900	B-Price
+đ	B-Price
+~	O
+22.900	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+.	O
+
+
+dưa	B-Product
+hắc	I-Product
+tiểu	I-Product
+long	I-Product
+khắc	I-Product
+chữ	I-Product
+giảm	B-Promotion
+11%	I-Promotion
+còn	I-Promotion
+239.000	I-Promotion
+đ	I-Promotion
+/	I-Promotion
+trái	I-Promotion
+tại	O
+lotte_mart	B-Location
+hồ_chí_minh	I-Location
+,	O
+bình_dương	I-Location
+,	O
+vinh	I-Location
+,	O
+hà_nội	I-Location
+
+
+thời_gian	B-Regulation
+tham_gia	I-Regulation
+từ	O
+ngày	O
+2/2/2023	B-Time
+đến	I-Time
+15/2/2023	I-Time
+.	O
+
+
+quà	O
+tặng	O
+:	O
+15	B-Product
+vé	I-Product
+xem	I-Product
+phim	I-Product
+lotte	I-Product
+cinema	I-Product
+cho	O
+15	B-Regulation
+bạn	I-Regulation
+có	I-Regulation
+dự_đoán	I-Regulation
+chính_xác	I-Regulation
+và	I-Regulation
+sớm	I-Regulation
+nhất	I-Regulation
+(	O
+01	O
+vé	O
+/	O
+người	O
+thắng	O
+giải	O
+)	O
+.	O
+
+
+thời_gian	B-Regulation
+công_bố	I-Regulation
+kết_quả	I-Regulation
+17/2/2023	B-Time
+.	O
+
+
+thịt	B-Product
+bò	I-Product
+xay	I-Product
+nhập_khẩu	I-Product
+trực_tiếp	I-Product
+từ	I-Product
+úc	I-Product
+tiếp_tục	O
+góp_mặt	O
+tại	O
+lotte_mart	B-Location
+vũng_tàu	I-Location
+,	O
+ba_đình	I-Location
+.	O
+
+
+ưu_đãi	O
+hàng	O
+mới	O
+,	O
+giá	B-Promotion
+giảm	I-Promotion
+chỉ	I-Promotion
+từ	I-Promotion
+57.000	I-Promotion
+đ	I-Promotion
+gói	B-Product
+thịt	I-Product
+xay	I-Product
+150g	I-Product
+.	O
+
+
+gà	B-Product
+dakgangjeong	I-Product
+sốt	I-Product
+cay	I-Product
+ngọt	I-Product
+món	O
+ngon	O
+đường_phố	O
+hàn_quốc	O
+,	O
+giảm	B-Promotion
+16%	I-Promotion
+.	O
+
+
+giảm	B-Promotion
+17%	I-Promotion
+~	O
+21%	I-Promotion
+áp_dụng	O
+đến	B-Time
+05.12.2022	I-Time
+tại	O
+lotte_mart	B-Location
+quận	I-Location
+7	I-Location
+.	O
+
+
+thời_gian	B-Regulation
+tham_gia	I-Regulation
+:	O
+từ	B-Time
+nay	I-Time
+đến	I-Time
+02:00	I-Time
+ngày	I-Time
+11/12/2022	I-Time
+.	O
+
+
+thời_gian	B-Regulation
+tham_gia	I-Regulation
+:	O
+từ	B-Time
+nay	I-Time
+đến	I-Time
+22:00	I-Time
+ngày	I-Time
+10/12/2022	I-Time
+.	O
+
+
+chuỗi	B-Promotion
+minigame	I-Promotion
+world_cup	I-Promotion
+cực	O
+hot	O
+sắp	O
+diễn	O
+ra	O
+vào	O
+ngày	O
+07/12	B-Time
+.	O
+
+
+lốc	B-Product
+5	I-Product
+mì	I-Product
+khô	I-Product
+samyang	I-Product
+hàn_quốc	I-Product
+chỉ	O
+còn	O
+99.900	B-Price
+đ	B-Price
+(	O
+giảm	I-Price
+34%	I-Price
+)	I-Price
+.	O
+
+
+combo	B-Promotion
+2	I-Promotion
+miếng	I-Promotion
+gà	I-Promotion
+rán	I-Promotion
+giòn_rụm	I-Promotion
++	O
+coca	I-Promotion
+chỉ	O
+45.000	B-Price
+đ	B-Price
+.	O
+
+
+mùa	O
+yêu	O
+năm	O
+nay	O
+,	O
+hãy	O
+để	O
+glam	B-Organization
+beautique	I-Organization
+giúp	O
+bạn	O
+và	O
+người	O
+ấy	O
+xích	O
+lại	O
+gần	O
+nhau	O
+hơn	O
+tại	O
+sự_kiện	O
+“	B-Promotion
+sweet	B-Promotion
+season	I-Promotion
+”	I-Promotion
+tại	O
+sảnh	O
+đông	O
+-	O
+aeon	B-Location
+mall	I-Location
+celadon	I-Location
+tân_phú	I-Location
+từ	O
+13	B-Time
+–	I-Time
+20.02	I-Time
+
+
+dù	O
+bạn	O
+thuộc	O
+"	O
+team	O
+có	O
+gấu	O
+"	O
+hay	O
+"	O
+độc_thân	O
+"	O
+thì	O
+tại	O
+“	B-Promotion
+sweet	B-Promotion
+season	I-Promotion
+”	I-Promotion
+luôn	O
+có	O
+những	O
+chiếc	O
+deal	B-Promotion
+sale	I-Promotion
+up	I-Promotion
+50%	I-Promotion
++	I-Promotion
++	I-Promotion
++	I-Promotion
++	O
+nóng_bỏng	O
+như	O
+mùa	O
+yêu	O
+này	O
+từ	O
+các	B-Organization
+nhãn	I-Organization
+hàng	I-Organization
+:	O
+
+
+anessa	I-Organization
+,	O
+senka	I-Organization
+,	O
+tsubaki	I-Organization
+,	I-Organization
+eucerin	I-Organization
+,	O
+curel	I-Organization
+,	O
+freeplus	I-Organization
+,	O
+fine	I-Organization
+japan	I-Organization
+,	O
+some	I-Organization
+by	I-Organization
+mi	I-Organization
+,	O
+skin	I-Organization
+1004	I-Organization
+,	I-Organization
+…	I-Organization
+
+
+..	O
+
+
+chưa	O
+hết	O
+đâu	O
+nha	O
+,	O
+khi	O
+mua	O
+hàng	O
+với	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+#	O
+349	I-Regulation
+k	I-Regulation
+bạn	O
+còn	O
+nhận	B-Promotion
+ngay	I-Promotion
+quà	I-Promotion
+tặng	I-Promotion
+“	I-Promotion
+sổ_tay	I-Promotion
+”	I-Promotion
+xinh	O
+xĩu	O
+.	O
+
+
+chả	B-Product
+cá_basa	I-Product
+giá	B-Price
+thường	I-Price
+169.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+giảm	O
+chỉ	O
+còn	O
+150.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+sườn	B-Product
+non	I-Product
+heo	I-Product
+giá	B-Price
+thường	I-Price
+200.000	I-Price
+đ	I-Price
+/	I-Price
+kg	I-Price
+giảm	O
+chỉ	O
+còn	O
+180.000	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+
+
+dâu_tây	B-Product
+mộc_châu	I-Product
+500g	I-Product
+giá	B-Price
+thường	I-Price
+220.000	I-Price
+đ	I-Price
+/	I-Price
+hộp	I-Price
+giảm	O
+chỉ	O
+còn	O
+150.000	B-Price
+kg	B-Price
+/	B-Price
+hộp	B-Price
+
+
+danish	B-Product
+xúc_xích	I-Product
+giá	B-Price
+thường	I-Price
+15.000	I-Price
+đ	I-Price
+/	I-Price
+cái	I-Price
+giảm	O
+chỉ	O
+còn	O
+10.000	B-Price
+đ	B-Price
+/	B-Price
+cái	B-Price
+
+
+robot	B-Promotion
+mời	I-Promotion
+bia	I-Promotion
+của	I-Promotion
+heineken	I-Promotion
+hiện	O
+đang	O
+có	O
+tại	O
+lotte_mart	B-Location
+quận	I-Location
+7	I-Location
+.	O
+
+
+nước_gạo	B-Product
+buổi	I-Product
+sáng	I-Product
+woongjin	I-Product
+giá	B-Price
+thường	I-Price
+74.900	I-Price
+đ	I-Price
+/	I-Price
+chai	I-Price
+giảm	O
+chỉ	O
+còn	O
+60.000	B-Price
+đ	B-Price
+/	B-Price
+chai	B-Price
+
+
+chỉ	O
+5.000	B-Promotion
+đ	B-Promotion
+/	O
+hộp	I-Promotion
+1l	I-Promotion
+sữa	I-Promotion
+milky	I-Promotion
+lux	I-Promotion
+ít	I-Promotion
+béo	I-Promotion
+với	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+400.000	I-Regulation
+đ	I-Regulation
+
+
+chỉ	O
+20.000	B-Promotion
+đ	B-Promotion
+/	O
+hộp	I-Promotion
+400g	I-Promotion
+bánh	I-Promotion
+cracker	I-Promotion
+kem	I-Promotion
+chanh	I-Promotion
+/	I-Promotion
+phô_mai	I-Promotion
+với	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+600.000	I-Regulation
+đ	I-Regulation
+
+
+chỉ	O
+39.000	B-Promotion
+đ	B-Promotion
+/	O
+lốc	I-Promotion
+12	I-Promotion
+cuộn	I-Promotion
+giấy_vệ_sinh	I-Promotion
+choice	I-Promotion
+l	I-Promotion
+với	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+1.000.000	I-Regulation
+đ	I-Regulation
+
+
+mỗi	O
+tuần	O
+:	O
+02	B-Promotion
+giải	I-Promotion
+“	I-Promotion
+mua_sắm	I-Promotion
+thả	I-Promotion
+ga	I-Promotion
+”	I-Promotion
+mỗi	O
+giải	O
+20.000.000	B-Product
+điểm	I-Product
+vào	I-Product
+tài_khoản	I-Product
+thành_viên	I-Product
+tương_đương	O
+20.000.000	B-Price
+đồng	I-Price
+
+
+01	B-Promotion
+giải	I-Promotion
+đặc_biệt	I-Promotion
+“	I-Promotion
+cùng	I-Promotion
+đi	I-Promotion
+hàn_quốc	I-Promotion
+”	I-Promotion
+:	O
+01	B-Product
+chuyến	I-Product
+du_lịch	I-Product
+hàn_quốc	I-Product
+dành	I-Product
+cho	I-Product
+4	I-Product
+người	I-Product
+trị_giá	O
+120.000.000	B-Price
+đồng	I-Price
+
+
+tặng	B-Promotion
+ngay	I-Promotion
+ly	I-Promotion
+sứ	I-Promotion
+cao_cấp	I-Promotion
+starbucks®	I-Promotion
+(	O
+trị_giá	I-Promotion
+450	I-Promotion
+k	I-Promotion
+)	O
+khi	O
+mua	O
+03	B-Product
+sản_phẩm	I-Product
+cà_phê	I-Product
+hoà_tan	I-Product
+cao_cấp	I-Product
+starbucks®	I-Product
+bất_kỳ	O
+tại	O
+quầy	O
+cà_phê	O
+trong	O
+khu_vực	O
+tự	O
+chọn	O
+của	O
+siêu_thị	O
+
+
+tặng	B-Promotion
+100	I-Promotion
+phần	I-Promotion
+kimbap	I-Promotion
+/	I-Promotion
+ngày	I-Promotion
+trị_giá	I-Promotion
+45.000	I-Promotion
+đ	I-Promotion
+cho	O
+hoá_đơn	B-Regulation
+từ	I-Regulation
+150.000	I-Regulation
+đ	I-Regulation
+các	I-Regulation
+sản_phẩm	I-Regulation
+chế_biến	I-Regulation
+sẵn	I-Regulation
+,	O
+áp_dụng	O
+29.07	B-Time
+đến	I-Time
+31.07.2022	I-Time
+
+
+chảo	B-Product
+tefal	I-Product
+đáy	I-Product
+từ	I-Product
+chỉ	O
+229.900	B-Price
+đ	B-Price
+/	B-Price
+cái	B-Price
+(	O
+giảm	B-Promotion
+40%	I-Promotion
+)	O
+tặng	I-Promotion
+1	I-Promotion
+chảo	I-Promotion
+supor	I-Promotion
+
+
+mì	B-Product
+shin	I-Product
+ramyun	I-Product
+chỉ	O
+11.900	B-Price
+đ	B-Price
+/	B-Price
+gói	B-Price
+(	O
+giá	B-Price
+thường	I-Price
+21.600	I-Price
+đ	I-Price
+)	O
+
+
+rạp	B-Organization
+phim	I-Organization
+cgv	I-Organization
+tại	O
+vincom	B-Location
+center	I-Location
+bà	I-Location
+triệu	I-Location
+(	O
+tầng	I-Location
+6	I-Location
+)	O
+
+
+cam_sành	B-Product
+hàm_yên	I-Product
+đang	O
+vào	O
+mùa_vụ	O
+,	O
+ngọt	O
+lành	O
+tự_nhiên	O
+,	O
+mời	O
+cả	O
+nhà	O
+cùng	O
+ghé	O
+siêu_thị	O
+winmart	B-Location
+và	I-Location
+cửa_hàng	I-Location
+winmart	I-Location
++	O
+gần	O
+nhà	O
+để	O
+mua_sắm	O
+và	O
+thưởng_thức	O
+,	O
+ủng_hộ	O
+trái_cây	O
+việt	O
+ngon_ngọt	O
+,	O
+chất_lượng	O
+với	O
+giá	O
+ưu_đãi	O
+chỉ	O
+𝟏𝟖	B-Price
+.	B-Price
+
+
+𝟗𝟎𝟎đ	B-Price
+/	B-Price
+𝐤𝐠	B-Price
+(	O
+giá	O
+thường	O
+:	O
+24.900	B-Price
+đ	B-Price
+/	B-Price
+kg	B-Price
+)	O
+
+
+áp_dụng	B-Regulation
+tại	I-Regulation
+khu_vực	I-Regulation
+miền	I-Regulation
+bắc	I-Regulation
+từ	O
+09/02	B-Time
+-	O
+15/02/2023	I-Time
+
+
+cam	B-Product
+hàm_yên	I-Product
+và	I-Product
+dứa	I-Product
+nghệ_an	I-Product
+đang	O
+chờ	O
+đón	O
+quý_khách	O
+hàng	O
+ngay	O
+tại	O
+siêu_thị	O
+winmart	B-Location
+với	O
+các	O
+mức	O
+giá	O
+cực_kì	O
+ưu_đãi	O
+.	O
+
+
+dứa	B-Product
+quỳnh_lưu	I-Product
+-	O
+nghệ_an	I-Promotion
+thơm_lừng	I-Promotion
+,	O
+ngọt	I-Promotion
+đậm	O
+-	O
+ưu_đãi	O
+cuối	O
+tuần	O
+này	O
+chỉ	O
+9.900	O
+đ	O
+/	O
+quả	O
+
+
+thưởng_thức	O
+dứa	B-Product
+giống	I-Product
+queen	I-Product
+nghệ_an	I-Product
+với	O
+mức	O
+giá	O
+siêu	O
+ngọt_ngào	O
+chỉ	O
+𝟗	B-Price
+.	B-Price
+
+
+𝟗𝟎𝟎đ	B-Price
+/	B-Price
+𝐪𝐮𝐚̉	B-Price
+(	O
+giá	O
+cũ	O
+:	O
+14.900	B-Price
+đ	B-Price
+/	B-Price
+quả	B-Price
+)	B-Price
+.	O
+
+
+tiết_kiệm	B-Promotion
+ngay	I-Promotion
+20%	I-Promotion
+cho	O
+toàn_bộ	O
+các	O
+sản_phẩm	O
+thịt	B-Product
+sạch	I-Product
+meatdeli	I-Product
+và	I-Product
+rau_sạch	I-Product
+wineco	I-Product
+
+
+từ	O
+09/02	B-Time
+-	O
+12/02	I-Time
+,	O
+siêu_thị	O
+winmart	B-Location
+và	I-Location
+cửa_hàng	I-Location
+winmart	I-Location
++	O
+đem	O
+đến	O
+đại_tiệc	B-Promotion
+rau	I-Promotion
+củ	I-Promotion
+quả	I-Promotion
+sạch	O
+,	O
+tươi	O
+ngon	O
+thượng_hạng	O
+với	O
+mức	O
+giá	O
+cực	O
+sốc	O
+từ	O
+wineco	B-Organization
+-	O
+nông_sản	O
+chất_lượng	O
+cao	O
+:	O
+
+

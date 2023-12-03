@@ -1,0 +1,445 @@
+PRICE	5	5	6	12	Promotion	Product	đừng quên ưu_đãi : chỉ 3k 1 gói bánh xốp nabati khi mua cùng 1 ly phaphin cafe ( size bất_kỳ )
+AFFILIATION	6	12	5	5	Product	Promotion	đừng quên ưu_đãi : chỉ 3k 1 gói bánh xốp nabati khi mua cùng 1 ly phaphin cafe ( size bất_kỳ )
+AFFILIATION	1	2	9	10	Location	Location	team cần thơ vừa nô_nức đón xuân vừa đón_chào circle k mới nhee
+OTHER	9	10	1	2	Location	Location	team cần thơ vừa nô_nức đón xuân vừa đón_chào circle k mới nhee
+REGULATION	0	5	8	12	Promotion	Regulation	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 17/01/2023 .
+REGULATION	0	5	18	18	Promotion	Time	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 17/01/2023 .
+AFFILIATION	18	18	0	5	Time	Promotion	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 17/01/2023 .
+OTHER	18	18	8	12	Time	Regulation	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 17/01/2023 .
+AFFILIATION	1	6	19	19	Promotion	Time	chỉ 3k 1 cái bánh xốp nabati khi mua cùng 1 ly phaphin cafe ( size bất_kỳ ) từ 21.12.2022 - 31.01.2023 .
+REGULATION	19	19	1	6	Time	Promotion	chỉ 3k 1 cái bánh xốp nabati khi mua cùng 1 ly phaphin cafe ( size bất_kỳ ) từ 21.12.2022 - 31.01.2023 .
+LOCATION	0	1	6	7	Product	Location	oreo blackpink có_mặt tại tất_cả cửa_hàng circle k trên toàn_quốc từ ngày 08/01/2023 .
+AFFILIATION	0	1	10	12	Product	Time	oreo blackpink có_mặt tại tất_cả cửa_hàng circle k trên toàn_quốc từ ngày 08/01/2023 .
+REGULATION	10	12	0	1	Time	Product	oreo blackpink có_mặt tại tất_cả cửa_hàng circle k trên toàn_quốc từ ngày 08/01/2023 .
+LOCATION	4	7	15	16	Product	Location	chiếc note nho_nhỏ : hộp bánh màu hồng ( 360 g ) sẽ có_mặt tại circle k vào ngày 12.01.2023 .
+AFFILIATION	4	7	19	19	Product	Time	chiếc note nho_nhỏ : hộp bánh màu hồng ( 360 g ) sẽ có_mặt tại circle k vào ngày 12.01.2023 .
+REGULATION	19	19	4	7	Time	Product	chiếc note nho_nhỏ : hộp bánh màu hồng ( 360 g ) sẽ có_mặt tại circle k vào ngày 12.01.2023 .
+AFFILIATION	3	4	19	21	Time	Promotion	trong khung giờ từ 8:00 - 22:00 ngày 06-07/01/2023 , các bạn đến các cửa_hàng circle k này để nhận bo góc nè .
+REGULATION	19	21	3	4	Promotion	Time	trong khung giờ từ 8:00 - 22:00 ngày 06-07/01/2023 , các bạn đến các cửa_hàng circle k này để nhận bo góc nè .
+LOCATION	19	21	15	16	Promotion	Location	trong khung giờ từ 8:00 - 22:00 ngày 06-07/01/2023 , các bạn đến các cửa_hàng circle k này để nhận bo góc nè .
+LOCATION	6	6	2	3	Promotion	Location	đừng quên circle k vẫn mở pre-order đến hết ngày 06/01 nha cả nhà .
+AFFILIATION	6	6	8	10	Promotion	Time	đừng quên circle k vẫn mở pre-order đến hết ngày 06/01 nha cả nhà .
+REGULATION	8	10	6	6	Time	Promotion	đừng quên circle k vẫn mở pre-order đến hết ngày 06/01 nha cả nhà .
+LOCATION	2	3	10	11	Product	Location	những chiếc cookies tết tràn_ngập sắc_màu hấp_dẫn đã có_mặt tại circle k rồi_đây .
+REGULATION	0	3	9	12	Time	Promotion	từ hôm_nay đến 06/01/2023 , circle k mở đợt pre-order bo góc blackpink , bạn chỉ cần vào app ck club , đăng_ký mua sản_phẩm oreo có bo góc .
+AFFILIATION	9	12	0	3	Promotion	Time	từ hôm_nay đến 06/01/2023 , circle k mở đợt pre-order bo góc blackpink , bạn chỉ cần vào app ck club , đăng_ký mua sản_phẩm oreo có bo góc .
+LOCATION	9	12	5	6	Promotion	Location	từ hôm_nay đến 06/01/2023 , circle k mở đợt pre-order bo góc blackpink , bạn chỉ cần vào app ck club , đăng_ký mua sản_phẩm oreo có bo góc .
+AFFILIATION	2	5	6	6	Product	Promotion	riêng với hộp oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+OTHER	2	5	7	12	Product	Promotion	riêng với hộp oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+PRICE	6	6	2	5	Promotion	Product	riêng với hộp oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+OTHER	6	6	7	12	Promotion	Promotion	riêng với hộp oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+OTHER	7	12	2	5	Promotion	Product	riêng với hộp oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+OTHER	7	12	6	6	Promotion	Promotion	riêng với hộp oreo vị vani 193,2 g sẽ có 1 bo góc sẵn trong hộp , mấy bà nào đam_mê cảm_giác unbox thì đừng bỏ_qua hộp này nha !
+LOCATION	14	14	11	12	Organization	Location	năm mới đón nhiều niềm vui với ưu_đãi siêu hấp_dẫn tại circle k cùng mcvitie ’ s .
+OTHER	16	16	11	12	Organization	Location	năm mới đón nhiều niềm vui với ưu_đãi siêu hấp_dẫn tại circle k cùng mcvitie ’ s .
+REGULATION	7	16	1	3	Promotion	Regulation	với hoá_đơn_trị_giá 50.000 vnđ bạn đã được nhận ngay 01 bánh_quy mcvitie ’ s dark cookie 120g vô_cùng thơm ngon , thương_hiệu bánh_quy đến từ anh quốc .
+OTHER	5	6	13	16	Location	Location	ờ mây zing gút chóp circle k đồng_loạt khai_trương 3 cửa_hàng mới_toanh tại cần thơ và hà_nội .
+AFFILIATION	13	16	5	6	Location	Location	ờ mây zing gút chóp circle k đồng_loạt khai_trương 3 cửa_hàng mới_toanh tại cần thơ và hà_nội .
+REGULATION	0	5	18	18	Promotion	Time	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 30/12/2022 .
+AFFILIATION	18	18	0	5	Time	Promotion	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 30/12/2022 .
+OTHER	0	0	4	9	Promotion	Product	giải_thưởng chất lừ : 10 sổ voucher combo ăn sáng + phaphin cafe đỉnh_cao .
+AFFILIATION	4	9	0	0	Product	Promotion	giải_thưởng chất lừ : 10 sổ voucher combo ăn sáng + phaphin cafe đỉnh_cao .
+REGULATION	7	9	0	0	Time	Regulation	thời_gian_tham_gia : kết_quả sẽ được tính đến hết ngày 03/01/2023 .
+AFFILIATION	0	3	6	6	Promotion	Time	kết_quả sẽ được công_bố vào ngày 04/01/2023 tại fanpage circle k vietnam .
+OTHER	6	6	0	3	Time	Promotion	kết_quả sẽ được công_bố vào ngày 04/01/2023 tại fanpage circle k vietnam .
+LOCATION	8	11	0	3	Organization	Promotion	kết_quả sẽ được công_bố vào ngày 04/01/2023 tại fanpage circle k vietnam .
+AFFILIATION	1	4	7	9	Promotion	Time	thời_gian chương_trình top brands 2022 : từ 01/12/2022 – 28/12/2022 .
+REGULATION	7	9	1	4	Time	Promotion	thời_gian chương_trình top brands 2022 : từ 01/12/2022 – 28/12/2022 .
+LOCATION	0	1	13	14	Product	Location	wada bento được nấu tươi mới mỗi ngày , đặc_biệt chỉ có tại circle k thơm ngon mời bạn ăn nha !
+OTHER	0	2	7	8	Organization	Location	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+LOCATION	0	2	12	14	Organization	Product	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+LOCATION	0	2	17	20	Organization	Promotion	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+LOCATION	12	14	7	8	Product	Location	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+OTHER	12	14	17	20	Product	Promotion	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+OTHER	12	14	24	26	Product	Time	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+OTHER	17	20	7	8	Promotion	Location	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+OTHER	17	20	12	14	Promotion	Product	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+AFFILIATION	17	20	24	26	Promotion	Time	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+OTHER	24	26	12	14	Time	Product	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+OTHER	24	26	17	20	Time	Promotion	công_ty công_nghệ bảo_hiểm_igloo vừa bắt_tay hợp_tác cùng circle k mang đến sản_phẩm bảo_hiểm xe_máy toàn_diện với ưu_đãi mua 1 tặng 2 siêu siêu hấp_dẫn từ ngày 26/12/2022 .
+PRICE	1	3	12	15	Price	Product	chỉ từ 1.000 đ / ngày , giờ_đây bạn đã có_thể sở_hữu gói bảo_hiểm xe_máy toàn_diện “ nhanh như chớp ” khi mua bảo_hiểm tại hệ_thống cửa_hàng circle k toàn_quốc .
+LOCATION	12	15	27	28	Product	Location	chỉ từ 1.000 đ / ngày , giờ_đây bạn đã có_thể sở_hữu gói bảo_hiểm xe_máy toàn_diện “ nhanh như chớp ” khi mua bảo_hiểm tại hệ_thống cửa_hàng circle k toàn_quốc .
+PRICE	3	6	9	15	Promotion	Product	ưu_đãi đặc_biệt : tặng 1 ly sứ khi mua 2 lon nước / 1 chai nước từ thương_hiệu coca cola , fanta , sprite , teppy và fuze tea .
+AFFILIATION	9	15	3	6	Product	Promotion	ưu_đãi đặc_biệt : tặng 1 ly sứ khi mua 2 lon nước / 1 chai nước từ thương_hiệu coca cola , fanta , sprite , teppy và fuze tea .
+OTHER	18	19	3	6	Organization	Promotion	ưu_đãi đặc_biệt : tặng 1 ly sứ khi mua 2 lon nước / 1 chai nước từ thương_hiệu coca cola , fanta , sprite , teppy và fuze tea .
+OTHER	18	19	9	15	Organization	Product	ưu_đãi đặc_biệt : tặng 1 ly sứ khi mua 2 lon nước / 1 chai nước từ thương_hiệu coca cola , fanta , sprite , teppy và fuze tea .
+LOCATION	14	14	6	9	Organization	Promotion	ưu_đãi siêu " iu " : mua 1 tặng 1 các sản_phẩm từ thương_hiệu pepsi , mirinda , highlands .
+AFFILIATION	5	7	0	1	Time	Regulation	thời_gian áp_dụng : từ ngày 22/12/2022 – 28/12/2022 .
+AFFILIATION	0	8	10	12	Promotion	Time	cơ_hội trúng mỗi ngày_một chiếc iphone 14 pro 128gb từ 22/12 – 28/12/2022
+REGULATION	10	12	0	8	Time	Promotion	cơ_hội trúng mỗi ngày_một chiếc iphone 14 pro 128gb từ 22/12 – 28/12/2022
+PRICE	0	0	1	5	Promotion	Product	tặng 1 phần cơm trắng khi mua 1 phần sườn nướng bbq từ 01.12 – 28.12.2022 .
+AFFILIATION	0	0	13	15	Promotion	Time	tặng 1 phần cơm trắng khi mua 1 phần sườn nướng bbq từ 01.12 – 28.12.2022 .
+AFFILIATION	1	5	0	0	Product	Promotion	tặng 1 phần cơm trắng khi mua 1 phần sườn nướng bbq từ 01.12 – 28.12.2022 .
+OTHER	1	5	13	15	Product	Time	tặng 1 phần cơm trắng khi mua 1 phần sườn nướng bbq từ 01.12 – 28.12.2022 .
+OTHER	13	15	0	0	Time	Promotion	tặng 1 phần cơm trắng khi mua 1 phần sườn nướng bbq từ 01.12 – 28.12.2022 .
+OTHER	13	15	1	5	Time	Product	tặng 1 phần cơm trắng khi mua 1 phần sườn nướng bbq từ 01.12 – 28.12.2022 .
+LOCATION	0	0	2	3	Promotion	Location	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+OTHER	0	0	6	11	Promotion	Product	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+OTHER	0	0	13	16	Promotion	Regulation	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+OTHER	0	0	24	29	Promotion	Time	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+AFFILIATION	6	11	0	0	Product	Promotion	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+OTHER	6	11	2	3	Product	Location	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+REGULATION	6	11	13	16	Product	Regulation	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+AFFILIATION	6	11	24	29	Product	Time	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+OTHER	24	29	0	0	Time	Promotion	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+REGULATION	24	29	6	11	Time	Product	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+OTHER	24	29	13	16	Time	Regulation	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 14.12.2022 )
+AFFILIATION	0	5	8	8	Promotion	Time	kết_quả sẽ được circle k công_bố vào ngày 20.12.2022 tại phần comment post .
+REGULATION	8	8	0	5	Time	Promotion	kết_quả sẽ được circle k công_bố vào ngày 20.12.2022 tại phần comment post .
+OTHER	0	0	2	7	Promotion	Product	giải_thưởng : 15 e-voucher circle k trị_giá 100k dành ngay cho 15 bạn may_mắn nhất và thực_hiện đúng thể_lệ chương_trình .
+OTHER	0	0	11	14	Promotion	Regulation	giải_thưởng : 15 e-voucher circle k trị_giá 100k dành ngay cho 15 bạn may_mắn nhất và thực_hiện đúng thể_lệ chương_trình .
+AFFILIATION	2	7	0	0	Product	Promotion	giải_thưởng : 15 e-voucher circle k trị_giá 100k dành ngay cho 15 bạn may_mắn nhất và thực_hiện đúng thể_lệ chương_trình .
+REGULATION	2	7	11	14	Product	Regulation	giải_thưởng : 15 e-voucher circle k trị_giá 100k dành ngay cho 15 bạn may_mắn nhất và thực_hiện đúng thể_lệ chương_trình .
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 18.12.2022 .
+AFFILIATION	0	5	8	8	Promotion	Time	circle k sẽ công_bố kết_quả minigame vào ngày 19.12.2022
+REGULATION	8	8	0	5	Time	Promotion	circle k sẽ công_bố kết_quả minigame vào ngày 19.12.2022
+REGULATION	10	11	2	6	Promotion	Regulation	nhập ngay mã “ circlek 30 ” để nhận ưu_đãi giảm 30k cho hoá_đơn 150k
+REGULATION	10	11	13	14	Promotion	Regulation	nhập ngay mã “ circlek 30 ” để nhận ưu_đãi giảm 30k cho hoá_đơn 150k
+AFFILIATION	4	4	0	1	Time	Regulation	thời_gian áp_dụng : từ 01/12/2022 - 15/12/2022
+AFFILIATION	0	5	8	8	Promotion	Time	kết_quả sẽ được circle k công_bố vào ngày 02.12.2022 tại phần comment post .
+REGULATION	8	8	0	5	Time	Promotion	kết_quả sẽ được circle k công_bố vào ngày 02.12.2022 tại phần comment post .
+AFFILIATION	5	9	0	0	Time	Regulation	thời_gian_tham_gia : kết_quả sẽ được tính đến hết ngày 30/11/2022 .
+AFFILIATION	0	3	6	6	Promotion	Time	kết_quả sẽ được công_bố vào ngày 01/12/2022 – ngày siêu sự_kiện chính_thức lộ diện tại circle k .
+LOCATION	0	3	15	16	Promotion	Location	kết_quả sẽ được công_bố vào ngày 01/12/2022 – ngày siêu sự_kiện chính_thức lộ diện tại circle k .
+REGULATION	6	6	0	3	Time	Promotion	kết_quả sẽ được công_bố vào ngày 01/12/2022 – ngày siêu sự_kiện chính_thức lộ diện tại circle k .
+OTHER	0	0	5	10	Promotion	Product	giải_thưởng chất lừ hú_hồn : 03 loa bluetooth sony srs-xb 13 dành cho 03 bạn thực_hiện đầy_đủ các bước , có đáp_án chính_xác , hợp_lệ và may_mắn nhất .
+AFFILIATION	5	10	0	0	Product	Promotion	giải_thưởng chất lừ hú_hồn : 03 loa bluetooth sony srs-xb 13 dành cho 03 bạn thực_hiện đầy_đủ các bước , có đáp_án chính_xác , hợp_lệ và may_mắn nhất .
+AFFILIATION	6	11	24	29	Product	Time	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 27.11.2022 )
+REGULATION	24	29	6	11	Time	Product	giải_thưởng : circle k tặng ngay 05 voucher circle k trị_giá 100k cho 05 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 3h ngày 27.11.2022 )
+AFFILIATION	0	5	8	8	Promotion	Time	kết_quả sẽ được circle k công_bố vào ngày 01.12.2022 tại phần comment post .
+REGULATION	8	8	0	5	Time	Promotion	kết_quả sẽ được circle k công_bố vào ngày 01.12.2022 tại phần comment post .
+OTHER	0	1	3	9	Promotion	Product	giải đặc_biệt : 2 xe phân_khối lớn yamaha r 7 .
+AFFILIATION	3	9	0	1	Product	Promotion	giải đặc_biệt : 2 xe phân_khối lớn yamaha r 7 .
+OTHER	0	1	3	9	Promotion	Product	giải hot : 2 viên kim_cương tự_nhiên pnj 5.4 ly .
+AFFILIATION	3	9	0	1	Product	Promotion	giải hot : 2 viên kim_cương tự_nhiên pnj 5.4 ly .
+OTHER	0	0	2	6	Promotion	Product	giải_độc_quyền : điện_thoại 2 samsung z flip4 & 1 samsung z fold 4 .
+AFFILIATION	2	6	0	0	Product	Promotion	giải_độc_quyền : điện_thoại 2 samsung z flip4 & 1 samsung z fold 4 .
+OTHER	3	6	0	2	Price	Promotion	mưa lì_xì tiền_mặt lên đến 999.999 đ từ samsung .
+LOCATION	8	8	0	2	Organization	Promotion	mưa lì_xì tiền_mặt lên đến 999.999 đ từ samsung .
+AFFILIATION	3	4	11	11	Product	Promotion	hàng ngàn lon bia carlsberg , cider strongbow , ly cafe miễn_phí mỗi ngày .
+PRICE	11	11	3	4	Promotion	Product	hàng ngàn lon bia carlsberg , cider strongbow , ly cafe miễn_phí mỗi ngày .
+LOCATION	3	5	12	13	Promotion	Location	cơn lốc deal giảm_giá đến 50% khi thanh_toán momo tại chuỗi cửa_hàng circle k :
+LOCATION	8	8	3	5	Organization	Promotion	cơn lốc deal giảm_giá đến 50% khi thanh_toán momo tại chuỗi cửa_hàng circle k :
+OTHER	8	8	12	13	Organization	Location	cơn lốc deal giảm_giá đến 50% khi thanh_toán momo tại chuỗi cửa_hàng circle k :
+REGULATION	0	2	4	6	Product	Regulation	voucher giảm 30k cho hoá_đơn từ 50k
+REGULATION	0	2	4	6	Product	Regulation	voucher giảm 10k cho hoá_đơn từ 60k
+REGULATION	0	2	4	6	Product	Regulation	voucher giảm 15k cho hoá_đơn từ 90k
+AFFILIATION	3	3	0	1	Time	Regulation	thời_gian chương_trình : 21.11.2022 - 07.12.2022
+REGULATION	13	16	0	6	Product	Regulation	mua 3 sản_phẩm bất_kỳ của công_ty coca-cola ( ngoại_trừ dasani ) nhận ngay 1 lượt quay may_mắn trên app thành_viên ck club .
+LOCATION	18	21	13	16	Organization	Product	mua 3 sản_phẩm bất_kỳ của công_ty coca-cola ( ngoại_trừ dasani ) nhận ngay 1 lượt quay may_mắn trên app thành_viên ck club .
+REGULATION	3	5	0	1	Time	Regulation	thời_gian áp_dụng : 14/11/2022 – 30/11/2022
+OTHER	0	2	4	11	Promotion	Product	03 giải đặc_biệt : phiếu mua hàng điện_máy xanh 10 triệu đồng
+AFFILIATION	4	11	0	2	Product	Promotion	03 giải đặc_biệt : phiếu mua hàng điện_máy xanh 10 triệu đồng
+OTHER	0	2	4	8	Promotion	Product	100 giải nhất : phiếu mua hàng decathlon 500k
+AFFILIATION	4	8	0	2	Product	Promotion	100 giải nhất : phiếu mua hàng decathlon 500k
+OTHER	0	3	5	9	Promotion	Product	hàng ngàn giải khuyến_khích : sữa nutriboost cam / dâu ( 297 ml )
+AFFILIATION	5	9	0	3	Product	Promotion	hàng ngàn giải khuyến_khích : sữa nutriboost cam / dâu ( 297 ml )
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 20.11.2022 .
+AFFILIATION	0	5	8	8	Promotion	Time	kết_quả sẽ được circle k công_bố vào ngày 22.11.2022 tại phần comment post .
+REGULATION	8	8	0	5	Time	Promotion	kết_quả sẽ được circle k công_bố vào ngày 22.11.2022 tại phần comment post .
+PRICE	0	3	9	18	Promotion	Product	tặng 1 ly đá ( s ) khi mua trà sữa gạo rang nhật bản / ô long nướng bất_kỳ từ 31.10 – 30.11.2022 .
+AFFILIATION	0	3	21	23	Promotion	Time	tặng 1 ly đá ( s ) khi mua trà sữa gạo rang nhật bản / ô long nướng bất_kỳ từ 31.10 – 30.11.2022 .
+AFFILIATION	9	18	0	3	Product	Promotion	tặng 1 ly đá ( s ) khi mua trà sữa gạo rang nhật bản / ô long nướng bất_kỳ từ 31.10 – 30.11.2022 .
+OTHER	9	18	21	23	Product	Time	tặng 1 ly đá ( s ) khi mua trà sữa gạo rang nhật bản / ô long nướng bất_kỳ từ 31.10 – 30.11.2022 .
+OTHER	21	23	0	3	Time	Promotion	tặng 1 ly đá ( s ) khi mua trà sữa gạo rang nhật bản / ô long nướng bất_kỳ từ 31.10 – 30.11.2022 .
+OTHER	21	23	9	18	Time	Product	tặng 1 ly đá ( s ) khi mua trà sữa gạo rang nhật bản / ô long nướng bất_kỳ từ 31.10 – 30.11.2022 .
+PRICE	0	6	9	11	Promotion	Product	nhận ngay 1 vé the masked singer khi mua 2 thùng pepsi tại circle k !
+OTHER	0	6	13	14	Promotion	Location	nhận ngay 1 vé the masked singer khi mua 2 thùng pepsi tại circle k !
+AFFILIATION	9	11	0	6	Product	Promotion	nhận ngay 1 vé the masked singer khi mua 2 thùng pepsi tại circle k !
+LOCATION	9	11	13	14	Product	Location	nhận ngay 1 vé the masked singer khi mua 2 thùng pepsi tại circle k !
+AFFILIATION	1	3	16	18	Product	Promotion	mua 2 thùng pepsi - nhận ngay 1 vé the masked singer cùng chiếc ưu_đãi " giảm 96 k " cực xịn .
+PRICE	16	18	1	3	Promotion	Product	mua 2 thùng pepsi - nhận ngay 1 vé the masked singer cùng chiếc ưu_đãi " giảm 96 k " cực xịn .
+AFFILIATION	5	5	0	1	Time	Regulation	thời_gian áp_dụng : chỉ từ 03/11 - 30/11/2022
+OTHER	0	1	3	5	Promotion	Product	giải nhất : ipad mini 6
+AFFILIATION	3	5	0	1	Product	Promotion	giải nhất : ipad mini 6
+OTHER	0	1	3	4	Promotion	Product	giải nhì : e-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ urbox .
+AFFILIATION	3	4	0	1	Product	Promotion	giải nhì : e-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ urbox .
+OTHER	8	9	0	1	Price	Promotion	giải nhì : e-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ urbox .
+OTHER	8	9	3	4	Price	Product	giải nhì : e-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ urbox .
+OTHER	11	11	0	1	Organization	Promotion	giải nhì : e-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ urbox .
+LOCATION	11	11	3	4	Organization	Product	giải nhì : e-voucher ăn_uống , mua_sắm trị_giá 2 triệu từ urbox .
+OTHER	0	1	3	11	Promotion	Product	giải ba : bút làm trắng răng colgate optic white o 2 .
+AFFILIATION	3	11	0	1	Product	Promotion	giải ba : bút làm trắng răng colgate optic white o 2 .
+OTHER	0	1	3	15	Promotion	Product	giải bốn : hộp quà tặng gồm 2 hộp kem đánh răng optic white o 2 .
+AFFILIATION	3	15	0	1	Product	Promotion	giải bốn : hộp quà tặng gồm 2 hộp kem đánh răng optic white o 2 .
+OTHER	0	1	3	6	Promotion	Product	giải năm : 1 set quà world_cup ( lịch thi_đấu và cờ các nước ) .
+AFFILIATION	3	6	0	1	Product	Promotion	giải năm : 1 set quà world_cup ( lịch thi_đấu và cờ các nước ) .
+OTHER	0	1	3	6	Promotion	Product	giải i : 01 ipad pro 2021
+AFFILIATION	3	6	0	1	Product	Promotion	giải i : 01 ipad pro 2021
+OTHER	0	1	3	6	Promotion	Product	giải ii : 02 apple watch 6
+AFFILIATION	3	6	0	1	Product	Promotion	giải ii : 02 apple watch 6
+OTHER	0	1	3	8	Promotion	Product	giải iii : 05 bàn_chải điện p / s
+AFFILIATION	3	8	0	1	Product	Promotion	giải iii : 05 bàn_chải điện p / s
+OTHER	0	1	3	6	Promotion	Product	giải iv : 3000 túi thể_thao axe
+AFFILIATION	3	6	0	1	Product	Promotion	giải iv : 3000 túi thể_thao axe
+OTHER	0	1	3	8	Promotion	Product	giải v : 27000 voucher got it 10.000 vnđ
+AFFILIATION	3	8	0	1	Product	Promotion	giải v : 27000 voucher got it 10.000 vnđ
+PRICE	3	3	4	9	Promotion	Product	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+OTHER	3	3	21	22	Promotion	Location	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+REGULATION	3	3	26	26	Promotion	Time	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+AFFILIATION	4	9	3	3	Product	Promotion	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+LOCATION	4	9	21	22	Product	Location	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+OTHER	4	9	26	26	Product	Time	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+OTHER	26	26	3	3	Time	Promotion	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+OTHER	26	26	4	9	Time	Product	nhận ngay ưu_đãi tiết_kiệm 10k khi mua 1 ống kẹo socola m & m ( 28 g ) áp_dụng tại cửa_hàng circle k trên toàn_quốc từ 20/10/2022 - 02/11/2022 .
+LOCATION	14	15	11	12	Organization	Location	[ minigame ] halloween này , nhận quà cực ngầu từ circle k và chupa chups
+OTHER	0	2	4	7	Promotion	Product	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	9	13	Promotion	Product	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	15	20	Promotion	Product	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	22	27	Promotion	Product	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	29	34	Promotion	Product	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	4	7	0	2	Product	Promotion	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	9	13	0	2	Product	Promotion	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	15	20	0	2	Product	Promotion	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	22	27	0	2	Product	Promotion	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+AFFILIATION	29	34	0	2	Product	Promotion	4 giải nhất : 1 túi canvas alpenliebe , 1 micro karaoke không dây , 1 hộp kẹo halloween pumpkin mix , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	4	7	Promotion	Product	6 giải nhì : 1 túi canvas alpenliebe , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	9	14	Promotion	Product	6 giải nhì : 1 túi canvas alpenliebe , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	0	2	16	21	Promotion	Product	6 giải nhì : 1 túi canvas alpenliebe , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	4	7	0	2	Product	Promotion	6 giải nhì : 1 túi canvas alpenliebe , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+OTHER	9	14	0	2	Product	Promotion	6 giải nhì : 1 túi canvas alpenliebe , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+AFFILIATION	16	21	0	2	Product	Promotion	6 giải nhì : 1 túi canvas alpenliebe , 1 gói kẹo halloween party mix & 1 móc khoá gấu chupa chups .
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 31.10.2022 .
+AFFILIATION	0	5	8	8	Promotion	Time	kết_quả sẽ được circle k công_bố vào ngày 01.11.2022 trên fanpage circle k vietnam .
+REGULATION	8	8	0	5	Time	Promotion	kết_quả sẽ được circle k công_bố vào ngày 01.11.2022 trên fanpage circle k vietnam .
+PRICE	2	4	7	10	Promotion	Product	đặc_biệt , tiết_kiệm ngay 6k khi mua combo sandwich than tre + sữa milo ( 240 ml ) từ 25.10.2022 – 02.11.2022 .
+AFFILIATION	2	4	19	21	Promotion	Time	đặc_biệt , tiết_kiệm ngay 6k khi mua combo sandwich than tre + sữa milo ( 240 ml ) từ 25.10.2022 – 02.11.2022 .
+AFFILIATION	7	10	2	4	Product	Promotion	đặc_biệt , tiết_kiệm ngay 6k khi mua combo sandwich than tre + sữa milo ( 240 ml ) từ 25.10.2022 – 02.11.2022 .
+OTHER	7	10	19	21	Product	Time	đặc_biệt , tiết_kiệm ngay 6k khi mua combo sandwich than tre + sữa milo ( 240 ml ) từ 25.10.2022 – 02.11.2022 .
+OTHER	19	21	2	4	Time	Promotion	đặc_biệt , tiết_kiệm ngay 6k khi mua combo sandwich than tre + sữa milo ( 240 ml ) từ 25.10.2022 – 02.11.2022 .
+OTHER	19	21	7	10	Time	Product	đặc_biệt , tiết_kiệm ngay 6k khi mua combo sandwich than tre + sữa milo ( 240 ml ) từ 25.10.2022 – 02.11.2022 .
+AFFILIATION	5	6	0	2	Time	Regulation	thời_gian đại_hội_diễn ra : đến hết 02/11/2022 .
+OTHER	6	7	10	10	Location	Location	đầu tuần phấn_khởi , hân_hoan đón circle k mới tại hà_nội
+AFFILIATION	10	10	6	7	Location	Location	đầu tuần phấn_khởi , hân_hoan đón circle k mới tại hà_nội
+OTHER	0	1	7	7	Location	Location	circle k tưng_bừng khai_trương cửa_hàng mới tại tp . thủ đức với hàng_loạt quà tặng và ưu_đãi xịn sò , mời bạn đến chơi nha !
+LOCATION	3	5	0	1	Promotion	Location	circle k tưng_bừng khai_trương cửa_hàng mới tại tp . thủ đức với hàng_loạt quà tặng và ưu_đãi xịn sò , mời bạn đến chơi nha !
+OTHER	3	5	7	7	Promotion	Location	circle k tưng_bừng khai_trương cửa_hàng mới tại tp . thủ đức với hàng_loạt quà tặng và ưu_đãi xịn sò , mời bạn đến chơi nha !
+OTHER	7	7	0	1	Location	Location	circle k tưng_bừng khai_trương cửa_hàng mới tại tp . thủ đức với hàng_loạt quà tặng và ưu_đãi xịn sò , mời bạn đến chơi nha !
+OTHER	1	6	20	22	Product	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	8	8	1	6	Organization	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	8	8	20	22	Organization	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	10	10	1	6	Organization	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	10	10	20	22	Organization	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	12	12	1	6	Organization	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	12	12	20	22	Organization	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	14	14	1	6	Organization	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	14	14	20	22	Organization	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	16	16	1	6	Organization	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	16	16	20	22	Organization	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+PRICE	20	22	1	6	Promotion	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	24	27	1	6	Organization	Product	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+LOCATION	24	27	20	22	Organization	Promotion	mua 4 lon / chai bia bất_kỳ ( heineken / tiger / strongbow / edelweiss / larue ) nhận ngay 1 lượt game trên app thành_viên ck club .
+AFFILIATION	3	5	0	1	Time	Regulation	thời_gian áp_dụng : 06/10/2022 – 02/11/2022
+OTHER	0	2	4	6	Promotion	Product	02 giải đặc_biệt : macbook air 2022 trị_giá 35.000.000 vnd
+AFFILIATION	4	6	0	2	Product	Promotion	02 giải đặc_biệt : macbook air 2022 trị_giá 35.000.000 vnd
+OTHER	8	9	0	2	Price	Promotion	02 giải đặc_biệt : macbook air 2022 trị_giá 35.000.000 vnd
+PRICE	8	9	4	6	Price	Product	02 giải đặc_biệt : macbook air 2022 trị_giá 35.000.000 vnd
+OTHER	0	2	4	6	Promotion	Product	10 giải nhất : loa marshall heineken trị_giá 7.000.000 vnd
+AFFILIATION	4	6	0	2	Product	Promotion	10 giải nhất : loa marshall heineken trị_giá 7.000.000 vnd
+OTHER	8	9	0	2	Price	Promotion	10 giải nhất : loa marshall heineken trị_giá 7.000.000 vnd
+PRICE	8	9	4	6	Price	Product	10 giải nhất : loa marshall heineken trị_giá 7.000.000 vnd
+OTHER	0	2	4	6	Promotion	Product	100 giải nhì : sạc dự_phòng tiger trị_giá 540.000 vnd
+AFFILIATION	4	6	0	2	Product	Promotion	100 giải nhì : sạc dự_phòng tiger trị_giá 540.000 vnd
+OTHER	8	9	0	2	Price	Promotion	100 giải nhì : sạc dự_phòng tiger trị_giá 540.000 vnd
+PRICE	8	9	4	6	Price	Product	100 giải nhì : sạc dự_phòng tiger trị_giá 540.000 vnd
+OTHER	0	2	4	5	Promotion	Product	1,000 giải ba : túi strongbow trị_giá 90.000 vnd
+AFFILIATION	4	5	0	2	Product	Promotion	1,000 giải ba : túi strongbow trị_giá 90.000 vnd
+OTHER	7	8	0	2	Price	Promotion	1,000 giải ba : túi strongbow trị_giá 90.000 vnd
+PRICE	7	8	4	5	Price	Product	1,000 giải ba : túi strongbow trị_giá 90.000 vnd
+OTHER	0	3	5	7	Promotion	Product	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 vnd
+AFFILIATION	5	7	0	3	Product	Promotion	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 vnd
+OTHER	9	10	0	3	Price	Promotion	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 vnd
+PRICE	9	10	5	7	Price	Product	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 vnd
+LOCATION	2	3	9	10	Location	Location	các fan hải phòng nhận tín_hiệu vũ_trụ đón ngay circle k mới_tinh nè
+OTHER	9	10	2	3	Location	Location	các fan hải phòng nhận tín_hiệu vũ_trụ đón ngay circle k mới_tinh nè
+REGULATION	0	2	4	6	Promotion	Regulation	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+OTHER	0	2	13	14	Promotion	Location	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+AFFILIATION	0	2	16	20	Promotion	Time	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+OTHER	11	11	0	2	Organization	Promotion	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+LOCATION	11	11	13	14	Organization	Location	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+REGULATION	16	20	0	2	Time	Promotion	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+OTHER	16	20	4	6	Time	Regulation	hoàn tiền 10k cho hoá_đơn từ 50k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/10/2022 đến hết 24/10/2022 .
+OTHER	2	3	6	7	Location	Location	mình là circle k mới_đây team quận 8 ơi !
+LOCATION	6	7	2	3	Location	Location	mình là circle k mới_đây team quận 8 ơi !
+REGULATION	0	3	5	6	Promotion	Regulation	nhận ngay voucher 10k cho hoá_đơn 40k khi thanh_toán bằng zalopay tại circle k .
+LOCATION	0	3	12	13	Promotion	Location	nhận ngay voucher 10k cho hoá_đơn 40k khi thanh_toán bằng zalopay tại circle k .
+LOCATION	10	10	0	3	Organization	Promotion	nhận ngay voucher 10k cho hoá_đơn 40k khi thanh_toán bằng zalopay tại circle k .
+OTHER	10	10	12	13	Organization	Location	nhận ngay voucher 10k cho hoá_đơn 40k khi thanh_toán bằng zalopay tại circle k .
+OTHER	0	0	2	10	Promotion	Product	giải_thưởng : 03 tai_nghe chụp tai không dây sony wh-ch 510 siêu xịn sò .
+AFFILIATION	2	10	0	0	Product	Promotion	giải_thưởng : 03 tai_nghe chụp tai không dây sony wh-ch 510 siêu xịn sò .
+AFFILIATION	1	4	11	13	Product	Promotion	mua 2 lon fanta nho ( 320 ml ) nhận ngay 1 lượt game trên app thành_viên ck club .
+PRICE	11	13	1	4	Promotion	Product	mua 2 lon fanta nho ( 320 ml ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	15	18	1	4	Organization	Product	mua 2 lon fanta nho ( 320 ml ) nhận ngay 1 lượt game trên app thành_viên ck club .
+OTHER	15	18	11	13	Organization	Promotion	mua 2 lon fanta nho ( 320 ml ) nhận ngay 1 lượt game trên app thành_viên ck club .
+AFFILIATION	3	5	0	1	Time	Regulation	thời_gian áp_dụng : 19/9/2022 – 10/10/2022
+OTHER	0	2	4	9	Promotion	Product	2 giải nhất : tai_nghe bluetooth samsung galaxy buds pro
+AFFILIATION	4	9	0	2	Product	Promotion	2 giải nhất : tai_nghe bluetooth samsung galaxy buds pro
+OTHER	0	2	4	6	Promotion	Product	150 giải nhì : balo fanta nho siêu “ kute ”
+AFFILIATION	4	6	0	2	Product	Promotion	150 giải nhì : balo fanta nho siêu “ kute ”
+OTHER	0	2	4	6	Promotion	Product	3,600 giải ba : lon fanta nho ( 320 ml )
+AFFILIATION	4	6	0	2	Product	Promotion	3,600 giải ba : lon fanta nho ( 320 ml )
+OTHER	0	3	5	7	Promotion	Product	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 đ
+AFFILIATION	5	7	0	3	Product	Promotion	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 đ
+OTHER	9	9	0	3	Price	Promotion	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 đ
+PRICE	9	9	5	7	Price	Product	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 đ
+OTHER	10	10	0	3	Price	Promotion	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 đ
+OTHER	10	10	5	7	Price	Product	hàng ngàn giải khuyến_khích : e-voucher circle k trị_giá 10.000 đ
+PRICE	0	3	7	12	Promotion	Product	tặng 1 kem top_ten bất_kỳ khi mua 2 gói bvs kotex gardenia deo + anh_đào 23cm ( 8 pcs ) , quá đã luônnn !
+AFFILIATION	7	12	0	3	Product	Promotion	tặng 1 kem top_ten bất_kỳ khi mua 2 gói bvs kotex gardenia deo + anh_đào 23cm ( 8 pcs ) , quá đã luônnn !
+OTHER	0	1	5	8	Location	Location	circle k xin chào team vinhome ocean park hà_nội nhá
+LOCATION	5	8	0	1	Location	Location	circle k xin chào team vinhome ocean park hà_nội nhá
+LOCATION	3	7	11	12	Promotion	Location	phát_hiện mới : wada bento đồng giá 25k siêu hot tại circle k
+AFFILIATION	0	6	11	13	Promotion	Time	wada bento meal box đồng giá 25k trong khung giờ vàng 14h – 16h
+REGULATION	11	13	0	6	Time	Promotion	wada bento meal box đồng giá 25k trong khung giờ vàng 14h – 16h
+LOCATION	1	2	8	10	Product	Location	sản_phẩm wada bento bán độc_quyền tại một_số cửa_hàng circle k tp . hcm .
+REGULATION	0	3	5	6	Promotion	Regulation	nhận ngay voucher 10k cho hoá_đơn 40k khi thanh_toán tại circle k .
+LOCATION	0	3	10	11	Promotion	Location	nhận ngay voucher 10k cho hoá_đơn 40k khi thanh_toán tại circle k .
+REGULATION	2	5	13	19	Promotion	Regulation	nhận ngay 1 lượt chơi game trên app thành_viên ck club khi mua hoá_đơn 50k cho các sản_phẩm trà đóng_chai .
+LOCATION	7	10	2	5	Organization	Promotion	nhận ngay 1 lượt chơi game trên app thành_viên ck club khi mua hoá_đơn 50k cho các sản_phẩm trà đóng_chai .
+LOCATION	11	14	18	19	Location	Location	cuối tháng 8 vui vui_vẻ vẻ chào_đón 2 cửa_hàng mới_tinh tại bình dương và hà_nội đi nà các circle k fan ơi .
+OTHER	18	19	11	14	Location	Location	cuối tháng 8 vui vui_vẻ vẻ chào_đón 2 cửa_hàng mới_tinh tại bình dương và hà_nội đi nà các circle k fan ơi .
+AFFILIATION	2	5	18	18	Product	Time	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 30/8/2022 .
+REGULATION	18	18	2	5	Time	Product	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 30/8/2022 .
+AFFILIATION	0	4	10	12	Promotion	Time	ưu_đãi mua 2 tặng 1 đang diễn ra và chỉ còn đến 31.8.2022
+REGULATION	10	12	0	4	Time	Promotion	ưu_đãi mua 2 tặng 1 đang diễn ra và chỉ còn đến 31.8.2022
+AFFILIATION	0	8	17	19	Promotion	Time	ưu_đãi mua 2 tặng 1 cho các sản_phẩm kem ngọt_ngào , mát lạnh đang diễn ra từ 04.8.2022 đến 31.8.2022 .
+REGULATION	17	19	0	8	Time	Promotion	ưu_đãi mua 2 tặng 1 cho các sản_phẩm kem ngọt_ngào , mát lạnh đang diễn ra từ 04.8.2022 đến 31.8.2022 .
+AFFILIATION	2	5	18	18	Product	Time	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 27/8/2022 .
+REGULATION	18	18	2	5	Time	Product	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 27/8/2022 .
+OTHER	0	0	2	5	Promotion	Product	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+OTHER	0	0	10	18	Promotion	Regulation	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+AFFILIATION	2	5	0	0	Product	Promotion	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+REGULATION	2	5	10	18	Product	Regulation	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+OTHER	7	7	0	0	Price	Promotion	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+PRICE	7	7	2	5	Price	Product	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+OTHER	10	18	7	7	Regulation	Price	giải_thưởng : 05 voucher circle k trị_giá 300k dành cho 05 người có câu_chuyện được circle k yêu_mến nhất .
+REGULATION	0	2	4	6	Promotion	Regulation	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+OTHER	0	2	13	14	Promotion	Location	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+AFFILIATION	0	2	17	20	Promotion	Time	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+OTHER	11	11	0	2	Organization	Promotion	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+LOCATION	11	11	13	14	Organization	Location	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+REGULATION	17	20	0	2	Time	Promotion	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+OTHER	17	20	4	6	Time	Regulation	hoàn tiền 15k cho hoá_đơn từ 70k áp_dụng khi thanh_toán bằng grabmoca tại circle k toàn_quốc từ 01/8/2022 đến hết 24/8/2022 .
+PRICE	0	0	1	5	Promotion	Product	tặng 1 chai trà chanh với sả fuze tea + ( 1 l ) khi mua 1 hộp bánh trung_thu bất_kỳ .
+OTHER	0	0	6	8	Promotion	Promotion	tặng 1 chai trà chanh với sả fuze tea + ( 1 l ) khi mua 1 hộp bánh trung_thu bất_kỳ .
+AFFILIATION	1	5	0	0	Product	Promotion	tặng 1 chai trà chanh với sả fuze tea + ( 1 l ) khi mua 1 hộp bánh trung_thu bất_kỳ .
+OTHER	1	5	6	8	Product	Promotion	tặng 1 chai trà chanh với sả fuze tea + ( 1 l ) khi mua 1 hộp bánh trung_thu bất_kỳ .
+OTHER	6	8	0	0	Promotion	Promotion	tặng 1 chai trà chanh với sả fuze tea + ( 1 l ) khi mua 1 hộp bánh trung_thu bất_kỳ .
+OTHER	6	8	1	5	Promotion	Product	tặng 1 chai trà chanh với sả fuze tea + ( 1 l ) khi mua 1 hộp bánh trung_thu bất_kỳ .
+PRICE	0	0	1	5	Promotion	Product	tặng 1 chai trà ô long tea + không đường ( 455 ml ) khi mua 1 cái bánh trung_thu bất_kỳ .
+OTHER	0	0	6	6	Promotion	Promotion	tặng 1 chai trà ô long tea + không đường ( 455 ml ) khi mua 1 cái bánh trung_thu bất_kỳ .
+AFFILIATION	1	5	0	0	Product	Promotion	tặng 1 chai trà ô long tea + không đường ( 455 ml ) khi mua 1 cái bánh trung_thu bất_kỳ .
+OTHER	1	5	6	6	Product	Promotion	tặng 1 chai trà ô long tea + không đường ( 455 ml ) khi mua 1 cái bánh trung_thu bất_kỳ .
+OTHER	6	6	0	0	Promotion	Promotion	tặng 1 chai trà ô long tea + không đường ( 455 ml ) khi mua 1 cái bánh trung_thu bất_kỳ .
+OTHER	6	6	1	5	Promotion	Product	tặng 1 chai trà ô long tea + không đường ( 455 ml ) khi mua 1 cái bánh trung_thu bất_kỳ .
+REGULATION	2	5	7	13	Promotion	Regulation	nhận ngay 1 lượt chơi game với hoá_đơn từ 50k cho các sản_phẩm kem cực ngon tại circle k .
+LOCATION	2	5	17	18	Promotion	Location	nhận ngay 1 lượt chơi game với hoá_đơn từ 50k cho các sản_phẩm kem cực ngon tại circle k .
+LOCATION	1	2	9	10	Location	Location	team biên hoà đâu rồi nà , hãy cho circle k thấy cánh_tay của các bạnnn .
+OTHER	9	10	1	2	Location	Location	team biên hoà đâu rồi nà , hãy cho circle k thấy cánh_tay của các bạnnn .
+AFFILIATION	2	5	18	18	Product	Time	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 04/8/2022 .
+REGULATION	18	18	2	5	Time	Product	nhận ngay túi quà trị_giá 100k với mỗi hoá_đơn mua hàng từ 100k trở lên duy_nhất vào ngày 04/8/2022 .
+PRICE	0	8	9	18	Promotion	Product	tặng ngay 1 áo thun street dance và tiết_kiệm 12k khi mua 12 lon / chai soda kem vị việt_quất mirinda ( 320 ml / 330 ml / 390 ml )
+AFFILIATION	9	18	0	8	Product	Promotion	tặng ngay 1 áo thun street dance và tiết_kiệm 12k khi mua 12 lon / chai soda kem vị việt_quất mirinda ( 320 ml / 330 ml / 390 ml )
+AFFILIATION	3	5	0	1	Time	Regulation	thời_gian ưu_đãi từ 07.7.2022 – 03.8.2022 .
+LOCATION	10	11	13	14	Organization	Location	mùa hè uống healthy ăn yummy , là vì có la vie và circle k
+AFFILIATION	5	5	0	1	Time	Regulation	thời_gian áp_dụng : chỉ từ 07/7 - 03/8/2022
+OTHER	0	0	2	5	Promotion	Product	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+OTHER	0	0	10	16	Promotion	Regulation	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+AFFILIATION	2	5	0	0	Product	Promotion	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+REGULATION	2	5	10	16	Product	Regulation	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+OTHER	7	7	0	0	Price	Promotion	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+PRICE	7	7	2	5	Price	Product	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+OTHER	10	16	7	7	Regulation	Price	giải_thưởng : 10 voucher circle k trị_giá 200k dành cho 10 người thực_hiện đầy_đủ và may_mắn nhất .
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 17.7.2022 .
+AFFILIATION	0	5	8	8	Promotion	Time	kết_quả sẽ được circle k công_bố vào ngày 19.7.2022 tại phần comment post .
+REGULATION	8	8	0	5	Time	Promotion	kết_quả sẽ được circle k công_bố vào ngày 19.7.2022 tại phần comment post .
+OTHER	0	0	2	5	Promotion	Product	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+OTHER	0	0	10	16	Promotion	Regulation	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+AFFILIATION	2	5	0	0	Product	Promotion	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+REGULATION	2	5	10	16	Product	Regulation	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+OTHER	7	7	0	0	Price	Promotion	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+PRICE	7	7	2	5	Price	Product	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+OTHER	10	16	7	7	Regulation	Price	giải_thưởng : 05 voucher circle k trị_giá 200k dành cho 05 người thực_hiện đầy_đủ và may_mắn nhất .
+PRICE	2	4	7	9	Promotion	Product	đặc_biệt , tiết_kiệm ngay 3k khi mua bánh kem dâu từ 08.6 – 05.7.2022 .
+AFFILIATION	2	4	11	13	Promotion	Time	đặc_biệt , tiết_kiệm ngay 3k khi mua bánh kem dâu từ 08.6 – 05.7.2022 .
+AFFILIATION	7	9	2	4	Product	Promotion	đặc_biệt , tiết_kiệm ngay 3k khi mua bánh kem dâu từ 08.6 – 05.7.2022 .
+OTHER	7	9	11	13	Product	Time	đặc_biệt , tiết_kiệm ngay 3k khi mua bánh kem dâu từ 08.6 – 05.7.2022 .
+OTHER	11	13	2	4	Time	Promotion	đặc_biệt , tiết_kiệm ngay 3k khi mua bánh kem dâu từ 08.6 – 05.7.2022 .
+OTHER	11	13	7	9	Time	Product	đặc_biệt , tiết_kiệm ngay 3k khi mua bánh kem dâu từ 08.6 – 05.7.2022 .
+PRICE	10	10	2	6	Price	Product	giải_thưởng : 1 tai_nghe beats studio buds chính hãng trị_giá 2.990.000 cực xịn , cực đã .
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+OTHER	3	5	7	12	Time	Promotion	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+OTHER	7	12	0	0	Promotion	Regulation	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+OTHER	7	12	3	5	Promotion	Time	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+AFFILIATION	7	12	15	15	Promotion	Time	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+OTHER	15	15	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+REGULATION	15	15	7	12	Time	Promotion	thời_gian_tham_gia : đến hết ngày 12.6.2022 , kết_quả sẽ được circle k công_bố vào ngày 14.6.2022 tại phần comment post .
+AFFILIATION	2	6	17	21	Product	Promotion	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+OTHER	2	6	24	26	Product	Time	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+OTHER	12	14	2	6	Organization	Product	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+OTHER	12	14	17	21	Organization	Promotion	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+PRICE	17	21	2	6	Promotion	Product	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+REGULATION	17	21	24	26	Promotion	Time	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+OTHER	24	26	2	6	Time	Product	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+OTHER	24	26	17	21	Time	Promotion	khi mua 2 chai nước_khoáng lavie 700ml , bạn mình nhớ mở app ck club tích tem nhận ngay 1 chai lavie miễn_phí từ 29.5 – 03.6.2022 nhé .
+AFFILIATION	4	6	0	1	Time	Regulation	thời_gian áp_dụng : từ 25.5.2022 – 30.5.2022 .
+OTHER	0	3	6	7	Promotion	Product	thử_thách đoán đội chiến_thắng , nhận e-voucher 100k
+AFFILIATION	6	7	0	3	Product	Promotion	thử_thách đoán đội chiến_thắng , nhận e-voucher 100k
+LOCATION	4	5	2	3	Promotion	Location	giải_thưởng : circle k tặng ngay 10 e-voucher 100k cho 10 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 19.5.2022 )
+REGULATION	4	5	6	13	Promotion	Regulation	giải_thưởng : circle k tặng ngay 10 e-voucher 100k cho 10 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 19.5.2022 )
+LOCATION	4	5	2	3	Promotion	Location	giải_thưởng : circle k tặng ngay 20 e-voucher 50k cho 20 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 15.5.2022 )
+REGULATION	4	5	6	13	Promotion	Regulation	giải_thưởng : circle k tặng ngay 20 e-voucher 50k cho 20 bạn dự_đoán đúng , hợp_lệ và may_mắn nhất ( kết_quả tính đến hết 19h ngày 15.5.2022 )
+REGULATION	0	3	7	14	Promotion	Regulation	nhận 1 gói snack cực ngon khi tải và đăng_ký thành_công app thành_viên ck club
+LOCATION	2	3	5	6	Product	Location	những chiếc voucher 100k của circle k sẽ gọi tên ai đây , thử tài may_mắn với 3 bước đơn_giản sau :
+LOCATION	4	5	1	2	Organization	Location	đến circle k mở ví momo , nhận ngay 1 lon carlsberg miễn_phí .
+LOCATION	4	5	7	12	Organization	Promotion	đến circle k mở ví momo , nhận ngay 1 lon carlsberg miễn_phí .
+OTHER	7	12	1	2	Promotion	Location	đến circle k mở ví momo , nhận ngay 1 lon carlsberg miễn_phí .
+AFFILIATION	4	4	0	1	Time	Regulation	thời_gian áp_dụng : từ 18.3 - 30.4.2022
+LOCATION	10	12	5	6	Product	Location	bước 2 : đến cửa_hàng circle k , chọn mua bia carlsberg 330ml và mang đến quầy thanh_toán
+LOCATION	12	12	5	6	Organization	Location	bước 1 : ghé cửa_hàng circle k và chọn bất_kỳ 2 sản_phẩm nutriboost , fuzetea , teppy , aquarius và mang đến quầy thanh_toán .
+AFFILIATION	4	4	0	0	Time	Regulation	thời_gian_tham_gia : chỉ từ 05.4 - 25.4.2022
+OTHER	0	1	3	7	Promotion	Product	giải nhất : suất học_bổng toàn_phần tại 8a .
+AFFILIATION	3	7	0	1	Product	Promotion	giải nhất : suất học_bổng toàn_phần tại 8a .
+OTHER	0	1	3	6	Promotion	Product	giải nhì : 2 balo led divoom lên tới 6,000,000 vnđ .
+AFFILIATION	3	6	0	1	Product	Promotion	giải nhì : 2 balo led divoom lên tới 6,000,000 vnđ .
+OTHER	7	10	0	1	Price	Promotion	giải nhì : 2 balo led divoom lên tới 6,000,000 vnđ .
+PRICE	7	10	3	6	Price	Product	giải nhì : 2 balo led divoom lên tới 6,000,000 vnđ .
+OTHER	0	1	3	17	Promotion	Product	giải 3 : 5 túi tote độc_quyền và voucher học 3 buổi học trải nghiệm miễn_phí tại 8a .
+AFFILIATION	3	17	0	1	Product	Promotion	giải 3 : 5 túi tote độc_quyền và voucher học 3 buổi học trải nghiệm miễn_phí tại 8a .
+PRICE	5	5	0	3	Price	Product	15 voucher circle k trị_giá 300k dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn giựt về đó , tham_gia ngay thôi !
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+OTHER	3	5	7	12	Time	Promotion	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+OTHER	7	12	0	0	Promotion	Regulation	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+OTHER	7	12	3	5	Promotion	Time	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+AFFILIATION	7	12	15	15	Promotion	Time	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+OTHER	15	15	0	0	Time	Regulation	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+REGULATION	15	15	7	12	Time	Promotion	thời_gian_tham_gia : đến hết ngày 06.4.2022 , kết_quả sẽ được circle k công_bố vào ngày 13.4.2022 tại phần comment post .
+AFFILIATION	0	5	11	11	Promotion	Time	ưu_đãi nhận 1 ly trà tắc ( m ) áp_dụng từ 23/3 - 19/4/2022 .
+REGULATION	11	11	0	5	Time	Promotion	ưu_đãi nhận 1 ly trà tắc ( m ) áp_dụng từ 23/3 - 19/4/2022 .
+PRICE	6	9	0	4	Price	Product	04 balo divoom pixoo backpack trị_giá hơn 13 triệu đồng
+PRICE	7	10	0	5	Price	Product	08 túi bao_tử divoom sling bag trị_giá hơn 15 triệu đồng
+OTHER	0	3	14	15	Product	Location	hơn 1000 túi tote 8a và nhiều phần quà hấp_dẫn khác tại 8a từ circle k
+LOCATION	4	4	0	3	Organization	Product	hơn 1000 túi tote 8a và nhiều phần quà hấp_dẫn khác tại 8a từ circle k
+LOCATION	4	4	14	15	Organization	Location	hơn 1000 túi tote 8a và nhiều phần quà hấp_dẫn khác tại 8a từ circle k
+AFFILIATION	0	4	10	10	Promotion	Time	chương_trình tham_gia bốc_thăm trúng quà chỉ diễn ra trong tháng 03/2022.
+REGULATION	10	10	0	4	Time	Promotion	chương_trình tham_gia bốc_thăm trúng quà chỉ diễn ra trong tháng 03/2022.
+PRICE	5	5	0	3	Price	Product	15 voucher circle k trị_giá 200k dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn giựt về đó , tham_gia ngay thôi !
+PRICE	0	1	7	11	Promotion	Product	trà chanh_nestea ( size m ) chỉ 1k khi mua 1 phần xôi bất_kỳ
+AFFILIATION	7	11	0	1	Product	Promotion	trà chanh_nestea ( size m ) chỉ 1k khi mua 1 phần xôi bất_kỳ
+LOCATION	16	16	10	11	Organization	Location	vũ_trụ gửi tín_hiệu cho bạn rằng phải nhanh chân ghé circle k chọn mua 2 sản_phẩm colgate bất_kỳ để nhận ngay :
+AFFILIATION	3	4	0	1	Time	Regulation	thời_gian áp_dụng : đến 28/03/2022 .
+AFFILIATION	5	5	0	1	Time	Regulation	thời_gian áp_dụng : chỉ từ 10/3 - 06/4/2022
+REGULATION	2	5	24	26	Product	Regulation	nhận ngay 1 lượt chơi game " đón 8/3 - trúng quà xịn-mịn " 100% trúng quà trên app thành_viên ck club với mỗi hoá_đơn từ 83k
+LOCATION	18	21	2	5	Organization	Product	nhận ngay 1 lượt chơi game " đón 8/3 - trúng quà xịn-mịn " 100% trúng quà trên app thành_viên ck club với mỗi hoá_đơn từ 83k
+AFFILIATION	5	5	0	1	Time	Regulation	thời_gian áp_dụng : chỉ từ 01/3 - 09/3/2022
+LOCATION	25	28	14	15	Product	Location	giờ lành đã điểm , không để các mem đợi lâu hơn nữa , circle k xin chúc_mừng 10 member may_mắn nhất đã trúng thưởng sổ voucher circle k trị_giá 1.000.000 đ .
+PRICE	30	30	25	28	Price	Product	giờ lành đã điểm , không để các mem đợi lâu hơn nữa , circle k xin chúc_mừng 10 member may_mắn nhất đã trúng thưởng sổ voucher circle k trị_giá 1.000.000 đ .
+OTHER	31	31	25	28	Price	Product	giờ lành đã điểm , không để các mem đợi lâu hơn nữa , circle k xin chúc_mừng 10 member may_mắn nhất đã trúng thưởng sổ voucher circle k trị_giá 1.000.000 đ .
+OTHER	2	4	24	29	Promotion	Product	một chiếc game valentine đặc_biệt vừa có_mặt tại app thành_viên ck club dành tặng các mem nhà mình dịp valentine , với cơ_hội trúng tai_nghe samsung galaxy buds live r180 xịn xò cùng những phần quà quà cực chất !
+LOCATION	8	11	2	4	Organization	Promotion	một chiếc game valentine đặc_biệt vừa có_mặt tại app thành_viên ck club dành tặng các mem nhà mình dịp valentine , với cơ_hội trúng tai_nghe samsung galaxy buds live r180 xịn xò cùng những phần quà quà cực chất !
+OTHER	8	11	24	29	Organization	Product	một chiếc game valentine đặc_biệt vừa có_mặt tại app thành_viên ck club dành tặng các mem nhà mình dịp valentine , với cơ_hội trúng tai_nghe samsung galaxy buds live r180 xịn xò cùng những phần quà quà cực chất !
+OTHER	24	29	2	4	Product	Promotion	một chiếc game valentine đặc_biệt vừa có_mặt tại app thành_viên ck club dành tặng các mem nhà mình dịp valentine , với cơ_hội trúng tai_nghe samsung galaxy buds live r180 xịn xò cùng những phần quà quà cực chất !
+OTHER	0	0	7	10	Promotion	Product	minigame " truy_tìm mảnh ghép , rinh sổ voucher 1.000.000 đ "
+AFFILIATION	7	10	0	0	Product	Promotion	minigame " truy_tìm mảnh ghép , rinh sổ voucher 1.000.000 đ "
+PRICE	6	6	0	4	Price	Product	10 sổ voucher circle k trị_giá 1.000.000 đ dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn bưng về đó , tham_gia ngay thôi !
+OTHER	7	7	0	4	Price	Product	10 sổ voucher circle k trị_giá 1.000.000 đ dành cho những member thực_hiện đầy_đủ và may_mắn nhất đang chờ các bạn bưng về đó , tham_gia ngay thôi !

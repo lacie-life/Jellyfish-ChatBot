@@ -1,0 +1,770 @@
+PRICE	6	6	0	3	Price	Product	nutimilk 1l có đường giảm còn 30.000 đ / hộp
+OTHER	7	7	0	3	Price	Product	nutimilk 1l có đường giảm còn 30.000 đ / hộp
+OTHER	9	9	0	3	Price	Product	nutimilk 1l có đường giảm còn 30.000 đ / hộp
+OTHER	7	7	0	4	Price	Product	hn stars bánh ăn sáng giảm còn 82.000 đ / hộp
+OTHER	8	8	0	4	Price	Product	hn stars bánh ăn sáng giảm còn 82.000 đ / hộp
+PRICE	10	10	0	4	Price	Product	hn stars bánh ăn sáng giảm còn 82.000 đ / hộp
+PRICE	10	10	0	6	Price	Product	lashe sữa tắm dưỡng da sáng mịn giảm chỉ còn 135.000 đ / chai
+OTHER	11	11	0	6	Price	Product	lashe sữa tắm dưỡng da sáng mịn giảm chỉ còn 135.000 đ / chai
+OTHER	13	13	0	6	Price	Product	lashe sữa tắm dưỡng da sáng mịn giảm chỉ còn 135.000 đ / chai
+PRICE	10	10	0	6	Price	Product	sunsilk dầu_gội óng_mượt rạng ngời 1.4 kg giảm chỉ còn 245.000 đ / chai
+OTHER	11	11	0	6	Price	Product	sunsilk dầu_gội óng_mượt rạng ngời 1.4 kg giảm chỉ còn 245.000 đ / chai
+OTHER	13	13	0	6	Price	Product	sunsilk dầu_gội óng_mượt rạng ngời 1.4 kg giảm chỉ còn 245.000 đ / chai
+AFFILIATION	2	5	9	9	Promotion	Time	tham_gia ngay sự_kiện thiên_hà tình_yêu aeon , từ ngày 02/02 - 15/02/2023
+REGULATION	9	9	2	5	Time	Promotion	tham_gia ngay sự_kiện thiên_hà tình_yêu aeon , từ ngày 02/02 - 15/02/2023
+REGULATION	0	2	4	8	Promotion	Regulation	giảm 45.000 đ trên đơn hàng từ 399.000 đ mua_sắm trên ứng_dụng shopee food , khi nhập mã aeon 45 .
+REGULATION	0	2	17	19	Promotion	Regulation	giảm 45.000 đ trên đơn hàng từ 399.000 đ mua_sắm trên ứng_dụng shopee food , khi nhập mã aeon 45 .
+LOCATION	11	13	0	2	Organization	Promotion	giảm 45.000 đ trên đơn hàng từ 399.000 đ mua_sắm trên ứng_dụng shopee food , khi nhập mã aeon 45 .
+REGULATION	0	2	4	8	Promotion	Regulation	giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng shopee food , khi nhập mã aeon 55 .
+REGULATION	0	2	17	19	Promotion	Regulation	giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng shopee food , khi nhập mã aeon 55 .
+LOCATION	11	13	0	2	Organization	Promotion	giảm 55.000 đ trên đơn hàng từ 499.000 đ mua_sắm trên ứng_dụng shopee food , khi nhập mã aeon 55 .
+AFFILIATION	5	7	0	1	Time	Regulation	thời_gian áp_dụng : từ ngày 01/02 – 28/02/2023
+PRICE	4	9	0	3	Price	Product	dâu_tây mộc châu bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+OTHER	12	12	0	3	Price	Product	dâu_tây mộc châu bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+OTHER	13	13	0	3	Price	Product	dâu_tây mộc châu bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+OTHER	15	15	0	3	Price	Product	dâu_tây mộc châu bi giá gốc 129.900 đ / hộp chỉ còn 99.000 đ / hộp
+PRICE	3	8	0	2	Price	Product	set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+OTHER	11	11	0	2	Price	Product	set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+OTHER	12	12	0	2	Price	Product	set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+OTHER	14	14	0	2	Price	Product	set nấm thuỷ_tiên giá gốc 45.000 đ / hộp chỉ còn 35.000 đ / hộp
+PRICE	2	7	0	1	Price	Product	cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+OTHER	10	10	0	1	Price	Product	cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+OTHER	11	11	0	1	Price	Product	cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+OTHER	13	13	0	1	Price	Product	cá_hồi filet giá gốc 769.000 đ / kg chỉ còn 700.000 đ / kg
+PRICE	5	11	0	4	Price	Product	đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+OTHER	14	14	0	4	Price	Product	đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+OTHER	15	15	0	4	Price	Product	đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+OTHER	17	17	0	4	Price	Product	đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+OTHER	18	18	0	4	Price	Product	đùi gà góc tư nướng giá gốc 15.000 đ / 100 g chỉ còn 13.000 đ / 100 g
+PRICE	2	7	0	1	Price	Product	cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+OTHER	10	10	0	1	Price	Product	cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+OTHER	11	11	0	1	Price	Product	cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+OTHER	13	13	0	1	Price	Product	cơm_chiên cá_hồi giá gốc 40.000 đ / phần chỉ còn 35.000 đ / phần
+REGULATION	0	2	4	7	Promotion	Regulation	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+REGULATION	0	2	22	22	Promotion	Time	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+OTHER	0	2	24	24	Promotion	Time	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+OTHER	14	16	0	2	Organization	Promotion	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+AFFILIATION	22	22	0	2	Time	Promotion	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+OTHER	22	22	4	7	Time	Regulation	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+OTHER	24	24	0	2	Time	Promotion	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+OTHER	24	24	4	7	Time	Regulation	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.000.000 đ tại quầy cs khi thanh_toán qua thẻ quốc_tế vcb hợp_lệ ( thời_gian diễn ra 𝟐𝟒 / 𝟏𝟐 - 𝟏𝟐 / 𝟎𝟓 / 𝟐𝟎𝟐𝟑 )
+REGULATION	0	2	4	7	Promotion	Regulation	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+REGULATION	0	2	20	20	Promotion	Time	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+OTHER	0	2	22	22	Promotion	Time	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+OTHER	14	15	0	2	Organization	Promotion	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+AFFILIATION	20	20	0	2	Time	Promotion	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+OTHER	20	20	4	7	Time	Regulation	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+OTHER	22	22	0	2	Time	Promotion	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+OTHER	22	22	4	7	Time	Regulation	tặng pmh 𝟏𝟎𝟎𝐤 cho hoá_đơn từ 1.200.000 đ tại quầy cs khi thanh_toán qua thẻ jcb ( thời_gian diễn ra 𝟎𝟏 / 𝟎𝟏 - 𝟑𝟎 / 𝟎𝟔 / 𝟐𝟎𝟐𝟑 )
+PRICE	21	21	17	19	Price	Product	10 bạn may_mắn giúp cặp đôi biết được ngày gặp nhau , mỗi bạn sẽ nhận được 01 aeon voucher trị_giá 50.000 đ .
+OTHER	22	22	17	19	Price	Product	10 bạn may_mắn giúp cặp đôi biết được ngày gặp nhau , mỗi bạn sẽ nhận được 01 aeon voucher trị_giá 50.000 đ .
+AFFILIATION	3	3	0	1	Time	Regulation	thời_gian_tham_gia minigame : 31.1.2023 - 07.02.2023 .
+AFFILIATION	5	5	0	2	Time	Regulation	kết_quả được công_bố vào ngày 09.02.2023 .
+LOCATION	14	14	7	7	Promotion	Location	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+OTHER	14	14	16	17	Promotion	Promotion	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+REGULATION	14	14	26	26	Promotion	Time	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+OTHER	16	17	7	7	Promotion	Location	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+OTHER	16	17	14	14	Promotion	Promotion	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+OTHER	16	17	26	26	Promotion	Time	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+AFFILIATION	26	26	14	14	Time	Promotion	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+OTHER	26	26	16	17	Time	Promotion	ngoài_ra , sắp tới đây , tại aeon sẽ diễn ra chuỗi sự_kiện cho valentine ' s day với chủ_đề tìm thấy nhau giữa thiên_hà từ 02/02/2023 - 15/02/2023 , cùng chờ_đợi những điều bất_ngờ phía trước nhé !
+REGULATION	0	1	7	10	Promotion	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	0	1	13	16	Promotion	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+AFFILIATION	0	1	19	19	Promotion	Time	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	4	4	0	1	Organization	Promotion	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	19	19	0	1	Time	Promotion	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	19	19	7	10	Time	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	19	19	13	16	Time	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+AFFILIATION	0	2	8	10	Product	Time	túi tài_lộc fukubukuro sẽ được mở bán từ mùng 2 tết ( 23/01/2023 ) với số_lượng có_hạn cho đến khi hết túi .
+REGULATION	8	10	0	2	Time	Product	túi tài_lộc fukubukuro sẽ được mở bán từ mùng 2 tết ( 23/01/2023 ) với số_lượng có_hạn cho đến khi hết túi .
+LOCATION	17	19	11	13	Organization	Promotion	năm mới , deal mới , nhưng vẫn là ưu_ái đặc_biệt giảm thêm 5% cho mẹ có thẻ kids club .
+OTHER	8	9	20	27	Product	Promotion	không chỉ có ưu_đãi của bé , mà túi fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ kids club vào ngày 28 & 29.01 nữa đó mẹ
+OTHER	8	9	30	30	Product	Time	không chỉ có ưu_đãi của bé , mà túi fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ kids club vào ngày 28 & 29.01 nữa đó mẹ
+PRICE	20	27	8	9	Promotion	Product	không chỉ có ưu_đãi của bé , mà túi fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ kids club vào ngày 28 & 29.01 nữa đó mẹ
+AFFILIATION	20	27	30	30	Promotion	Time	không chỉ có ưu_đãi của bé , mà túi fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ kids club vào ngày 28 & 29.01 nữa đó mẹ
+OTHER	30	30	8	9	Time	Product	không chỉ có ưu_đãi của bé , mà túi fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ kids club vào ngày 28 & 29.01 nữa đó mẹ
+REGULATION	30	30	20	27	Time	Promotion	không chỉ có ưu_đãi của bé , mà túi fukubukuro - túi tài_lộc vàng cho cả gia_đình cũng được áp_dụng giảm thêm 5% khi sử_dụng thẻ kids club vào ngày 28 & 29.01 nữa đó mẹ
+AFFILIATION	7	12	17	18	Promotion	Time	vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé kids day sẽ diễn ra vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , tức mùng 7 & mùng 8 tết ( 28 & 29.01 ) .
+AFFILIATION	7	12	26	27	Promotion	Time	vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé kids day sẽ diễn ra vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , tức mùng 7 & mùng 8 tết ( 28 & 29.01 ) .
+OTHER	17	18	7	12	Time	Promotion	vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé kids day sẽ diễn ra vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , tức mùng 7 & mùng 8 tết ( 28 & 29.01 ) .
+REGULATION	26	27	7	12	Time	Promotion	vẫn như_thường_lệ nhé các mẹ ơi , ngày hội của bé kids day sẽ diễn ra vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , tức mùng 7 & mùng 8 tết ( 28 & 29.01 ) .
+LOCATION	0	1	2	3	Organization	Promotion	grab moca hoàn tiền 10% ( tối_đa 30 k ) , 1 khách_hàng / 2 lần / tháng
+REGULATION	2	3	4	4	Promotion	Regulation	grab moca hoàn tiền 10% ( tối_đa 30 k ) , 1 khách_hàng / 2 lần / tháng
+AFFILIATION	3	6	8	8	Promotion	Time	thời_gian diễn ra hội sách nhã nam : 22/01 - 01/02/2023 , tại aeon tân phú và bình tân .
+LOCATION	3	6	13	18	Promotion	Location	thời_gian diễn ra hội sách nhã nam : 22/01 - 01/02/2023 , tại aeon tân phú và bình tân .
+REGULATION	8	8	3	6	Time	Promotion	thời_gian diễn ra hội sách nhã nam : 22/01 - 01/02/2023 , tại aeon tân phú và bình tân .
+LOCATION	3	4	1	1	Product	Location	đến aeon săn túi fukubukuro từ mùng 2 tới mùng 8 tết ( 23/01/2023 - 29/01/2023 ) .
+AFFILIATION	3	4	6	11	Product	Time	đến aeon săn túi fukubukuro từ mùng 2 tới mùng 8 tết ( 23/01/2023 - 29/01/2023 ) .
+REGULATION	6	11	3	4	Time	Product	đến aeon săn túi fukubukuro từ mùng 2 tới mùng 8 tết ( 23/01/2023 - 29/01/2023 ) .
+REGULATION	0	1	3	6	Promotion	Regulation	giảm 50k cho hoá_đơn từ 1.500.000 vnđ khi thanh_toán bằng vnpay và nhập mã vnpayaeon520
+REGULATION	0	1	13	14	Promotion	Regulation	giảm 50k cho hoá_đơn từ 1.500.000 vnđ khi thanh_toán bằng vnpay và nhập mã vnpayaeon520
+LOCATION	10	10	0	1	Organization	Promotion	giảm 50k cho hoá_đơn từ 1.500.000 vnđ khi thanh_toán bằng vnpay và nhập mã vnpayaeon520
+REGULATION	0	1	14	15	Promotion	Regulation	giảm 5% ( tối_đa 50 k ) khi thanh_toán bằng grab moca và nhập mã membermoca
+LOCATION	10	11	0	1	Organization	Promotion	giảm 5% ( tối_đa 50 k ) khi thanh_toán bằng grab moca và nhập mã membermoca
+LOCATION	0	3	8	11	Promotion	Location	ưu_đãi 30k đi grabcar thả ga ( áp_dụng aeon miền nam ) .
+AFFILIATION	0	2	3	7	Product	Promotion	thịt cá hải_sản giảm sâu rực_rỡ đến 35%
+PRICE	3	7	0	2	Promotion	Product	thịt cá hải_sản giảm sâu rực_rỡ đến 35%
+REGULATION	0	1	7	10	Promotion	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	0	1	13	16	Promotion	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+AFFILIATION	0	1	19	19	Promotion	Time	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	4	4	0	1	Organization	Promotion	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	19	19	0	1	Time	Promotion	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	19	19	7	10	Time	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	19	19	13	16	Time	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+LOCATION	0	3	5	7	Promotion	Location	giảm 𝟑𝟎𝐊 cho 𝐆𝐑𝐀𝐁𝐂𝐀𝐑 đến aeon tân phú , aeon bình tân , aeon bình dương khi nhập mã “ 𝐀𝐄𝐎𝐍𝐓𝐀𝐍𝐏𝐇𝐔 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐓𝐀𝐍 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐃𝐔𝐎𝐍𝐆 ”
+REGULATION	0	3	18	21	Promotion	Regulation	giảm 𝟑𝟎𝐊 cho 𝐆𝐑𝐀𝐁𝐂𝐀𝐑 đến aeon tân phú , aeon bình tân , aeon bình dương khi nhập mã “ 𝐀𝐄𝐎𝐍𝐓𝐀𝐍𝐏𝐇𝐔 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐓𝐀𝐍 ” , “ 𝐀𝐄𝐎𝐍𝐁𝐈𝐍𝐇𝐃𝐔𝐎𝐍𝐆 ”
+OTHER	5	5	7	7	Organization	Location	tết này mau mau cùng jcb và aeon nhanh tay " chớp deal nhật - vui tết lớn " với chương_trình tặng ngay voucher 100.000 vnđ cho hoá_đơn từ 1.200.000 vnđ
+LOCATION	5	5	21	25	Organization	Promotion	tết này mau mau cùng jcb và aeon nhanh tay " chớp deal nhật - vui tết lớn " với chương_trình tặng ngay voucher 100.000 vnđ cho hoá_đơn từ 1.200.000 vnđ
+LOCATION	21	25	7	7	Promotion	Location	tết này mau mau cùng jcb và aeon nhanh tay " chớp deal nhật - vui tết lớn " với chương_trình tặng ngay voucher 100.000 vnđ cho hoá_đơn từ 1.200.000 vnđ
+REGULATION	21	25	27	30	Promotion	Regulation	tết này mau mau cùng jcb và aeon nhanh tay " chớp deal nhật - vui tết lớn " với chương_trình tặng ngay voucher 100.000 vnđ cho hoá_đơn từ 1.200.000 vnđ
+OTHER	3	10	22	25	Time	Regulation	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+AFFILIATION	3	10	33	39	Time	Promotion	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	22	25	41	41	Regulation	Price	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	22	25	42	42	Regulation	Price	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	30	31	17	17	Organization	Location	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	30	31	33	39	Organization	Promotion	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+REGULATION	33	39	3	10	Promotion	Time	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+LOCATION	33	39	17	17	Promotion	Location	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	33	39	22	25	Promotion	Regulation	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	41	41	33	39	Price	Promotion	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+OTHER	42	42	33	39	Price	Promotion	diễn ra trong 6 tháng bắt_đầu_từ 01.01.2023 và kết_thúc vào 30.06.2023 , khi khách_hàng mua_sắm tại khu_vực ttbhth & siêu_thị aeon với hoá_đơn từ 1.200.000 vnđ , thanh_toán thành_công qua thẻ jcb sẽ nhận được 01 phiếu mua hàng aeon trị_giá 100.000 vnđ tại quầy dịch_vụ khách_hàng .
+AFFILIATION	0	2	4	4	Promotion	Time	khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+OTHER	0	2	6	6	Promotion	Time	khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+REGULATION	4	4	0	2	Time	Promotion	khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+OTHER	6	6	0	2	Time	Promotion	khai_bút đợt 1 : 𝟎𝟓 / 𝟎𝟏 - 𝟎𝟕 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+AFFILIATION	0	2	4	4	Promotion	Time	khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+OTHER	0	2	6	6	Promotion	Time	khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+REGULATION	4	4	0	2	Time	Promotion	khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+OTHER	6	6	0	2	Time	Promotion	khai_bút đợt 2 : 𝟏𝟐 / 𝟎𝟏 - 𝟏𝟓 / 𝟎𝟏 / 𝟐𝟎𝟐𝟑
+AFFILIATION	5	7	0	3	Time	Regulation	hạn cuối nhận thưởng : 22h ngày 31/01/2023
+OTHER	20	20	37	39	Location	Location	giải_thưởng : 50 khách_hàng với comment có đáp_án đúng và có số may_mắn trùng khớp với kết_quả quay ngẫu_nhiên của aeon , sẽ được nhận lộc may_mắn đầu năm là voucher mua_sắm 50.000 đ ( áp_dụng tại trung_tâm bách_hoá tổng_hợp & siêu_thị aeon ) .
+LOCATION	30	33	20	20	Product	Location	giải_thưởng : 50 khách_hàng với comment có đáp_án đúng và có số may_mắn trùng khớp với kết_quả quay ngẫu_nhiên của aeon , sẽ được nhận lộc may_mắn đầu năm là voucher mua_sắm 50.000 đ ( áp_dụng tại trung_tâm bách_hoá tổng_hợp & siêu_thị aeon ) .
+LOCATION	30	33	37	39	Product	Location	giải_thưởng : 50 khách_hàng với comment có đáp_án đúng và có số may_mắn trùng khớp với kết_quả quay ngẫu_nhiên của aeon , sẽ được nhận lộc may_mắn đầu năm là voucher mua_sắm 50.000 đ ( áp_dụng tại trung_tâm bách_hoá tổng_hợp & siêu_thị aeon ) .
+OTHER	37	39	20	20	Location	Location	giải_thưởng : 50 khách_hàng với comment có đáp_án đúng và có số may_mắn trùng khớp với kết_quả quay ngẫu_nhiên của aeon , sẽ được nhận lộc may_mắn đầu năm là voucher mua_sắm 50.000 đ ( áp_dụng tại trung_tâm bách_hoá tổng_hợp & siêu_thị aeon ) .
+AFFILIATION	3	6	0	1	Time	Regulation	thời_gian_tham_gia minigame : 12.01 – 23h59’ 18.01.2023
+AFFILIATION	4	4	0	2	Time	Regulation	thời_gian thông_báo kết_quả : 31.01.2023
+AFFILIATION	4	7	0	2	Time	Regulation	thời_gian khách_hàng phản_hồi : 31.01 – 23h59’ 07.02.2023
+LOCATION	11	11	0	8	Organization	Promotion	giảm ngay 30k cho mỗi cuốc xe đến aeon khi đặt grabcar trên ứng_dụng grab
+REGULATION	3	5	7	13	Promotion	Regulation	chi_tiết ưu_đãi : giảm 30.000 vnđ cho mỗi cuốc xe đến aeon tân phú , aeon bình tân , aeon bình_dương
+AFFILIATION	3	3	0	1	Time	Regulation	thời_gian áp_dụng : 20.10.2022 - 21.01.2023
+OTHER	7	7	0	4	Price	Product	bánh_quy bơ pháp lu 540g chỉ còn 169.000 đ / hộp
+OTHER	8	8	0	4	Price	Product	bánh_quy bơ pháp lu 540g chỉ còn 169.000 đ / hộp
+OTHER	10	10	0	4	Price	Product	bánh_quy bơ pháp lu 540g chỉ còn 169.000 đ / hộp
+PRICE	5	5	0	2	Price	Product	coca-cola lon 320ml chỉ còn 8.000 đ / lon
+OTHER	6	6	0	2	Price	Product	coca-cola lon 320ml chỉ còn 8.000 đ / lon
+OTHER	8	8	0	2	Price	Product	coca-cola lon 320ml chỉ còn 8.000 đ / lon
+PRICE	4	4	0	1	Price	Product	lê hàn_quốc chỉ còn 89.900 đ / 1 kg
+OTHER	5	5	0	1	Price	Product	lê hàn_quốc chỉ còn 89.900 đ / 1 kg
+OTHER	7	7	0	1	Price	Product	lê hàn_quốc chỉ còn 89.900 đ / 1 kg
+OTHER	8	8	0	1	Price	Product	lê hàn_quốc chỉ còn 89.900 đ / 1 kg
+REGULATION	0	0	2	4	Promotion	Time	ưu_đãi kéo_dài đến hết 25/01/2023 ( mùng 4 tết )
+AFFILIATION	2	4	0	0	Time	Promotion	ưu_đãi kéo_dài đến hết 25/01/2023 ( mùng 4 tết )
+REGULATION	0	1	7	10	Promotion	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	0	1	13	16	Promotion	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+AFFILIATION	0	1	19	19	Promotion	Time	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	4	4	0	1	Organization	Promotion	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	19	19	0	1	Time	Promotion	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	19	19	7	10	Time	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+OTHER	19	19	13	16	Time	Regulation	giảm 15k thanh_toán qua 𝐕𝐍𝐏𝐀𝐘 khi nhập mã “ 𝗩𝗡𝗣𝗔𝗬𝗔𝗘𝗢𝗡 ” ( cho hoá_đơn từ 500.000 đ ) từ 05/01 - 31/01/2023
+REGULATION	4	8	0	3	Promotion	Regulation	mua từ 30 triệu nhận ngay voucher 1,5 triệu
+REGULATION	4	8	0	3	Promotion	Regulation	mua từ 50 triệu nhận ngay voucher 2,5 triệu
+REGULATION	4	8	0	3	Promotion	Regulation	mua trên 100 triệu nhận ngay voucher 3,5 triệu
+AFFILIATION	4	4	0	2	Time	Regulation	thời_gian diễn ra : 20/12/2022 - 12/01/2023
+OTHER	2	4	18	19	Time	Regulation	từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 399.000 đ và nhập mã aeon45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+OTHER	2	4	24	26	Time	Promotion	từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 399.000 đ và nhập mã aeon45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+LOCATION	10	12	24	26	Organization	Promotion	từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 399.000 đ và nhập mã aeon45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+REGULATION	24	26	2	4	Promotion	Time	từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 399.000 đ và nhập mã aeon45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+REGULATION	24	26	18	19	Promotion	Regulation	từ ngày 01/01 – 31/01 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 399.000 đ và nhập mã aeon45 , quý_khách sẽ được giảm 45.000 đ trên đơn hàng .
+LOCATION	5	7	19	21	Organization	Promotion	với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon55 , quý_khách sẽ được giảm 55.000 đ trên đơn hàng .
+REGULATION	19	21	13	14	Promotion	Regulation	với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon55 , quý_khách sẽ được giảm 55.000 đ trên đơn hàng .
+AFFILIATION	0	3	5	7	Promotion	Time	chiết_khấu trực_tiếp trên giá từ 15.12.2022 – 21.01.2023 :
+REGULATION	5	7	0	3	Time	Promotion	chiết_khấu trực_tiếp trên giá từ 15.12.2022 – 21.01.2023 :
+REGULATION	0	2	5	11	Promotion	Regulation	chiết_khấu 5 ️% áp_dụng cho hoá_đơn mua giỏ quà từ 1 triệu - 10 triệu
+REGULATION	0	1	4	10	Promotion	Regulation	chiết_khấu 6% áp_dụng cho hoá_đơn mua giỏ quà trên 10 triệu - 20 triệu
+REGULATION	0	2	5	11	Promotion	Regulation	chiết_khấu 7 ️% áp_dụng cho hoá_đơn mua giỏ quà trên 20 triệu
+LOCATION	11	12	13	16	Organization	Promotion	dọn_dẹp nhà đón tết càng thêm khoẻ vì hoá mỹ_phẩm từ thương_hiệu topvalu giảm sâu đến 25% .
+OTHER	3	6	9	10	Product	Promotion	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+AFFILIATION	3	6	13	15	Product	Time	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+OTHER	3	6	23	24	Product	Location	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+OTHER	9	10	3	6	Promotion	Product	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+OTHER	9	10	13	15	Promotion	Time	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+LOCATION	9	10	23	24	Promotion	Location	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+REGULATION	13	15	3	6	Time	Product	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+REGULATION	13	15	9	10	Time	Promotion	mỗi siêu_thị có 01 giải trúng vàng , được quay thưởng vào lúc 10h ngày 13/01/2023 tại quầy dịch_vụ khách_hàng 06 ttbh & siêu_thị aeon .
+AFFILIATION	4	6	0	1	Time	Regulation	thời_gian_tham_gia chương_trình từ ngày 26/12/2022 đến 08/01/2023 .
+AFFILIATION	4	4	0	1	Time	Regulation	thời_gian tổ_chức : từ 16:00 - ngày 31 tháng 12 năm 2022
+PRICE	3	7	10	12	Promotion	Product	khách_hàng sẽ được tặng ngay voucher trị_giá 500,000 khi mua 1 sản_phẩm laptop khuyến_mãi hoặc nguyên giá bất_kỳ tại khu_vực điện_máy aeon toàn_quốc .
+OTHER	3	7	13	16	Promotion	Location	khách_hàng sẽ được tặng ngay voucher trị_giá 500,000 khi mua 1 sản_phẩm laptop khuyến_mãi hoặc nguyên giá bất_kỳ tại khu_vực điện_máy aeon toàn_quốc .
+AFFILIATION	10	12	3	7	Product	Promotion	khách_hàng sẽ được tặng ngay voucher trị_giá 500,000 khi mua 1 sản_phẩm laptop khuyến_mãi hoặc nguyên giá bất_kỳ tại khu_vực điện_máy aeon toàn_quốc .
+LOCATION	10	12	13	16	Product	Location	khách_hàng sẽ được tặng ngay voucher trị_giá 500,000 khi mua 1 sản_phẩm laptop khuyến_mãi hoặc nguyên giá bất_kỳ tại khu_vực điện_máy aeon toàn_quốc .
+AFFILIATION	3	7	0	1	Time	Regulation	thời_gian khuyến_mãi : ngày 20/12/2022 đến ngày 11/1/2023
+AFFILIATION	0	1	7	7	Promotion	Time	chiết_khấu đặc_biệt - đón tết sang : 15.12.2022 - 21.01.2023
+REGULATION	7	7	0	1	Time	Promotion	chiết_khấu đặc_biệt - đón tết sang : 15.12.2022 - 21.01.2023
+REGULATION	11	13	0	6	Promotion	Regulation	hoá_đơn mua giỏ quà từ 1 triệu - 10 triệu : giảm ngay 5%
+REGULATION	11	13	0	6	Promotion	Regulation	hoá_đơn mua giỏ quà từ 10 triệu - 20 triệu : giảm ngay 6%
+REGULATION	8	10	0	6	Promotion	Regulation	hoá_đơn mua giỏ quà trên 20 triệu : giảm ngay 7%
+REGULATION	4	9	11	12	Time	Promotion	ngày hội thành_viên : ngày 05 và 20 mỗi tháng , giảm 5% cho thành_viên aeon
+OTHER	4	9	14	15	Time	Regulation	ngày hội thành_viên : ngày 05 và 20 mỗi tháng , giảm 5% cho thành_viên aeon
+AFFILIATION	11	12	4	9	Promotion	Time	ngày hội thành_viên : ngày 05 và 20 mỗi tháng , giảm 5% cho thành_viên aeon
+REGULATION	11	12	14	15	Promotion	Regulation	ngày hội thành_viên : ngày 05 và 20 mỗi tháng , giảm 5% cho thành_viên aeon
+OTHER	2	2	0	1	Price	Product	gà_ác oragi 53.000 đ / khay nay chỉ còn 48.000 đ / khay
+OTHER	3	3	0	1	Price	Product	gà_ác oragi 53.000 đ / khay nay chỉ còn 48.000 đ / khay
+OTHER	5	5	0	1	Price	Product	gà_ác oragi 53.000 đ / khay nay chỉ còn 48.000 đ / khay
+PRICE	9	9	0	1	Price	Product	gà_ác oragi 53.000 đ / khay nay chỉ còn 48.000 đ / khay
+OTHER	10	10	0	1	Price	Product	gà_ác oragi 53.000 đ / khay nay chỉ còn 48.000 đ / khay
+OTHER	12	12	0	1	Price	Product	gà_ác oragi 53.000 đ / khay nay chỉ còn 48.000 đ / khay
+OTHER	2	2	0	1	Price	Product	nạm bò 259.000 đ / kg nay chỉ còn 219.000 đ / kg
+OTHER	3	3	0	1	Price	Product	nạm bò 259.000 đ / kg nay chỉ còn 219.000 đ / kg
+OTHER	5	5	0	1	Price	Product	nạm bò 259.000 đ / kg nay chỉ còn 219.000 đ / kg
+OTHER	9	9	0	1	Price	Product	nạm bò 259.000 đ / kg nay chỉ còn 219.000 đ / kg
+PRICE	10	10	0	1	Price	Product	nạm bò 259.000 đ / kg nay chỉ còn 219.000 đ / kg
+OTHER	12	12	0	1	Price	Product	nạm bò 259.000 đ / kg nay chỉ còn 219.000 đ / kg
+OTHER	3	3	0	2	Price	Product	táo gala mỹ 109.000 đ / kg nay chỉ còn 69.000 đ / kg
+OTHER	4	4	0	2	Price	Product	táo gala mỹ 109.000 đ / kg nay chỉ còn 69.000 đ / kg
+OTHER	6	6	0	2	Price	Product	táo gala mỹ 109.000 đ / kg nay chỉ còn 69.000 đ / kg
+PRICE	10	10	0	2	Price	Product	táo gala mỹ 109.000 đ / kg nay chỉ còn 69.000 đ / kg
+OTHER	11	11	0	2	Price	Product	táo gala mỹ 109.000 đ / kg nay chỉ còn 69.000 đ / kg
+OTHER	13	13	0	2	Price	Product	táo gala mỹ 109.000 đ / kg nay chỉ còn 69.000 đ / kg
+OTHER	7	7	0	3	Price	Product	set nấm thuỷ_tiên nâu & trắng 200g 45.000 đ / vỉ nay chỉ còn 35.000 đ / vỉ
+OTHER	8	8	0	3	Price	Product	set nấm thuỷ_tiên nâu & trắng 200g 45.000 đ / vỉ nay chỉ còn 35.000 đ / vỉ
+OTHER	10	10	0	3	Price	Product	set nấm thuỷ_tiên nâu & trắng 200g 45.000 đ / vỉ nay chỉ còn 35.000 đ / vỉ
+PRICE	14	14	0	3	Price	Product	set nấm thuỷ_tiên nâu & trắng 200g 45.000 đ / vỉ nay chỉ còn 35.000 đ / vỉ
+OTHER	15	15	0	3	Price	Product	set nấm thuỷ_tiên nâu & trắng 200g 45.000 đ / vỉ nay chỉ còn 35.000 đ / vỉ
+OTHER	17	17	0	3	Price	Product	set nấm thuỷ_tiên nâu & trắng 200g 45.000 đ / vỉ nay chỉ còn 35.000 đ / vỉ
+PRICE	5	5	0	2	Price	Product	áo_dài thêu lân chỉ với 391,700 đ / cái
+OTHER	6	6	0	2	Price	Product	áo_dài thêu lân chỉ với 391,700 đ / cái
+OTHER	8	8	0	2	Price	Product	áo_dài thêu lân chỉ với 391,700 đ / cái
+PRICE	5	5	0	2	Price	Product	áo_dài in mèo chỉ với 391,700 đ / cái
+OTHER	6	6	0	2	Price	Product	áo_dài in mèo chỉ với 391,700 đ / cái
+OTHER	8	8	0	2	Price	Product	áo_dài in mèo chỉ với 391,700 đ / cái
+PRICE	5	5	0	2	Price	Product	áo_dài nam trơn chỉ với 342,600 đ / cái
+OTHER	6	6	0	2	Price	Product	áo_dài nam trơn chỉ với 342,600 đ / cái
+OTHER	8	8	0	2	Price	Product	áo_dài nam trơn chỉ với 342,600 đ / cái
+PRICE	5	5	0	2	Price	Product	áo_dài thêu cá chỉ với 391,700 đ / cái
+OTHER	6	6	0	2	Price	Product	áo_dài thêu cá chỉ với 391,700 đ / cái
+OTHER	8	8	0	2	Price	Product	áo_dài thêu cá chỉ với 391,700 đ / cái
+REGULATION	0	1	13	14	Promotion	Regulation	giảm 2% ( tối_đa 500 k ) khi thanh_toán bằng vnpay và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎 .
+LOCATION	10	10	0	1	Organization	Promotion	giảm 2% ( tối_đa 500 k ) khi thanh_toán bằng vnpay và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎 .
+LOCATION	5	7	17	17	Promotion	Location	mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận tân phú diễn ra tại aeon , vì bst giáng_sinh 2022 sẽ được ra_mắt .
+OTHER	5	7	20	25	Promotion	Promotion	mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận tân phú diễn ra tại aeon , vì bst giáng_sinh 2022 sẽ được ra_mắt .
+AFFILIATION	20	25	5	7	Promotion	Promotion	mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận tân phú diễn ra tại aeon , vì bst giáng_sinh 2022 sẽ được ra_mắt .
+OTHER	20	25	17	17	Promotion	Location	mặc gì cũng đừng mặc_kệ show diễn thời_trang đỉnh nhất nhì quận tân phú diễn ra tại aeon , vì bst giáng_sinh 2022 sẽ được ra_mắt .
+OTHER	2	4	18	19	Time	Regulation	từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+OTHER	2	4	24	26	Time	Promotion	từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+LOCATION	10	12	24	26	Organization	Promotion	từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+REGULATION	24	26	2	4	Promotion	Time	từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+REGULATION	24	26	18	19	Promotion	Regulation	từ ngày 1/12 – 31/12/2022 với mỗi hoá_đơn mua_sắm trên ứng_dụng shopee food từ 499.000 đ và nhập mã aeon50 , quý_khách sẽ được giảm 50.000 đ trên đơn hàng
+AFFILIATION	0	11	22	23	Promotion	Promotion	cuộc thi let ’ s dance contest – vui cùng bước nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật aeon hải phòng và aeon hà đông rồi_đây cả nhà ơiii
+OTHER	0	11	24	30	Promotion	Location	cuộc thi let ’ s dance contest – vui cùng bước nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật aeon hải phòng và aeon hà đông rồi_đây cả nhà ơiii
+OTHER	22	23	0	11	Promotion	Promotion	cuộc thi let ’ s dance contest – vui cùng bước nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật aeon hải phòng và aeon hà đông rồi_đây cả nhà ơiii
+LOCATION	22	23	24	30	Promotion	Location	cuộc thi let ’ s dance contest – vui cùng bước nhảy từng rầm_rộ một thời nay đã “ càn_quét ” đến đại_tiệc sinh_nhật aeon hải phòng và aeon hà đông rồi_đây cả nhà ơiii
+OTHER	15	15	16	17	Location	Location	chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : ttbhth & siêu_thị aeon và trung_tâm thương_mại aeon mall , có ngay cơ_hội quay thưởng trúng voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+OTHER	16	17	15	15	Location	Location	chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : ttbhth & siêu_thị aeon và trung_tâm thương_mại aeon mall , có ngay cơ_hội quay thưởng trúng voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+REGULATION	29	31	2	5	Product	Regulation	chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : ttbhth & siêu_thị aeon và trung_tâm thương_mại aeon mall , có ngay cơ_hội quay thưởng trúng voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+LOCATION	29	31	15	15	Product	Location	chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : ttbhth & siêu_thị aeon và trung_tâm thương_mại aeon mall , có ngay cơ_hội quay thưởng trúng voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+LOCATION	29	31	16	17	Product	Location	chỉ với hoá_đơn từ 2.000.000 đ mua_sắm trực_tiếp tại cả 2 khu_vực : ttbhth & siêu_thị aeon và trung_tâm thương_mại aeon mall , có ngay cơ_hội quay thưởng trúng voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác …
+LOCATION	0	0	5	7	Organization	Promotion	vnpay : mã ngayhong12 , giảm 112.000 đ cho hoá_đơn từ 2.000.000 đ ( 1 lần / 1 chương_trình )
+REGULATION	5	7	2	3	Promotion	Regulation	vnpay : mã ngayhong12 , giảm 112.000 đ cho hoá_đơn từ 2.000.000 đ ( 1 lần / 1 chương_trình )
+REGULATION	5	7	9	12	Promotion	Regulation	vnpay : mã ngayhong12 , giảm 112.000 đ cho hoá_đơn từ 2.000.000 đ ( 1 lần / 1 chương_trình )
+LOCATION	0	0	5	7	Organization	Promotion	grabmoca : mã doublemoca12 , giảm 112.000 đ cho hoá_đơn từ 1.112.000 đ ( 1 lần / 1 chương_trình )
+REGULATION	5	7	2	3	Promotion	Regulation	grabmoca : mã doublemoca12 , giảm 112.000 đ cho hoá_đơn từ 1.112.000 đ ( 1 lần / 1 chương_trình )
+REGULATION	5	7	9	12	Promotion	Regulation	grabmoca : mã doublemoca12 , giảm 112.000 đ cho hoá_đơn từ 1.112.000 đ ( 1 lần / 1 chương_trình )
+AFFILIATION	9	11	20	24	Product	Promotion	kết năm hoàn_hảo với giải_thưởng cao nhất mỗi ngày voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác từ_chương_trình rút thăm trúng thưởng :
+OTHER	20	24	9	11	Promotion	Product	kết năm hoàn_hảo với giải_thưởng cao nhất mỗi ngày voucher 5.000.000 đ và hàng trăm giải voucher mua_sắm hấp_dẫn khác từ_chương_trình rút thăm trúng thưởng :
+LOCATION	10	11	15	22	Promotion	Location	sức nóng của những trận bóng tại world_cup sao bằng đại_tiệc sinh_nhật cực hoành_tráng tại 𝐀𝐄𝐎𝐍 𝐇à đô𝐧𝐠 và 𝐀𝐄𝐎𝐍 𝐇ả𝐢 𝐏𝐡ò𝐧𝐠 𝐋ê_𝐂𝐡â𝐧 từ ngày 08-14/12 , cả nhà đã sẵn_sàng chiến thật sung chưa nè ?
+AFFILIATION	10	11	25	25	Promotion	Time	sức nóng của những trận bóng tại world_cup sao bằng đại_tiệc sinh_nhật cực hoành_tráng tại 𝐀𝐄𝐎𝐍 𝐇à đô𝐧𝐠 và 𝐀𝐄𝐎𝐍 𝐇ả𝐢 𝐏𝐡ò𝐧𝐠 𝐋ê_𝐂𝐡â𝐧 từ ngày 08-14/12 , cả nhà đã sẵn_sàng chiến thật sung chưa nè ?
+REGULATION	25	25	10	11	Time	Promotion	sức nóng của những trận bóng tại world_cup sao bằng đại_tiệc sinh_nhật cực hoành_tráng tại 𝐀𝐄𝐎𝐍 𝐇à đô𝐧𝐠 và 𝐀𝐄𝐎𝐍 𝐇ả𝐢 𝐏𝐡ò𝐧𝐠 𝐋ê_𝐂𝐡â𝐧 từ ngày 08-14/12 , cả nhà đã sẵn_sàng chiến thật sung chưa nè ?
+OTHER	5	5	0	2	Price	Product	sashimi set 79 giảm còn 59,000 đ / set ( giá gốc : 79,000 đ / set )
+OTHER	6	6	0	2	Price	Product	sashimi set 79 giảm còn 59,000 đ / set ( giá gốc : 79,000 đ / set )
+OTHER	8	8	0	2	Price	Product	sashimi set 79 giảm còn 59,000 đ / set ( giá gốc : 79,000 đ / set )
+PRICE	10	16	0	2	Price	Product	sashimi set 79 giảm còn 59,000 đ / set ( giá gốc : 79,000 đ / set )
+OTHER	6	6	0	3	Price	Product	ba_chỉ bò canada 500g giảm còn 119,000 đ / khay ( giá gốc : 145,000 đ / khay )
+OTHER	7	7	0	3	Price	Product	ba_chỉ bò canada 500g giảm còn 119,000 đ / khay ( giá gốc : 145,000 đ / khay )
+OTHER	9	9	0	3	Price	Product	ba_chỉ bò canada 500g giảm còn 119,000 đ / khay ( giá gốc : 145,000 đ / khay )
+PRICE	11	12	0	3	Price	Product	ba_chỉ bò canada 500g giảm còn 119,000 đ / khay ( giá gốc : 145,000 đ / khay )
+OTHER	7	9	13	21	Promotion	Product	chưa hết , chấn_động liền với chương_trình quay số may_mắn với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎đ tại aeon hải phòng .
+OTHER	7	9	23	25	Promotion	Location	chưa hết , chấn_động liền với chương_trình quay số may_mắn với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎đ tại aeon hải phòng .
+AFFILIATION	13	21	7	9	Product	Promotion	chưa hết , chấn_động liền với chương_trình quay số may_mắn với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎đ tại aeon hải phòng .
+LOCATION	13	21	23	25	Product	Location	chưa hết , chấn_động liền với chương_trình quay số may_mắn với tổng giá_trị quà tặng lên đến 𝟔𝟎 , 𝟎𝟎𝟎 , 𝟎𝟎𝟎đ tại aeon hải phòng .
+AFFILIATION	0	3	5	5	Promotion	Time	chương_trình thử_thách bước nhảy ngày 10-11/12 tại aeon hải phòng & hà đông được rất nhiều bạn trẻ mong_chờ .
+LOCATION	0	3	7	9	Promotion	Location	chương_trình thử_thách bước nhảy ngày 10-11/12 tại aeon hải phòng & hà đông được rất nhiều bạn trẻ mong_chờ .
+REGULATION	5	5	0	3	Time	Promotion	chương_trình thử_thách bước nhảy ngày 10-11/12 tại aeon hải phòng & hà đông được rất nhiều bạn trẻ mong_chờ .
+OTHER	2	2	0	1	Price	Product	lườn cá_hồi 129.000 đ / kg nay chỉ còn 100.000 đ / kg
+OTHER	3	3	0	1	Price	Product	lườn cá_hồi 129.000 đ / kg nay chỉ còn 100.000 đ / kg
+OTHER	5	5	0	1	Price	Product	lườn cá_hồi 129.000 đ / kg nay chỉ còn 100.000 đ / kg
+PRICE	9	9	0	1	Price	Product	lườn cá_hồi 129.000 đ / kg nay chỉ còn 100.000 đ / kg
+OTHER	10	10	0	1	Price	Product	lườn cá_hồi 129.000 đ / kg nay chỉ còn 100.000 đ / kg
+OTHER	12	12	0	1	Price	Product	lườn cá_hồi 129.000 đ / kg nay chỉ còn 100.000 đ / kg
+OTHER	2	2	0	1	Price	Product	ba_rọi heo 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	3	3	0	1	Price	Product	ba_rọi heo 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	5	5	0	1	Price	Product	ba_rọi heo 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+PRICE	9	9	0	1	Price	Product	ba_rọi heo 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	10	10	0	1	Price	Product	ba_rọi heo 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	12	12	0	1	Price	Product	ba_rọi heo 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	3	3	0	2	Price	Product	bưởi da xanh 79.000 đ / trái nay chỉ còn 55.000 đ / trái
+OTHER	4	4	0	2	Price	Product	bưởi da xanh 79.000 đ / trái nay chỉ còn 55.000 đ / trái
+OTHER	6	6	0	2	Price	Product	bưởi da xanh 79.000 đ / trái nay chỉ còn 55.000 đ / trái
+PRICE	10	10	0	2	Price	Product	bưởi da xanh 79.000 đ / trái nay chỉ còn 55.000 đ / trái
+OTHER	11	11	0	2	Price	Product	bưởi da xanh 79.000 đ / trái nay chỉ còn 55.000 đ / trái
+OTHER	13	13	0	2	Price	Product	bưởi da xanh 79.000 đ / trái nay chỉ còn 55.000 đ / trái
+OTHER	4	4	0	3	Price	Product	sushi set chiên xù 98.100 đ / phần nay chỉ còn 85.000 đ / phần
+OTHER	5	5	0	3	Price	Product	sushi set chiên xù 98.100 đ / phần nay chỉ còn 85.000 đ / phần
+OTHER	7	7	0	3	Price	Product	sushi set chiên xù 98.100 đ / phần nay chỉ còn 85.000 đ / phần
+PRICE	11	11	0	3	Price	Product	sushi set chiên xù 98.100 đ / phần nay chỉ còn 85.000 đ / phần
+OTHER	12	12	0	3	Price	Product	sushi set chiên xù 98.100 đ / phần nay chỉ còn 85.000 đ / phần
+OTHER	14	14	0	3	Price	Product	sushi set chiên xù 98.100 đ / phần nay chỉ còn 85.000 đ / phần
+OTHER	5	5	0	4	Price	Product	cơm nắm cá_hồi sốt kabayaki 17.600 đ / cái nay chỉ còn 14.000 đ / cái
+OTHER	6	6	0	4	Price	Product	cơm nắm cá_hồi sốt kabayaki 17.600 đ / cái nay chỉ còn 14.000 đ / cái
+OTHER	8	8	0	4	Price	Product	cơm nắm cá_hồi sốt kabayaki 17.600 đ / cái nay chỉ còn 14.000 đ / cái
+PRICE	12	12	0	4	Price	Product	cơm nắm cá_hồi sốt kabayaki 17.600 đ / cái nay chỉ còn 14.000 đ / cái
+OTHER	13	13	0	4	Price	Product	cơm nắm cá_hồi sốt kabayaki 17.600 đ / cái nay chỉ còn 14.000 đ / cái
+OTHER	15	15	0	4	Price	Product	cơm nắm cá_hồi sốt kabayaki 17.600 đ / cái nay chỉ còn 14.000 đ / cái
+REGULATION	6	6	10	12	Time	Promotion	ưu_đãi lớn - đặt_hàng sớm : 21.11 - 14.12.2022 , giảm khủng 8% cho tất_cả hoá_đơn mua giỏ quà tết tại aeon .
+OTHER	6	6	15	21	Time	Regulation	ưu_đãi lớn - đặt_hàng sớm : 21.11 - 14.12.2022 , giảm khủng 8% cho tất_cả hoá_đơn mua giỏ quà tết tại aeon .
+AFFILIATION	10	12	6	6	Promotion	Time	ưu_đãi lớn - đặt_hàng sớm : 21.11 - 14.12.2022 , giảm khủng 8% cho tất_cả hoá_đơn mua giỏ quà tết tại aeon .
+REGULATION	10	12	15	21	Promotion	Regulation	ưu_đãi lớn - đặt_hàng sớm : 21.11 - 14.12.2022 , giảm khủng 8% cho tất_cả hoá_đơn mua giỏ quà tết tại aeon .
+REGULATION	15	17	7	9	Promotion	Regulation	mỗi cây , mỗi hoa ... mỗi member the nine sẽ được hưởng ngay đặc_quyền giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+AFFILIATION	15	17	22	22	Promotion	Time	mỗi cây , mỗi hoa ... mỗi member the nine sẽ được hưởng ngay đặc_quyền giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+OTHER	22	22	7	9	Time	Regulation	mỗi cây , mỗi hoa ... mỗi member the nine sẽ được hưởng ngay đặc_quyền giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+REGULATION	22	22	15	17	Time	Promotion	mỗi cây , mỗi hoa ... mỗi member the nine sẽ được hưởng ngay đặc_quyền giảm thêm 5% khi mua_sắm vào ngày 05/12 này !
+REGULATION	0	2	7	11	Time	Promotion	ngày hồng 12/12 sale đậm với các sản_phẩm đồng giá từ 12k , 120 k , …
+AFFILIATION	7	11	0	2	Promotion	Time	ngày hồng 12/12 sale đậm với các sản_phẩm đồng giá từ 12k , 120 k , …
+REGULATION	0	1	7	8	Promotion	Regulation	giảm 50k thanh_toán qua vnpay khi nhập mã aeon50 ( cho hoá_đơn từ 1.000.000 đ )
+LOCATION	4	4	0	1	Organization	Promotion	giảm 50k thanh_toán qua vnpay khi nhập mã aeon50 ( cho hoá_đơn từ 1.000.000 đ )
+REGULATION	0	1	10	13	Promotion	Regulation	giảm 50k khi quét vnpay-qr trên app techcombank và nhập mã “ tcbaeon ” ( cho hoá_đơn từ 300.000 đ )
+LOCATION	4	7	0	1	Organization	Promotion	giảm 50k khi quét vnpay-qr trên app techcombank và nhập mã “ tcbaeon ” ( cho hoá_đơn từ 300.000 đ )
+PRICE	10	10	1	8	Price	Product	mua combo gối nằm và gối ôm ép hơi có_giá 220,000 đ / bộ .
+OTHER	11	11	1	8	Price	Product	mua combo gối nằm và gối ôm ép hơi có_giá 220,000 đ / bộ .
+OTHER	13	13	1	8	Price	Product	mua combo gối nằm và gối ôm ép hơi có_giá 220,000 đ / bộ .
+PRICE	25	25	0	3	Price	Promotion	thớt gỗ tay_cầm treo màu_sắc tự_nhiên , bề_mặt láng mịn và không phủ màu , được làm từ gỗ cây_trồng cực_kỳ an_toàn thực_phẩm chỉ với 98,100 đ / cái 15 x 38,5 cm .
+OTHER	26	26	0	3	Price	Promotion	thớt gỗ tay_cầm treo màu_sắc tự_nhiên , bề_mặt láng mịn và không phủ màu , được làm từ gỗ cây_trồng cực_kỳ an_toàn thực_phẩm chỉ với 98,100 đ / cái 15 x 38,5 cm .
+OTHER	28	28	0	3	Price	Promotion	thớt gỗ tay_cầm treo màu_sắc tự_nhiên , bề_mặt láng mịn và không phủ màu , được làm từ gỗ cây_trồng cực_kỳ an_toàn thực_phẩm chỉ với 98,100 đ / cái 15 x 38,5 cm .
+PRICE	32	32	0	4	Price	Product	chảo chống dính bếp từ với 3 lớp men chống dính có gia_cố diamond làm tăng độ bền cho chảo , dẫn_nhiệt và tản_nhiệt cực tốt , chùi rửa dễ_dàng chỉ với 140,000 đ / cái 20cm .
+OTHER	33	33	0	4	Price	Product	chảo chống dính bếp từ với 3 lớp men chống dính có gia_cố diamond làm tăng độ bền cho chảo , dẫn_nhiệt và tản_nhiệt cực tốt , chùi rửa dễ_dàng chỉ với 140,000 đ / cái 20cm .
+OTHER	35	35	0	4	Price	Product	chảo chống dính bếp từ với 3 lớp men chống dính có gia_cố diamond làm tăng độ bền cho chảo , dẫn_nhiệt và tản_nhiệt cực tốt , chùi rửa dễ_dàng chỉ với 140,000 đ / cái 20cm .
+PRICE	26	26	0	5	Price	Product	khăn mặt mềm mịn sss 225 được làm từ 100% sợi bông tự_nhiên mềm mịn , thoáng_khí , thấm hút tốt và an_toàn cho da có_giá 127,000 đ / cái 50x100cm .
+OTHER	27	27	0	5	Price	Product	khăn mặt mềm mịn sss 225 được làm từ 100% sợi bông tự_nhiên mềm mịn , thoáng_khí , thấm hút tốt và an_toàn cho da có_giá 127,000 đ / cái 50x100cm .
+OTHER	29	29	0	5	Price	Product	khăn mặt mềm mịn sss 225 được làm từ 100% sợi bông tự_nhiên mềm mịn , thoáng_khí , thấm hút tốt và an_toàn cho da có_giá 127,000 đ / cái 50x100cm .
+PRICE	21	21	0	4	Price	Product	áo sơ_mi trắng cổ trụ với chất vải co_giãn từ 98% cotton , 2% pu tạo sự thoải_mái khi mặc có_giá 293,500 đ / cái
+OTHER	22	22	0	4	Price	Product	áo sơ_mi trắng cổ trụ với chất vải co_giãn từ 98% cotton , 2% pu tạo sự thoải_mái khi mặc có_giá 293,500 đ / cái
+OTHER	24	24	0	4	Price	Product	áo sơ_mi trắng cổ trụ với chất vải co_giãn từ 98% cotton , 2% pu tạo sự thoải_mái khi mặc có_giá 293,500 đ / cái
+PRICE	12	12	0	5	Price	Product	quần kaki chino form slim fit tạo nên vẻ ngoài thanh_lịch có_giá 391,700 đ / cái
+OTHER	13	13	0	5	Price	Product	quần kaki chino form slim fit tạo nên vẻ ngoài thanh_lịch có_giá 391,700 đ / cái
+OTHER	15	15	0	5	Price	Product	quần kaki chino form slim fit tạo nên vẻ ngoài thanh_lịch có_giá 391,700 đ / cái
+PRICE	9	9	0	3	Price	Product	áo thun vải bamboo vô_cùng thân_thiện với môi_trường có_giá 175,700 đ / cái
+OTHER	10	10	0	3	Price	Product	áo thun vải bamboo vô_cùng thân_thiện với môi_trường có_giá 175,700 đ / cái
+OTHER	12	12	0	3	Price	Product	áo thun vải bamboo vô_cùng thân_thiện với môi_trường có_giá 175,700 đ / cái
+PRICE	4	4	0	1	Price	Product	quần jeans thời_thượng có_giá 391,700 đ / cái
+OTHER	5	5	0	1	Price	Product	quần jeans thời_thượng có_giá 391,700 đ / cái
+OTHER	7	7	0	1	Price	Product	quần jeans thời_thượng có_giá 391,700 đ / cái
+PRICE	7	11	1	6	Price	Product	gần 10.000 giải_thưởng là các voucher mua_sắm giá_trị lên đến 5.000.000 đ
+AFFILIATION	0	2	6	10	Product	Promotion	quần_áo bé trai , bé gái đồng giá từ 100.000 đ .
+PRICE	6	10	0	2	Promotion	Product	quần_áo bé trai , bé gái đồng giá từ 100.000 đ .
+REGULATION	31	35	4	8	Promotion	Regulation	đặc biệt , với hóa đơn từ 3.000.000 đ ( cộng gộp từ hóa đơn của siêu thị aeon và tttm aeon mall ) , bạn còn có cơ hội tham_gia rút thăm 100% trúng thưởng với các phần quà vô cùng giá trị .
+LOCATION	31	35	16	23	Promotion	Location	đặc biệt , với hóa đơn từ 3.000.000 đ ( cộng gộp từ hóa đơn của siêu thị aeon và tttm aeon mall ) , bạn còn có cơ hội tham_gia rút thăm 100% trúng thưởng với các phần quà vô cùng giá trị .
+REGULATION	5	7	1	4	Promotion	Regulation	nhập mã “ bfmoca ” giảm ngay 100k khi thánh toán ví moca ( hoá_đơn trên 1,500,000 ) .
+REGULATION	5	7	14	17	Promotion	Regulation	nhập mã “ bfmoca ” giảm ngay 100k khi thánh toán ví moca ( hoá_đơn trên 1,500,000 ) .
+LOCATION	12	12	5	7	Organization	Promotion	nhập mã “ bfmoca ” giảm ngay 100k khi thánh toán ví moca ( hoá_đơn trên 1,500,000 ) .
+LOCATION	3	11	33	34	Promotion	Location	bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu moschino , versace , salavatore … tại hệ_thống aeon mall .
+LOCATION	24	25	3	11	Organization	Promotion	bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu moschino , versace , salavatore … tại hệ_thống aeon mall .
+OTHER	24	25	33	34	Organization	Location	bùng_nổ cơn lốc ưu_đãi dành riêng cho tháng 11 với ưu_đãi lên đến 30% + + cho các siêu phẩm nước_hoa đến từ các thương_hiệu moschino , versace , salavatore … tại hệ_thống aeon mall .
+LOCATION	0	0	11	14	Organization	Promotion	vascara - “ bạn thân ” của hội chị_em đam_mê thời_trang giảm sốc đến 50%
+LOCATION	0	0	12	14	Organization	Promotion	biti ' s hunter - thương_hiệu giày xịn “ lão_làng ” bất_ngờ ưu_đãi đến 40%
+OTHER	2	3	12	14	Organization	Promotion	biti ' s hunter - thương_hiệu giày xịn “ lão_làng ” bất_ngờ ưu_đãi đến 40%
+LOCATION	0	0	2	8	Organization	Promotion	lug.vn - giảm khủng chưa từng thấy tới 75% , sắm ngay vali xịn du_lịch càng “ chill ” nha !
+LOCATION	4	7	9	10	Organization	Promotion	dẫn_đầu có thương_hiệu giày việt biti ’ s trẻ_em giảm_giá 10% , đồng giá 100k .
+LOCATION	4	10	1	3	Promotion	Location	tưng_bừng quầy quần_áo trẻ_em đồng giá 100 k / 3 món .
+LOCATION	8	11	0	1	Promotion	Location	nhà_sách aeon cũng hưởng_ứng sức nóng với chương_trình đồng giá từ 50k - 70k - 80k - 100k .
+AFFILIATION	7	8	10	10	Promotion	Time	sale gì tưng_bừng và giảm sâu hơn black friday từ 23-27/11 tại aeon the nine chứ ?
+LOCATION	7	8	12	14	Promotion	Location	sale gì tưng_bừng và giảm sâu hơn black friday từ 23-27/11 tại aeon the nine chứ ?
+REGULATION	10	10	7	8	Time	Promotion	sale gì tưng_bừng và giảm sâu hơn black friday từ 23-27/11 tại aeon the nine chứ ?
+PRICE	13	13	3	4	Price	Product	sản_phẩm mới - xúc_xích collagen bổ_sung collagen giúp trẻ_hoá làn da chỉ với 85,000 đ / gói
+OTHER	14	14	3	4	Price	Product	sản_phẩm mới - xúc_xích collagen bổ_sung collagen giúp trẻ_hoá làn da chỉ với 85,000 đ / gói
+OTHER	16	16	3	4	Price	Product	sản_phẩm mới - xúc_xích collagen bổ_sung collagen giúp trẻ_hoá làn da chỉ với 85,000 đ / gói
+PRICE	14	14	3	6	Price	Product	sản_phẩm mới - mật_ong hoa sú vẹt hương_vị ngọt thanh 100% nguyên_chất chỉ với 270,000 đ / chai 500g
+OTHER	15	15	3	6	Price	Product	sản_phẩm mới - mật_ong hoa sú vẹt hương_vị ngọt thanh 100% nguyên_chất chỉ với 270,000 đ / chai 500g
+OTHER	17	17	3	6	Price	Product	sản_phẩm mới - mật_ong hoa sú vẹt hương_vị ngọt thanh 100% nguyên_chất chỉ với 270,000 đ / chai 500g
+PRICE	15	15	0	4	Price	Product	nước rửa tay dưỡng ẩm vừa chăm da tay , vừa kháng khuẩn chỉ với 39,000 đ / chai 300ml
+OTHER	16	16	0	4	Price	Product	nước rửa tay dưỡng ẩm vừa chăm da tay , vừa kháng khuẩn chỉ với 39,000 đ / chai 300ml
+OTHER	18	18	0	4	Price	Product	nước rửa tay dưỡng ẩm vừa chăm da tay , vừa kháng khuẩn chỉ với 39,000 đ / chai 300ml
+PRICE	19	19	0	5	Price	Product	nước lau sàn hương cỏ hoa thơm mát giúp khử mùi và lau sạch vết bẩn hiệu_quả chỉ với 90,000 đ / chai 3,8 kg
+OTHER	20	20	0	5	Price	Product	nước lau sàn hương cỏ hoa thơm mát giúp khử mùi và lau sạch vết bẩn hiệu_quả chỉ với 90,000 đ / chai 3,8 kg
+OTHER	22	22	0	5	Price	Product	nước lau sàn hương cỏ hoa thơm mát giúp khử mùi và lau sạch vết bẩn hiệu_quả chỉ với 90,000 đ / chai 3,8 kg
+PRICE	10	10	0	4	Price	Promotion	tặng ngay hộp khẩu_trang topvalu 50 cái size m giá 79,000 đ
+OTHER	11	11	0	4	Price	Promotion	tặng ngay hộp khẩu_trang topvalu 50 cái size m giá 79,000 đ
+PRICE	3	8	0	2	Price	Product	cá_thu cắt khúc giá thường 289.000 đ / kg nay chỉ còn 265.000 đ / kg
+OTHER	12	12	0	2	Price	Product	cá_thu cắt khúc giá thường 289.000 đ / kg nay chỉ còn 265.000 đ / kg
+OTHER	13	13	0	2	Price	Product	cá_thu cắt khúc giá thường 289.000 đ / kg nay chỉ còn 265.000 đ / kg
+OTHER	15	15	0	2	Price	Product	cá_thu cắt khúc giá thường 289.000 đ / kg nay chỉ còn 265.000 đ / kg
+PRICE	3	8	0	2	Price	Product	cam navel úc giá thường 105.000 đ / kg nay chỉ còn 65.000 đ / kg
+OTHER	12	12	0	2	Price	Product	cam navel úc giá thường 105.000 đ / kg nay chỉ còn 65.000 đ / kg
+OTHER	13	13	0	2	Price	Product	cam navel úc giá thường 105.000 đ / kg nay chỉ còn 65.000 đ / kg
+OTHER	15	15	0	2	Price	Product	cam navel úc giá thường 105.000 đ / kg nay chỉ còn 65.000 đ / kg
+PRICE	6	6	0	3	Price	Product	bình nước tritan 680ml chỉ có 85.000 đ / bình
+OTHER	7	7	0	3	Price	Product	bình nước tritan 680ml chỉ có 85.000 đ / bình
+OTHER	9	9	0	3	Price	Product	bình nước tritan 680ml chỉ có 85.000 đ / bình
+OTHER	8	8	0	3	Price	Product	tủ_lạnh hitachi inverter 550l giảm sốc chỉ còn 17.490.000 đ / cái
+PRICE	9	9	0	3	Price	Product	tủ_lạnh hitachi inverter 550l giảm sốc chỉ còn 17.490.000 đ / cái
+OTHER	11	11	0	3	Price	Product	tủ_lạnh hitachi inverter 550l giảm sốc chỉ còn 17.490.000 đ / cái
+REGULATION	2	2	15	18	Time	Promotion	từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua săn 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+OTHER	4	4	15	18	Time	Promotion	từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua săn 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+AFFILIATION	15	18	2	2	Promotion	Time	từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua săn 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+OTHER	15	18	4	4	Promotion	Time	từ ngày 𝟐𝟓 / 𝟏𝟏 - 𝟐𝟕 / 𝟏𝟏 / 𝟐𝟎𝟐𝟐 , đường đua săn 𝐒𝐀𝐋𝐄 𝐁𝐋𝐀𝐂𝐊 𝐅𝐑𝐈𝐃𝐀𝐘 2022 chính_thức khai_mạc
+LOCATION	0	7	14	14	Organization	Location	cừa hàng đồng giá 40k daiso nhật bản được ví_như siêu_thị thu nhỏ của aeon .
+REGULATION	12	16	3	4	Promotion	Regulation	chỉ cần có hoá_đơn siêu_thị , lên daiso mua 2 sản_phẩm , tặng ngay 1 lon soda bổ_sung vitamin nhập_khẩu từ nhật bản .
+LOCATION	10	10	19	21	Organization	Promotion	toàn là những tên_tuổi “ quốc dân ” từ nhà unilever , unicharm … chuẩn_bị lên sàn với giá giảm đến 50% mà_lại còn thêm ưu_đãi quà tặng ngập_tràn . cả nhà nhanh chuẩn_bị “ túi 3 gang ” để mang theo mà đựng thôi nào !
+PRICE	11	11	0	4	Price	Product	tủ_lạnh hitachi inverter r-wb 640pgv1 giá giảm cực sốc chỉ còn 27.990.000 đ / cái
+OTHER	12	12	0	4	Price	Product	tủ_lạnh hitachi inverter r-wb 640pgv1 giá giảm cực sốc chỉ còn 27.990.000 đ / cái
+OTHER	14	14	0	4	Price	Product	tủ_lạnh hitachi inverter r-wb 640pgv1 giá giảm cực sốc chỉ còn 27.990.000 đ / cái
+PRICE	12	12	0	5	Price	Product	máy lọc không_khí philips ac 0850/20 giá giảm cực sốc chỉ còn 3.190.000 đ / cái
+OTHER	13	13	0	5	Price	Product	máy lọc không_khí philips ac 0850/20 giá giảm cực sốc chỉ còn 3.190.000 đ / cái
+OTHER	15	15	0	5	Price	Product	máy lọc không_khí philips ac 0850/20 giá giảm cực sốc chỉ còn 3.190.000 đ / cái
+PRICE	11	11	0	4	Price	Product	bộ nồi đáy liền elmich giá giảm cực sốc chỉ còn 990.000 đ /
+OTHER	12	12	0	4	Price	Product	bộ nồi đáy liền elmich giá giảm cực sốc chỉ còn 990.000 đ /
+PRICE	13	13	3	11	Price	Product	1 / mua cà_phê đắk lắk làm sạch da chết cơ_thể 200ml giá 115.000 đ
+OTHER	14	14	3	11	Price	Product	1 / mua cà_phê đắk lắk làm sạch da chết cơ_thể 200ml giá 115.000 đ
+PRICE	10	10	1	8	Price	Product	tặng cà_phê đắk lắk làm sạch da chết môi giá 75.000 đ
+OTHER	11	11	1	8	Price	Product	tặng cà_phê đắk lắk làm sạch da chết môi giá 75.000 đ
+PRICE	13	13	3	11	Price	Product	2 / mua cà_phê đắk lắk làm sạch da chết mặt 150ml giá 145.000 đ
+OTHER	14	14	3	11	Price	Product	2 / mua cà_phê đắk lắk làm sạch da chết mặt 150ml giá 145.000 đ
+AFFILIATION	2	4	9	14	Time	Promotion	đặc_biệt , trong tháng 11 này aeon sẽ cho ra_mắt 1 loại “ sốt ” cực “ dính ” đi kèm món nào cũng siêu đỉnh mà cả nhà không_thể bỏ lỡ !
+REGULATION	9	14	2	4	Promotion	Time	đặc_biệt , trong tháng 11 này aeon sẽ cho ra_mắt 1 loại “ sốt ” cực “ dính ” đi kèm món nào cũng siêu đỉnh mà cả nhà không_thể bỏ lỡ !
+LOCATION	9	14	6	6	Promotion	Location	đặc_biệt , trong tháng 11 này aeon sẽ cho ra_mắt 1 loại “ sốt ” cực “ dính ” đi kèm món nào cũng siêu đỉnh mà cả nhà không_thể bỏ lỡ !
+REGULATION	0	5	7	16	Promotion	Regulation	tặng 1 thẻ cào trúng thưởng khi mua 1 đơn hàng có sản_phẩm biti ' s hunter tại quầy sport của aeon tân_phú ( thẻ cào trúng thưởng 100% )
+LOCATION	0	5	18	22	Promotion	Location	tặng 1 thẻ cào trúng thưởng khi mua 1 đơn hàng có sản_phẩm biti ' s hunter tại quầy sport của aeon tân_phú ( thẻ cào trúng thưởng 100% )
+LOCATION	0	7	11	13	Product	Location	03 voucher 1,100,000 đ mua biti ' s ( áp_dụng tại aeon tân phú cho lần sau )
+LOCATION	0	4	10	12	Product	Location	30 voucher trị_giá 100.000 đ mua hàng ( áp_dụng tại aeon tân phú )
+LOCATION	2	4	5	8	Organization	Promotion	chương_trình : brand fair skechers 𝐒𝐀𝐋𝐄 𝐎𝐅𝐅 từ 20% - 50% các mặt_hàng
+PRICE	11	11	6	8	Price	Product	trái_cây tươi ngon , chọn liền táo new zealand chỉ còn 89,000 đ / kg
+OTHER	12	12	6	8	Price	Product	trái_cây tươi ngon , chọn liền táo new zealand chỉ còn 89,000 đ / kg
+OTHER	14	14	6	8	Price	Product	trái_cây tươi ngon , chọn liền táo new zealand chỉ còn 89,000 đ / kg
+PRICE	10	10	6	7	Price	Product	tụ_hội ăn vặt thì có ngay xúc_xích đức chỉ còn 24,000 đ / cái
+OTHER	11	11	6	7	Price	Product	tụ_hội ăn vặt thì có ngay xúc_xích đức chỉ còn 24,000 đ / cái
+OTHER	13	13	6	7	Price	Product	tụ_hội ăn vặt thì có ngay xúc_xích đức chỉ còn 24,000 đ / cái
+PRICE	12	12	7	9	Price	Product	ăn_uống “ heo-thì ” thì đừng bỏ_qua sữa yaourt 1760ml chỉ còn 70,000 dđ / chai
+OTHER	13	13	7	9	Price	Product	ăn_uống “ heo-thì ” thì đừng bỏ_qua sữa yaourt 1760ml chỉ còn 70,000 dđ / chai
+OTHER	15	15	7	9	Price	Product	ăn_uống “ heo-thì ” thì đừng bỏ_qua sữa yaourt 1760ml chỉ còn 70,000 dđ / chai
+OTHER	5	5	11	15	Promotion	Product	đặc_biệt không_thể không nhắc đến chương_trình # quay thưởng may_mắn trúng điện_thoại oppo reno 8 4g - cph 2461 cùng vô_vàn món quà hấp_dẫn khác .
+AFFILIATION	11	15	5	5	Product	Promotion	đặc_biệt không_thể không nhắc đến chương_trình # quay thưởng may_mắn trúng điện_thoại oppo reno 8 4g - cph 2461 cùng vô_vàn món quà hấp_dẫn khác .
+REGULATION	26	33	3	11	Product	Regulation	chỉ cần có hoá_đơn mua_sắm cộng gộp từ 3 triệu trở lên tại cả 2 khu_vực tttm và tt bhth aeon việt_nam , sẽ nhận ngay 1 lượt quay thưởng trên app aeon mall nhé !
+LOCATION	26	33	16	21	Product	Location	chỉ cần có hoá_đơn mua_sắm cộng gộp từ 3 triệu trở lên tại cả 2 khu_vực tttm và tt bhth aeon việt_nam , sẽ nhận ngay 1 lượt quay thưởng trên app aeon mall nhé !
+PRICE	2	7	0	1	Price	Product	chả tôm giá thường 345.000 đ / kg nay chỉ còn 285.000 đ / kg
+OTHER	11	11	0	1	Price	Product	chả tôm giá thường 345.000 đ / kg nay chỉ còn 285.000 đ / kg
+OTHER	12	12	0	1	Price	Product	chả tôm giá thường 345.000 đ / kg nay chỉ còn 285.000 đ / kg
+OTHER	14	14	0	1	Price	Product	chả tôm giá thường 345.000 đ / kg nay chỉ còn 285.000 đ / kg
+PRICE	3	8	0	2	Price	Product	cá_thu cắt khúc giá thường 290.000 đ / kg nay chỉ còn 230.000 đ / kg
+OTHER	12	12	0	2	Price	Product	cá_thu cắt khúc giá thường 290.000 đ / kg nay chỉ còn 230.000 đ / kg
+OTHER	13	13	0	2	Price	Product	cá_thu cắt khúc giá thường 290.000 đ / kg nay chỉ còn 230.000 đ / kg
+OTHER	15	15	0	2	Price	Product	cá_thu cắt khúc giá thường 290.000 đ / kg nay chỉ còn 230.000 đ / kg
+PRICE	3	8	0	2	Price	Product	việt_quất new zealand giá thường 145.000 đ / hộp nay chỉ còn 109.000 đ / hộp
+OTHER	12	12	0	2	Price	Product	việt_quất new zealand giá thường 145.000 đ / hộp nay chỉ còn 109.000 đ / hộp
+OTHER	13	13	0	2	Price	Product	việt_quất new zealand giá thường 145.000 đ / hộp nay chỉ còn 109.000 đ / hộp
+OTHER	15	15	0	2	Price	Product	việt_quất new zealand giá thường 145.000 đ / hộp nay chỉ còn 109.000 đ / hộp
+LOCATION	2	2	9	12	Organization	Promotion	thanh_toán qua vnpay nhập mã “ aeon 50 ” giảm ngay 50.000 đ
+REGULATION	9	12	4	8	Promotion	Regulation	thanh_toán qua vnpay nhập mã “ aeon 50 ” giảm ngay 50.000 đ
+REGULATION	8	11	2	5	Promotion	Regulation	nhập luôn mã “ tcbaeon ” để được giảm ngay 50.000 đ ( cho hoá_đơn từ 300.000 đ ) dưới hình_thức quét vnpay-qr trên app techcombank
+REGULATION	8	11	14	17	Promotion	Regulation	nhập luôn mã “ tcbaeon ” để được giảm ngay 50.000 đ ( cho hoá_đơn từ 300.000 đ ) dưới hình_thức quét vnpay-qr trên app techcombank
+LOCATION	22	25	8	11	Organization	Promotion	nhập luôn mã “ tcbaeon ” để được giảm ngay 50.000 đ ( cho hoá_đơn từ 300.000 đ ) dưới hình_thức quét vnpay-qr trên app techcombank
+LOCATION	9	10	23	28	Organization	Promotion	anh_chị nào đã có gia_đình và con nhỏ thì aeon buffet là bí kíp tối_thượng để giữ vững túi_tiền của gia_đình vì được miễn_phí vé cho trẻ dưới 99cm , giảm 50% cho trẻ dưới 130cm .
+LOCATION	0	1	14	16	Organization	Location	aeon buffet : từ ngày 03 - 09/11 , từ 10h – 20h30 tại aeon long biên , aeon hà đông và aeon hải phòng
+REGULATION	9	9	13	17	Time	Promotion	đừng quên , ghé đến aeon the nine ngày 05/11 để nhận thêm khuyến_mãi 5% cho member day nữa nha !
+LOCATION	13	17	5	7	Promotion	Location	đừng quên , ghé đến aeon the nine ngày 05/11 để nhận thêm khuyến_mãi 5% cho member day nữa nha !
+AFFILIATION	13	17	9	9	Promotion	Time	đừng quên , ghé đến aeon the nine ngày 05/11 để nhận thêm khuyến_mãi 5% cho member day nữa nha !
+OTHER	0	2	10	14	Promotion	Product	quay thưởng may_mắn , chơi nhỏ thắng lớn với tổng_trị_giá quà tặng đến 78 triệu :
+AFFILIATION	10	14	0	2	Product	Promotion	quay thưởng may_mắn , chơi nhỏ thắng lớn với tổng_trị_giá quà tặng đến 78 triệu :
+PRICE	6	7	0	4	Price	Product	bộ phiếu ưu_đãi siêu_thị aeon trị_giá 5.000.000 vnd
+AFFILIATION	5	10	0	1	Time	Regulation	thời_gian phục_vụ : diễn ra từ 10h đến 21h ngày 03/11 - 09/11/2022
+REGULATION	11	11	8	9	Regulation	Price	giá cực hấp_dẫn ( bao_gồm vat ) : 105.000 vnđ ( trẻ_em < 130 cm )
+REGULATION	2	4	0	0	Regulation	Price	miễn_phí cho trẻ dưới 99cm ( tối_đa 01 khách 01 bé )
+PRICE	2	7	0	1	Price	Product	ba_rọi heo giá thường 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	11	11	0	1	Price	Product	ba_rọi heo giá thường 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	12	12	0	1	Price	Product	ba_rọi heo giá thường 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	14	14	0	1	Price	Product	ba_rọi heo giá thường 209.000 đ / kg nay chỉ còn 149.000 đ / kg
+OTHER	3	8	0	2	Price	Product	thịt bò xay giá thường 280.000 đ / kg nay chỉ còn 259.000 đ / kg
+PRICE	12	12	0	2	Price	Product	thịt bò xay giá thường 280.000 đ / kg nay chỉ còn 259.000 đ / kg
+OTHER	13	13	0	2	Price	Product	thịt bò xay giá thường 280.000 đ / kg nay chỉ còn 259.000 đ / kg
+OTHER	15	15	0	2	Price	Product	thịt bò xay giá thường 280.000 đ / kg nay chỉ còn 259.000 đ / kg
+OTHER	5	10	0	4	Price	Product	nho xanh không hạt mỹ giá thường 229.900 đ / kg nay chỉ còn 195.000 đ / kg
+PRICE	14	14	0	4	Price	Product	nho xanh không hạt mỹ giá thường 229.900 đ / kg nay chỉ còn 195.000 đ / kg
+OTHER	15	15	0	4	Price	Product	nho xanh không hạt mỹ giá thường 229.900 đ / kg nay chỉ còn 195.000 đ / kg
+OTHER	17	17	0	4	Price	Product	nho xanh không hạt mỹ giá thường 229.900 đ / kg nay chỉ còn 195.000 đ / kg
+PRICE	4	9	0	3	Price	Product	cá cam cắt khúc giá thường 93.000 đ / kg nay chỉ còn 75.000 đ / kg
+OTHER	13	13	0	3	Price	Product	cá cam cắt khúc giá thường 93.000 đ / kg nay chỉ còn 75.000 đ / kg
+OTHER	14	14	0	3	Price	Product	cá cam cắt khúc giá thường 93.000 đ / kg nay chỉ còn 75.000 đ / kg
+OTHER	16	16	0	3	Price	Product	cá cam cắt khúc giá thường 93.000 đ / kg nay chỉ còn 75.000 đ / kg
+LOCATION	8	8	18	21	Organization	Promotion	đừng quên thanh_toán “ không tiền_mặt " qua vnpay và nhập mã “ aeon 50 ” để được giảm thêm 50.000 đ nữa nhé !
+REGULATION	18	21	11	15	Promotion	Regulation	đừng quên thanh_toán “ không tiền_mặt " qua vnpay và nhập mã “ aeon 50 ” để được giảm thêm 50.000 đ nữa nhé !
+REGULATION	0	7	17	21	Promotion	Regulation	tặng 01 cuốn coupon với các voucher giảm_giá đến từ các thương_hiệu mẹ và bé khi mẹ đăng_ký mới thẻ kids club .
+LOCATION	11	14	0	7	Organization	Promotion	tặng 01 cuốn coupon với các voucher giảm_giá đến từ các thương_hiệu mẹ và bé khi mẹ đăng_ký mới thẻ kids club .
+REGULATION	11	12	17	19	Promotion	Time	cả nhà đừng bỏ_qua các hoạt_động rinh quà cực hấp_dẫn trong lễ_hội halloween diễn ra từ ngày 28.10 đến 31.10.2022 này tại aeon như :
+LOCATION	11	12	22	22	Promotion	Location	cả nhà đừng bỏ_qua các hoạt_động rinh quà cực hấp_dẫn trong lễ_hội halloween diễn ra từ ngày 28.10 đến 31.10.2022 này tại aeon như :
+AFFILIATION	17	19	11	12	Time	Promotion	cả nhà đừng bỏ_qua các hoạt_động rinh quà cực hấp_dẫn trong lễ_hội halloween diễn ra từ ngày 28.10 đến 31.10.2022 này tại aeon như :
+OTHER	3	8	10	17	Promotion	Promotion	thử sức với minigame “ đánh_thức vùng_đất bí_ẩn ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 vnđ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+OTHER	3	8	19	23	Promotion	Regulation	thử sức với minigame “ đánh_thức vùng_đất bí_ẩn ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 vnđ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+AFFILIATION	10	17	3	8	Promotion	Promotion	thử sức với minigame “ đánh_thức vùng_đất bí_ẩn ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 vnđ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+REGULATION	10	17	19	23	Promotion	Regulation	thử sức với minigame “ đánh_thức vùng_đất bí_ẩn ” : nhận ngay 0 1 lượt chơi ném banh cho hoá_đơn chỉ từ 200.000 vnđ với 100% cơ_hội trúng quà ( tối_đa 03 lượt chơi và chỉ tham_gia 01 lần / ngày ) .
+OTHER	0	1	3	10	Promotion	Product	giải đặc_biệt : máy nâng cơ và cải_tiến sắc_tố da lifestrons
+AFFILIATION	3	10	0	1	Product	Promotion	giải đặc_biệt : máy nâng cơ và cải_tiến sắc_tố da lifestrons
+OTHER	0	1	3	8	Promotion	Product	giải khuyến_khích : máy massage tinh_chất nóng lạnh touchbeauty
+AFFILIATION	3	8	0	1	Product	Promotion	giải khuyến_khích : máy massage tinh_chất nóng lạnh touchbeauty
+LOCATION	9	9	1	4	Organization	Product	nhận voucher aeon 500.000 đ ( chỉ áp_dụng cho homecoordy )
+AFFILIATION	5	9	11	12	Product	Promotion	cơ_hội_sở_hữu quà giá_trị đến từ kimiwa collagen premium 10,000 mg bằng mini game " nhanh mắt đoán chữ "
+OTHER	11	12	5	9	Promotion	Product	cơ_hội_sở_hữu quà giá_trị đến từ kimiwa collagen premium 10,000 mg bằng mini game " nhanh mắt đoán chữ "
+LOCATION	20	26	0	1	Product	Location	aeon vietnam ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 miniset kimiwa collagen premium 10,000 mg trị_giá đến 400 k / set
+PRICE	29	29	20	26	Price	Product	aeon vietnam ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 miniset kimiwa collagen premium 10,000 mg trị_giá đến 400 k / set
+OTHER	30	30	20	26	Price	Product	aeon vietnam ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 miniset kimiwa collagen premium 10,000 mg trị_giá đến 400 k / set
+OTHER	32	32	20	26	Price	Product	aeon vietnam ngẫu_nhiên chọn 3 bạn may_mắn thực_hiện đúng và đầy_đủ các bước trên sẽ được gửi tặng mỗi bạn 01 miniset kimiwa collagen premium 10,000 mg trị_giá đến 400 k / set
+REGULATION	6	8	0	3	Time	Regulation	thời_gian minigame diễn ra : từ 22 – 27.10.2022
+PRICE	10	13	0	2	Price	Product	dầu_gội đầu tsubaki , pantene , sunsilk ... với giá chỉ từ 125.000 đồng
+PRICE	9	12	0	1	Price	Product	sữa tắm , sữa dưỡng thể enchantuer , nivea chỉ từ 95.000 đồng
+PRICE	5	8	0	4	Price	Product	các sản_phẩm chăm_sóc răng miệng chỉ từ 75.000 đồng
+REGULATION	2	4	6	7	Promotion	Time	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+OTHER	2	4	16	23	Promotion	Regulation	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+OTHER	2	4	26	32	Promotion	Promotion	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+AFFILIATION	6	7	2	4	Time	Promotion	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+OTHER	6	7	16	23	Time	Regulation	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+OTHER	6	7	26	32	Time	Promotion	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+OTHER	26	32	2	4	Promotion	Promotion	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+OTHER	26	32	6	7	Promotion	Time	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+REGULATION	26	32	16	23	Promotion	Regulation	ngoài ưu_đãi 𝐆𝐈𝐀̉𝐌 𝐓𝐇𝐄̂𝐌 𝟓% vào thứ 7 & chủ_nhật cuối_cùng mỗi tháng , khi mẹ đăng_ký thẻ từ nay đến hết ngày 31/12/2022 , sẽ nhận thêm 01 sổ voucher phiên_bản giới_hạn :
+REGULATION	0	2	4	9	Product	Regulation	𝐕𝐨𝐮𝐜𝐡𝐞𝐫 𝐠𝐢𝐚̉𝐦 𝟏𝟎% cho hoá_đơn_nguyên giá từ 99k trở lên từ thương_hiệu rabity - thương_hiệu thời_trang trẻ_em hàng_đầu việt_nam , đơn_vị duy_nhất đồng sở_hữu bản_quyền từ tập_đoàn giải_trí disney và biểu_tượng thời_trang pháp - elle tại việt_nam .
+LOCATION	11	12	0	2	Organization	Product	𝐕𝐨𝐮𝐜𝐡𝐞𝐫 𝐠𝐢𝐚̉𝐦 𝟏𝟎% cho hoá_đơn_nguyên giá từ 99k trở lên từ thương_hiệu rabity - thương_hiệu thời_trang trẻ_em hàng_đầu việt_nam , đơn_vị duy_nhất đồng sở_hữu bản_quyền từ tập_đoàn giải_trí disney và biểu_tượng thời_trang pháp - elle tại việt_nam .
+LOCATION	6	12	0	2	Organization	Product	𝐕𝐨𝐮𝐜𝐡𝐞𝐫 𝐠𝐢𝐚̉𝐦 𝟐𝟎𝐊 dành riêng cho các mặt_hàng mẹ và bé tại aeon .
+LOCATION	4	7	11	11	Product	Location	quà tặng chính là voucher trị_giá 50.000 đ áp_dụng mua_sắm tại ttbhth & siêu_thị aeon .
+AFFILIATION	3	6	0	1	Time	Regulation	thời_gian_tham_gia minigame : 19.10 – 23h59’ 31.10.2022 .
+AFFILIATION	2	5	20	20	Promotion	Time	đừng quên chương_trình rút thăm may_mắn với 99,99% cơ_hội nhận được nhiều phần quà hấp_dẫn dành riêng cho phái_đẹp từ 15/10 - 19/10/2022 này .
+REGULATION	20	20	2	5	Time	Promotion	đừng quên chương_trình rút thăm may_mắn với 99,99% cơ_hội nhận được nhiều phần quà hấp_dẫn dành riêng cho phái_đẹp từ 15/10 - 19/10/2022 này .
+REGULATION	1	1	11	14	Time	Promotion	từ 11-31/10 này , tại aeon long biên đang diễn ra đại_tiệc kỉ_niệm 7 năm đáng nhớ với các hoạt_động thú_vị có 1 - 0 -2
+AFFILIATION	11	14	1	1	Promotion	Time	từ 11-31/10 này , tại aeon long biên đang diễn ra đại_tiệc kỉ_niệm 7 năm đáng nhớ với các hoạt_động thú_vị có 1 - 0 -2
+LOCATION	11	14	5	7	Promotion	Location	từ 11-31/10 này , tại aeon long biên đang diễn ra đại_tiệc kỉ_niệm 7 năm đáng nhớ với các hoạt_động thú_vị có 1 - 0 -2
+OTHER	5	5	0	2	Price	Product	cam cara úc chỉ còn 75.000 đ / kg giá thường 120.000 đ / kg
+OTHER	6	6	0	2	Price	Product	cam cara úc chỉ còn 75.000 đ / kg giá thường 120.000 đ / kg
+OTHER	8	8	0	2	Price	Product	cam cara úc chỉ còn 75.000 đ / kg giá thường 120.000 đ / kg
+PRICE	9	14	0	2	Price	Product	cam cara úc chỉ còn 75.000 đ / kg giá thường 120.000 đ / kg
+OTHER	5	5	0	2	Price	Product	sườn non heo chỉ còn 239.000 đ / kg giá thường 289.000 đ / gói
+OTHER	6	6	0	2	Price	Product	sườn non heo chỉ còn 239.000 đ / kg giá thường 289.000 đ / gói
+OTHER	8	8	0	2	Price	Product	sườn non heo chỉ còn 239.000 đ / kg giá thường 289.000 đ / gói
+PRICE	9	14	0	2	Price	Product	sườn non heo chỉ còn 239.000 đ / kg giá thường 289.000 đ / gói
+OTHER	4	4	0	1	Price	Product	cá_thu đao chỉ còn 125.000 đ / kg giá thường 175.000 đ / kg
+OTHER	5	5	0	1	Price	Product	cá_thu đao chỉ còn 125.000 đ / kg giá thường 175.000 đ / kg
+OTHER	7	7	0	1	Price	Product	cá_thu đao chỉ còn 125.000 đ / kg giá thường 175.000 đ / kg
+PRICE	8	13	0	1	Price	Product	cá_thu đao chỉ còn 125.000 đ / kg giá thường 175.000 đ / kg
+OTHER	6	6	0	3	Price	Product	cá_rô fillet tâm an chỉ còn 135.000 đ / kg giá thường 165.000 đ / kg
+OTHER	7	7	0	3	Price	Product	cá_rô fillet tâm an chỉ còn 135.000 đ / kg giá thường 165.000 đ / kg
+OTHER	9	9	0	3	Price	Product	cá_rô fillet tâm an chỉ còn 135.000 đ / kg giá thường 165.000 đ / kg
+PRICE	10	15	0	3	Price	Product	cá_rô fillet tâm an chỉ còn 135.000 đ / kg giá thường 165.000 đ / kg
+LOCATION	6	6	16	18	Organization	Promotion	chưa hết , khi thanh_toán qua vnpay và nhập mã aeon50 , nhà mình còn được giảm thêm 50k nữa .
+REGULATION	16	18	9	10	Promotion	Regulation	chưa hết , khi thanh_toán qua vnpay và nhập mã aeon50 , nhà mình còn được giảm thêm 50k nữa .
+REGULATION	7	11	13	17	Product	Regulation	cơ_hội 1 : nhận ngay cơ_hội trúng bộ quà tặng chăm_sóc sắc_đẹp với hoá_đơn mua_sắm từ 800.000 vnđ ;
+REGULATION	4	6	23	26	Promotion	Regulation	cơ_hội 2 : tham_gia quay số may_mắn " chọn cánh bướm - rinh quà xinh " nhận ngay các quà tặng hấp_dẫn cho hoá_đơn từ 1.000.000 vnđ ;
+REGULATION	7	16	1	2	Promotion	Regulation	với hoá_đơn từ # 500 k sẽ nhận ngay 3 mask ariul trà xanh hoặc tràm trà .
+REGULATION	7	16	1	2	Promotion	Regulation	với hoá_đơn từ # 800 k sẽ nhận ngay 5 mask ariul trà xanh hoặc tràm trà .
+OTHER	4	4	0	2	Price	Product	set sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+OTHER	5	5	0	2	Price	Product	set sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+OTHER	7	7	0	2	Price	Product	set sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+PRICE	9	12	0	2	Price	Product	set sushi vui_vẻ : 60.000 đ / phần ( giá gốc 68.000 đ )
+OTHER	4	4	0	2	Price	Product	set sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+OTHER	5	5	0	2	Price	Product	set sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+OTHER	7	7	0	2	Price	Product	set sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+PRICE	9	12	0	2	Price	Product	set sushi đặc_biệt : 135.000 đ / phần ( giá gốc 147.000 đ )
+OTHER	5	5	0	3	Price	Product	bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+OTHER	6	6	0	3	Price	Product	bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+PRICE	8	11	0	3	Price	Product	bánh_tráng cuốn nem nướng : 45.000 đ ( giá gốc 49.000 đ )
+OTHER	6	6	0	4	Price	Product	bó hoa nụ cười việt : 175.000 đ ( giá gốc 196.000 đ )
+OTHER	7	7	0	4	Price	Product	bó hoa nụ cười việt : 175.000 đ ( giá gốc 196.000 đ )
+PRICE	9	12	0	4	Price	Product	bó hoa nụ cười việt : 175.000 đ ( giá gốc 196.000 đ )
+OTHER	7	7	0	5	Price	Product	cam navel úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+OTHER	8	8	0	5	Price	Product	cam navel úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+OTHER	10	10	0	5	Price	Product	cam navel úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+PRICE	12	15	0	5	Price	Product	cam navel úc túi 1 kg : 99.000 đ / túi ( giá gốc 126.000 đ )
+OTHER	3	3	0	1	Price	Product	bơ booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+OTHER	4	4	0	1	Price	Product	bơ booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+OTHER	6	6	0	1	Price	Product	bơ booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+PRICE	8	11	0	1	Price	Product	bơ booth : 28.000 đ / kg ( giá gốc 36.000 đ )
+REGULATION	14	16	18	21	Promotion	Regulation	ngoài_ra , khi mua_sắm vào thời_gian này , nhà mình còn có cơ_hội tham_gia quay số may_mắn cho hoá_đơn từ 𝟴𝟬𝟬 .
+PRICE	2	5	0	1	Price	Product	ruột gối chỉ từ 68.000 đ
+PRICE	2	5	0	1	Price	Product	mền tuyết chỉ từ 229.000 đ
+PRICE	2	4	0	1	Price	Product	gối cao_su chỉ 468.000 đ
+PRICE	7	10	0	3	Price	Product	bộ drap áo gối , mền chần chỉ từ 1.199.000 đ
+REGULATION	11	13	21	21	Promotion	Time	sinh_nhật không phải ra dẻ mà ăn lớn làm thật với chương_trình quay thưởng quà siêu khủng diễn ra từ ngày 11 - 30/10 .
+AFFILIATION	21	21	11	13	Time	Promotion	sinh_nhật không phải ra dẻ mà ăn lớn làm thật với chương_trình quay thưởng quà siêu khủng diễn ra từ ngày 11 - 30/10 .
+AFFILIATION	3	10	0	1	Time	Regulation	thời_hạn đăng_ký : bắt_đầu_từ 11/10/2022 và đến hết 23h59 ngày 27/10/2022
+PRICE	3	4	0	1	Price	Promotion	giải nhất : 5,000,000 vnd
+PRICE	3	4	0	1	Price	Promotion	giải nhì : 4,000,000 vnd
+PRICE	3	4	0	1	Price	Promotion	giải ba : 3,000,000 vnd
+PRICE	3	4	0	1	Price	Promotion	giải nhất : 6,000,000 vnd
+PRICE	3	4	0	1	Price	Promotion	giải nhì : 5,000,000 vnd
+PRICE	3	4	0	1	Price	Promotion	giải ba : 4,000,000 vnd
+LOCATION	13	13	7	9	Organization	Location	tri ân tháng của chị_em phụ_nữ , aeon the nine cùng các thương_hiệu acecook , kewpie , minh dương , an nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+LOCATION	13	13	29	31	Organization	Promotion	tri ân tháng của chị_em phụ_nữ , aeon the nine cùng các thương_hiệu acecook , kewpie , minh dương , an nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+OTHER	29	31	7	9	Promotion	Location	tri ân tháng của chị_em phụ_nữ , aeon the nine cùng các thương_hiệu acecook , kewpie , minh dương , an nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+AFFILIATION	29	31	33	35	Promotion	Time	tri ân tháng của chị_em phụ_nữ , aeon the nine cùng các thương_hiệu acecook , kewpie , minh dương , an nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+OTHER	33	35	29	31	Time	Promotion	tri ân tháng của chị_em phụ_nữ , aeon the nine cùng các thương_hiệu acecook , kewpie , minh dương , an nam mang đến những món quà nhỏ và vòng quay may_mắn từ 10 – 16/10 .
+AFFILIATION	4	4	0	0	Time	Regulation	thời_gian : từ ngày 07/10/2022 - 10/10/2022
+REGULATION	0	1	3	7	Time	Promotion	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+OTHER	0	1	16	20	Time	Product	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+AFFILIATION	3	7	0	1	Promotion	Time	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+OTHER	3	7	12	15	Promotion	Location	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+OTHER	3	7	16	20	Promotion	Product	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+OTHER	16	20	0	1	Product	Time	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+OTHER	16	20	3	7	Product	Promotion	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+LOCATION	16	20	12	15	Product	Location	từ 07-10.10 , chương_trình rút thăm trúng thưởng đang diễn ra tại aeon long biên và aeon hà đông với giải đặc_biệt mỗi ngày là aeon voucher 5 triệu đồng !
+REGULATION	0	1	3	6	Promotion	Regulation	giảm 100k cho hoá_đơn từ 2 triệu khi thanh_toán bằng vnpay và nhập mã 𝐍𝐆𝐀𝐘𝐇𝐎𝐍𝐆𝟏𝟎 ( 1 kh / lần / ngày ) .
+REGULATION	0	1	13	14	Promotion	Regulation	giảm 100k cho hoá_đơn từ 2 triệu khi thanh_toán bằng vnpay và nhập mã 𝐍𝐆𝐀𝐘𝐇𝐎𝐍𝐆𝟏𝟎 ( 1 kh / lần / ngày ) .
+LOCATION	10	10	0	1	Organization	Promotion	giảm 100k cho hoá_đơn từ 2 triệu khi thanh_toán bằng vnpay và nhập mã 𝐍𝐆𝐀𝐘𝐇𝐎𝐍𝐆𝟏𝟎 ( 1 kh / lần / ngày ) .
+REGULATION	0	1	3	6	Promotion	Regulation	giảm 100k cho hoá_đơn từ 1 triệu khi thanh_toán bằng grabmoca và nhập mã 𝐃𝐎𝐔𝐁𝐋𝐄𝐌𝐎𝐂𝐀𝟏𝟎 ( 1 kh / lần / ngày ) .
+REGULATION	0	1	13	14	Promotion	Regulation	giảm 100k cho hoá_đơn từ 1 triệu khi thanh_toán bằng grabmoca và nhập mã 𝐃𝐎𝐔𝐁𝐋𝐄𝐌𝐎𝐂𝐀𝟏𝟎 ( 1 kh / lần / ngày ) .
+LOCATION	10	10	0	1	Organization	Promotion	giảm 100k cho hoá_đơn từ 1 triệu khi thanh_toán bằng grabmoca và nhập mã 𝐃𝐎𝐔𝐁𝐋𝐄𝐌𝐎𝐂𝐀𝟏𝟎 ( 1 kh / lần / ngày ) .
+OTHER	0	11	14	17	Promotion	Promotion	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+OTHER	0	11	24	25	Promotion	Regulation	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+OTHER	0	11	31	33	Promotion	Time	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+OTHER	14	17	0	11	Promotion	Promotion	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+REGULATION	14	17	24	25	Promotion	Regulation	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+REGULATION	14	17	31	33	Promotion	Time	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+REGULATION	31	33	0	11	Time	Promotion	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+REGULATION	31	33	14	17	Time	Promotion	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+OTHER	31	33	24	25	Time	Regulation	ngày hồng sale đậm ngập_tràn deal khủng đồng giá 10k – 100k , cơ_hội nhân đôi điểm tích_luỹ không_thể bỏ lỡ dành riêng cho thành_viên aeon , diễn ra từ ngày 07.10 – 10.10 .
+PRICE	5	6	0	3	Price	Product	đùi gà mắm tỏi : 22.500 xu / 100g
+PRICE	4	5	0	2	Price	Product	cánh_gà mắm tỏi : 24.500 xu / 100g
+REGULATION	0	1	14	15	Promotion	Regulation	giảm 2% ( tối_đa 500 k ) khi khi thanh_toán bằng vnpay và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎
+LOCATION	11	11	0	1	Organization	Promotion	giảm 2% ( tối_đa 500 k ) khi khi thanh_toán bằng vnpay và nhập mã 𝐕𝐍𝐏𝐀𝐘𝐀𝐄𝐎𝐍𝟓𝟐𝟎
+REGULATION	0	1	14	15	Promotion	Regulation	giảm 5% ( tối_đa 100 k ) khi thanh_toán bằng grab moca và nhập mã 𝐌𝐄𝐌𝐁𝐄𝐑𝐌𝐎𝐂𝐀 .
+LOCATION	10	11	0	1	Organization	Promotion	giảm 5% ( tối_đa 100 k ) khi thanh_toán bằng grab moca và nhập mã 𝐌𝐄𝐌𝐁𝐄𝐑𝐌𝐎𝐂𝐀 .
+OTHER	9	9	0	7	Price	Product	nạc lưng bò úc tươi t & p từ 509.000 đ / kg giảm còn 490.000 đ / kg
+OTHER	10	10	0	7	Price	Product	nạc lưng bò úc tươi t & p từ 509.000 đ / kg giảm còn 490.000 đ / kg
+PRICE	15	15	0	7	Price	Product	nạc lưng bò úc tươi t & p từ 509.000 đ / kg giảm còn 490.000 đ / kg
+OTHER	16	16	0	7	Price	Product	nạc lưng bò úc tươi t & p từ 509.000 đ / kg giảm còn 490.000 đ / kg
+OTHER	4	4	0	2	Price	Product	nấm_mỡ trắng yoshimoto từ 78.000 đ / khay giảm còn 60.000 đ / khay
+OTHER	5	5	0	2	Price	Product	nấm_mỡ trắng yoshimoto từ 78.000 đ / khay giảm còn 60.000 đ / khay
+PRICE	10	10	0	2	Price	Product	nấm_mỡ trắng yoshimoto từ 78.000 đ / khay giảm còn 60.000 đ / khay
+OTHER	11	11	0	2	Price	Product	nấm_mỡ trắng yoshimoto từ 78.000 đ / khay giảm còn 60.000 đ / khay
+PRICE	3	8	0	2	Price	Product	cam cara úc giá gốc 129.900 đ / kg giảm còn 90.000 đ / kg
+OTHER	11	11	0	2	Price	Product	cam cara úc giá gốc 129.900 đ / kg giảm còn 90.000 đ / kg
+OTHER	12	12	0	2	Price	Product	cam cara úc giá gốc 129.900 đ / kg giảm còn 90.000 đ / kg
+REGULATION	2	9	15	20	Time	Promotion	vào sự_kiện ngày hội thành_viên 5 và 20 hàng tháng , bạn thân sẽ được giảm thêm 5% trên giá khuyến_mãi ( áp_dụng đa_số các sản_phẩm )
+AFFILIATION	15	20	2	9	Promotion	Time	vào sự_kiện ngày hội thành_viên 5 và 20 hàng tháng , bạn thân sẽ được giảm thêm 5% trên giá khuyến_mãi ( áp_dụng đa_số các sản_phẩm )
+LOCATION	0	1	5	8	Promotion	Location	lễ_hội sữa_tươi đã cập bến aeon việt nam toàn_quốc , bao_gồm cả aeon the nine !
+LOCATION	0	1	12	14	Promotion	Location	lễ_hội sữa_tươi đã cập bến aeon việt nam toàn_quốc , bao_gồm cả aeon the nine !
+OTHER	5	8	12	14	Location	Location	lễ_hội sữa_tươi đã cập bến aeon việt nam toàn_quốc , bao_gồm cả aeon the nine !
+OTHER	12	14	5	8	Location	Location	lễ_hội sữa_tươi đã cập bến aeon việt nam toàn_quốc , bao_gồm cả aeon the nine !
+OTHER	1	5	21	21	Regulation	Price	với hoá_đơn 10,000,000 đ của máy_lạnh , quạt , máy lọc không_khí khách_hàng được tặng máy làm kem iris ohyama trị_giá 799,000 đ .
+OTHER	1	5	22	22	Regulation	Price	với hoá_đơn 10,000,000 đ của máy_lạnh , quạt , máy lọc không_khí khách_hàng được tặng máy làm kem iris ohyama trị_giá 799,000 đ .
+REGULATION	14	19	1	5	Promotion	Regulation	với hoá_đơn 10,000,000 đ của máy_lạnh , quạt , máy lọc không_khí khách_hàng được tặng máy làm kem iris ohyama trị_giá 799,000 đ .
+PRICE	21	21	14	19	Price	Promotion	với hoá_đơn 10,000,000 đ của máy_lạnh , quạt , máy lọc không_khí khách_hàng được tặng máy làm kem iris ohyama trị_giá 799,000 đ .
+OTHER	22	22	14	19	Price	Promotion	với hoá_đơn 10,000,000 đ của máy_lạnh , quạt , máy lọc không_khí khách_hàng được tặng máy làm kem iris ohyama trị_giá 799,000 đ .
+REGULATION	5	8	0	3	Time	Regulation	thời_gian diễn ra sự_kiện : 22/09 đến hết 05/10
+REGULATION	2	11	0	0	Time	Regulation	thời_gian : từ 9:00 giờ sáng đến 4:00 giờ chiều ngày 01/10/2022
+REGULATION	1	1	7	9	Time	Promotion	ngày 02/10/2022 là ngày chính_thức diễn ra chương_trình aeon ekiden với nhiều hoạt_động hấp_dẫn như sau
+AFFILIATION	7	9	1	1	Promotion	Time	ngày 02/10/2022 là ngày chính_thức diễn ra chương_trình aeon ekiden với nhiều hoạt_động hấp_dẫn như sau
+AFFILIATION	8	8	12	12	Promotion	Time	mách nhỏ cho các mẹ chưa ghé # babyfair diễn ra từ 08-21.09 còn có :
+REGULATION	12	12	8	8	Time	Promotion	mách nhỏ cho các mẹ chưa ghé # babyfair diễn ra từ 08-21.09 còn có :
+PRICE	4	11	0	3	Price	Product	thăn ngoại bò úc giá dùng thử chỉ 669.000 d / kg
+PRICE	4	11	0	3	Price	Product	nạc vai bò úc giá dùng thử chỉ 399.000 đ / kg
+AFFILIATION	4	4	0	2	Time	Regulation	thời_gian áp_dụng khuyến_mãi : 16/9 - 21/9
+REGULATION	4	7	14	19	Promotion	Regulation	chăm_sóc da mặt : mua 2 giảm 25% - mua 03 giảm 35% ( áp_dụng cho sản_phẩm dòng dưỡng da )
+LOCATION	7	9	11	14	Organization	Location	áp_dụng từ 01 – 30/09/2022 độc_quyền tại cửa_hàng yves rocher – glam beautique bình tân
+LOCATION	2	2	3	4	Organization	Promotion	nhãn hàng pigeon giảm 20k cho hoá_đơn trên 199k .
+REGULATION	3	4	6	8	Promotion	Regulation	nhãn hàng pigeon giảm 20k cho hoá_đơn trên 199k .
+LOCATION	2	2	3	4	Organization	Promotion	nhãn hàng rabity giảm 10% cho hàng nguyên giá từ 99k .
+REGULATION	3	4	6	10	Promotion	Regulation	nhãn hàng rabity giảm 10% cho hàng nguyên giá từ 99k .
+REGULATION	1	7	9	12	Promotion	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	1	7	16	19	Promotion	Product	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	1	7	21	24	Promotion	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	1	7	28	30	Promotion	Promotion	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	1	7	32	34	Promotion	Time	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	1	7	37	38	Promotion	Location	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	16	19	1	7	Product	Promotion	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	16	19	9	12	Product	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+REGULATION	16	19	21	24	Product	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	16	19	28	30	Product	Promotion	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	16	19	32	34	Product	Time	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	16	19	37	38	Product	Location	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	28	30	1	7	Promotion	Promotion	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	28	30	9	12	Promotion	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	28	30	16	19	Promotion	Product	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	28	30	21	24	Promotion	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+AFFILIATION	28	30	32	34	Promotion	Time	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+LOCATION	28	30	37	38	Promotion	Location	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	32	34	1	7	Time	Promotion	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	32	34	9	12	Time	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	32	34	16	19	Time	Product	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+OTHER	32	34	21	24	Time	Regulation	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+REGULATION	32	34	28	30	Time	Promotion	tham_gia vòng quay may_mắn với 100% trúng thưởng với hoá_đơn từ 500.000 đ và cơ_hội rinh giải_thưởng 5 triệu đồng với hoá_đơn từ 200.000 đ , trong lần quay số đặc_biệt vào 21h30 ngày 21/09 tại các siêu_thị aeon .
+REGULATION	0	5	6	6	Promotion	Time	ưu_đãi sốc trong khung giờ vàng 19h00 - 20h00 các ngày cuối tuần ( 09 , 10 , 11/09 và 16 , 17 , 18/09 )
+AFFILIATION	6	6	0	5	Time	Promotion	ưu_đãi sốc trong khung giờ vàng 19h00 - 20h00 các ngày cuối tuần ( 09 , 10 , 11/09 và 16 , 17 , 18/09 )
+OTHER	9	12	18	20	Promotion	Promotion	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	9	12	23	23	Promotion	Time	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	9	12	25	28	Promotion	Product	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+AFFILIATION	18	20	9	12	Promotion	Promotion	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+AFFILIATION	18	20	23	23	Promotion	Time	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	18	20	25	28	Promotion	Product	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	23	23	9	12	Time	Promotion	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	23	23	18	20	Time	Promotion	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	23	23	25	28	Time	Product	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	25	28	9	12	Product	Promotion	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+AFFILIATION	25	28	18	20	Product	Promotion	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+OTHER	25	28	23	23	Product	Time	tạm gác bộn_bề lo_toan , cùng bé đến tham_gia lễ_hội mẹ và bé để rinh quà ngập_tràn trên vòng quay may_mắn từ ngày 08 - 21/09 với 2 cơ_hội trúng thưởng “ siêu to khổng_lồ ” :
+REGULATION	17	21	4	7	Product	Regulation	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	17	21	23	26	Product	Promotion	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	17	21	32	34	Product	Time	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+LOCATION	17	21	38	38	Product	Location	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	23	26	4	7	Promotion	Regulation	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	23	26	17	21	Promotion	Product	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+AFFILIATION	23	26	32	34	Promotion	Time	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	23	26	38	38	Promotion	Location	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	32	34	4	7	Time	Regulation	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+OTHER	32	34	17	21	Time	Product	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+REGULATION	32	34	23	26	Time	Promotion	cơ_hội 1 : với hoá_đơn từ 200.000 đ trở lên , ba mẹ sẽ có cơ_hội trúng giải_thưởng lên đến 5.000.000 đ với chương_trình quay số may_mắn duy_nhất 1 lần vào lúc 21h00 ngày 21/09/2022 , tại mỗi ttbhth & st aeon .
+PRICE	1	1	7	13	Price	Product	chỉ 249.000 đ để sở_hữu ngay dòng bút_chì kim_loại cao_cấp đến từ nhật bản .
+OTHER	2	2	7	13	Price	Product	chỉ 249.000 đ để sở_hữu ngay dòng bút_chì kim_loại cao_cấp đến từ nhật bản .
+AFFILIATION	20	24	26	28	Product	Promotion	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ thứ 4 vui_vẻ và được aeon gửi về tận nhà !
+OTHER	20	24	31	31	Product	Location	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ thứ 4 vui_vẻ và được aeon gửi về tận nhà !
+OTHER	26	28	20	24	Promotion	Product	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ thứ 4 vui_vẻ và được aeon gửi về tận nhà !
+LOCATION	26	28	31	31	Promotion	Location	bình_luận nào nhận được nhiều lượt tương_tác nhất ( like , tim … ) sẽ nhận được phần quà là phiếu mua hàng 200.000 đ từ thứ 4 vui_vẻ và được aeon gửi về tận nhà !
+AFFILIATION	3	3	0	0	Time	Regulation	thời_gian_tham_gia : từ 11/09-05/10
+AFFILIATION	3	5	0	2	Time	Regulation	thời_gian công_bố giải_thưởng 20h ngày 06/10
+REGULATION	7	8	16	23	Product	Regulation	đồng_thời , bạn sẽ có cơ_hội nhận giải đặc_biệt - đèn ngủ galaxy khi lọt vào top 10 hình_ảnh có điểm số cao nhất .
+AFFILIATION	3	5	0	0	Time	Regulation	thời_gian_tham_gia từ ngày 2/2/2023 đến 15/2/2023 .
+AFFILIATION	3	3	0	2	Time	Regulation	thời_gian công_bố kết_quả 17/2/2023 .
+OTHER	7	8	22	24	Organization	Promotion	mùa yêu năm nay , hãy để glam beautique giúp bạn và người ấy xích lại gần nhau hơn tại sự_kiện “ sweet season ” tại sảnh đông - aeon mall celadon tân phú từ 13 – 20.02
+OTHER	7	8	29	33	Organization	Location	mùa yêu năm nay , hãy để glam beautique giúp bạn và người ấy xích lại gần nhau hơn tại sự_kiện “ sweet season ” tại sảnh đông - aeon mall celadon tân phú từ 13 – 20.02
+OTHER	22	24	29	33	Promotion	Location	mùa yêu năm nay , hãy để glam beautique giúp bạn và người ấy xích lại gần nhau hơn tại sự_kiện “ sweet season ” tại sảnh đông - aeon mall celadon tân phú từ 13 – 20.02
+OTHER	22	24	35	37	Promotion	Time	mùa yêu năm nay , hãy để glam beautique giúp bạn và người ấy xích lại gần nhau hơn tại sự_kiện “ sweet season ” tại sảnh đông - aeon mall celadon tân phú từ 13 – 20.02
+OTHER	35	37	22	24	Time	Promotion	mùa yêu năm nay , hãy để glam beautique giúp bạn và người ấy xích lại gần nhau hơn tại sự_kiện “ sweet season ” tại sảnh đông - aeon mall celadon tân phú từ 13 – 20.02
+OTHER	15	17	22	28	Promotion	Promotion	dù bạn thuộc " team có gấu " hay " độc_thân " thì tại “ sweet season ” luôn có những chiếc deal sale up 50% + + + + nóng_bỏng như mùa yêu này từ các nhãn hàng :
+OTHER	22	28	15	17	Promotion	Promotion	dù bạn thuộc " team có gấu " hay " độc_thân " thì tại “ sweet season ” luôn có những chiếc deal sale up 50% + + + + nóng_bỏng như mùa yêu này từ các nhãn hàng :
+OTHER	36	38	15	17	Organization	Promotion	dù bạn thuộc " team có gấu " hay " độc_thân " thì tại “ sweet season ” luôn có những chiếc deal sale up 50% + + + + nóng_bỏng như mùa yêu này từ các nhãn hàng :
+LOCATION	36	38	22	28	Organization	Promotion	dù bạn thuộc " team có gấu " hay " độc_thân " thì tại “ sweet season ” luôn có những chiếc deal sale up 50% + + + + nóng_bỏng như mùa yêu này từ các nhãn hàng :
+REGULATION	16	22	9	10	Promotion	Regulation	chưa hết đâu nha , khi mua hàng với hoá_đơn từ # 349 k bạn còn nhận ngay quà tặng “ sổ_tay ” xinh xĩu .
+PRICE	2	7	0	1	Price	Product	chả cá_basa giá thường 169.000 đ / kg giảm chỉ còn 150.000 đ / kg
+OTHER	11	11	0	1	Price	Product	chả cá_basa giá thường 169.000 đ / kg giảm chỉ còn 150.000 đ / kg
+OTHER	12	12	0	1	Price	Product	chả cá_basa giá thường 169.000 đ / kg giảm chỉ còn 150.000 đ / kg
+OTHER	14	14	0	1	Price	Product	chả cá_basa giá thường 169.000 đ / kg giảm chỉ còn 150.000 đ / kg
+PRICE	3	8	0	2	Price	Product	sườn non heo giá thường 200.000 đ / kg giảm chỉ còn 180.000 đ / kg
+OTHER	12	12	0	2	Price	Product	sườn non heo giá thường 200.000 đ / kg giảm chỉ còn 180.000 đ / kg
+OTHER	13	13	0	2	Price	Product	sườn non heo giá thường 200.000 đ / kg giảm chỉ còn 180.000 đ / kg
+OTHER	15	15	0	2	Price	Product	sườn non heo giá thường 200.000 đ / kg giảm chỉ còn 180.000 đ / kg
+PRICE	4	9	0	3	Price	Product	dâu_tây mộc châu 500g giá thường 220.000 đ / hộp giảm chỉ còn 150.000 kg / hộp
+OTHER	13	13	0	3	Price	Product	dâu_tây mộc châu 500g giá thường 220.000 đ / hộp giảm chỉ còn 150.000 kg / hộp
+OTHER	14	14	0	3	Price	Product	dâu_tây mộc châu 500g giá thường 220.000 đ / hộp giảm chỉ còn 150.000 kg / hộp
+OTHER	16	16	0	3	Price	Product	dâu_tây mộc châu 500g giá thường 220.000 đ / hộp giảm chỉ còn 150.000 kg / hộp
+PRICE	2	7	0	1	Price	Product	danish xúc_xích giá thường 15.000 đ / cái giảm chỉ còn 10.000 đ / cái
+OTHER	11	11	0	1	Price	Product	danish xúc_xích giá thường 15.000 đ / cái giảm chỉ còn 10.000 đ / cái
+OTHER	12	12	0	1	Price	Product	danish xúc_xích giá thường 15.000 đ / cái giảm chỉ còn 10.000 đ / cái
+OTHER	14	14	0	1	Price	Product	danish xúc_xích giá thường 15.000 đ / cái giảm chỉ còn 10.000 đ / cái
+PRICE	4	9	0	3	Price	Product	nước_gạo buổi sáng woongjin giá thường 74.900 đ / chai giảm chỉ còn 60.000 đ / chai
+OTHER	13	13	0	3	Price	Product	nước_gạo buổi sáng woongjin giá thường 74.900 đ / chai giảm chỉ còn 60.000 đ / chai
+OTHER	14	14	0	3	Price	Product	nước_gạo buổi sáng woongjin giá thường 74.900 đ / chai giảm chỉ còn 60.000 đ / chai
+OTHER	16	16	0	3	Price	Product	nước_gạo buổi sáng woongjin giá thường 74.900 đ / chai giảm chỉ còn 60.000 đ / chai
+PRICE	6	6	0	2	Price	Product	ferrero rochee chocolate 200g giảm còn 189.000 đ / hộp
+OTHER	7	7	0	2	Price	Product	ferrero rochee chocolate 200g giảm còn 189.000 đ / hộp
+OTHER	9	9	0	2	Price	Product	ferrero rochee chocolate 200g giảm còn 189.000 đ / hộp
+PRICE	6	6	0	3	Price	Product	hillway trà sữa 416g giảm còn 56.000 đ / hộp
+OTHER	7	7	0	3	Price	Product	hillway trà sữa 416g giảm còn 56.000 đ / hộp
+OTHER	9	9	0	3	Price	Product	hillway trà sữa 416g giảm còn 56.000 đ / hộp
+OTHER	8	8	0	5	Price	Product	dove sữa tắm dưỡng ẩm chuyên_sâu giảm còn 189.000 đ / chai
+PRICE	9	9	0	5	Price	Product	dove sữa tắm dưỡng ẩm chuyên_sâu giảm còn 189.000 đ / chai
+OTHER	11	11	0	5	Price	Product	dove sữa tắm dưỡng ẩm chuyên_sâu giảm còn 189.000 đ / chai
+PRICE	9	9	0	5	Price	Product	clear men dầu_gội mát lạnh bạc_hà giảm chỉ còn 155.000 đ / chai
+OTHER	10	10	0	5	Price	Product	clear men dầu_gội mát lạnh bạc_hà giảm chỉ còn 155.000 đ / chai
+OTHER	12	12	0	5	Price	Product	clear men dầu_gội mát lạnh bạc_hà giảm chỉ còn 155.000 đ / chai
