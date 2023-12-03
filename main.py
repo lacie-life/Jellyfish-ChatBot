@@ -73,7 +73,7 @@ def edgeExtraction(sample, driver):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    f = open("train-readble.txt", "r")
+    f = open("/home/lacie/Github/Jellyfish-ChatBot/vlsp2020-relex/VLSP2020_RE_SemEvalFormat_2/Convert_To_Graph.txt", "r")
 
     try:
         neo4j_driver = GraphDatabase.driver(URI)
