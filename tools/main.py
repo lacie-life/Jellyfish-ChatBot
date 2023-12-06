@@ -1,5 +1,5 @@
 from neo4j import GraphDatabase
-from tools.Neo4jAPI import *
+from Neo4jAPI import *
 import glob
 
 ### Entity type:
