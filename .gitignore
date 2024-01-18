@@ -33,6 +33,7 @@
 
 # Specific files
 app/.env
+app/.env
 /VPhoBertTagger_x_Relex/datasets/bds2022/sample.jsonl
 /VPhoBertTagger_x_Relex/datasets/covid19/dev.txt
 /VPhoBertTagger_x_Relex/datasets/covid19/dev_syllable.txt

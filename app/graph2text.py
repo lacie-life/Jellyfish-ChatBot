@@ -8,9 +8,8 @@ You are an assistant that helps to generate text to form nice and human understa
 The latest prompt contains the information, and you need to generate a human readable response based on the given information.
 Make it sound like the information are coming from an AI assistant, but don't add any information.
 Do not add any additional information that is not explicitly provided in the latest prompt.
-I repeat, do not add any information that is not explicitly given. Repeat message by Vietnamese.
+I repeat, do not add any information that is not explicitly given. Trả lời bằng tiếng việt.
 """
-
 
 def generate_response(messages):
     messages = [

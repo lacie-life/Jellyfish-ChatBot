@@ -21,5 +21,19 @@ KG was created following the paper **[1]**
 -	5: Chat Completions API generate appropriate answers;
 -	6: Jellyfish-Chatbot displays the answer content built in Step 5.
 
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/lacie-life/Jellyfish-ChatBot.git
+```
+
+### 3. Run 
+
+```bash
+streamlit run main.py
+```
+
 ## References
 **[1]** Minh DinhBao, Viet DangAnh and Loc NguyenThe, “Xây dựng Đồ thị tri thức Thương mại điện tử Tiếng Việt dựa trên Trích xuất thông tin ngữ nghĩa với BERT”, The 26th National Conference on Electronics, Communications and Information Technology, 2023.
