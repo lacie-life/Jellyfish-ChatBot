@@ -27,6 +27,10 @@ KG was created following the paper **[1]**
 
 ```bash
 git clone https://github.com/lacie-life/Jellyfish-ChatBot.git
+
+cd Jellyfish-ChatBot
+
+pip install -r requirements.txt
 ```
 
 ### 3. Run 
