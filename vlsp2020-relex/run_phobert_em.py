@@ -48,7 +48,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--model_name_or_path",
         type=str,
-        default="vinai/phobert-base",
+        default="vinai/phobert-base-v2",
         help="Model name or path to BERT model",
     )
     parser.add_argument(
