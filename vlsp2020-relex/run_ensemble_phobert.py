@@ -108,14 +108,14 @@ if __name__ == "__main__":
     models = [
         {
             "model_type": "rbert",
-            "model_dir": "./models/original_train_dev/phobert_rbert_base_maxlen_384_epochs_10"
+            "model_dir": "./models/original_train_dev/phobert_rbert_base_maxlen_384_epochs_10_2"
         },
         {
             "model_type": "bert_em_es",
-            "model_dir": "./models/original_train_dev/phobert_em_es_base_maxlen_384_epochs_10"
+            "model_dir": "./models/original_train_dev/phobert_em_es_base_maxlen_384_epochs_10_2"
         },
     ]
-    weights = [0.6, 0.4]
+    weights = [0.4, 0.6]
 
     config = RobertaConfig.from_pretrained(models[0]["model_dir"])
     id2label = config.id2label
