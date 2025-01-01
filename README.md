@@ -41,4 +41,5 @@ streamlit run main.py
 
 ## References
 **[1]** Minh DinhBao, Viet DangAnh and Loc NguyenThe, “Xây dựng Đồ thị tri thức Thương mại điện tử Tiếng Việt dựa trên Trích xuất thông tin ngữ nghĩa với BERT”, The 26th National Conference on Electronics, Communications and Information Technology, 2023.
+
 **[2]** The-Loc Nguyen, Truong-Son Nguyen, Minh Dinh Bao and Tuan Anh Nguyen, "Semi-Automated Knowledge Graph Construction for Vietnamese E-Commerce: A BERT-Based Approach", International Conference on Advanced Technologies for Communications (ATC), 2024.
